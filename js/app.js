@@ -2,49 +2,40 @@ const LANGS = ["en", "es", "de", "fr", "it"];
 const UI = {
   en: { today: "Today", archive: "Archive", sources: "Sources", stories: "stories", posts: "supporting posts", footer: "Updated once a day. Sources and posts stay in the original language.", past: "Past editions", pastDeck: "Open a date to read that day's cards.", more: "Open full story", close: "Close" },
   es: { today: "Hoy", archive: "Archivo", sources: "Fuentes", stories: "historias", posts: "tuits de apoyo", footer: "Se actualiza una vez al día. Fuentes y tuits quedan en el idioma original.", past: "Ediciones anteriores", pastDeck: "Abre una fecha para leer las tarjetas de ese día.", more: "Abrir historia", close: "Cerrar" },
-  de: { today: "Heute", archive: "Archiv", sources: "Quellen", stories: "Stories", posts: "begleitende Posts", footer: "Einmal täglich. Quellen und Posts bleiben in der Originalsprache.", past: "Ältere Ausgaben", pastDeck: "Ein Datum öffnen, um die Karten des Tages zu lesen.", more: "Ganze Story", close: "Schliessen" },
-  fr: { today: "Aujourd'hui", archive: "Archives", sources: "Sources", stories: "histoires", posts: "posts d'appui", footer: "Mis à jour une fois par jour. Sources et posts restent dans la langue d'origine.", past: "Anciennes éditions", pastDeck: "Ouvrez une date pour lire les cartes du jour.", more: "Ouvrir l'histoire", close: "Fermer" },
-  it: { today: "Oggi", archive: "Archivio", sources: "Fonti", stories: "storie", posts: "post di supporto", footer: "Aggiornato una volta al giorno. Fonti e post restano in lingua originale.", past: "Edizioni precedenti", pastDeck: "Apri una data per leggere le card di quel giorno.", more: "Apri la storia", close: "Chiudi" }
+  de: { today: "Heute", archive: "Archiv", sources: "Quellen", stories: "Stories", posts: "begleitende Posts", footer: "Einmal täglich.", past: "Ältere Ausgaben", pastDeck: "Ein Datum öffnen.", more: "Ganze Story", close: "Schliessen" },
+  fr: { today: "Aujourd'hui", archive: "Archives", sources: "Sources", stories: "histoires", posts: "posts d'appui", footer: "Mis à jour une fois par jour.", past: "Anciennes éditions", pastDeck: "Ouvrez une date.", more: "Ouvrir l'histoire", close: "Fermer" },
+  it: { today: "Oggi", archive: "Archivio", sources: "Fonti", stories: "storie", posts: "post di supporto", footer: "Aggiornato una volta al giorno.", past: "Edizioni precedenti", pastDeck: "Apri una data.", more: "Apri la storia", close: "Chiudi" }
 };
-
 let EDITION = null;
-
 function currentLang() {
   const stored = localStorage.getItem("dailybarca-lang");
   if (LANGS.includes(stored)) return stored;
   const nav = (navigator.language || "en").slice(0, 2);
   return LANGS.includes(nav) ? nav : "en";
 }
-
 function pick(value, lang) {
   if (!value) return "";
   if (typeof value === "string") return value;
   return value[lang] || value.en || Object.values(value)[0] || "";
 }
-
 function mergeSources(story, edition) {
   const extra = story.sources || [];
   const base = (edition && edition.defaultSources) || [];
-  const seen = new Set();
-  const out = [];
+  const seen = new Set(); const out = [];
   for (const s of extra.concat(base)) {
     if (!s || !s.label || seen.has(s.label)) continue;
-    seen.add(s.label);
-    out.push(s);
+    seen.add(s.label); out.push(s);
   }
   return out;
 }
-
 async function loadJSON(path) {
   const res = await fetch(path);
   if (!res.ok) throw new Error(`Failed to load ${path}`);
   return res.json();
 }
-
 function tweetCount(edition) {
   return edition.stories.reduce((n, s) => n + (s.tweets?.length || 0), 0);
 }
-
 function renderTweets(list) {
   return (list || []).map((t) => `
     <article class="tweet">
@@ -53,7 +44,6 @@ function renderTweets(list) {
       <div class="tweet-stats">${t.stats || ""}</div>
     </article>`).join("");
 }
-
 function renderCard(story, lang, edition, index) {
   const ui = UI[lang];
   const faceTweet = (story.tweets || []).slice(0, 1);
@@ -73,13 +63,11 @@ function renderCard(story, lang, edition, index) {
       </div>
     </button>`;
 }
-
 function openStory(index) {
   if (!EDITION) return;
   const story = EDITION.stories[index];
   if (!story) return;
-  const lang = currentLang();
-  const ui = UI[lang];
+  const lang = currentLang(); const ui = UI[lang];
   const body = pick(story.body, lang) || pick(story.summary, lang);
   const tweets = (story.tweets || []).slice(0, 3);
   const sources = mergeSources(story, EDITION).map((s) =>
@@ -100,9 +88,10 @@ function openStory(index) {
   reader.hidden = false;
   document.body.style.overflow = "hidden";
   document.getElementById("readerX").onclick = closeStory;
-  history.replaceState(null, "", `?story=${index}`);
+  const params = new URLSearchParams(location.search);
+  params.set("story", String(index));
+  history.replaceState(null, "", `?${params.toString()}`);
 }
-
 function closeStory() {
   const reader = document.getElementById("reader");
   if (reader) reader.hidden = true;
@@ -112,7 +101,6 @@ function closeStory() {
   const qs = params.toString();
   history.replaceState(null, "", qs ? `?${qs}` : location.pathname);
 }
-
 function paintLangs(active) {
   const box = document.getElementById("langs");
   if (!box) return;
@@ -120,13 +108,9 @@ function paintLangs(active) {
     `<button class="lang ${code === active ? "on" : ""}" data-lang="${code}">${code.toUpperCase()}</button>`
   ).join("");
   box.querySelectorAll("button").forEach((btn) => {
-    btn.onclick = () => {
-      localStorage.setItem("dailybarca-lang", btn.dataset.lang);
-      boot();
-    };
+    btn.onclick = () => { localStorage.setItem("dailybarca-lang", btn.dataset.lang); boot(); };
   });
 }
-
 function applyChrome(lang) {
   const ui = UI[lang];
   document.documentElement.lang = lang;
@@ -137,7 +121,6 @@ function applyChrome(lang) {
   const foot = document.getElementById("footerCopy");
   if (foot) foot.textContent = ui.footer;
 }
-
 async function renderEdition(date, lang) {
   const index = await loadJSON("/data/editions.json");
   const editionMeta = date ? index.editions.find((e) => e.date === date) : index.editions[0];
@@ -145,8 +128,10 @@ async function renderEdition(date, lang) {
   const edition = await loadJSON(`/data/${editionMeta.file}`);
   const extras = edition.parts || (edition.part2 ? [edition.part2] : []);
   for (const path of extras) {
-    const extra = await loadJSON(path);
-    edition.stories = (edition.stories || []).concat(extra.stories || []);
+    try {
+      const extra = await loadJSON(path);
+      edition.stories = (edition.stories || []).concat(extra.stories || []);
+    } catch (err) { console.warn(err); }
   }
   EDITION = edition;
   const count = tweetCount(edition);
@@ -158,8 +143,7 @@ async function renderEdition(date, lang) {
   document.getElementById("grid").innerHTML = edition.stories.map((s, i) => renderCard(s, lang, edition, i)).join("");
   document.getElementById("grid").onclick = (ev) => {
     const card = ev.target.closest("[data-story]");
-    if (!card) return;
-    if (ev.target.closest("a")) return;
+    if (!card || ev.target.closest("a")) return;
     openStory(Number(card.dataset.story));
   };
   const close = document.getElementById("readerClose");
@@ -168,7 +152,6 @@ async function renderEdition(date, lang) {
   const storyParam = new URLSearchParams(location.search).get("story");
   if (storyParam !== null && edition.stories[Number(storyParam)]) openStory(Number(storyParam));
 }
-
 async function renderArchive(lang) {
   const index = await loadJSON("/data/editions.json");
   const ui = UI[lang];
@@ -182,11 +165,9 @@ async function renderArchive(lang) {
       <span>${e.tweets} posts</span>
     </a>`).join("");
 }
-
 async function boot() {
   const lang = currentLang();
-  paintLangs(lang);
-  applyChrome(lang);
+  paintLangs(lang); applyChrome(lang);
   const params = new URLSearchParams(location.search);
   const page = document.body.dataset.page;
   if (page === "home") {
@@ -195,5 +176,4 @@ async function boot() {
   }
   if (page === "archive") await renderArchive(lang);
 }
-
 boot();
