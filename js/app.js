@@ -97,6 +97,10 @@ async function renderEdition(date, lang) {
   const editionMeta = date ? index.editions.find((e) => e.date === date) : index.editions[0];
   if (!editionMeta) throw new Error("Edition not found");
   const edition = await loadJSON(`/data/${editionMeta.file}`);
+  if (edition.part2) {
+    const extra = await loadJSON(edition.part2);
+    edition.stories = (edition.stories || []).concat(extra.stories || []);
+  }
   const count = tweetCount(edition);
   const ui = UI[lang];
   document.getElementById("editionChip").textContent = `Edition ${edition.number} · ${edition.label}`;
