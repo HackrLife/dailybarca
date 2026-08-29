@@ -6,12 +6,21 @@ on:
   workflow_dispatch:
 
 jobs:
-  note:
+  source:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - uses: actions/checkout@v4
-      - name: Placeholder for curation job
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Pull the 50-site pool
+        run: python scripts/source_engine.py
+      - name: Commit sourced edition
         run: |
-          echo "Daily job hook is live."
-          echo "Next: drop curated JSON into data/YYYY-MM-DD.json and update data/editions.json"
-          echo "Commit on main and Vercel will publish the new edition."
+          git config user.name "dailybarca-bot"
+          git config user.email "bot@dailybarca.com"
+          git add data/sourced
+          git diff --cached --quiet || git commit -m "chore: sourced stories $(date -u +%F)"
+          git push

@@ -1,11 +1,23 @@
 # dailybarca
 
-Dark, mobile-first Barca daily. Cards on the phone, 4-up grid on desktop. One story per card: headline, summary, supporting posts, source links. Each day is an edition. Yesterday lives in the archive.
+Dark daily Barça cards. Desktop 4-up, mobile stack. One story per card.
 
-Static site on GitHub to Vercel.
+## Sourcing engine
 
-- index.html reads data/editions.json and the latest (or ?date=) edition file
-- archive.html lists every edition
-- New day = new data/YYYY-MM-DD.json + a line in data/editions.json
+Closed pool of **50 English / Spanish / Catalan sites** in `data/sources.json`.
 
-GitHub Action .github/workflows/daily.yml runs every morning. Connect dailybarca.com in Vercel when ready.
+```
+python scripts/source_engine.py
+```
+
+Writes `data/sourced/YYYY-MM-DD.json`:
+
+- pulls RSS where a feed exists
+- falls back to homepage link harvest
+- keeps only Barça-relevant headlines
+- clusters the same story across desks
+- ranks clusters by how many of the 50 sources hit it
+
+GitHub Action `.github/workflows/daily.yml` runs that job every morning and commits the file. Human (or a later step) still turns clusters into the public edition cards in `data/YYYY-MM-DD.json`.
+
+X handles are a second pool and are not in this engine yet.
