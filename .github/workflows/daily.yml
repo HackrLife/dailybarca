@@ -15,11 +15,9 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - name: Pull the 50-site pool
+      - name: Pull the free 50-site pool
         run: python scripts/source_engine.py
-      - name: Pull X registry via official API if token present
-        env:
-          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+      - name: Mark X as Grok-curated
         run: python scripts/x_pull.py
       - name: Commit sourced edition
         run: |

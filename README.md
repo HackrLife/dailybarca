@@ -1,23 +1,13 @@
 # dailybarca
 
-Dark daily Barça cards. Desktop 4-up, mobile stack. One story per card.
+Free daily Barça brief. Dark cards. Desktop 4-up, mobile stack.
 
-## Sourcing engine
+No paid X API. Cost stays at GitHub + Vercel hobby.
 
-Closed pool of **50 English / Spanish / Catalan sites** in `data/sources.json`.
+## How an edition is made
 
-```
-python scripts/source_engine.py
-```
+1. GitHub Action pulls the **50 news sites** (RSS, free).
+2. Grok searches the **101 X handles** and picks supporting posts (post IDs only, official embeds).
+3. Cards are written to `data/YYYY-MM-DD.json` and Vercel publishes.
 
-Writes `data/sourced/YYYY-MM-DD.json`:
-
-- pulls RSS where a feed exists
-- falls back to homepage link harvest
-- keeps only Barça-relevant headlines
-- clusters the same story across desks
-- ranks clusters by how many of the 50 sources hit it
-
-GitHub Action `.github/workflows/daily.yml` runs that job every morning and commits the file. Human (or a later step) still turns clusters into the public edition cards in `data/YYYY-MM-DD.json`.
-
-X handles are a second pool and are not in this engine yet.
+Ranking stays the same: 40% authority, 20% independent confirmation, 15% recency, 10% relevance, 10% velocity, 5% editorial. Echoes of one reporter count as one source.
