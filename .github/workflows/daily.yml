@@ -17,6 +17,10 @@ jobs:
           python-version: "3.12"
       - name: Pull the 50-site pool
         run: python scripts/source_engine.py
+      - name: Pull X registry via official API if token present
+        env:
+          X_BEARER_TOKEN: ${{ secrets.X_BEARER_TOKEN }}
+        run: python scripts/x_pull.py
       - name: Commit sourced edition
         run: |
           git config user.name "dailybarca-bot"
