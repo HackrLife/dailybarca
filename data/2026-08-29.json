@@ -2,70 +2,171 @@
   "number": 241,
   "date": "2026-08-29",
   "label": "Saturday 29 Aug 2026",
-  "title": "Rodri, Fermin, and a statement night at Camp Nou",
-  "deck": "Headline and summary are enough. Sources and posts are there if you want the long version.",
+  "title": {
+    "en": "Rodri, Fermin, and a statement night at Camp Nou",
+    "es": "Rodri, Fermín y una noche de mensaje en el Camp Nou",
+    "de": "Rodri, Fermín und eine Ansage im Camp Nou",
+    "fr": "Rodri, Fermín et une soirée manifeste au Camp Nou",
+    "it": "Rodri, Fermín e una serata manifesto al Camp Nou"
+  },
+  "deck": {
+    "en": "Headline and summary are enough. Sources and posts stay in their original language.",
+    "es": "Titular y resumen bastan. Fuentes y tuits se quedan en el idioma original.",
+    "de": "Titel und Kurztext reichen. Quellen und Posts bleiben original.",
+    "fr": "Le titre et le résumé suffisent. Sources et posts restent dans leur langue.",
+    "it": "Titolo e sintesi bastano. Fonti e post restano in lingua originale."
+  },
   "stories": [
     {
       "lead": true,
-      "kicker": "Lead",
-      "headline": "Rodri’s Camp Nou debut — and why the ovation was really about Madrid",
-      "summary": "Rodri came off the bench in a 2-0 win over Athletic and immediately looked at home. The moment that travelled was the standing ovation before kick-off: a home crowd greeting a player who has beaten Barca for years, in a climate where Madrid’s pull on Catalan talent still sits under every conversation.",
-      "tweets": [
-        {"name": "Barca Times", "handle": "@BarcaTimes", "time": "2h", "text": "That ovation for Rodri wasn’t just respect. It was Camp Nou saying: we see you.", "stats": "412 rp · 2.3k likes"},
-        {"name": "Cules Chronicles", "handle": "@CulesChronicles", "time": "3h", "text": "Emotional, but pointed. Enough is enough.", "stats": "231 rp · 1.6k likes"}
-      ],
-      "sources": [
-        {"label": "Sport", "url": "https://www.sport.es/"},
-        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/"},
-        {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
-      ]
+      "kicker": {"en": "Lead", "es": "Apertura", "de": "Aufmacher", "fr": "Une", "it": "Apertura"},
+      "headline": {
+        "en": "Rodri’s Camp Nou debut — and why the ovation was really about Madrid",
+        "es": "El debut de Rodri en el Camp Nou: la ovación también iba por Madrid",
+        "de": "Rodris Camp-Nou-Debüt — und warum die Ovation Madrid galt",
+        "fr": "Les débuts de Rodri au Camp Nou — et pourquoi l’ovation visait Madrid",
+        "it": "L’esordio di Rodri al Camp Nou — e perché l’ovazione era anche per Madrid"
+      },
+      "summary": {
+        "en": "Rodri came off the bench in a 2-0 win over Athletic and immediately looked at home. The standing ovation before kick-off travelled further than the football: a home crowd greeting a player who has beaten Barça for years, in a climate where Madrid’s pull on Catalan talent still sits under every conversation.",
+        "es": "Rodri saltó desde el banquillo en el 2-0 al Athletic y se encontró en casa. La ovación previa viajó más que el fútbol: un Camp Nou que recibe a quien les ha ganado durante años, con el imán del Madrid sobre el talento catalán todavía en cada conversación.",
+        "de": "Rodri kam beim 2:0 gegen Athletic von der Bank und wirkte sofort angekommen. Die stehende Ovation vor Anpfiff trug weiter als das Spiel selbst — in einem Klima, in dem Madrids Sog auf katalanisches Talent immer mitschwingt.",
+        "fr": "Rodri est entré au 2-0 contre l’Athletic et a semblé tout de suite à sa place. L’ovation avant le coup d’envoi a porté plus loin que le match, dans un climat où l’attraction madrilène sur les talents catalans reste partout.",
+        "it": "Rodri è entrato nel 2-0 sull’Athletic e si è trovato subito a casa. L’ovazione prima del fischio ha viaggiato più del gioco, in un clima in cui il richiamo del Madrid sui talenti catalani è ancora sotto ogni discorso."
+      },
+      "tweets": [{"name": "Barca Times", "handle": "@BarcaTimes", "time": "2h", "text": "That ovation for Rodri wasn’t just respect. It was Camp Nou saying: we see you.", "stats": "412 rp · 2.3k likes"}],
+      "sources": [{"label": "Sport", "url": "https://www.sport.es/"}, {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/"}, {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}]
     },
     {
-      "kicker": "Match",
-      "headline": "Barca 2-0 Athletic: Fermin seals a perfect start",
-      "summary": "Raphinha scored on 37 minutes. Fermin finished it on 82. Gordon started. Flick’s side stayed compact and left Camp Nou still perfect in the league.",
+      "kicker": {"en": "Match", "es": "Partido", "de": "Spiel", "fr": "Match", "it": "Partita"},
+      "headline": {
+        "en": "Barça 2-0 Athletic: Fermín seals a perfect start",
+        "es": "Barça 2-0 Athletic: Fermín cierra un inicio perfecto",
+        "de": "Barça 2:0 Athletic: Fermín macht den perfekten Start fest",
+        "fr": "Barça 2-0 Athletic : Fermín scelle un début parfait",
+        "it": "Barça 2-0 Athletic: Fermín chiude un avvio perfetto"
+      },
+      "summary": {
+        "en": "Raphinha scored on 37 minutes. Fermín finished it on 82. Gordon started. Flick’s side stayed compact and left Camp Nou still perfect in the league.",
+        "es": "Raphinha marcó en el 37. Fermín cerró en el 82. Gordon fue titular. El equipo de Flick se fue del Camp Nou aún perfecto en Liga.",
+        "de": "Raphinha traf in Minute 37, Fermín in Minute 82. Gordon stand in der Startelf. Flick bleibt in der Liga ohne Punktverlust.",
+        "fr": "Raphinha ouvre à la 37e, Fermín conclut à la 82e. Gordon était titulaire. Flick reste parfait en Liga.",
+        "it": "Raphinha al 37’, Fermín all’82’. Gordon dal 1’. Il Barça di Flick resta perfetto in campionato."
+      },
       "tweets": [{"name": "Tactical Barca", "handle": "@TacticalBarca", "time": "1h", "text": "Control. Patience. Width. 2-0 without needing to chase it.", "stats": "48 rp · 312 likes"}],
       "sources": [{"label": "Sport", "url": "https://www.sport.es/"}, {"label": "AS", "url": "https://as.com/"}]
     },
     {
-      "kicker": "Transfer",
-      "headline": "Atletico shut the door on Julian Alvarez",
-      "summary": "No talks this summer. Atletico say Alvarez is part of their project, even as the player’s camp has signalled interest in Barca. Flick remains short of a natural 9 behind Lewandowski.",
+      "kicker": {"en": "Transfer", "es": "Mercado", "de": "Transfer", "fr": "Mercato", "it": "Mercato"},
+      "headline": {
+        "en": "Atlético shut the door on Julián Álvarez",
+        "es": "El Atlético cierra la puerta a Julián Álvarez",
+        "de": "Atlético macht für Julián Álvarez die Tür zu",
+        "fr": "L’Atlético ferme la porte à Julián Álvarez",
+        "it": "L’Atlético chiude la porta su Julián Álvarez"
+      },
+      "summary": {
+        "en": "No talks this summer. Atlético say Álvarez is part of their project, even as the player’s camp has signalled interest in Barça.",
+        "es": "No hay conversaciones este verano. El Atlético dice que Álvarez es de su proyecto, aunque su entorno ha apuntado al Barça.",
+        "de": "In diesem Sommer keine Gespräche. Atlético hält Álvarez fest, auch wenn sein Lager Interesse an Barça signalisiert hat.",
+        "fr": "Pas de discussions cet été. L’Atlético garde Álvarez, même si son camp a montré de l’intérêt pour le Barça.",
+        "it": "Nessun contatto quest’estate. L’Atlético tiene Álvarez, anche se il suo entourage ha fatto capire l’interesse per il Barça."
+      },
       "tweets": [{"name": "Fabrizio Romano", "handle": "@FabrizioRomano", "time": "5h", "text": "Atletico’s position is unchanged: Alvarez is not for sale.", "stats": "4.1k rp · 18k likes"}],
       "sources": [{"label": "AS", "url": "https://as.com/"}, {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/"}]
     },
     {
-      "kicker": "UCL",
-      "headline": "PSG away, City at home: the league-phase draw",
-      "summary": "A trip to Paris and a home night against Manchester City headline the league phase. The Clasico meeting with Madrid was kept at arm’s length.",
+      "kicker": {"en": "UCL", "es": "UCL", "de": "UCL", "fr": "C1", "it": "UCL"},
+      "headline": {
+        "en": "PSG away, City at home: the league-phase draw",
+        "es": "PSG fuera, City en casa: el sorteo de la fase liga",
+        "de": "PSG auswärts, City zu Hause: die Auslosung",
+        "fr": "PSG à l’extérieur, City à domicile : le tirage",
+        "it": "PSG in trasferta, City in casa: il sorteggio"
+      },
+      "summary": {
+        "en": "A trip to Paris and a home night against Manchester City headline the league phase. The Clásico with Madrid was kept at arm’s length.",
+        "es": "Un viaje a París y una noche en casa contra el City marcan la fase liga. El Clásico con el Madrid queda lejos.",
+        "de": "Ein Spiel in Paris und ein Heimspiel gegen City prägen die Liga-Phase. El Clásico liegt nicht direkt davor.",
+        "fr": "Un déplacement à Paris et un City à domicile ouvrent la phase de ligue. Le Clasico avec Madrid reste à distance.",
+        "it": "Una trasferta a Parigi e il City in casa aprono la fase campionato. Il Clasico con il Madrid resta lontano."
+      },
       "tweets": [{"name": "Barca Universal", "handle": "@BarcaUniversal", "time": "8h", "text": "This league phase is not a gentle warm-up. Squad depth is about to matter.", "stats": "890 rp · 6.2k likes"}],
       "sources": [{"label": "UEFA", "url": "https://www.uefa.com/"}, {"label": "Sport", "url": "https://www.sport.es/"}]
     },
     {
-      "kicker": "Squad",
-      "headline": "Gordon starts, Cancelo and Adeyemi wait their turn",
-      "summary": "All four summer registrations are in. Flick handed Gordon the first start of the new arrivals and kept Rodri for the second half.",
+      "kicker": {"en": "Squad", "es": "Plantilla", "de": "Kader", "fr": "Effectif", "it": "Rosa"},
+      "headline": {
+        "en": "Gordon starts, Cancelo and Adeyemi wait their turn",
+        "es": "Gordon de inicio; Cancelo y Adeyemi esperan",
+        "de": "Gordon von Beginn, Cancelo und Adeyemi warten",
+        "fr": "Gordon titulaire, Cancelo et Adeyemi attendent",
+        "it": "Gordon dal 1’, Cancelo e Adeyemi aspettano"
+      },
+      "summary": {
+        "en": "All four summer registrations are in. Flick handed Gordon the first start of the new arrivals and kept Rodri for the second half.",
+        "es": "Los cuatro fichajes de verano ya están inscritos. Flick dio a Gordon el primer once y guardó a Rodri para la segunda parte.",
+        "de": "Alle vier Sommerzugänge sind gemeldet. Flick ließ Gordon von Beginn an spielen und brachte Rodri nach der Pause.",
+        "fr": "Les quatre recrues sont inscrites. Flick a lancé Gordon d’entrée et a gardé Rodri pour la seconde période.",
+        "it": "Tutti e quattro i nuovi arrivati sono tesserati. Flick ha fatto partire Gordon e ha tenuto Rodri per il secondo tempo."
+      },
       "tweets": [{"name": "Santi Gimenez", "handle": "@SantiGimenez", "time": "6h", "text": "Gordon looked ready. First start, no freeze.", "stats": "120 rp · 980 likes"}],
       "sources": [{"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/"}]
     },
     {
-      "kicker": "Interview",
-      "headline": "Flick: intensity first, then the pretty stuff",
-      "summary": "Post-match Flick went back to intensity, compactness, moments. Rodri’s first minutes were good feelings, not a finished product.",
+      "kicker": {"en": "Interview", "es": "Entrevista", "de": "Interview", "fr": "Interview", "it": "Intervista"},
+      "headline": {
+        "en": "Flick: intensity first, then the pretty stuff",
+        "es": "Flick: primero la intensidad, luego lo bonito",
+        "de": "Flick: erst Intensität, dann das Schöne",
+        "fr": "Flick : l’intensité d’abord, le joli jeu ensuite",
+        "it": "Flick: prima l’intensità, poi il bello"
+      },
+      "summary": {
+        "en": "Post-match Flick went back to intensity, compactness, moments. Rodri’s first minutes were good feelings, not a finished product.",
+        "es": "Tras el partido Flick volvió a intensidad, compactación y momentos. Los primeros minutos de Rodri fueron buenas sensaciones, no un producto cerrado.",
+        "de": "Nach dem Spiel sprach Flick wieder von Intensität, Kompaktheit, Momenten. Rodris erste Minuten waren gute Gefühle, kein fertiges Produkt.",
+        "fr": "Après le match, Flick a reparlé d’intensité, de compactum, de moments. Les premières minutes de Rodri étaient de bonnes sensations, pas un produit fini.",
+        "it": "A fine gara Flick è tornato su intensità, compattezza, momenti. I primi minuti di Rodri erano buone sensazioni, non un prodotto finito."
+      },
       "tweets": [{"name": "Luis Rojo", "handle": "@LuisRojoFCB", "time": "4h", "text": "Calm. Clear. Ambition without the circus.", "stats": "77 rp · 640 likes"}],
       "sources": [{"label": "AS", "url": "https://as.com/"}]
     },
     {
-      "kicker": "Youth",
-      "headline": "Barca B open with a 4-0 and two names to watch",
-      "summary": "Marc Guiu and Noah Darvich both scored as the B team thrashed Intercity. Flick staff were in the stands.",
+      "kicker": {"en": "Youth", "es": "Cantera", "de": "Nachwuchs", "fr": "Formation", "it": "Giovanili"},
+      "headline": {
+        "en": "Barça B open with a 4-0 and two names to watch",
+        "es": "El Barça B arranca con un 4-0 y dos nombres a seguir",
+        "de": "Barça B startet mit 4:0 — zwei Namen zum Merken",
+        "fr": "Le Barça B commence par un 4-0 et deux noms à suivre",
+        "it": "Il Barça B parte 4-0: due nomi da seguire"
+      },
+      "summary": {
+        "en": "Marc Guiu and Noah Darvich both scored as the B team thrashed Intercity. Flick staff were in the stands.",
+        "es": "Marc Guiu y Noah Darvich marcaron en el correctivo al Intercity. Había gente de Flick en la grada.",
+        "de": "Marc Guiu und Noah Darvich trafen beim klaren Sieg gegen Intercity. Flicks Stab saß auf der Tribüne.",
+        "fr": "Marc Guiu et Noah Darvich ont marqué dans le large succès contre l’Intercity. Le staff de Flick était en tribune.",
+        "it": "Marc Guiu e Noah Darvich hanno segnato nel largo successo sull’Intercity. Lo staff di Flick era in tribuna."
+      },
       "tweets": [{"name": "La Masia Daily", "handle": "@LaMasiaDaily", "time": "7h", "text": "4-0 and the future looks loud.", "stats": "210 rp · 1.9k likes"}],
       "sources": [{"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/"}]
     },
     {
-      "kicker": "Finance",
-      "headline": "Revenue up, wages still the constraint",
-      "summary": "Commercial numbers and Camp Nou ticketing are climbing. FFP and wages still leave little room for a late striker swing.",
+      "kicker": {"en": "Finance", "es": "Finanzas", "de": "Finanzen", "fr": "Finances", "it": "Finanza"},
+      "headline": {
+        "en": "Revenue up, wages still the constraint",
+        "es": "Suben los ingresos; el límite sigue siendo la masa salarial",
+        "de": "Umsatz steigt, Gehaltsmasse bleibt die Bremse",
+        "fr": "Les revenus montent, la masse salariale reste le plafond",
+        "it": "Ricavi in salita, i salari restano il tetto"
+      },
+      "summary": {
+        "en": "Commercial numbers and Camp Nou ticketing are climbing. FFP and wages still leave little room for a late striker swing.",
+        "es": "Comercial y taquilla del Camp Nou suben. El fair play y los salarios dejan poco margen para un nueve de última hora.",
+        "de": "Kommerz und Ticketing steigen. Fair Play und Gehälter lassen wenig Raum für einen späten Stürmer.",
+        "fr": "Commercial et billetterie progressent. Le fair-play financier et les salaires laissent peu de place à un 9 tardif.",
+        "it": "Commerciale e botteghino salgono. Fair play e ingaggi lasciano poco spazio a un attaccante tardivo."
+      },
       "tweets": [{"name": "Football Finance", "handle": "@FootballFinance", "time": "9h", "text": "Revenue up. Wages still the ceiling.", "stats": "95 rp · 700 likes"}],
       "sources": [{"label": "El Confidencial", "url": "https://www.elconfidencial.com/"}]
     }
