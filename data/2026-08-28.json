@@ -1,0 +1,38 @@
+{
+  "number": 240,
+  "date": "2026-08-28",
+  "label": "Friday 28 Aug 2026",
+  "title": "The draw lands: Paris, Manchester, and no early Clasico",
+  "deck": "Friday’s brief before the Athletic home game.",
+  "stories": [
+    {
+      "lead": true,
+      "kicker": "Lead",
+      "headline": "UCL league phase: PSG away and City at home",
+      "summary": "The draw gave Barcelona two of the loudest nights in the competition before Christmas. Flick wanted a calendar he could rotate through. He did not get a gentle one.",
+      "tweets": [{"name": "Barca Universal", "handle": "@BarcaUniversal", "time": "Fri", "text": "PSG away. City at home. Write those two dates in ink.", "stats": "1.1k rp · 8k likes"}],
+      "sources": [{"label": "UEFA", "url": "https://www.uefa.com/"}, {"label": "Sport", "url": "https://www.sport.es/"}]
+    },
+    {
+      "kicker": "Preview",
+      "headline": "Athletic at home, with Rodri in line for minutes",
+      "summary": "Flick was expected to hand Rodri his first Camp Nou minutes off the bench and keep the spine that beat Elche.",
+      "tweets": [{"name": "Tarrega Blaugrana", "handle": "@TarregaBlaugrana", "time": "Fri", "text": "Predicted XI circulating. Rotation expected, standards not.", "stats": "40 rp · 300 likes"}],
+      "sources": [{"label": "Sport", "url": "https://www.sport.es/"}, {"label": "MD", "url": "https://www.mundodeportivo.com/"}]
+    },
+    {
+      "kicker": "Transfer",
+      "headline": "Alvarez trail goes cold again",
+      "summary": "Atletico repeated that they do not negotiate with Barcelona for Julian Alvarez. Unless a structure changes in September, Flick plans with the forwards he has.",
+      "tweets": [{"name": "Fabrizio Romano", "handle": "@FabrizioRomano", "time": "Fri", "text": "Same story tonight: Atletico will not open Alvarez talks with Barca.", "stats": "2.4k rp · 11k likes"}],
+      "sources": [{"label": "AS", "url": "https://as.com/"}, {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/"}]
+    },
+    {
+      "kicker": "Squad",
+      "headline": "Four summer signings all registered",
+      "summary": "Gordon, Adeyemi, Rodri and Cancelo are all on the list. Registration gymnastics that used to leak into September were finished this time.",
+      "tweets": [{"name": "Barca Times", "handle": "@BarcaTimes", "time": "Fri", "text": "All four registered. No late paperwork panic. Rare, and welcome.", "stats": "330 rp · 2.1k likes"}],
+      "sources": [{"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/"}]
+    }
+  ]
+}

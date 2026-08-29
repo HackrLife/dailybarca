@@ -1,0 +1,20 @@
+{
+  "editions": [
+    {
+      "number": 241,
+      "date": "2026-08-29",
+      "label": "Saturday 29 Aug 2026",
+      "file": "2026-08-29.json",
+      "tweets": 9,
+      "lead": "Rodri’s Camp Nou debut and a perfect league start"
+    },
+    {
+      "number": 240,
+      "date": "2026-08-28",
+      "label": "Friday 28 Aug 2026",
+      "file": "2026-08-28.json",
+      "tweets": 4,
+      "lead": "UCL draw: PSG away, City at home"
+    }
+  ]
+}
