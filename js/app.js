@@ -20,6 +20,19 @@ function pick(value, lang) {
   return value[lang] || value.en || Object.values(value)[0] || "";
 }
 
+function mergeSources(story, edition) {
+  const extra = story.sources || [];
+  const base = edition.defaultSources || [];
+  const seen = new Set();
+  const out = [];
+  for (const s of extra.concat(base)) {
+    if (!s || !s.label || seen.has(s.label)) continue;
+    seen.add(s.label);
+    out.push(s);
+  }
+  return out;
+}
+
 async function loadJSON(path) {
   const res = await fetch(path);
   if (!res.ok) throw new Error(`Failed to load ${path}`);
@@ -30,7 +43,7 @@ function tweetCount(edition) {
   return edition.stories.reduce((n, s) => n + (s.tweets?.length || 0), 0);
 }
 
-function renderCard(story, lang) {
+function renderCard(story, lang, edition) {
   const ui = UI[lang];
   const tweets = (story.tweets || []).map((t) => `
     <article class="tweet">
@@ -38,11 +51,11 @@ function renderCard(story, lang) {
       <p>${t.text}</p>
       <div class="tweet-stats">${t.stats || ""}</div>
     </article>`).join("");
-  const sources = (story.sources || []).map((s) =>
+  const sources = mergeSources(story, edition).map((s) =>
     `<a class="source" href="${s.url}" target="_blank" rel="noopener">${s.label}</a>`
   ).join("");
   return `
-    <article class="card ${story.lead ? "lead" : ""}">
+    <article class="card ${story.lead ? "lead" : ""} theme-${story.theme || "club"}">
       <div class="kicker">${pick(story.kicker, lang)}</div>
       <h2>${pick(story.headline, lang)}</h2>
       <p class="summary">${pick(story.summary, lang)}</p>
@@ -90,7 +103,7 @@ async function renderEdition(date, lang) {
   document.getElementById("heroTitle").textContent = pick(edition.title, lang);
   document.getElementById("heroDeck").textContent = pick(edition.deck, lang);
   document.getElementById("heroMeta").textContent = `${edition.stories.length} ${ui.stories} · ${count} ${ui.posts}`;
-  document.getElementById("grid").innerHTML = edition.stories.map((s) => renderCard(s, lang)).join("");
+  document.getElementById("grid").innerHTML = edition.stories.map((s) => renderCard(s, lang, edition)).join("");
   document.title = `dailybarca · Edition ${edition.number}`;
 }
 
