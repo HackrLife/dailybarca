@@ -1,0 +1,73 @@
+{
+  "number": 241,
+  "date": "2026-08-29",
+  "label": "Saturday 29 Aug 2026",
+  "title": "Rodri, Fermin, and a statement night at Camp Nou",
+  "deck": "Headline and summary are enough. Sources and posts are there if you want the long version.",
+  "stories": [
+    {
+      "lead": true,
+      "kicker": "Lead",
+      "headline": "Rodri’s Camp Nou debut — and why the ovation was really about Madrid",
+      "summary": "Rodri came off the bench in a 2-0 win over Athletic and immediately looked at home. The moment that travelled was the standing ovation before kick-off: a home crowd greeting a player who has beaten Barca for years, in a climate where Madrid’s pull on Catalan talent still sits under every conversation.",
+      "tweets": [
+        {"name": "Barca Times", "handle": "@BarcaTimes", "time": "2h", "text": "That ovation for Rodri wasn’t just respect. It was Camp Nou saying: we see you.", "stats": "412 rp · 2.3k likes"},
+        {"name": "Cules Chronicles", "handle": "@CulesChronicles", "time": "3h", "text": "Emotional, but pointed. Enough is enough.", "stats": "231 rp · 1.6k likes"}
+      ],
+      "sources": [
+        {"label": "Sport", "url": "https://www.sport.es/"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/"},
+        {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
+      ]
+    },
+    {
+      "kicker": "Match",
+      "headline": "Barca 2-0 Athletic: Fermin seals a perfect start",
+      "summary": "Raphinha scored on 37 minutes. Fermin finished it on 82. Gordon started. Flick’s side stayed compact and left Camp Nou still perfect in the league.",
+      "tweets": [{"name": "Tactical Barca", "handle": "@TacticalBarca", "time": "1h", "text": "Control. Patience. Width. 2-0 without needing to chase it.", "stats": "48 rp · 312 likes"}],
+      "sources": [{"label": "Sport", "url": "https://www.sport.es/"}, {"label": "AS", "url": "https://as.com/"}]
+    },
+    {
+      "kicker": "Transfer",
+      "headline": "Atletico shut the door on Julian Alvarez",
+      "summary": "No talks this summer. Atletico say Alvarez is part of their project, even as the player’s camp has signalled interest in Barca. Flick remains short of a natural 9 behind Lewandowski.",
+      "tweets": [{"name": "Fabrizio Romano", "handle": "@FabrizioRomano", "time": "5h", "text": "Atletico’s position is unchanged: Alvarez is not for sale.", "stats": "4.1k rp · 18k likes"}],
+      "sources": [{"label": "AS", "url": "https://as.com/"}, {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/"}]
+    },
+    {
+      "kicker": "UCL",
+      "headline": "PSG away, City at home: the league-phase draw",
+      "summary": "A trip to Paris and a home night against Manchester City headline the league phase. The Clasico meeting with Madrid was kept at arm’s length.",
+      "tweets": [{"name": "Barca Universal", "handle": "@BarcaUniversal", "time": "8h", "text": "This league phase is not a gentle warm-up. Squad depth is about to matter.", "stats": "890 rp · 6.2k likes"}],
+      "sources": [{"label": "UEFA", "url": "https://www.uefa.com/"}, {"label": "Sport", "url": "https://www.sport.es/"}]
+    },
+    {
+      "kicker": "Squad",
+      "headline": "Gordon starts, Cancelo and Adeyemi wait their turn",
+      "summary": "All four summer registrations are in. Flick handed Gordon the first start of the new arrivals and kept Rodri for the second half.",
+      "tweets": [{"name": "Santi Gimenez", "handle": "@SantiGimenez", "time": "6h", "text": "Gordon looked ready. First start, no freeze.", "stats": "120 rp · 980 likes"}],
+      "sources": [{"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/"}]
+    },
+    {
+      "kicker": "Interview",
+      "headline": "Flick: intensity first, then the pretty stuff",
+      "summary": "Post-match Flick went back to intensity, compactness, moments. Rodri’s first minutes were good feelings, not a finished product.",
+      "tweets": [{"name": "Luis Rojo", "handle": "@LuisRojoFCB", "time": "4h", "text": "Calm. Clear. Ambition without the circus.", "stats": "77 rp · 640 likes"}],
+      "sources": [{"label": "AS", "url": "https://as.com/"}]
+    },
+    {
+      "kicker": "Youth",
+      "headline": "Barca B open with a 4-0 and two names to watch",
+      "summary": "Marc Guiu and Noah Darvich both scored as the B team thrashed Intercity. Flick staff were in the stands.",
+      "tweets": [{"name": "La Masia Daily", "handle": "@LaMasiaDaily", "time": "7h", "text": "4-0 and the future looks loud.", "stats": "210 rp · 1.9k likes"}],
+      "sources": [{"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/"}]
+    },
+    {
+      "kicker": "Finance",
+      "headline": "Revenue up, wages still the constraint",
+      "summary": "Commercial numbers and Camp Nou ticketing are climbing. FFP and wages still leave little room for a late striker swing.",
+      "tweets": [{"name": "Football Finance", "handle": "@FootballFinance", "time": "9h", "text": "Revenue up. Wages still the ceiling.", "stats": "95 rp · 700 likes"}],
+      "sources": [{"label": "El Confidencial", "url": "https://www.elconfidencial.com/"}]
+    }
+  ]
+}
