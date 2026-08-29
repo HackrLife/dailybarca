@@ -1,11 +1,13 @@
 const LANGS = ["en", "es", "de", "fr", "it"];
 const UI = {
-  en: { today: "Today", archive: "Archive", sources: "Sources", stories: "stories", posts: "supporting posts", footer: "Updated once a day. Sources and posts stay in the original language.", past: "Past editions", pastDeck: "Open a date to read that day's cards." },
-  es: { today: "Hoy", archive: "Archivo", sources: "Fuentes", stories: "historias", posts: "tuits de apoyo", footer: "Se actualiza una vez al día. Fuentes y tuits quedan en el idioma original.", past: "Ediciones anteriores", pastDeck: "Abre una fecha para leer las tarjetas de ese día." },
-  de: { today: "Heute", archive: "Archiv", sources: "Quellen", stories: "Stories", posts: "begleitende Posts", footer: "Einmal täglich. Quellen und Posts bleiben in der Originalsprache.", past: "Ältere Ausgaben", pastDeck: "Ein Datum öffnen, um die Karten des Tages zu lesen." },
-  fr: { today: "Aujourd'hui", archive: "Archives", sources: "Sources", stories: "histoires", posts: "posts d'appui", footer: "Mis à jour une fois par jour. Sources et posts restent dans la langue d'origine.", past: "Anciennes éditions", pastDeck: "Ouvrez une date pour lire les cartes du jour." },
-  it: { today: "Oggi", archive: "Archivio", sources: "Fonti", stories: "storie", posts: "post di supporto", footer: "Aggiornato una volta al giorno. Fonti e post restano in lingua originale.", past: "Edizioni precedenti", pastDeck: "Apri una data per leggere le card di quel giorno." }
+  en: { today: "Today", archive: "Archive", sources: "Sources", stories: "stories", posts: "supporting posts", footer: "Updated once a day. Sources and posts stay in the original language.", past: "Past editions", pastDeck: "Open a date to read that day's cards.", more: "Open full story", close: "Close" },
+  es: { today: "Hoy", archive: "Archivo", sources: "Fuentes", stories: "historias", posts: "tuits de apoyo", footer: "Se actualiza una vez al día. Fuentes y tuits quedan en el idioma original.", past: "Ediciones anteriores", pastDeck: "Abre una fecha para leer las tarjetas de ese día.", more: "Abrir historia", close: "Cerrar" },
+  de: { today: "Heute", archive: "Archiv", sources: "Quellen", stories: "Stories", posts: "begleitende Posts", footer: "Einmal täglich. Quellen und Posts bleiben in der Originalsprache.", past: "Ältere Ausgaben", pastDeck: "Ein Datum öffnen, um die Karten des Tages zu lesen.", more: "Ganze Story", close: "Schliessen" },
+  fr: { today: "Aujourd'hui", archive: "Archives", sources: "Sources", stories: "histoires", posts: "posts d'appui", footer: "Mis à jour une fois par jour. Sources et posts restent dans la langue d'origine.", past: "Anciennes éditions", pastDeck: "Ouvrez une date pour lire les cartes du jour.", more: "Ouvrir l'histoire", close: "Fermer" },
+  it: { today: "Oggi", archive: "Archivio", sources: "Fonti", stories: "storie", posts: "post di supporto", footer: "Aggiornato una volta al giorno. Fonti e post restano in lingua originale.", past: "Edizioni precedenti", pastDeck: "Apri una data per leggere le card di quel giorno.", more: "Apri la storia", close: "Chiudi" }
 };
+
+let EDITION = null;
 
 function currentLang() {
   const stored = localStorage.getItem("dailybarca-lang");
@@ -22,7 +24,7 @@ function pick(value, lang) {
 
 function mergeSources(story, edition) {
   const extra = story.sources || [];
-  const base = edition.defaultSources || [];
+  const base = (edition && edition.defaultSources) || [];
   const seen = new Set();
   const out = [];
   for (const s of extra.concat(base)) {
@@ -43,28 +45,72 @@ function tweetCount(edition) {
   return edition.stories.reduce((n, s) => n + (s.tweets?.length || 0), 0);
 }
 
-function renderCard(story, lang, edition) {
-  const ui = UI[lang];
-  const tweets = (story.tweets || []).map((t) => `
+function renderTweets(list) {
+  return (list || []).map((t) => `
     <article class="tweet">
-      <div class="tweet-head"><span><b>${t.name}</b> ${t.handle}</span><span>${t.time}</span></div>
+      <div class="tweet-head"><span><b>${t.name}</b> ${t.handle}</span><span>${t.time || ""}</span></div>
       <p>${t.text}</p>
       <div class="tweet-stats">${t.stats || ""}</div>
     </article>`).join("");
+}
+
+function renderCard(story, lang, edition, index) {
+  const ui = UI[lang];
+  const faceTweet = (story.tweets || []).slice(0, 1);
   const sources = mergeSources(story, edition).map((s) =>
     `<a class="source" href="${s.url}" target="_blank" rel="noopener">${s.label}</a>`
   ).join("");
   return `
-    <article class="card ${story.lead ? "lead" : ""} theme-${story.theme || "club"}">
+    <button class="card theme-${story.theme || "club"}" data-story="${index}" type="button">
       <div class="kicker">${pick(story.kicker, lang)}</div>
       <h2>${pick(story.headline, lang)}</h2>
       <p class="summary">${pick(story.summary, lang)}</p>
-      ${tweets ? `<div class="tweets">${tweets}</div>` : ""}
+      ${faceTweet.length ? `<div class="tweets">${renderTweets(faceTweet)}</div>` : ""}
+      <p class="read-more">${ui.more}</p>
       <div class="sources">
         <div class="sources-label">${ui.sources}</div>
         <div class="source-row">${sources}</div>
       </div>
-    </article>`;
+    </button>`;
+}
+
+function openStory(index) {
+  if (!EDITION) return;
+  const story = EDITION.stories[index];
+  if (!story) return;
+  const lang = currentLang();
+  const ui = UI[lang];
+  const body = pick(story.body, lang) || pick(story.summary, lang);
+  const tweets = (story.tweets || []).slice(0, 3);
+  const sources = mergeSources(story, EDITION).map((s) =>
+    `<a class="source" href="${s.url}" target="_blank" rel="noopener">${s.label}</a>`
+  ).join("");
+  const panel = document.getElementById("readerPanel");
+  const reader = document.getElementById("reader");
+  panel.innerHTML = `
+    <button class="reader-close" type="button" id="readerX">${ui.close}</button>
+    <div class="kicker">${pick(story.kicker, lang)}</div>
+    <h2>${pick(story.headline, lang)}</h2>
+    <p class="body">${body}</p>
+    <div class="tweets">${renderTweets(tweets)}</div>
+    <div class="sources">
+      <div class="sources-label">${ui.sources}</div>
+      <div class="source-row">${sources}</div>
+    </div>`;
+  reader.hidden = false;
+  document.body.style.overflow = "hidden";
+  document.getElementById("readerX").onclick = closeStory;
+  history.replaceState(null, "", `?story=${index}`);
+}
+
+function closeStory() {
+  const reader = document.getElementById("reader");
+  if (reader) reader.hidden = true;
+  document.body.style.overflow = "";
+  const params = new URLSearchParams(location.search);
+  params.delete("story");
+  const qs = params.toString();
+  history.replaceState(null, "", qs ? `?${qs}` : location.pathname);
 }
 
 function paintLangs(active) {
@@ -97,18 +143,30 @@ async function renderEdition(date, lang) {
   const editionMeta = date ? index.editions.find((e) => e.date === date) : index.editions[0];
   if (!editionMeta) throw new Error("Edition not found");
   const edition = await loadJSON(`/data/${editionMeta.file}`);
-  if (edition.part2) {
-    const extra = await loadJSON(edition.part2);
+  const extras = edition.parts || (edition.part2 ? [edition.part2] : []);
+  for (const path of extras) {
+    const extra = await loadJSON(path);
     edition.stories = (edition.stories || []).concat(extra.stories || []);
   }
+  EDITION = edition;
   const count = tweetCount(edition);
   const ui = UI[lang];
   document.getElementById("editionChip").textContent = `Edition ${edition.number} · ${edition.label}`;
   document.getElementById("heroTitle").textContent = pick(edition.title, lang);
   document.getElementById("heroDeck").textContent = pick(edition.deck, lang);
   document.getElementById("heroMeta").textContent = `${edition.stories.length} ${ui.stories} · ${count} ${ui.posts}`;
-  document.getElementById("grid").innerHTML = edition.stories.map((s) => renderCard(s, lang, edition)).join("");
+  document.getElementById("grid").innerHTML = edition.stories.map((s, i) => renderCard(s, lang, edition, i)).join("");
+  document.getElementById("grid").onclick = (ev) => {
+    const card = ev.target.closest("[data-story]");
+    if (!card) return;
+    if (ev.target.closest("a")) return;
+    openStory(Number(card.dataset.story));
+  };
+  const close = document.getElementById("readerClose");
+  if (close) close.onclick = closeStory;
   document.title = `dailybarca · Edition ${edition.number}`;
+  const storyParam = new URLSearchParams(location.search).get("story");
+  if (storyParam !== null && edition.stories[Number(storyParam)]) openStory(Number(storyParam));
 }
 
 async function renderArchive(lang) {
