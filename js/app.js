@@ -36,17 +36,34 @@ async function loadJSON(path) {
 function tweetCount(edition) {
   return edition.stories.reduce((n, s) => n + (s.tweets?.length || 0), 0);
 }
+function handleOf(t) {
+  return String(t.handle || "").replace(/^@/, "");
+}
 function renderTweets(list) {
-  return (list || []).map((t) => `
-    <article class="tweet">
-      <div class="tweet-head"><span><b>${t.name}</b> ${t.handle}</span><span>${t.time || ""}</span></div>
+  return (list || []).map((t) => {
+    const h = handleOf(t);
+    const href = t.id ? `https://x.com/${h}/status/${t.id}` : `https://x.com/${h}`;
+    return `
+    <a class="tweet" href="${href}" target="_blank" rel="noopener">
+      <div class="tweet-head"><span><b>${t.name}</b> @${h}</span><span>${t.time || ""}</span></div>
       <p>${t.text}</p>
-      <div class="tweet-stats">${t.stats || ""}</div>
-    </article>`).join("");
+      <div class="tweet-stats">${t.stats || "View on X"}</div>
+    </a>`;
+  }).join("");
+}
+function faceTweets(story) {
+  const all = story.tweets || [];
+  return all.slice(0, 1);
+}
+function readerTweets(story) {
+  const all = story.tweets || [];
+  if (all.length >= 3) return all.slice(1, 3);
+  if (all.length === 2) return all;
+  return all.slice(0, 2);
 }
 function renderCard(story, lang, edition, index) {
   const ui = UI[lang];
-  const faceTweet = (story.tweets || []).slice(0, 1);
+  const face = faceTweets(story);
   const sources = mergeSources(story, edition).map((s) =>
     `<a class="source" href="${s.url}" target="_blank" rel="noopener">${s.label}</a>`
   ).join("");
@@ -55,7 +72,7 @@ function renderCard(story, lang, edition, index) {
       <div class="kicker">${pick(story.kicker, lang)}</div>
       <h2>${pick(story.headline, lang)}</h2>
       <p class="summary">${pick(story.summary, lang)}</p>
-      ${faceTweet.length ? `<div class="tweets">${renderTweets(faceTweet)}</div>` : ""}
+      ${face.length ? `<div class="tweets">${renderTweets(face)}</div>` : ""}
       <p class="read-more">${ui.more}</p>
       <div class="sources">
         <div class="sources-label">${ui.sources}</div>
@@ -69,7 +86,7 @@ function openStory(index) {
   if (!story) return;
   const lang = currentLang(); const ui = UI[lang];
   const body = pick(story.body, lang) || pick(story.summary, lang);
-  const tweets = (story.tweets || []).slice(0, 3);
+  const tweets = readerTweets(story);
   const sources = mergeSources(story, EDITION).map((s) =>
     `<a class="source" href="${s.url}" target="_blank" rel="noopener">${s.label}</a>`
   ).join("");
@@ -126,7 +143,7 @@ async function renderEdition(date, lang) {
   const editionMeta = date ? index.editions.find((e) => e.date === date) : index.editions[0];
   if (!editionMeta) throw new Error("Edition not found");
   const edition = await loadJSON(`/data/${editionMeta.file}`);
-  const extras = edition.parts || (edition.part2 ? [edition.part2] : []);
+  const extras = edition.parts || [];
   for (const path of extras) {
     try {
       const extra = await loadJSON(path);
@@ -143,7 +160,7 @@ async function renderEdition(date, lang) {
   document.getElementById("grid").innerHTML = edition.stories.map((s, i) => renderCard(s, lang, edition, i)).join("");
   document.getElementById("grid").onclick = (ev) => {
     const card = ev.target.closest("[data-story]");
-    if (!card || ev.target.closest("a")) return;
+    if (!card || ev.target.closest("a.source")) return;
     openStory(Number(card.dataset.story));
   };
   const close = document.getElementById("readerClose");
