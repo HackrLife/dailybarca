@@ -1,6 +1,14 @@
 {
   "editions": [
     {
+      "number": 242,
+      "date": "2026-08-30",
+      "label": "Sunday 30 Aug 2026",
+      "file": "2026-08-30.json",
+      "tweets": 24,
+      "lead": "Héctor Fort sold to Real Sociedad; Rayo on Monday"
+    },
+    {
       "number": 241,
       "date": "2026-08-29",
       "label": "Saturday 29 Aug 2026",

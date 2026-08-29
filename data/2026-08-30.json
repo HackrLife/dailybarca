@@ -1,0 +1,282 @@
+{
+  "number": 242,
+  "date": "2026-08-30",
+  "label": "Sunday 30 Aug 2026",
+  "title": {
+    "en": "Héctor Fort joins Real Sociedad; Barcelona prepare for Rayo on Monday",
+    "es": "Héctor Fort ficha por la Real Sociedad; el Barça prepara el Rayo del lunes"
+  },
+  "deck": {
+    "en": "Fort leaves for around €8.5m with buy-back. Livaković trains again. Rayo at 21:30 on Monday.",
+    "es": "Fort se va por unos 8,5 millones con opción de recompra. Livaković sigue entrenando. Rayo el lunes a las 21:30."
+  },
+  "defaultSources": [
+    {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+    {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"},
+    {"label": "SPORT", "url": "https://www.sport.es/es/barca/"},
+    {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona.html"},
+    {"label": "AS", "url": "https://as.com/futbol/barcelona/"},
+    {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
+  ],
+  "stories": [
+    {
+      "theme": "transfer",
+      "kicker": {"en": "Transfer", "es": "Mercado"},
+      "headline": {
+        "en": "Héctor Fort joins Real Sociedad for around €8.5m",
+        "es": "Héctor Fort ficha por la Real Sociedad por unos 8,5 millones"
+      },
+      "summary": {
+        "en": "FC Barcelona and Real Sociedad agreed the transfer of Héctor Fort on Saturday. The fee is reported at €8–8.5m for 50–60% of the rights. Barça keep a buy-back option near €20m and a sell-on share. Fort watched Real beat Espanyol from the Anoeta stands before the announcement.",
+        "es": "El Barça y la Real Sociedad cerraron el traspaso de Héctor Fort el sábado. La cifra se mueve entre 8 y 8,5 millones por el 50-60% de los derechos. El club se guarda una opción de recompra cercana a 20 millones y un porcentaje de una futura venta."
+      },
+      "body": {
+        "en": "Héctor Fort is a Real Sociedad player until 2031. Barcelona confirmed the agreement on Saturday evening. Spanish coverage put the fee at roughly €8.5 million for a majority share of the rights, with Barça retaining either 40% or 50% plus a buy-back clause set near €20 million for the first two seasons and rising later.\n\nFort, 20, came through La Masia and spent last season on loan at Elche. He did not feature in Flick’s first two Liga squads. Real needed a right-back after moving Iñaki Rupérez to the B team. Fort was present at Anoeta for Real’s 2-1 win over Espanyol and is expected to train with his new club on Sunday. The deal frees salary space and generates pure profit because Fort is a home-grown asset."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2093791124766785623",
+          "text": "FC Barcelona and Real Sociedad have reached an agreement for the transfer of Héctor Fort. FC Barcelona retain a buy-back option and a percentage of any future sale."
+        },
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2093792687589560788",
+          "text": "Oficial: Héctor Fort, traspasado a la Real Sociedad. El Barça mantiene el 50% de los derechos."
+        },
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2093792306889474138",
+          "text": "Oficial: Héctor Fort ficha por la Real Sociedad."
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/oficial-hector-fort-traspasado-real-sociedad-barca-barcelona-133694345"},
+        {"label": "MARCA", "url": "https://www.marca.com/futbol/real-sociedad/2026/08/29/oficial-real-hector-fort-2031.html"}
+      ]
+    },
+    {
+      "theme": "league",
+      "kicker": {"en": "League", "es": "Liga"},
+      "headline": {
+        "en": "Rayo Vallecano at Camp Nou on Monday at 21:30",
+        "es": "El Rayo Vallecano visita el Camp Nou el lunes a las 21:30"
+      },
+      "summary": {
+        "en": "Barcelona host Rayo Vallecano on Monday night in La Liga matchday three. Kick-off is 21:30 CET. The team trained on Saturday with Dominik Livaković present for a second session. Gavi again worked separately after the knock at Elche.",
+        "es": "El Barça recibe al Rayo el lunes por la noche, jornada 3 de Liga. Saque inicial a las 21:30. Livaković completó su segunda sesión el sábado. Gavi siguió al margen tras el golpe en Elche."
+      },
+      "body": {
+        "en": "Monday’s home game against Rayo Vallecano is the first midweek Liga fixture of the season for Hansi Flick’s side. Official listings set the kick-off at 21:30 at Spotify Camp Nou. Barcelona have taken six points from two matches, scored seven and conceded none.\n\nSaturday’s session at the Ciutat Esportiva included Livaković for the second day running. Gavi was not with the main group, continuing the cautious approach after the knee issue that forced him off at Elche. Pedri has already started in midfield. Squad confirmation is expected closer to the match. Rayo usually sit deep and look for transitions, a different test from the first two opponents."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "text": "Preparations for Barça v Rayo under way. First team in for training this morning, as Livaković completes second session."
+        },
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2093654231454556334",
+          "text": "Sesión en el Barça con Livakovic y sin Gavi."
+        },
+        {
+          "name": "LaLiga",
+          "handle": "@LaLiga",
+          "text": "Barça - Rayo Vallecano. Monday 21:30 at Spotify Camp Nou."
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4568632/preparations-for-barca-v-rayo-under-way"}
+      ]
+    },
+    {
+      "theme": "transfer",
+      "kicker": {"en": "Transfer", "es": "Mercado"},
+      "headline": {
+        "en": "Toni Fernández joins Venezia for €4m with buy-back",
+        "es": "Toni Fernández ficha por el Venezia por 4 millones con opción de recompra"
+      },
+      "summary": {
+        "en": "Barcelona agreed the sale of 18-year-old Toni Fernández to Venezia for a reported €4 million. The club retains a buy-back option. The move is part of the continued clearing of academy contracts that reach the final year without a clear first-team path.",
+        "es": "El Barça acordó la venta de Toni Fernández, de 18 años, al Venezia por unos 4 millones. El club se guarda una opción de recompra. Sigue la política de dar salida a canteranos en el último año de contrato."
+      },
+      "body": {
+        "en": "Toni Fernández, an attacking prospect from La Masia, is heading to Serie A side Venezia. Reports across Spanish and Italian coverage put the fee at €4 million and confirm Barcelona kept a buy-back clause. The player was entering the final year of his deal.\n\nDeco has used these sales of academy players who are not immediately in Flick’s plans to generate both cash and salary-cap room. Álvaro Cortés and Héctor Fort have also left or are leaving in the same window. The pattern is consistent: protect future value with re-purchase options while turning surplus contracts into usable margin under the 1:1 rule."
+      },
+      "tweets": [
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "text": "Toni Fernández, cerca del Venezia. Operación en torno a 4 millones con opción de recompra."
+        },
+        {
+          "name": "BarcaFutbolLive",
+          "handle": "@BarcaFutbolLive",
+          "text": "Another Masia exit with a buy-back. Toni Fernández to Venezia for around €4m."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "theme": "health",
+      "kicker": {"en": "Squad", "es": "Plantilla"},
+      "headline": {
+        "en": "Livaković completes second training session with the group",
+        "es": "Livaković completa su segunda sesión con el grupo"
+      },
+      "summary": {
+        "en": "Dominik Livaković trained with the first team on Saturday for the second consecutive day. The Croatian goalkeeper signed until 2030. Joan García remains the starter after two clean sheets. Registration still depends on financial fair play numbers.",
+        "es": "Dominik Livaković entrenó el sábado por segundo día con el primer equipo. Firmó hasta 2030. Joan García sigue de titular tras dos porterías a cero. La ficha depende del fair play."
+      },
+      "body": {
+        "en": "Livaković is now a regular presence at the Ciutat Esportiva. He completed his second full session with the senior group on Saturday while the squad prepared for Rayo. The club announced his arrival from Fenerbahçe earlier in the week on a contract running to June 2030.\n\nJoan García has started both Liga matches and kept clean sheets. Szczęsny remains available. Whether Livaković is registered for the current squad list or spends the season on loan is still tied to the final fair-play calculation after the other summer arrivals. Flick has not publicly named a second-choice ranking."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2093398209678692489",
+          "text": "First training session for Dominik Livaković 🧤"
+        },
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "text": "Sesión en el Barça con Livakovic y sin Gavi."
+        },
+        {
+          "name": "BarcaFutbolLive",
+          "handle": "@BarcaFutbolLive",
+          "text": "Second day with the group. The ficha question remains open."
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4566933/dominik-livakovi-is-a-new-blaugrana-player"}
+      ]
+    },
+    {
+      "theme": "ucl",
+      "kicker": {"en": "UCL", "es": "Champions"},
+      "headline": {
+        "en": "Feyenoord at home on 9 September remains the first European night",
+        "es": "El Feyenoord en casa el 9 de septiembre sigue siendo la primera noche europea"
+      },
+      "summary": {
+        "en": "UEFA confirmed the league-phase times on Saturday. Barcelona host Feyenoord at 18:45 CET on 9 September. Eric García is banned for that match after the red card at Atlético last season. The rest of the eight-game list is unchanged.",
+        "es": "La UEFA confirmó los horarios el sábado. El Barça recibe al Feyenoord a las 18:45 del 9 de septiembre. Eric García está sancionado por la roja del Metropolitano. El resto de la lista de ocho partidos no cambia."
+      },
+      "body": {
+        "en": "The opening Champions League fixture is fixed: Feyenoord at Spotify Camp Nou on Wednesday 9 September at 18:45. That early kick-off sits after a Liga weekend and leaves a short turnaround for players who start on the Sunday before.\n\nEric García will miss the night because of the red card he received in the quarter-final second leg at Atlético Madrid last season. UEFA carry that suspension into the next European appearance. Jules Koundé and Xavi Espart are the natural options on that side. The remaining league-phase opponents—Galatasaray, PSG, Aston Villa, Manchester City, Sporting and Como—are already public."
+      },
+      "tweets": [
+        {
+          "name": "Champions League",
+          "handle": "@ChampionsLeague",
+          "text": "League phase times confirmed. Barcelona start at home against Feyenoord."
+        },
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "text": "Oficial: calendario del Barça para la Champions. Flick empieza en el Camp Nou contra el Feyenoord."
+        },
+        {
+          "name": "Samuel Marsden",
+          "handle": "@samuelmarsden",
+          "text": "Barcelona's UCL times are out. Feyenoord at home, 18:45 on 9 September."
+        }
+      ],
+      "sources": [
+        {"label": "UEFA", "url": "https://www.uefa.com/uefachampionsleague/"}
+      ]
+    },
+    {
+      "theme": "transfer",
+      "kicker": {"en": "Transfer", "es": "Mercado"},
+      "headline": {
+        "en": "Atlético still block any path for Julián Álvarez to Barcelona",
+        "es": "El Atlético sigue bloqueando cualquier vía de Julián Álvarez al Barça"
+      },
+      "summary": {
+        "en": "Atlético Madrid have not softened their refusal to sell Julián Álvarez to Barcelona. Spanish reports continue to link the player with Arsenal as an alternative exit. Flick is operating without a classic centre-forward after the departures of Lewandowski and Ferran Torres.",
+        "es": "El Atlético no ha suavizado su negativa a vender a Julián Álvarez al Barça. Los informes españoles siguen vinculando al jugador con el Arsenal como alternativa. Flick trabaja sin un delantero centro clásico."
+      },
+      "body": {
+        "en": "The Álvarez file remains closed from Atlético’s side. Club statements earlier in the window described Barcelona’s approaches as unprofessional and ruled out a sale to a direct rival. No new formal bid has been reported in the final days of August.\n\nArsenal interest is the alternative story circulating in both Spanish and English coverage. For Barcelona the practical effect is already visible on the pitch: Raphinha, Fermín López and the wide forwards are carrying the goal threat. Flick has repeated that the squad will work with the players available. The transfer window closes on 1 September."
+      },
+      "tweets": [
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "text": "El Atlético mantiene el bloqueo sobre Álvarez. No hay negociación con el Barça."
+        },
+        {
+          "name": "BarcaFutbolLive",
+          "handle": "@BarcaFutbolLive",
+          "text": "No talks. No bid. Raphinha and the current attack are the plan until the window shuts."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "theme": "health",
+      "kicker": {"en": "Squad", "es": "Plantilla"},
+      "headline": {
+        "en": "Gavi continues individual work after the Elche knock",
+        "es": "Gavi sigue con trabajo individual tras el golpe de Elche"
+      },
+      "summary": {
+        "en": "Gavi did not train with the main group on Saturday. The midfielder left the Elche match with a right-knee problem. Flick said the first images were not as serious as they looked. Pedri has covered the role in the two Liga wins.",
+        "es": "Gavi no entrenó con el grupo el sábado. Salió del partido de Elche con molestias en la rodilla derecha. Flick dijo que las primeras imágenes no eran tan graves. Pedri ha cubierto ese puesto en las dos victorias."
+      },
+      "body": {
+        "en": "Gavi’s recovery remains cautious. He missed Saturday’s session after the knock sustained at Elche. Club medical staff have not issued a new public bulletin since the immediate post-match comments. Flick indicated the initial reading was better than the visual suggested.\n\nPedri started against Athletic Club and is available for Rayo. Marc Bernal and the rest of the midfield group are also fit. The medical staff will decide closer to Monday whether Gavi can be included in the squad list. There is no indication of a long-term issue at this stage."
+      },
+      "tweets": [
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "text": "Sesión en el Barça con Livakovic y sin Gavi."
+        },
+        {
+          "name": "BarcaFutbolLive",
+          "handle": "@BarcaFutbolLive",
+          "text": "Still individual work for Gavi. Pedri covers the minutes for now."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "theme": "league",
+      "kicker": {"en": "Form", "es": "Estado de forma"},
+      "headline": {
+        "en": "Two wins, seven goals, zero conceded after the Athletic match",
+        "es": "Dos victorias, siete goles y cero encajados tras el Athletic"
+      },
+      "summary": {
+        "en": "Barcelona sit on six points from two Liga matches. Raphinha and Fermín López each have three goals. Joan García has two clean sheets. Rodri made his debut as a late substitute against Athletic Club.",
+        "es": "El Barça suma seis puntos de seis posibles. Raphinha y Fermín López llevan tres goles cada uno. Joan García ha dejado dos porterías a cero. Rodri debutó como suplente ante el Athletic."
+      },
+      "body": {
+        "en": "The numbers after two matches are clean: six points, seven goals scored, none conceded. The 5-0 win at Elche was followed by a controlled 2-0 against Athletic Club at Camp Nou. Raphinha opened the scoring in the 37th minute; Fermín López finished a late chance after a defensive error.\n\nRodri entered for the final stretch of the Athletic game and later spoke of good feelings in limited minutes. The midfielder is still on a gradual load plan after the World Cup. Anthony Gordon started that match. The early data is limited, but the defensive record and the goal contribution from wide and midfield players have set a clear tone before the first midweek fixture."
+      },
+      "tweets": [
+        {
+          "name": "OptaJose",
+          "handle": "@OptaJose",
+          "text": "Barcelona: 2 wins, 7 scored, 0 conceded. Early numbers."
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "text": "Rodri debuts with a win for Barça."
+        }
+      ],
+      "sources": []
+    }
+  ]
+}
