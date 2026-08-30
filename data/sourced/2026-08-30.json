@@ -1,0 +1,2065 @@
+{
+  "date": "2026-08-30",
+  "generated_at": "2026-08-30T09:58:44.417700+00:00",
+  "source_pool": 50,
+  "articles_kept": 249,
+  "clusters": 208,
+  "failed_sources": [
+    "UEFA – Barcelona",
+    "LaLiga – Barcelona",
+    "Reuters",
+    "BBC Sport",
+    "ESPN",
+    "Sky Sports",
+    "CBS Sports",
+    "The Independent",
+    "Goal",
+    "Football España",
+    "Get Spanish Football News",
+    "Barça Universal",
+    "Barça News Network",
+    "Esport3",
+    "RAC1",
+    "Cadena SER",
+    "AS",
+    "Relevo",
+    "El Nacional",
+    "Món Esport",
+    "Onda Cero",
+    "COPE",
+    "FotMob",
+    "Sofascore",
+    "FBref",
+    "WhoScored",
+    "Transfermarkt",
+    "OneFootball",
+    "LiveScore",
+    "Opta Analyst"
+  ],
+  "stories": [
+    {
+      "headline": "Barcelona vs. Athletic Club: Preview, Predictions and Lineups",
+      "summary": "Barcelona vs. Athletic Club: Preview, Predictions and Lineups",
+      "source_count": 3,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-vs-athletic-club-preview-predictions-lineups-8-27-26",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/130517/barcelona-athletic-club-la-liga-team-news-match-preview-lineups-prediction",
+          "tier": "specialist"
+        },
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/barcelona-vs-athletic-club-la-liga-preview-predictions-team-news-and-tv-info-01m0wj6fcnf5",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona vs. Athletic Club: Preview, Predictions and Lineups",
+          "url": "https://www.si.com/soccer/barcelona-vs-athletic-club-preview-predictions-lineups-8-27-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona vs Athletic Club, La Liga: Team News, Match PreviewBarcelona vs Athletic Club, La Liga: Team News, Match Preview",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/130517/barcelona-athletic-club-la-liga-team-news-match-preview-lineups-prediction",
+          "summary": "FC Barcelona (6th, 3pts) vs Athletic Club (19th, 0pts) Competition/Round: 2026-27 La Liga, Matchday 1 Barcelona Outs & Doubts: Marc Casadó, Roony Bardghji, Frenkie de Jong (out), Gavi (doubt) Athletic Outs & Doubts: Unai Eguiluz, Yuri Berchiche (out), Andoni Gorosabel, Dani Vivian, Beñat Prados, Maroan Sannadi (doubt) Date/Time: Thursday, August 27, 2026, 9pm CET (Barcelona), 8pm […]FC Barcelona (",
+          "published": "2026-08-26T23:00:00-04:002026-08-26T23:00:00-04:00"
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona vs Athletic Club: La Liga preview, predictions, team news and TV info",
+          "url": "https://everythingbarca.com/barcelona-vs-athletic-club-la-liga-preview-predictions-team-news-and-tv-info-01m0wj6fcnf5",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Oficial: Héctor Fort ficha por la Real Sociedad Oficial: Héctor Fort ficha por la Real Sociedad",
+      "summary": "El FC Barcelona ha hecho oficial la salida de Héctor Fort (20 años). El canterano, que pasó la temporada anterior cedido en el Elche , finalmente se ha decantado por la propuesta de la Real Sociedad ., que también lo ha anunciado con un vídeo. El club vasco paga 8,5 millones de euros por el 50% de los derechos del jugador. Firma hasta 2031.El FC Barcelona ha hecho oficial la salida de Héctor Fort ",
+      "source_count": 3,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220946/oficial-hector-fort-ficha-real-sociedad.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220946/oficial-hector-fort-ficha-real-sociedad.html",
+          "tier": "local"
+        },
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260829/11622267/barca-acuerda-vender-hector-fort-real-9-millones.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260829/11622267/barca-acuerda-vender-hector-fort-real-9-millones.html",
+          "tier": "national"
+        },
+        {
+          "name": "Culemanía",
+          "url": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260829/hector-fort-alvaro-cortes-barca-millones-canterano/1003742790174_0.html",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Oficial: Héctor Fort ficha por la Real Sociedad Oficial: Héctor Fort ficha por la Real Sociedad",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220946/oficial-hector-fort-ficha-real-sociedad.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220946/oficial-hector-fort-ficha-real-sociedad.html",
+          "summary": "El FC Barcelona ha hecho oficial la salida de Héctor Fort (20 años). El canterano, que pasó la temporada anterior cedido en el Elche , finalmente se ha decantado por la propuesta de la Real Sociedad ., que también lo ha anunciado con un vídeo. El club vasco paga 8,5 millones de euros por el 50% de los derechos del jugador. Firma hasta 2031.El FC Barcelona ha hecho oficial la salida de Héctor Fort ",
+          "published": "29 Aug 2026 22:03:24 +020029 Aug 2026 22:03:24 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "El Barça cierra la venta de Héctor Fort a la Real Sociedad por 8'5 millones de euros El Barça cierra la venta de Héctor Fort a la Real Sociedad por 8'5 millones de euros",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260829/11622267/barca-acuerda-vender-hector-fort-real-9-millones.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260829/11622267/barca-acuerda-vender-hector-fort-real-9-millones.html",
+          "summary": "Ambos clubs han llegado a un acuerdo; los azulgrana se reservan una opción de recompra Ambos clubs han llegado a un acuerdo; los azulgrana se reservan una opción de recompra",
+          "published": "29 Aug 2026 13:20:57 +020029 Aug 2026 13:20:57 +0200"
+        },
+        {
+          "source_id": 39,
+          "source": "Culemanía",
+          "tier": "specialist",
+          "lang": [
+            "es"
+          ],
+          "title": "Tras los pasos de Héctor Fort y Álvaro Cortés: el Barça ingresa cuatro millones de euros por la venta de otro canterano",
+          "url": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260829/hector-fort-alvaro-cortes-barca-millones-canterano/1003742790174_0.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Julian Alvarez: Who Is to Blame and How Does This End?",
+      "summary": "Julian Alvarez: Who Is to Blame and How Does This End?",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/julian-alvarez-who-to-blame-how-does-this-end",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/julian-alvarez-who-to-blame-how-does-this-end",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Julian Alvarez: Who Is to Blame and How Does This End?",
+          "url": "https://www.si.com/soccer/julian-alvarez-who-to-blame-how-does-this-end",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Julian Alvarez: Who Is to Blame and How Does This End?",
+          "url": "https://www.si.com/soccer/julian-alvarez-who-to-blame-how-does-this-end",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Transfer Rumors: Rashford’s Premier League Switch; Alvarez Given Barcelona Lifeline",
+      "summary": "Transfer Rumors: Rashford’s Premier League Switch; Alvarez Given Barcelona Lifeline",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/transfer-rumors-rashford-premier-league-alvarez-barcelona-lifeline",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/transfer-rumors-rashford-premier-league-alvarez-barcelona-lifeline",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Rashford’s Premier League Switch; Alvarez Given Barcelona Lifeline",
+          "url": "https://www.si.com/soccer/transfer-rumors-rashford-premier-league-alvarez-barcelona-lifeline",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Rashford’s Premier League Switch; Alvarez Given Barcelona Lifeline",
+          "url": "https://www.si.com/soccer/transfer-rumors-rashford-premier-league-alvarez-barcelona-lifeline",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Julian Alvarez Transfer Saga With Arsenal Given Shocking New Twist",
+      "summary": "Julian Alvarez Transfer Saga With Arsenal Given Shocking New Twist",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/julian-alvarez-transfer-saga-arsenal-shocking-twist",
+          "tier": "major"
+        },
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/atletico-slam-campaign-lies-julian-alvarez-transfer-arsenal-given-hope",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Julian Alvarez Transfer Saga With Arsenal Given Shocking New Twist",
+          "url": "https://www.si.com/soccer/julian-alvarez-transfer-saga-arsenal-shocking-twist",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Atletico slam campaign of lies around Julian Alvarez transfer as Arsenal given hope",
+          "url": "https://www.football365.com/news/atletico-slam-campaign-lies-julian-alvarez-transfer-arsenal-given-hope",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Transfer Rumors: Arsenal Make Alvarez Bid; Mourinho Eyes Last $84 Million Swoop",
+      "summary": "Transfer Rumors: Arsenal Make Alvarez Bid; Mourinho Eyes Last $84 Million Swoop",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/transfer-rumors-arsenal-alvarez-mourinho-84-million-swoop",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/transfer-rumors-arsenal-alvarez-mourinho-84-million-swoop",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Arsenal Make Alvarez Bid; Mourinho Eyes Last $84 Million Swoop",
+          "url": "https://www.si.com/soccer/transfer-rumors-arsenal-alvarez-mourinho-84-million-swoop",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Arsenal Make Alvarez Bid; Mourinho Eyes Last $84 Million Swoop",
+          "url": "https://www.si.com/soccer/transfer-rumors-arsenal-alvarez-mourinho-84-million-swoop",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Legend Faces Uphill Battle to Resurrect New MLS Team Ahead of Debut",
+      "summary": "Barcelona Legend Faces Uphill Battle to Resurrect New MLS Team Ahead of Debut",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/barcelona-legend-battle-resurrect-mls-debut",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-legend-battle-resurrect-mls-debut",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Legend Faces Uphill Battle to Resurrect New MLS Team Ahead of Debut",
+          "url": "https://www.si.com/soccer/barcelona-legend-battle-resurrect-mls-debut",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Legend Faces Uphill Battle to Resurrect New MLS Team Ahead of Debut",
+          "url": "https://www.si.com/soccer/barcelona-legend-battle-resurrect-mls-debut",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Real Madrid vs. Barcelona: Which Rival Got the Better Champions League Draw? The bitter rivals are both desperate for European glory this season.",
+      "summary": "Real Madrid vs. Barcelona: Which Rival Got the Better Champions League Draw? The bitter rivals are both desperate for European glory this season.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "FOX Sports",
+          "url": "https://www.si.com/soccer/real-madrid-vs-barcelona-champions-league-draw",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/real-madrid-vs-barcelona-champions-league-draw",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 12,
+          "source": "FOX Sports",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Real Madrid vs. Barcelona: Which Rival Got the Better Champions League Draw? The bitter rivals are both desperate for European glory this season.",
+          "url": "https://www.si.com/soccer/real-madrid-vs-barcelona-champions-league-draw",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Real Madrid vs. Barcelona: Which Rival Got the Better Champions League Draw?",
+          "url": "https://www.si.com/soccer/real-madrid-vs-barcelona-champions-league-draw",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Predicted Lineup vs. Athletic Club: La Liga Barcelona will make their home season debut with some of their best players returning to the XI.",
+      "summary": "Barcelona Predicted Lineup vs. Athletic Club: La Liga Barcelona will make their home season debut with some of their best players returning to the XI.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "FOX Sports",
+          "url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-athletic-club-la-liga-8-27-26",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-athletic-club-la-liga-8-27-26",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 12,
+          "source": "FOX Sports",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Predicted Lineup vs. Athletic Club: La Liga Barcelona will make their home season debut with some of their best players returning to the XI.",
+          "url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-athletic-club-la-liga-8-27-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Predicted Lineup vs. Athletic Club: La Liga",
+          "url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-athletic-club-la-liga-8-27-26",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Player Ratings vs. Athletic Club: Raphinha, Fermin Restore Camp Nou Magic",
+      "summary": "Barcelona Player Ratings vs. Athletic Club: Raphinha, Fermin Restore Camp Nou Magic",
+      "source_count": 2,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-athletic-club-raphinha-camp-nou-8-27-26",
+          "tier": "volume"
+        },
+        {
+          "name": "FC Barcelona Noticias",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Player Ratings vs. Athletic Club: Raphinha, Fermin Restore Camp Nou Magic",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-athletic-club-raphinha-camp-nou-8-27-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 12h Hector Fort leaves Barcelona and signs for Real Sociedad The deal is done.",
+      "summary": "www.barcablaugranes.com • 12h Hector Fort leaves Barcelona and signs for Real Sociedad The deal is done.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/130885/hector-fort-signs-for-real-sociedad?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/130448/hector-fort-real-sociedad-8m-transfer",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 12h Hector Fort leaves Barcelona and signs for Real Sociedad The deal is done.",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/130885/hector-fort-signs-for-real-sociedad?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Hector Fort set to leave Barcelona for Real Sociedad in €8m transferHector Fort set to leave Barcelona for Real Sociedad in €8m transfer",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/130448/hector-fort-real-sociedad-8m-transfer",
+          "summary": "Barcelona defender Hector Fort looks set to leave the club shortly to join La Liga side Real Sociedad. Fort has been told he’s surplus to requirements this season and is set to continue his career away from Camp Nou. Real Sociedad are now set to sign the youngster in transfer worth €8 million. Barcelona will […]Barcelona defender Hector Fort looks set to leave the club shortly to join La Liga side",
+          "published": "2026-08-26T13:00:00-04:002026-08-26T13:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona’s dream 2026-27 XI to win Champions League as Rodri fee agreed",
+      "summary": "Barcelona’s dream 2026-27 XI to win Champions League as Rodri fee agreed",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.planetfootball.com/barcelona/dream-barcelona-xi-2026-27-anthony-gordon#new_tab",
+          "tier": "volume"
+        },
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/barcelona-femeni-vs-lyon-uwcl-final-preview-how-to-watch",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona’s dream 2026-27 XI to win Champions League as Rodri fee agreed",
+          "url": "https://www.planetfootball.com/barcelona/dream-barcelona-xi-2026-27-anthony-gordon#new_tab",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Femeni vs. Lyon: The 2026 Women's Champions League Final",
+          "url": "https://everythingbarca.com/barcelona-femeni-vs-lyon-uwcl-final-preview-how-to-watch",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Who Barcelona Want to Play and Avoid in the Champions League DrawWho Barcelona Want to Play and Avoid in the Champions League Draw",
+      "summary": "Barcelona will discover who they will face in the league phase of the 2026-27 Champions League when the draw is made in Monaco on Thursday, August 27th. The full list of teams and Pots can be found right here. The Catalans will be hoping for a kind draw but the competition’s new format means there […]Barcelona will discover who they will face in the league phase of the 2026-27 Champions League whe",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/130463/who-barcelona-want-to-play-and-avoid-in-the-champions-league-draw",
+          "tier": "specialist"
+        },
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/champions-league-draw-everything-barcelona-fans-need-to-know-01m0zt74f65d",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Who Barcelona Want to Play and Avoid in the Champions League DrawWho Barcelona Want to Play and Avoid in the Champions League Draw",
+          "url": "https://www.barcablaugranes.com/barcelona-uefa-champions-league/130463/who-barcelona-want-to-play-and-avoid-in-the-champions-league-draw",
+          "summary": "Barcelona will discover who they will face in the league phase of the 2026-27 Champions League when the draw is made in Monaco on Thursday, August 27th. The full list of teams and Pots can be found right here. The Catalans will be hoping for a kind draw but the competition’s new format means there […]Barcelona will discover who they will face in the league phase of the 2026-27 Champions League whe",
+          "published": "2026-08-26T16:00:00-04:002026-08-26T16:00:00-04:00"
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Champions League draw: Everything Barcelona fans need to know",
+          "url": "https://everythingbarca.com/champions-league-draw-everything-barcelona-fans-need-to-know-01m0zt74f65d",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "¡Julián Álvarez vuelve a entrenar con el Atlético de Madrid!¡Julián Álvarez vuelve a entrenar con el Atlético de Madrid!",
+      "summary": "Julián Álvarez ha vuelto este domingo a entrenarse con el grupo del Atlético de Madrid , después de varias sesiones de ausencia por una indisposición, según la versión oficial del club rojiblanco. El delantero argentino se reincorpora al trabajo colectivo a poco más de 48 horas del cierre del mercado y en plena incertidumbre sobre su futuro. Julián no participó en los entrenamientos del miércoles,",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "SPORT",
+          "url": "https://www.sport.es/es/noticias/barca/julian-alvarez-vuelve-entrenar-atletico-133776941https://www.sport.es/es/noticias/barca/julian-alvarez-vuelve-entrenar-atletico-133776941",
+          "tier": "local"
+        },
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260829/11621891/atletico-madrid-convierte-julian-alvarez-cuestion-orgullo.htmlhttps://www.lavanguardia.com/deportes/futbol/20260829/11621891/atletico-madrid-convierte-julian-alvarez-cuestion-orgullo.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 25,
+          "source": "SPORT",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "¡Julián Álvarez vuelve a entrenar con el Atlético de Madrid!¡Julián Álvarez vuelve a entrenar con el Atlético de Madrid!",
+          "url": "https://www.sport.es/es/noticias/barca/julian-alvarez-vuelve-entrenar-atletico-133776941https://www.sport.es/es/noticias/barca/julian-alvarez-vuelve-entrenar-atletico-133776941",
+          "summary": "Julián Álvarez ha vuelto este domingo a entrenarse con el grupo del Atlético de Madrid , después de varias sesiones de ausencia por una indisposición, según la versión oficial del club rojiblanco. El delantero argentino se reincorpora al trabajo colectivo a poco más de 48 horas del cierre del mercado y en plena incertidumbre sobre su futuro. Julián no participó en los entrenamientos del miércoles,",
+          "published": ""
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "El Atlético convierte a Julián Álvarez en una cuestión de orgullo El Atlético convierte a Julián Álvarez en una cuestión de orgullo",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260829/11621891/atletico-madrid-convierte-julian-alvarez-cuestion-orgullo.htmlhttps://www.lavanguardia.com/deportes/futbol/20260829/11621891/atletico-madrid-convierte-julian-alvarez-cuestion-orgullo.html",
+          "summary": "El Barça no esperaba tal beligerancia y el jugador no se entrena El Barça no esperaba tal beligerancia y el jugador no se entrena",
+          "published": "29 Aug 2026 06:00:00 +020029 Aug 2026 06:00:00 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Mercado de oro para el BarçaMercado de oro para el Barça",
+      "summary": "El Barça encara los últimos días de mercado con varias operaciones todavía por cerrar, pero con una fotografía económica ya muy relevante. Si se completan las salidas que tiene encarriladas y Marc Casadó termina siendo traspasado por una cantidad cercana a los 20 millones de euros , la cifra se moverá alrededor de los 120 millones de ingresos durante este verano , sumando ventas directas, porcenta",
+      "source_count": 2,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "SPORT",
+          "url": "https://www.sport.es/es/noticias/barca/mercado-oro-barca-133767689https://www.sport.es/es/noticias/barca/mercado-oro-barca-133767689",
+          "tier": "local"
+        },
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221155/barca-multiusos-sonar.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221155/barca-multiusos-sonar.html",
+          "tier": "local"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 25,
+          "source": "SPORT",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Mercado de oro para el BarçaMercado de oro para el Barça",
+          "url": "https://www.sport.es/es/noticias/barca/mercado-oro-barca-133767689https://www.sport.es/es/noticias/barca/mercado-oro-barca-133767689",
+          "summary": "El Barça encara los últimos días de mercado con varias operaciones todavía por cerrar, pero con una fotografía económica ya muy relevante. Si se completan las salidas que tiene encarriladas y Marc Casadó termina siendo traspasado por una cantidad cercana a los 20 millones de euros , la cifra se moverá alrededor de los 120 millones de ingresos durante este verano , sumando ventas directas, porcenta",
+          "published": ""
+        },
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Un Barça multiusos para soñar Un Barça multiusos para soñar",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221155/barca-multiusos-sonar.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221155/barca-multiusos-sonar.html",
+          "summary": "A falta de saber si acabará llegando unando un ‘9’ que cubra la salida de Robert Lewandowski y Ferran Torres (40 goles entre los dos la temporada pasada), Hansi Flick se ha visto obligado a improvisar a Raphinha como delantero centro. Y ya en las dos primeras jornadas de LaLiga 2026-27 , el reconvertido extremo ha demostrado estar a la altura de las expectativas tácticas con sus tres primeros gole",
+          "published": "30 Aug 2026 08:22:18 +020030 Aug 2026 08:22:18 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "En Egipto desvelan las variables del fichaje de Hamza Abdelkarim por el Barça En Egipto desvelan las variables del fichaje de Hamza Abdelkarim por el Barça",
+      "summary": "Hamza Abdelkarim (18 años) ha sido uno de los nombres propios de la pretemporada del primer equipo del Barça. El delantero egipcio anotó cuatro goles en cinco partidos, incluido un doblete ante el Birmingham City y otro tanto frente al Al-Ahly en el Trofeu Joan Gamper , y dejó muy buenas sensaciones de cara al futuro. Hamza Abdelkarim (18 años) ha sido uno de los nombres propios de la pretemporada",
+      "source_count": 2,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004221010/operacion-fichaje-hamza-abdelkarim-barca-detalle.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004221010/operacion-fichaje-hamza-abdelkarim-barca-detalle.html",
+          "tier": "local"
+        },
+        {
+          "name": "Culemanía",
+          "url": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260829/jesse-bisiwu-hamza-abdelkarim-fichaje-barca-ansiado/1003742790234_0.html",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "En Egipto desvelan las variables del fichaje de Hamza Abdelkarim por el Barça En Egipto desvelan las variables del fichaje de Hamza Abdelkarim por el Barça",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004221010/operacion-fichaje-hamza-abdelkarim-barca-detalle.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004221010/operacion-fichaje-hamza-abdelkarim-barca-detalle.html",
+          "summary": "Hamza Abdelkarim (18 años) ha sido uno de los nombres propios de la pretemporada del primer equipo del Barça. El delantero egipcio anotó cuatro goles en cinco partidos, incluido un doblete ante el Birmingham City y otro tanto frente al Al-Ahly en el Trofeu Joan Gamper , y dejó muy buenas sensaciones de cara al futuro. Hamza Abdelkarim (18 años) ha sido uno de los nombres propios de la pretemporada",
+          "published": "29 Aug 2026 18:23:39 +020029 Aug 2026 18:23:39 +0200"
+        },
+        {
+          "source_id": 39,
+          "source": "Culemanía",
+          "tier": "specialist",
+          "lang": [
+            "es"
+          ],
+          "title": "Ni Jesse Bisiwu ni Hamza Abdelkarim: el nuevo fichaje del Barça que sigue a la espera del ansiado debut",
+          "url": "https://cronicaglobal.elespanol.com/culemania/primer-equipo/20260829/jesse-bisiwu-hamza-abdelkarim-fichaje-barca-ansiado/1003742790234_0.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Un nuevo reto para el Barça y para Joan Garcia Un nuevo reto para el Barça y para Joan Garcia",
+      "summary": "El arranque liguero del FC Barcelona no podría haber sido mejor en clave defensiva: dos partidos disputados y cero goles encajados. Los de Hansi Flick han convertido la defensa blaugrana en un auténtico baluarte para unos ataques rivales que apenas han conseguido acercarse a la portería defendida por Joan Garcia , ganador del Trofeo Zamora la pasada temporada.El arranque liguero del FC Barcelona n",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220976/nuevo-reto-barca-joan-garcia.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220976/nuevo-reto-barca-joan-garcia.html",
+          "tier": "local"
+        },
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260829/11621935/barca-gourmets.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260829/11621935/barca-gourmets.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Un nuevo reto para el Barça y para Joan Garcia Un nuevo reto para el Barça y para Joan Garcia",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220976/nuevo-reto-barca-joan-garcia.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220976/nuevo-reto-barca-joan-garcia.html",
+          "summary": "El arranque liguero del FC Barcelona no podría haber sido mejor en clave defensiva: dos partidos disputados y cero goles encajados. Los de Hansi Flick han convertido la defensa blaugrana en un auténtico baluarte para unos ataques rivales que apenas han conseguido acercarse a la portería defendida por Joan Garcia , ganador del Trofeo Zamora la pasada temporada.El arranque liguero del FC Barcelona n",
+          "published": "29 Aug 2026 16:21:08 +020029 Aug 2026 16:21:08 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Un Barça para gourmets Un Barça para gourmets",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260829/11621935/barca-gourmets.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260829/11621935/barca-gourmets.html",
+          "summary": "",
+          "published": "29 Aug 2026 06:00:00 +020029 Aug 2026 06:00:00 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "BARÇABARÇA",
+      "summary": "Ficharán un defensa joven con proyección si sale un jugador, probablemente BaldeFicharán un defensa joven con proyección si sale un jugador, probablemente Balde",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/08/29/busca-central.htmlhttps://www.marca.com/futbol/barcelona/2026/08/29/busca-central.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/08/29/busca-central.htmlhttps://www.marca.com/futbol/barcelona/2026/08/29/busca-central.html",
+          "summary": "Ficharán un defensa joven con proyección si sale un jugador, probablemente BaldeFicharán un defensa joven con proyección si sale un jugador, probablemente Balde",
+          "published": "Sat, 29 Aug 2026 14:19:04 +0200Sat, 29 Aug 2026 14:19:04 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/08/29/barca-debuta-frente-feyenoord-champions.htmlhttps://www.marca.com/futbol/barcelona/2026/08/29/barca-debuta-frente-feyenoord-champions.html",
+          "summary": "Este es el calendario de los azulgranas para la liguilla de la máxima competición europeaEste es el calendario de los azulgranas para la liguilla de la máxima competición europea",
+          "published": "Sat, 29 Aug 2026 13:41:53 +0200Sat, 29 Aug 2026 13:41:53 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/08/29/barca-caja-venta-dos-chavales.htmlhttps://www.marca.com/futbol/barcelona/2026/08/29/barca-caja-venta-dos-chavales.html",
+          "summary": "Toni Fernández se va al Venecia por 5 millones y Ávaro Cortés al Amberes por 3,5Toni Fernández se va al Venecia por 5 millones y Ávaro Cortés al Amberes por 3,5",
+          "published": "Sat, 29 Aug 2026 12:00:33 +0200Sat, 29 Aug 2026 12:00:33 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/08/29/flick-quiere-subir-podio.htmlhttps://www.marca.com/futbol/barcelona/2026/08/29/flick-quiere-subir-podio.html",
+          "summary": "Busca su tercera Liga consecutiva, algo que sólo Cruyff y Guardiola consiguieronBusca su tercera Liga consecutiva, algo que sólo Cruyff y Guardiola consiguieron",
+          "published": "Sat, 29 Aug 2026 10:57:46 +0200Sat, 29 Aug 2026 10:57:46 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/08/28/hay-palos-lamine.htmlhttps://www.marca.com/futbol/barcelona/2026/08/28/hay-palos-lamine.html",
+          "summary": "Rozó el gol contra el Athletic, pero Unai y la madera lo impidieron: hay confianza máxima en élRozó el gol contra el Athletic, pero Unai y la madera lo impidieron: hay confianza máxima en él",
+          "published": "Fri, 28 Aug 2026 18:39:06 +0200Fri, 28 Aug 2026 18:39:06 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/08/28/barca-cree-balde-marcha-atras.htmlhttps://www.marca.com/futbol/barcelona/2026/08/28/barca-cree-balde-marcha-atras.html",
+          "summary": "Apostó por continuar y no ha comunicado lo contrario pese a no jugar contra el AthleticApostó por continuar y no ha comunicado lo contrario pese a no jugar contra el Athletic",
+          "published": "Fri, 28 Aug 2026 17:12:33 +0200Fri, 28 Aug 2026 17:12:33 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/08/28/xavi-espart-nacido-estrella-barca.htmlhttps://www.marca.com/futbol/barcelona/2026/08/28/xavi-espart-nacido-estrella-barca.html",
+          "summary": "El canterano tiene asombrados a Flick y a sus compañerosEl canterano tiene asombrados a Flick y a sus compañeros",
+          "published": "Fri, 28 Aug 2026 13:55:37 +0200Fri, 28 Aug 2026 13:55:37 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/08/28/livakovic-entrena-primera-vez-barca.htmlhttps://www.marca.com/futbol/barcelona/2026/08/28/livakovic-entrena-primera-vez-barca.html",
+          "summary": "El meta croata aún no tiene claro si se quedará en el Spotify Camp NouEl meta croata aún no tiene claro si se quedará en el Spotify Camp Nou",
+          "published": "Fri, 28 Aug 2026 12:03:28 +0200Fri, 28 Aug 2026 12:03:28 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "FC BARCELONAFC BARCELONA",
+      "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+          "published": "Mon, 09 Jun 2025 20:07:06 +0200Mon, 09 Jun 2025 20:07:06 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.html",
+          "summary": "El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"",
+          "published": "Mon, 09 Jun 2025 18:51:43 +0200Mon, 09 Jun 2025 18:51:43 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.html",
+          "summary": "Se reunió con Ceferin para intentar mitigar el castigo por irregularidades financierasSe reunió con Ceferin para intentar mitigar el castigo por irregularidades financieras",
+          "published": "Mon, 09 Jun 2025 12:34:03 +0200Mon, 09 Jun 2025 12:34:03 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.html",
+          "summary": "Principio de acuerdo para la rescisión del contrato del futbolistaPrincipio de acuerdo para la rescisión del contrato del futbolista",
+          "published": "Mon, 09 Jun 2025 13:47:01 +0200Mon, 09 Jun 2025 13:47:01 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "ESPN FC 2d @ESPNFC RAPHINHA BREAKS THE DEADLOCK FOR BARCELONA 🔥 View on X",
+      "summary": "ESPN FC 2d @ESPNFC RAPHINHA BREAKS THE DEADLOCK FOR BARCELONA 🔥 View on X",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://twitter.com/ESPNFC/status/2093062820384371071",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "ESPN FC 2d @ESPNFC RAPHINHA BREAKS THE DEADLOCK FOR BARCELONA 🔥 View on X",
+          "url": "https://twitter.com/ESPNFC/status/2093062820384371071",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "ESPN FC 2d @ESPNFC Rodri makes his official Barcelona debut 🤩 View on X",
+          "url": "https://twitter.com/ESPNFC/status/2093075143832600994",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "FC Barcelona 5h We’re in safe hands 🧤😌 View on X",
+      "summary": "FC Barcelona 5h We’re in safe hands 🧤😌 View on X",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://twitter.com/FCBarcelona/status/2093911774453965288",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "FC Barcelona 5h We’re in safe hands 🧤😌 View on X",
+          "url": "https://twitter.com/FCBarcelona/status/2093911774453965288",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "FC Barcelona 6h 1️⃣1️⃣©️ View on X",
+          "url": "https://twitter.com/FCBarcelona/status/2093896494101213347",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 2h How will Barcelona line up against Rayo Vallecano? Hansi Flick’s possible XI for Monday’s clash",
+      "summary": "www.barcablaugranes.com • 2h How will Barcelona line up against Rayo Vallecano? Hansi Flick’s possible XI for Monday’s clash",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/130906/how-will-barcelona-line-up-against-rayo-vallecano-in-their-next-la-liga-match?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 2h How will Barcelona line up against Rayo Vallecano? Hansi Flick’s possible XI for Monday’s clash",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/130906/how-will-barcelona-line-up-against-rayo-vallecano-in-their-next-la-liga-match?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 4h ‘Hansi Flick deserves a lot of credit’ - Rayo boss talks Barcelona and Raphinha ahead of La Liga clash The two teams meet on Monday.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/130830/hansi-flick-credit-rayo-boss?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Fabrizio Romano reveals Alejandro Balde stance on joining Man Utd from Barcelona",
+      "summary": "Fabrizio Romano reveals Alejandro Balde stance on joining Man Utd from Barcelona",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/alejandro-balde-manchester-united-barcelona-fabrizio-romano-transfer-update",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Fabrizio Romano reveals Alejandro Balde stance on joining Man Utd from Barcelona",
+          "url": "https://www.football365.com/news/alejandro-balde-manchester-united-barcelona-fabrizio-romano-transfer-update",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Man Utd signing Barcelona star is now ’50/50′ chance – Fabrizio Romano",
+          "url": "https://www.football365.com/news/man-utd-signing-barcelona-alejandro-balde-50-50-chance-fabrizio-romano",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona star makes U-turn on saying yes to Man Utd after Red Devils make offer",
+      "summary": "Barcelona star makes U-turn on saying yes to Man Utd after Red Devils make offer",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/barcelona-star-makes-u-turn-on-saying-yes-to-man-utd-after-red-devils-make-offer",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona star makes U-turn on saying yes to Man Utd after Red Devils make offer",
+          "url": "https://www.football365.com/news/barcelona-star-makes-u-turn-on-saying-yes-to-man-utd-after-red-devils-make-offer",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Man Utd make fresh decision on signing Myles Lewis-Skelly as offer for Barcelona star is lodged",
+          "url": "https://www.football365.com/news/man-utd-fresh-decision-lewis-skelly-barcelona-balde-offer",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "El debut táctico de Rodri El debut táctico de Rodri",
+      "summary": "El debut táctico de Rodri El debut táctico de Rodri",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/20260828/11621443/debut-tactico-rodri.htmlhttps://www.lavanguardia.com/deportes/20260828/11621443/debut-tactico-rodri.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "El debut táctico de Rodri El debut táctico de Rodri",
+          "url": "https://www.lavanguardia.com/deportes/20260828/11621443/debut-tactico-rodri.htmlhttps://www.lavanguardia.com/deportes/20260828/11621443/debut-tactico-rodri.html",
+          "summary": "",
+          "published": "28 Aug 2026 00:40:39 +020028 Aug 2026 00:40:39 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "El debut de Rodri: “Estoy donde quería estar” El debut de Rodri: “Estoy donde quería estar”",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260827/11621327/debut-rodri-queria.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260827/11621327/debut-rodri-queria.html",
+          "summary": "El fichaje blaugrana jugó sus primeros minutos como jugador del Barça en la victoria sobre el Athletic Club El fichaje blaugrana jugó sus primeros minutos como jugador del Barça en la victoria sobre el Athletic Club",
+          "published": "27 Aug 2026 23:56:17 +020027 Aug 2026 23:56:17 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "summary": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Foundation The Official site of the Barça Foundation.",
+      "summary": "Barça Foundation The Official site of the Barça Foundation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Foundation The Official site of the Barça Foundation.",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "summary": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Innovation Hub The center for sports knowledge and innovation.",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "summary": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcamobile.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+          "url": "https://barcamobile.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Espai Barça The largest and most innovative sports and entertainment space",
+      "summary": "Espai Barça The largest and most innovative sports and entertainment space",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Espai Barça The largest and most innovative sports and entertainment space",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "summary": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://memorialfcbarcelona.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+          "url": "https://memorialfcbarcelona.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "summary": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "summary": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "summary": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "summary": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Players Find all the players that have played for Barça!",
+      "summary": "Barça Players Find all the players that have played for Barça!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Players Find all the players that have played for Barça!",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Rookies Barça's most special fans!",
+      "summary": "Barça Rookies Barça's most special fans!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Rookies Barça's most special fans!",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Olivia Rodrigo's festival is uniting women and girls behind nonprofits promoting their well-being",
+      "summary": "Olivia Rodrigo's festival is uniting women and girls behind nonprofits promoting their well-being",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Associated Press",
+          "url": "https://apnews.com/article/olivia-rodrigo-daisy-chain-fields-aa831e6e96d6e75f315ae35633c6cd06",
+          "tier": "wire"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 5,
+          "source": "Associated Press",
+          "tier": "wire",
+          "lang": [
+            "en"
+          ],
+          "title": "Olivia Rodrigo's festival is uniting women and girls behind nonprofits promoting their well-being",
+          "url": "https://apnews.com/article/olivia-rodrigo-daisy-chain-fields-aa831e6e96d6e75f315ae35633c6cd06",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Xavi hopes time at the ‘university of football’ will end with Dutch successXavi hopes time at the ‘university of football’ will end with Dutch success",
+      "summary": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach “My feeling today is that I’m going to the university of football.” Those were Xavi Hernández’s opening words at his presentation as the Netherlands coach on Tuesday. “I learned a lot from this university of football during my career as a player and as a coach. I have many con",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelonahttps://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelona",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Xavi hopes time at the ‘university of football’ will end with Dutch successXavi hopes time at the ‘university of football’ will end with Dutch success",
+          "url": "https://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelonahttps://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelona",
+          "summary": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach “My feeling today is that I’m going to the university of football.” Those were Xavi Hernández’s opening words at his presentation as the Netherlands coach on Tuesday. “I learned a lot from this university of football during my career as a player and as a coach. I have many con",
+          "published": "Tue, 25 Aug 2026 19:58:37 GMTTue, 25 Aug 2026 19:58:37 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Julián Álvarez walks alone at Atlético in transfer saga with no end – and no winners | Sid LoweJulián Álvarez walks alone at Atlético in transfer saga with no end – and no winners | Sid Lowe",
+      "summary": "Barcelona target left exposed after draw with Villarreal as supporters vented their fury at his ‘dream’ to leave Julián Álvarez entered a long, dark tunnel on his own. “We’re stronger together,” Giuliano Simeone said but that wasn’t the way it went. At the end of their first home game of the season, a 2-2 draw with Villarreal, all of Atlético Madrid’s players gathered by the centre circle, shook h",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/24/julian-alvarez-walks-alone-at-atletico-madrid-barcelona-transfer-saga-la-ligahttps://www.theguardian.com/football/2026/aug/24/julian-alvarez-walks-alone-at-atletico-madrid-barcelona-transfer-saga-la-liga",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Julián Álvarez walks alone at Atlético in transfer saga with no end – and no winners | Sid LoweJulián Álvarez walks alone at Atlético in transfer saga with no end – and no winners | Sid Lowe",
+          "url": "https://www.theguardian.com/football/2026/aug/24/julian-alvarez-walks-alone-at-atletico-madrid-barcelona-transfer-saga-la-ligahttps://www.theguardian.com/football/2026/aug/24/julian-alvarez-walks-alone-at-atletico-madrid-barcelona-transfer-saga-la-liga",
+          "summary": "Barcelona target left exposed after draw with Villarreal as supporters vented their fury at his ‘dream’ to leave Julián Álvarez entered a long, dark tunnel on his own. “We’re stronger together,” Giuliano Simeone said but that wasn’t the way it went. At the end of their first home game of the season, a 2-2 draw with Villarreal, all of Atlético Madrid’s players gathered by the centre circle, shook h",
+          "published": "Mon, 24 Aug 2026 15:13:24 GMTMon, 24 Aug 2026 15:13:24 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Ayyoub Bouaddi: maths student, chess fan and Manchester City’s new RodriAyyoub Bouaddi: maths student, chess fan and Manchester City’s new Rodri",
+      "summary": "The £85m midfielder passed his exams a year early, is studying for a degree and is ready to tackle Premier League learning curve “He’s like a computer,” the former Lille head of academy recruitment, Mathieu Frison, says of the €100m (£85.7m) Manchester City recruit Ayyoub Bouaddi . “You teach him something, he learns it and can do it immediately.” Bouaddi has the mountainous challenge at his new c",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/26/ayyoub-bouaddi-manchester-city-lille-transfer-rodrihttps://www.theguardian.com/football/2026/aug/26/ayyoub-bouaddi-manchester-city-lille-transfer-rodri",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Ayyoub Bouaddi: maths student, chess fan and Manchester City’s new RodriAyyoub Bouaddi: maths student, chess fan and Manchester City’s new Rodri",
+          "url": "https://www.theguardian.com/football/2026/aug/26/ayyoub-bouaddi-manchester-city-lille-transfer-rodrihttps://www.theguardian.com/football/2026/aug/26/ayyoub-bouaddi-manchester-city-lille-transfer-rodri",
+          "summary": "The £85m midfielder passed his exams a year early, is studying for a degree and is ready to tackle Premier League learning curve “He’s like a computer,” the former Lille head of academy recruitment, Mathieu Frison, says of the €100m (£85.7m) Manchester City recruit Ayyoub Bouaddi . “You teach him something, he learns it and can do it immediately.” Bouaddi has the mountainous challenge at his new c",
+          "published": "Wed, 26 Aug 2026 14:00:15 GMTWed, 26 Aug 2026 14:00:15 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Ugly scenes as Argentina lose World Cup final – videoUgly scenes as Argentina lose World Cup final – video",
+      "summary": "There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then sent off after shoving Spain's Eric García by the throat and wrestling Gavi to the ground. He had already been booked during the match. The antics after the final whistle were quickly condemned by UK broadcast",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-videohttps://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Ugly scenes as Argentina lose World Cup final – videoUgly scenes as Argentina lose World Cup final – video",
+          "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-videohttps://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video",
+          "summary": "There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then sent off after shoving Spain's Eric García by the throat and wrestling Gavi to the ground. He had already been booked during the match. The antics after the final whistle were quickly condemned by UK broadcast",
+          "published": "Mon, 20 Jul 2026 11:21:26 GMTMon, 20 Jul 2026 11:21:26 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+      "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+          "published": "Fri, 19 Dec 2025 10:04:51 GMTFri, 19 Dec 2025 10:04:51 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+      "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+          "published": "Fri, 05 Dec 2025 08:00:42 GMTFri, 05 Dec 2025 08:00:42 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Youthful Barcelona Smash Record That Evokes Memories of Pep Guardiola’s Team",
+      "summary": "Youthful Barcelona Smash Record That Evokes Memories of Pep Guardiola’s Team",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/youthful-barcelona-smash-record-memories-pep-guardiola",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Youthful Barcelona Smash Record That Evokes Memories of Pep Guardiola’s Team",
+          "url": "https://www.si.com/soccer/youthful-barcelona-smash-record-memories-pep-guardiola",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona, Man City Icon Makes European History Just Three Months Into Managerial Debut",
+      "summary": "Barcelona, Man City Icon Makes European History Just Three Months Into Managerial Debut",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-man-city-icon-makes-european-history-three-months-into-managerial-debut",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona, Man City Icon Makes European History Just Three Months Into Managerial Debut",
+          "url": "https://www.si.com/soccer/barcelona-man-city-icon-makes-european-history-three-months-into-managerial-debut",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "What Is Wrong With the Struggling, Frustrated Lamine Yamal?",
+      "summary": "What Is Wrong With the Struggling, Frustrated Lamine Yamal?",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/what-is-wrong-with-struggling-lamine-yamal",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "What Is Wrong With the Struggling, Frustrated Lamine Yamal?",
+          "url": "https://www.si.com/soccer/what-is-wrong-with-struggling-lamine-yamal",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "The 25 Best Barcelona Players of All Time—Ranked",
+      "summary": "The 25 Best Barcelona Players of All Time—Ranked",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/best-barcelona-players-of-all-time-ranked",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "The 25 Best Barcelona Players of All Time—Ranked",
+          "url": "https://www.si.com/soccer/best-barcelona-players-of-all-time-ranked",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.theguardian.com • 1d Alvarez 'Never' to Barça 🙅‍♂️ Atleti chief claims his club won't ever sell in-demand striker to La Liga rivals",
+      "summary": "www.theguardian.com • 1d Alvarez 'Never' to Barça 🙅‍♂️ Atleti chief claims his club won't ever sell in-demand striker to La Liga rivals",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.theguardian.com/football/2026/aug/27/atletico-madrid-julian-alvarez-barcelona-transfer-news?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.theguardian.com • 1d Alvarez 'Never' to Barça 🙅‍♂️ Atleti chief claims his club won't ever sell in-demand striker to La Liga rivals",
+          "url": "https://www.theguardian.com/football/2026/aug/27/atletico-madrid-julian-alvarez-barcelona-transfer-news?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 2d Barça Eases Past Athletic Club 😎 Rodri debuts in second-straight win for Flick's side",
+      "summary": "www.barcablaugranes.com • 2d Barça Eases Past Athletic Club 😎 Rodri debuts in second-straight win for Flick's side",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/130652/barcelona-athletic-club-la-liga-final-score-match-report-recap-reactions?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 2d Barça Eases Past Athletic Club 😎 Rodri debuts in second-straight win for Flick's side",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/130652/barcelona-athletic-club-la-liga-final-score-match-report-recap-reactions?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    }
+  ]
+}
