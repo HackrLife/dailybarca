@@ -1,0 +1,344 @@
+{
+  "number": 243,
+  "date": "2026-08-31",
+  "label": "Monday 31 Aug 2026",
+  "title": {
+    "en": "Barcelona close Gabriel Jesus deal from Arsenal; Rayo Vallecano at 21:30",
+    "es": "El Barça cierra a Gabriel Jesus del Arsenal; Rayo Vallecano a las 21:30"
+  },
+  "deck": {
+    "en": "Documents exchanged for €10m fixed plus add-ons. Jesus due Monday for medical. Rayo at Camp Nou tonight.",
+    "es": "Documentos intercambiados por 10 millones fijos más variables. Jesus llega el lunes a la médica. Rayo esta noche en el Camp Nou."
+  },
+  "defaultSources": [
+    {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+    {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"},
+    {"label": "SPORT", "url": "https://www.sport.es/es/barca/"},
+    {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona.html"},
+    {"label": "AS", "url": "https://as.com/futbol/barcelona/"},
+    {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
+  ],
+  "stories": [
+    {
+      "theme": "transfer",
+      "kicker": {"en": "Transfer", "es": "Mercado"},
+      "headline": {
+        "en": "Barcelona and Arsenal exchange documents for Gabriel Jesus",
+        "es": "El Barça y el Arsenal intercambian documentos por Gabriel Jesus"
+      },
+      "summary": {
+        "en": "Barcelona and Arsenal have exchanged documents on a deal for Gabriel Jesus. Fabrizio Romano reported a €10m fixed fee, €4m in add-ons and a 20% sell-on. The Brazilian is due in Barcelona on Monday for medical tests and contract signing until June 2028 with an option.",
+        "es": "El Barça y el Arsenal han intercambiado documentos por Gabriel Jesus. Fabrizio Romano habla de 10 millones fijos, 4 en variables y un 20% de plusvalía. El brasileño llega el lunes a la revisión médica y firmará hasta junio de 2028 con opción."
+      },
+      "body": {
+        "en": "The agreement crystallised on Sunday. Barcelona moved for the 29-year-old after Atlético Madrid continued to block any path to Julián Álvarez. Romano and Spanish desks put the package at €10 million fixed plus €4 million in performance-related add-ons, with Arsenal retaining a 20% share of a future sale.\n\nJesus will land in Barcelona on Monday afternoon, complete the medical and sign a contract running to June 2028 with a club option for a further year. Presentation is planned for Tuesday. Hansi Flick had publicly backed Deco’s market work and noted the need for a pure centre-forward after the departures of Robert Lewandowski and Ferran Torres. The window closes on 1 September."
+      },
+      "tweets": [
+        {
+          "name": "Fabrizio Romano",
+          "handle": "@FabrizioRomano",
+          "id": "2094169170174746641",
+          "text": "Barcelona and Arsenal have now exchanged documents for Gabriel Jesus deal. €10m fixed fee, €4m add-ons and 20% sell-on clause. Gabriel will land in Barcelona tomorrow for medical tests and contract signing. Contract until June 2028 plus option to extend."
+        },
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2094166396057870393",
+          "text": "La agenda prevista con Gabriel Jesus. La previsión es que el delantero brasileño aterrice por la tarde de este lunes y pase revisión médica antes de firmar su contrato con el Barça y ser presentado el martes."
+        },
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2094142861998506057",
+          "text": "¡El Barça ya tiene '9'! Tras la negativa del Atlético de Madrid con Julián, el Barça ha encontrado su alternativa en la Premier League: Gabriel Jesus es el elegido."
+        }
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260830/1004221387/agenda-prevista-gabriel-jesus.html"},
+        {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/7372620/2026/08/30/gabriel-jesus-barcelona-arsenal-transfer/"},
+        {"label": "Sky Sports", "url": "https://www.skysports.com/football/news/11670/13579021/gabriel-jesus-barcelona-agree-lb8-6m-deal-in-principle-to-sign-arsenal-and-brazil-forward"}
+      ]
+    },
+    {
+      "theme": "league",
+      "kicker": {"en": "League", "es": "Liga"},
+      "headline": {
+        "en": "Rayo Vallecano at Spotify Camp Nou tonight at 21:30",
+        "es": "El Rayo Vallecano visita el Spotify Camp Nou esta noche a las 21:30"
+      },
+      "summary": {
+        "en": "Barcelona host Rayo Vallecano in La Liga matchday three on Monday night. Kick-off is 21:30 CET at Spotify Camp Nou. The side sit on six points from two matches with seven goals scored and none conceded.",
+        "es": "El Barça recibe al Rayo Vallecano en la jornada 3 de Liga este lunes por la noche. Saque inicial a las 21:30 en el Spotify Camp Nou. El equipo suma seis puntos de dos partidos, siete goles a favor y cero en contra."
+      },
+      "body": {
+        "en": "The fixture closes the third round of the season. Barcelona have won both opening games 5-0 at Elche and 2-0 against Athletic Club. Raphinha and Fermín López share the early scoring lead with three goals each. Joan García has kept two clean sheets.\n\nGavi remains a doubt after the knee knock at Elche and worked individually over the weekend. Pedri is available. Dominik Livaković has completed further sessions with the group. Rayo sit on one point from two matches and typically defend deep before looking for transitions. Squad announcement is expected closer to kick-off."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2094168280059515341",
+          "text": "See you again tomorrow, Rodri"
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2094168279208096213",
+          "text": "Corriendo hacia el #BarçaRayo"
+        },
+        {
+          "name": "LaLiga",
+          "handle": "@LaLiga",
+          "text": "Barça - Rayo Vallecano. Monday 21:30 at Spotify Camp Nou."
+        }
+      ],
+      "sources": [
+        {"label": "LaLiga", "url": "https://www.laliga.com/partido/temporada-2026-2027-laliga-ea-sports-fc-barcelona-rayo-vallecano-3"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/horario-ver-tv-directo-fc-133767350"}
+      ]
+    },
+    {
+      "theme": "transfer",
+      "kicker": {"en": "Transfer", "es": "Mercado"},
+      "headline": {
+        "en": "Jesus deal does not close the Álvarez file for future windows",
+        "es": "El fichaje de Jesus no cierra el expediente Álvarez para futuros mercados"
+      },
+      "summary": {
+        "en": "Barcelona sources and Spanish coverage treat the Gabriel Jesus arrival as a market opportunity separate from Julián Álvarez. Atlético Madrid continue to block any sale to their rivals. The club still views Álvarez as a longer-term target.",
+        "es": "Fuentes del Barça y la prensa española tratan la llegada de Gabriel Jesus como una oportunidad de mercado separada de Julián Álvarez. El Atlético sigue bloqueando cualquier venta a su rival. El club mantiene a Álvarez como objetivo a más largo plazo."
+      },
+      "body": {
+        "en": "Flick and Deco had framed the summer as Álvarez or no classic number nine. Once Atlético’s refusal hardened, the board authorised a low-cost alternative. The Athletic and Mundo Deportivo both report that the Jesus talks ran in parallel and do not cancel future interest in the Argentine.\n\nAtlético have publicly ruled out a move to Barcelona. Arsenal interest in Álvarez remains the alternative narrative in English coverage. For the current squad list the practical effect is immediate: Jesus fills the pure striker role for the coming weeks while the club waits for a later window."
+      },
+      "tweets": [
+        {
+          "name": "Fabrizio Romano",
+          "handle": "@FabrizioRomano",
+          "id": "2094048971807195487",
+          "text": "Gabriel Jesus and Barcelona, deal until June 2028 plus option and package over €10m to Arsenal. The surprise of the day."
+        },
+        {
+          "name": "BarcaFutbolLive",
+          "handle": "@BarcaFutbolLive",
+          "id": "2094049797510668646",
+          "text": "It's going to be fun covering for Lewa between Hamza, Jesus, Gordon, Adeyemi, Bisiwu, Fermin and Olmo!!! Lamine and Rapha to score the rest!!!"
+        }
+      ],
+      "sources": [
+        {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/7372620/2026/08/30/gabriel-jesus-barcelona-arsenal-transfer/"},
+        {"label": "MARCA", "url": "https://www.marca.com/en/football/spanish-football/2026/08/30/barca-signs-gabriel-jesus-and-forgets-about-julian-alvarez.html"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Squad", "es": "Plantilla"},
+      "headline": {
+        "en": "Gavi still individual after Elche; Livaković in the group",
+        "es": "Gavi sigue individual tras Elche; Livaković con el grupo"
+      },
+      "summary": {
+        "en": "Gavi continues separate work after the right-knee knock that forced him off at Elche. Dominik Livaković has trained with the senior group for consecutive days. Pedri remains available for the Rayo match.",
+        "es": "Gavi sigue con trabajo individual tras el golpe en la rodilla derecha que le obligó a salir en Elche. Dominik Livaković ha entrenado con el grupo varios días seguidos. Pedri está disponible para el Rayo."
+      },
+      "body": {
+        "en": "Flick indicated after Elche that the first medical images on Gavi were better than the visual suggested. The midfielder has not rejoined full-group sessions over the weekend. Club sources expect him to step up after the Rayo fixture ahead of the Valencia trip.\n\nLivaković, signed until 2030 from Fenerbahçe, is now a regular at the Ciutat Esportiva. Joan García has started both Liga matches. Whether the Croatian is registered for the current list or goes out on loan still hinges on the final fair-play calculation after the summer arrivals."
+      },
+      "tweets": [
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "text": "Sesión en el Barça con Livakovic y sin Gavi."
+        },
+        {
+          "name": "BarcaFutbolLive",
+          "handle": "@BarcaFutbolLive",
+          "text": "Still individual work for Gavi. Pedri covers the minutes for now."
+        }
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260829/1004220918/sesion-livakovic-gavi.html"}
+      ]
+    },
+    {
+      "theme": "transfer",
+      "kicker": {"en": "Transfer", "es": "Mercado"},
+      "headline": {
+        "en": "Héctor Fort completes Real Sociedad move on €8.5m package",
+        "es": "Héctor Fort completa el traspaso a la Real Sociedad por unos 8,5 millones"
+      },
+      "summary": {
+        "en": "Héctor Fort’s transfer to Real Sociedad is done. Barcelona retain a buy-back near €20m and a sell-on share. The 20-year-old watched Real’s win over Espanyol from the stands before the announcement.",
+        "es": "El traspaso de Héctor Fort a la Real Sociedad está cerrado. El Barça se guarda una opción de recompra cerca de 20 millones y un porcentaje de futura venta. El canterano de 20 años vio el triunfo de la Real ante el Espanyol desde la grada."
+      },
+      "body": {
+        "en": "Official confirmation arrived on Saturday evening. The fee sits at roughly €8–8.5 million for a majority stake in the rights. Fort signs through 2031. He spent last season on loan at Elche and did not feature in Flick’s opening Liga squads.\n\nThe sale generates pure profit as a home-grown asset and frees salary room under the 1:1 rule. Real needed right-back cover. Fort is expected to begin training with his new club immediately."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2093791124766785623",
+          "text": "FC Barcelona and Real Sociedad have reached an agreement for the transfer of Héctor Fort. FC Barcelona retain a buy-back option and a percentage of any future sale."
+        },
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2093792687589560788",
+          "text": "Oficial: Héctor Fort, traspasado a la Real Sociedad. El Barça mantiene el 50% de los derechos."
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/oficial-hector-fort-traspasado-real-sociedad-barca-barcelona-133694345"}
+      ]
+    },
+    {
+      "theme": "transfer",
+      "kicker": {"en": "Transfer", "es": "Mercado"},
+      "headline": {
+        "en": "Toni Fernández heads to Venezia for €4m with buy-back",
+        "es": "Toni Fernández se marcha al Venezia por 4 millones con opción de recompra"
+      },
+      "summary": {
+        "en": "Barcelona have agreed the sale of 18-year-old Toni Fernández to Venezia. The fee is reported at €4 million and the club keep a buy-back clause. The attacker was entering the final year of his contract.",
+        "es": "El Barça ha acordado la venta de Toni Fernández, de 18 años, al Venezia. La cifra se sitúa en 4 millones y el club mantiene una opción de recompra. El atacante entraba en el último año de contrato."
+      },
+      "body": {
+        "en": "The move follows the same pattern as other academy exits this window. Deco has cleared contracts that lack a clear first-team path while protecting future value with repurchase options. Álvaro Cortés and Héctor Fort have followed similar routes.\n\nFernández is an attacking prospect from La Masia. Venezia, newly in Serie A, provide regular minutes. Barcelona retain the right to bring him back if his development accelerates."
+      },
+      "tweets": [
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "text": "Toni Fernández, cerca del Venezia. Operación en torno a 4 millones con opción de recompra."
+        },
+        {
+          "name": "BarcaFutbolLive",
+          "handle": "@BarcaFutbolLive",
+          "text": "Another Masia exit with a buy-back. Toni Fernández to Venezia for around €4m."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "theme": "ucl",
+      "kicker": {"en": "UCL", "es": "Champions"},
+      "headline": {
+        "en": "Feyenoord at home on 9 September at 18:45 remains the opener",
+        "es": "El Feyenoord en casa el 9 de septiembre a las 18:45 sigue siendo el estreno"
+      },
+      "summary": {
+        "en": "UEFA confirmed the league-phase kick-off times. Barcelona open at Spotify Camp Nou against Feyenoord on 9 September at 18:45 CET. Eric García is suspended for that match after last season’s red card at Atlético.",
+        "es": "La UEFA confirmó los horarios de la fase de liga. El Barça estrena en el Spotify Camp Nou ante el Feyenoord el 9 de septiembre a las 18:45. Eric García está sancionado por la roja del Metropolitano."
+      },
+      "body": {
+        "en": "The early European start sits after a Liga weekend and leaves a short recovery window. Eric García’s ban carries over from the Champions League quarter-final second leg at the Metropolitano. Jules Koundé and Xavi Espart are the natural options on that side.\n\nThe rest of the eight-game list—Galatasaray, PSG, Aston Villa, Manchester City, Sporting and Como—was already public. Flick will balance minutes carefully between the domestic midweek and the continental opener."
+      },
+      "tweets": [
+        {
+          "name": "Champions League",
+          "handle": "@ChampionsLeague",
+          "text": "League phase times confirmed. Barcelona start at home against Feyenoord."
+        },
+        {
+          "name": "Samuel Marsden",
+          "handle": "@samuelmarsden",
+          "text": "Barcelona's UCL times are out. Feyenoord at home, 18:45 on 9 September."
+        }
+      ],
+      "sources": [
+        {"label": "UEFA", "url": "https://www.uefa.com/uefachampionsleague/"}
+      ]
+    },
+    {
+      "theme": "league",
+      "kicker": {"en": "Form", "es": "Estado de forma"},
+      "headline": {
+        "en": "Six points, seven goals, zero conceded after two matches",
+        "es": "Seis puntos, siete goles y cero encajados tras dos partidos"
+      },
+      "summary": {
+        "en": "Barcelona sit top of the early table on six points. Raphinha and Fermín López have three goals each. Joan García has two clean sheets. Rodri made his debut as a late substitute against Athletic Club.",
+        "es": "El Barça lidera la tabla provisional con seis puntos. Raphinha y Fermín López llevan tres goles cada uno. Joan García ha dejado dos porterías a cero. Rodri debutó como suplente ante el Athletic."
+      },
+      "body": {
+        "en": "The 5-0 win at Elche was followed by a controlled 2-0 against Athletic at Camp Nou. Raphinha opened the scoring in the 37th minute of the home game; Fermín finished a late chance after a defensive error.\n\nRodri entered for the final stretch and later spoke of good feelings in limited minutes. The midfielder remains on a gradual load plan after the World Cup. Anthony Gordon started that match. The early defensive record and wide-forward contribution set the tone before the first midweek fixture."
+      },
+      "tweets": [
+        {
+          "name": "OptaJose",
+          "handle": "@OptaJose",
+          "text": "Barcelona: 2 wins, 7 scored, 0 conceded. Early numbers."
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "text": "Rodri debuts with a win for Barça."
+        }
+      ],
+      "sources": []
+    },
+    {
+      "theme": "transfer",
+      "kicker": {"en": "Transfer", "es": "Mercado"},
+      "headline": {
+        "en": "Flick says Deco continues working and the quality in training is high",
+        "es": "Flick dice que Deco sigue trabajando y la calidad en los entrenamientos es alta"
+      },
+      "summary": {
+        "en": "Hansi Flick told the press conference before Rayo that he is happy with the market and that Deco is still active. He repeated there is no pressure and the general feeling around the squad is positive.",
+        "es": "Hansi Flick dijo en la previa del Rayo que está contento con el mercado y que Deco sigue activo. Insistió en que no hay presión y que la sensación general en la plantilla es positiva."
+      },
+      "body": {
+        "en": "Flick was speaking on Sunday ahead of the midweek Liga game. He confirmed Livaković is viewed as a bet for the future while expressing satisfaction with Szczęsny and Joan García. On Frenkie de Jong he stressed a step-by-step approach and the need to manage minutes across a long season.\n\nThe coach also noted Roony Bardghji has trained well after minor pain and that Lamine Yamal’s mood has improved. The comments came hours before the Gabriel Jesus documents were exchanged."
+      },
+      "tweets": [
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "text": "Flick: estoy muy contento con el mercado y Deco sigue trabajando."
+        },
+        {
+          "name": "BarcaFutbolLive",
+          "handle": "@BarcaFutbolLive",
+          "text": "Flick happy with the market. No pressure. Quality in training is good."
+        }
+      ],
+      "sources": [
+        {"label": "Goal", "url": "https://www.goal.com/en/news/flick-barcelona-s-transfer-window-continues-and-this-is-rodri-s-situation-after-the-injury/bltf353a6a6411d3009"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Squad", "es": "Plantilla"},
+      "headline": {
+        "en": "Livaković signs through 2030; registration still open",
+        "es": "Livaković firma hasta 2030; la ficha sigue abierta"
+      },
+      "summary": {
+        "en": "Dominik Livaković is a Barcelona player until June 2030 after arriving from Fenerbahçe. The fixed fee was reported around €2–2.5m. Whether he stays on the first-team list or goes on loan depends on the final fair-play numbers.",
+        "es": "Dominik Livaković es jugador del Barça hasta junio de 2030 tras llegar del Fenerbahçe. El fijo se situó en torno a 2-2,5 millones. Si se queda en la plantilla o sale cedido depende del fair play final."
+      },
+      "body": {
+        "en": "The Croatian international completed his medical and signed earlier in the week. He has trained with the senior group and was present for the Athletic match. Joan García remains the clear starter after two clean sheets.\n\nSzczęsny is still under contract. Club sources have left open the possibility of a loan if the salary-cap calculation after the other summer arrivals does not leave room. Flick described Livaković as a long-term investment."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2093398209678692489",
+          "text": "First training session for Dominik Livaković 🧤"
+        },
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "text": "Oficial: Livakovic ya es del Barça."
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4566933/dominik-livakovi-is-a-new-blaugrana-player"}
+      ]
+    }
+  ]
+}

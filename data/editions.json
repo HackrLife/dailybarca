@@ -1,6 +1,14 @@
 {
   "editions": [
     {
+      "number": 243,
+      "date": "2026-08-31",
+      "label": "Monday 31 Aug 2026",
+      "file": "2026-08-31.json",
+      "tweets": 18,
+      "lead": "Gabriel Jesus from Arsenal for €10m; Rayo at 21:30"
+    },
+    {
       "number": 242,
       "date": "2026-08-30",
       "label": "Sunday 30 Aug 2026",
