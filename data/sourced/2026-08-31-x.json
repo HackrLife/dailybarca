@@ -1,0 +1,7 @@
+{
+  "date": "2026-08-31",
+  "status": "grok-curated",
+  "reason": "No X API. Grok searches the 101-handle registry and writes post IDs into the edition cards.",
+  "accounts": 101,
+  "posts": []
+}
