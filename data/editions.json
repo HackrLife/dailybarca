@@ -1,6 +1,14 @@
 {
   "editions": [
     {
+      "number": 244,
+      "date": "2026-09-01",
+      "label": "Tuesday 1 Sep 2026",
+      "file": "2026-09-01.json",
+      "tweets": 12,
+      "lead": "Gabriel Jesus passes medical; presentation Tuesday"
+    },
+    {
       "number": 243,
       "date": "2026-08-31",
       "label": "Monday 31 Aug 2026",

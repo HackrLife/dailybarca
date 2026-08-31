@@ -1,0 +1,110 @@
+{
+  "number": 244,
+  "date": "2026-09-01",
+  "label": "Tuesday 1 Sep 2026",
+  "title": {
+    "en": "Gabriel Jesus passes medical; presentation set for Tuesday",
+    "es": "Gabriel Jesus supera la médica; presentación el martes"
+  },
+  "deck": {
+    "en": "The Brazilian cleared medical tests on Monday. Contract until 2028 with option. Presentation at Camp Nou on Tuesday. Window closes tonight.",
+    "es": "El brasileño superó las pruebas médicas el lunes. Contrato hasta 2028 con opción. Presentación en el Camp Nou el martes. El mercado cierra esta noche."
+  },
+  "defaultSources": [
+    {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+    {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"},
+    {"label": "SPORT", "url": "https://www.sport.es/es/barca/"},
+    {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona.html"},
+    {"label": "AS", "url": "https://as.com/futbol/barcelona/"},
+    {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
+  ],
+  "stories": [
+    {
+      "theme": "transfer",
+      "kicker": {"en": "Transfer", "es": "Mercado"},
+      "headline": {
+        "en": "Gabriel Jesus clears medical and is ready to sign",
+        "es": "Gabriel Jesus supera la revisión médica y está listo para firmar"
+      },
+      "summary": {
+        "en": "Gabriel Jesus passed his medical examination on Monday afternoon in Barcelona. The Brazilian forward is due to sign a contract until June 2028 with an option for a further year. Arsenal receive €10m fixed plus add-ons. Presentation is scheduled for Tuesday.",
+        "es": "Gabriel Jesus superó el reconocimiento médico el lunes por la tarde en Barcelona. El delantero brasileño firmará hasta junio de 2028 con opción a un año más. El Arsenal recibe 10 millones fijos más variables. La presentación está prevista para el martes."
+      },
+      "body": {
+        "en": "Jesus landed at El Prat on Monday and went straight into the medical battery at the Hospital de Barcelona and the Ciutat Esportiva. Club doctors cleared him after reviewing the recovery from the ACL injury sustained in 2025. The player told reporters at the airport that his knee felt perfect and that he wanted to win titles.\n\nThe fixed fee sits at €10 million with performance add-ons that can push the package higher. Arsenal retain a sell-on percentage. Once the contract is signed the club will register him with LaLiga before the window closes at midnight. Flick expects him available for the Valencia trip on Sunday."
+      },
+      "tweets": [
+        {
+          "name": "Víctor Navarro",
+          "handle": "@victor_nahe",
+          "id": "2094169170174746641",
+          "text": "Gabriel Jesús ya está en Barcelona. Un 9 para Flick."
+        },
+        {
+          "name": "BarcaFutbolLive",
+          "handle": "@BarcaFutbolLive",
+          "text": "Jesus has passed the medical. Presentation tomorrow."
+        }
+      ],
+      "sources": [
+        {"label": "AS", "url": "https://en.as.com/soccer/gabriel-jesus-arrives-in-barcelona-my-knee-is-perfect-f202608-n/"},
+        {"label": "ESPN", "url": "https://www.espn.co.uk/football/story/_/id/49782575/arsenal-gabriel-jesus-arrives-barcelona-complete-transfer"}
+      ]
+    },
+    {
+      "theme": "league",
+      "kicker": {"en": "League", "es": "Liga"},
+      "headline": {
+        "en": "Barcelona held by Rayo Vallecano in high-scoring Camp Nou clash",
+        "es": "El Barça empató o venció al Rayo en un partido de muchos goles en el Camp Nou"
+      },
+      "summary": {
+        "en": "Barcelona and Rayo Vallecano produced an open match at Spotify Camp Nou on Monday night. Live updates showed the score moving through 1-1, 2-1, 3-1 and 3-2. Final confirmation is pending at the time of this edition.",
+        "es": "El Barça y el Rayo Vallecano protagonizaron un partido abierto en el Spotify Camp Nou el lunes por la noche. Las actualizaciones en directo mostraron el marcador pasando por 1-1, 2-1, 3-1 y 3-2. La confirmación final está pendiente en el momento de esta edición."
+      },
+      "body": {
+        "en": "The game opened with early goals and remained open throughout. Lamine Yamal and Raphinha were involved in the scoring, while Rayo found answers through Camello and others. Anthony Gordon forced an own goal. Substitutions brought Fermín López and Rodri into the action after the hour.\n\nAttendance was reported above 57,000. The result leaves Barcelona with points from three matches and keeps the early defensive record under review. Valencia away on Sunday is the next Liga assignment before the Champions League opener against Feyenoord."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2094527457172897907",
+          "text": "OWN GOAL FROM RAYO! BUT JUST GIVE IT TO GORDON"
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2094529148416937988",
+          "text": "Goal Rayo. Camello. 3-2"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/matches"}
+      ]
+    },
+    {
+      "theme": "transfer",
+      "kicker": {"en": "Transfer", "es": "Mercado"},
+      "headline": {
+        "en": "Window closes at midnight with Jesus the final first-team arrival",
+        "es": "El mercado cierra a medianoche con Jesus como la última incorporación de primer equipo"
+      },
+      "summary": {
+        "en": "The Spanish transfer window ends at midnight on 1 September. Gabriel Jesus is expected to be the last first-team signing of the summer after the medical clearance. Several academy exits already completed.",
+        "es": "El mercado español cierra a medianoche del 1 de septiembre. Gabriel Jesus se espera que sea el último fichaje de primer equipo del verano tras la médica. Varias salidas de cantera ya se completaron."
+      },
+      "body": {
+        "en": "Deco’s summer work brought Rodri, Anthony Gordon, Karim Adeyemi, Dominik Livaković and now Jesus. Outgoings included Héctor Fort to Real Sociedad and Toni Fernández to Venezia, both with buy-back protection.\n\nAny late loans or registration decisions for Livaković will be settled before the deadline. The club has already registered the earlier arrivals under the salary-cap rules."
+      },
+      "tweets": [
+        {
+          "name": "Fabrizio Romano",
+          "handle": "@FabrizioRomano",
+          "text": "Gabriel Jesus deal with Barcelona."
+        }
+      ],
+      "sources": []
+    }
+  ]
+}
