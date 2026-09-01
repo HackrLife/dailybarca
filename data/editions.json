@@ -1,6 +1,14 @@
 {
   "editions": [
     {
+      "number": 245,
+      "date": "2026-09-02",
+      "label": "Wednesday 2 Sep 2026",
+      "file": "2026-09-02.json",
+      "tweets": 14,
+      "lead": "Jesus presented; Casad\u00f3 to Deportivo; Yamal AFE award"
+    },
+    {
       "number": 244,
       "date": "2026-09-01",
       "label": "Tuesday 1 Sep 2026",
@@ -14,7 +22,7 @@
       "label": "Monday 31 Aug 2026",
       "file": "2026-08-31.json",
       "tweets": 18,
-      "lead": "Gabriel Jesus from Arsenal for €10m; Rayo at 21:30"
+      "lead": "Gabriel Jesus from Arsenal for \u20ac10m; Rayo at 21:30"
     },
     {
       "number": 242,
@@ -22,7 +30,7 @@
       "label": "Sunday 30 Aug 2026",
       "file": "2026-08-30.json",
       "tweets": 24,
-      "lead": "Héctor Fort sold to Real Sociedad; Rayo on Monday"
+      "lead": "H\u00e9ctor Fort sold to Real Sociedad; Rayo on Monday"
     },
     {
       "number": 241,
