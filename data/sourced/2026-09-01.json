@@ -1,0 +1,2168 @@
+{
+  "date": "2026-09-01",
+  "generated_at": "2026-09-01T09:26:45.301445+00:00",
+  "source_pool": 50,
+  "articles_kept": 252,
+  "clusters": 206,
+  "failed_sources": [
+    "UEFA – Barcelona",
+    "LaLiga – Barcelona",
+    "Reuters",
+    "Associated Press",
+    "ESPN",
+    "Sky Sports",
+    "CBS Sports",
+    "The Independent",
+    "Goal",
+    "Football España",
+    "Get Spanish Football News",
+    "Barça Universal",
+    "Barça News Network",
+    "Esport3",
+    "RAC1",
+    "Cadena SER",
+    "AS",
+    "Relevo",
+    "El Nacional",
+    "Món Esport",
+    "Onda Cero",
+    "COPE",
+    "FotMob",
+    "Sofascore",
+    "FBref",
+    "WhoScored",
+    "Transfermarkt",
+    "OneFootball",
+    "LiveScore",
+    "Opta Analyst"
+  ],
+  "stories": [
+    {
+      "headline": "Barcelona vs. Rayo Vallecano: Preview, Predictions and Lineups",
+      "summary": "Barcelona vs. Rayo Vallecano: Preview, Predictions and Lineups",
+      "source_count": 3,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-vs-rayo-vallecano-preview-predictions-lineups-8-31-26",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131043/three-talking-points-rayo-vallecano",
+          "tier": "specialist"
+        },
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/barcelona-vs-rayo-vallecano-la-liga-preview-predictions-team-news-and-tv-info",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona vs. Rayo Vallecano: Preview, Predictions and Lineups",
+          "url": "https://www.si.com/soccer/barcelona-vs-rayo-vallecano-preview-predictions-lineups-8-31-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Three talking points from Barcelona 5-2 Rayo VallecanoThree talking points from Barcelona 5-2 Rayo Vallecano",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131043/three-talking-points-rayo-vallecano",
+          "summary": "Monday night saw Barcelona keep pace at the top of the table by beating Rayo Vallecano 5-2 at Camp Nou thanks to braces from Lamine Yamal and Raphinha and a Florian Lejeune own goal. Anthony Gordon also impressed for the hosts, particularly with his great backheel to set up Raphinha for his second of the […]Monday night saw Barcelona keep pace at the top of the table by beating Rayo Vallecano 5-2 ",
+          "published": "2026-08-31T19:00:00-04:002026-08-31T19:00:00-04:00"
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona vs Rayo Vallecano: La Liga preview, predictions, team news and TV info",
+          "url": "https://everythingbarca.com/barcelona-vs-rayo-vallecano-la-liga-preview-predictions-team-news-and-tv-info",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona vs. Rayo Vallecano—La Liga: Live Score and Match Stats",
+      "summary": "Barcelona vs. Rayo Vallecano—La Liga: Live Score and Match Stats",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-vs-rayo-vallecano-la-liga-live-score-match-stats-8-31-26",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/130993/barcelona-rayo-vallecano-live-stream-lineups-kickoff-time-tv-channel-how-to-watch-la-liga-online",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona vs. Rayo Vallecano—La Liga: Live Score and Match Stats",
+          "url": "https://www.si.com/soccer/barcelona-vs-rayo-vallecano-la-liga-live-score-match-stats-8-31-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Predicted Lineup vs. Rayo Vallecano: La Liga",
+          "url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-rayo-vallecano-la-liga-8-31-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona vs Rayo Vallecano, La Liga: Match Thread, Live UpdatesBarcelona vs Rayo Vallecano, La Liga: Match Thread, Live Updates",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/130993/barcelona-rayo-vallecano-live-stream-lineups-kickoff-time-tv-channel-how-to-watch-la-liga-online",
+          "summary": "WELCOME TO CAMP NOU!!! The Greatest Stadium on Earth in the capital of Catalunya opens its doors for another La Liga match and Barcelona look for a third straight win to begin the season as the champions face Rayo Vallecano. This should be fun, and you’re welcome to join us to follow and comment all […]WELCOME TO CAMP NOU!!! The Greatest Stadium on Earth in the capital of Catalunya opens its doors",
+          "published": "2026-08-31T15:30:46-04:002026-08-31T15:30:46-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "Gabriel Jesus, un delantero de primera línea Gabriel Jesus, un delantero de primera línea",
+      "summary": "Gabriel Jesus es un jugador de primera línea y por eso me parece un muy buen fichaje del FC Barcelona . Como piensa todo el mundo, no descubro nada al decir que lo único que me preocupa es su historial de lesiones, en especial las de rodilla. Pero hablando del jugador en sí por su estilo y por su calidad, lo que está claro es que el brasileño es lo que llamamos un ‘primer espada’. Es decir, un del",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221913/gabriel-jesus-delantero-primera-linea.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221913/gabriel-jesus-delantero-primera-linea.html",
+          "tier": "local"
+        },
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260831/11623965/gabriel-jesus-delantero-altos-ritmos-perfil-futbolistico-tecnico-analisis.htmlhttps://www.lavanguardia.com/deportes/futbol/20260831/11623965/gabriel-jesus-delantero-altos-ritmos-perfil-futbolistico-tecnico-analisis.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Gabriel Jesus, un delantero de primera línea Gabriel Jesus, un delantero de primera línea",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221913/gabriel-jesus-delantero-primera-linea.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221913/gabriel-jesus-delantero-primera-linea.html",
+          "summary": "Gabriel Jesus es un jugador de primera línea y por eso me parece un muy buen fichaje del FC Barcelona . Como piensa todo el mundo, no descubro nada al decir que lo único que me preocupa es su historial de lesiones, en especial las de rodilla. Pero hablando del jugador en sí por su estilo y por su calidad, lo que está claro es que el brasileño es lo que llamamos un ‘primer espada’. Es decir, un del",
+          "published": "01 Sep 2026 05:00:00 +020001 Sep 2026 05:00:00 +0200"
+        },
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Sea bienvenido Gabriel Jesus Sea bienvenido Gabriel Jesus",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221907/sea-bienvenido-gabriel-jesus.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221907/sea-bienvenido-gabriel-jesus.html",
+          "summary": "Ya lo hemos comentado en alguna ocasión. Si hay un equipo en la Liga española que tiene los jugadores más atractivos ese es el Barça . Muchos grandes clubs del fútbol europeo desearían tener en sus filas a Lamine, Pedri, Raphinha, Olmo, Cubarsí o Fermín . Y futbolistas que desearía tener cualquier aficionado barcelonista que pertenecen a otros equipos hay muy pocos. Hemos pasado el verano pensando",
+          "published": "01 Sep 2026 05:00:00 +020001 Sep 2026 05:00:00 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Gabriel Jesus, un delantero de altos ritmos Gabriel Jesus, un delantero de altos ritmos",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260831/11623965/gabriel-jesus-delantero-altos-ritmos-perfil-futbolistico-tecnico-analisis.htmlhttps://www.lavanguardia.com/deportes/futbol/20260831/11623965/gabriel-jesus-delantero-altos-ritmos-perfil-futbolistico-tecnico-analisis.html",
+          "summary": "El brasileño, de 29 años, llega al conjunto azulgrana para las tres próximas temporadas y como un magnífico recurso ofensivo para Hansi Flick El brasileño, de 29 años, llega al conjunto azulgrana para las tres próximas temporadas y como un magnífico recurso ofensivo para Hansi Flick",
+          "published": "31 Aug 2026 17:05:13 +020031 Aug 2026 17:05:13 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "El 1x1 del Rayo ante el Barça El 1x1 del Rayo ante el Barça",
+      "summary": "Dani Cárdenas Acribillado Dani Cárdenas Acribillado",
+      "source_count": 2,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221911/1x1-rayo-barca.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221911/1x1-rayo-barca.html",
+          "tier": "local"
+        },
+        {
+          "name": "El País",
+          "url": "https://elpais.com/deportes/futbol/2026-08-31/lamine-se-suma-a-la-ola-ofensiva-del-barca-ante-el-rayo.htmlhttps://elpais.com/deportes/futbol/2026-08-31/lamine-se-suma-a-la-ola-ofensiva-del-barca-ante-el-rayo.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "El 1x1 del Rayo ante el Barça El 1x1 del Rayo ante el Barça",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221911/1x1-rayo-barca.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221911/1x1-rayo-barca.html",
+          "summary": "Dani Cárdenas Acribillado Dani Cárdenas Acribillado",
+          "published": "01 Sep 2026 00:32:30 +020001 Sep 2026 00:32:30 +0200"
+        },
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "El 1x1 del Barça ante el Rayo Vallecano El 1x1 del Barça ante el Rayo Vallecano",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221808/1x1-barca-rayo-vallecano.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221808/1x1-barca-rayo-vallecano.html",
+          "summary": "Con este resultado el Barça recupera el liderato por mejor 'goal average' genera que el Real Madrid. Los dos equipos empatan con 9 puntos, con +10 en goles para el Barça (12-2) y +8 para el Real Madrid (10-2).Con este resultado el Barça recupera el liderato por mejor 'goal average' genera que el Real Madrid. Los dos equipos empatan con 9 puntos, con +10 en goles para el Barça (12-2) y +8 para el R",
+          "published": "31 Aug 2026 23:32:35 +020031 Aug 2026 23:32:35 +0200"
+        },
+        {
+          "source_id": 30,
+          "source": "El País",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "Lamine se suma a la ola ofensiva del Barça ante el RayoLamine se suma a la ola ofensiva del Barça ante el Rayo",
+          "url": "https://elpais.com/deportes/futbol/2026-08-31/lamine-se-suma-a-la-ola-ofensiva-del-barca-ante-el-rayo.htmlhttps://elpais.com/deportes/futbol/2026-08-31/lamine-se-suma-a-la-ola-ofensiva-del-barca-ante-el-rayo.html",
+          "summary": "Raphinha confirma su condición de líder y goleador ante el valiente equipo de Beñat San JoséRaphinha confirma su condición de líder y goleador ante el valiente equipo de Beñat San José",
+          "published": "Mon, 31 Aug 2026 21:56:37 GMTMon, 31 Aug 2026 21:56:37 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "FC Barcelona – Rayo Vallecano el partido de fútbol de Jornada 1 de LaLiga EA Sports, en directo FC Barcelona – Rayo Vallecano el partido de fútbol de Jornada 1 de LaLiga EA Sports, en directo",
+      "summary": "Sigue en directo el partido de fútbol de LaLiga EA Sports entre FC Barcelona y Rayo Vallecano Sigue en directo el partido de fútbol de LaLiga EA Sports entre FC Barcelona y Rayo Vallecano",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260831/24348/fc-barcelona-rayo-vallecano-laliga-primera-division-ca-en-directo-ctx.htmlhttps://www.lavanguardia.com/deportes/futbol/20260831/24348/fc-barcelona-rayo-vallecano-laliga-primera-division-ca-en-directo-ctx.html",
+          "tier": "national"
+        },
+        {
+          "name": "El Periódico",
+          "url": "https://www.elperiodico.com/es/deportes/20260831/fc-barcelona-rayo-vallecano-partido-liga-ultima-hora-directo-133803870",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "FC Barcelona – Rayo Vallecano el partido de fútbol de Jornada 1 de LaLiga EA Sports, en directo FC Barcelona – Rayo Vallecano el partido de fútbol de Jornada 1 de LaLiga EA Sports, en directo",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260831/24348/fc-barcelona-rayo-vallecano-laliga-primera-division-ca-en-directo-ctx.htmlhttps://www.lavanguardia.com/deportes/futbol/20260831/24348/fc-barcelona-rayo-vallecano-laliga-primera-division-ca-en-directo-ctx.html",
+          "summary": "Sigue en directo el partido de fútbol de LaLiga EA Sports entre FC Barcelona y Rayo Vallecano Sigue en directo el partido de fútbol de LaLiga EA Sports entre FC Barcelona y Rayo Vallecano",
+          "published": "31 Aug 2026 21:00:00 +020031 Aug 2026 21:00:00 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Barcelona - Rayo Vallecano, en directo | Resultado y resumen del partido de fútbol de LaLiga EA Sports Barcelona - Rayo Vallecano, en directo | Resultado y resumen del partido de fútbol de LaLiga EA Sports",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260831/11623556/barcelona-rayo-vallecano-laliga-ea-sports-partido-futbol-hoy-en-directo.htmlhttps://www.lavanguardia.com/deportes/futbol/20260831/11623556/barcelona-rayo-vallecano-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
+          "summary": "",
+          "published": "31 Aug 2026 19:56:47 +020031 Aug 2026 19:56:47 +0200"
+        },
+        {
+          "source_id": 36,
+          "source": "El Periódico",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC Barcelona – Rayo Vallecano, en directo: última hora y resultados del partido de LaLiga",
+          "url": "https://www.elperiodico.com/es/deportes/20260831/fc-barcelona-rayo-vallecano-partido-liga-ultima-hora-directo-133803870",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Julian Alvarez: Who Is to Blame and How Does This End?",
+      "summary": "Julian Alvarez: Who Is to Blame and How Does This End?",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/julian-alvarez-who-to-blame-how-does-this-end",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/julian-alvarez-who-to-blame-how-does-this-end",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Julian Alvarez: Who Is to Blame and How Does This End?",
+          "url": "https://www.si.com/soccer/julian-alvarez-who-to-blame-how-does-this-end",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Julian Alvarez: Who Is to Blame and How Does This End?",
+          "url": "https://www.si.com/soccer/julian-alvarez-who-to-blame-how-does-this-end",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Gabriel Jesus’s Record vs. Real Madrid: Barcelona Are Buying Los Blancos Bogeyman",
+      "summary": "Gabriel Jesus’s Record vs. Real Madrid: Barcelona Are Buying Los Blancos Bogeyman",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/gabriel-jesus-record-vs-real-madrid-barcelona",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/gabriel-jesus-record-vs-real-madrid-barcelona",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Gabriel Jesus’s Record vs. Real Madrid: Barcelona Are Buying Los Blancos Bogeyman",
+          "url": "https://www.si.com/soccer/gabriel-jesus-record-vs-real-madrid-barcelona",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Gabriel Jesus’s Record vs. Real Madrid: Barcelona Are Buying Los Blancos Bogeyman",
+          "url": "https://www.si.com/soccer/gabriel-jesus-record-vs-real-madrid-barcelona",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Player Ratings vs. Rayo Vallecano: First Special Lamine Yamal Night of the Season",
+      "summary": "Barcelona Player Ratings vs. Rayo Vallecano: First Special Lamine Yamal Night of the Season",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-rayo-vallecano-lamine-yamal-8-31-26",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-rayo-vallecano-lamine-yamal-8-31-26",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Player Ratings vs. Rayo Vallecano: First Special Lamine Yamal Night of the Season",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-rayo-vallecano-lamine-yamal-8-31-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Player Ratings vs. Rayo Vallecano: First Special Lamine Yamal Night of the Season",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-rayo-vallecano-lamine-yamal-8-31-26",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Julian Alvarez’s Arsenal, Barcelona Transfer Saga Lurches Toward Conclusion",
+      "summary": "Julian Alvarez’s Arsenal, Barcelona Transfer Saga Lurches Toward Conclusion",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/julian-alvarez-arsenal-barcelona-transfer-saga-lurches-conclusion",
+          "tier": "volume"
+        },
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/arsenal-transfer-boost-alvarez-romano-confirms-barcelona-deal-off",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Julian Alvarez’s Arsenal, Barcelona Transfer Saga Lurches Toward Conclusion",
+          "url": "https://www.si.com/soccer/julian-alvarez-arsenal-barcelona-transfer-saga-lurches-conclusion",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Huge Arsenal transfer boost as Romano confirms Barcelona ‘deal is off’ for Julian Alvarez",
+          "url": "https://www.football365.com/news/arsenal-transfer-boost-alvarez-romano-confirms-barcelona-deal-off",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Player Ratings vs. Athletic Club: Raphinha, Fermin Restore Camp Nou Magic",
+      "summary": "Barcelona Player Ratings vs. Athletic Club: Raphinha, Fermin Restore Camp Nou Magic",
+      "source_count": 2,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-athletic-club-raphinha-camp-nou-8-27-26",
+          "tier": "volume"
+        },
+        {
+          "name": "FC Barcelona Noticias",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Player Ratings vs. Athletic Club: Raphinha, Fermin Restore Camp Nou Magic",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-athletic-club-raphinha-camp-nou-8-27-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 5h ‘We want a captain like that’ - Marc Bernal hails Raphinha after Barcelona brace The Brazilian led by example.",
+      "summary": "www.barcablaugranes.com • 5h ‘We want a captain like that’ - Marc Bernal hails Raphinha after Barcelona brace The Brazilian led by example.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131128/captain-like-that-marc-bernal-hails-raphinha?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131128/captain-like-that-marc-bernal-hails-raphinha",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 5h ‘We want a captain like that’ - Marc Bernal hails Raphinha after Barcelona brace The Brazilian led by example.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131128/captain-like-that-marc-bernal-hails-raphinha?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘We want a captain like that’ – Marc Bernal hails Raphinha after Barcelona brace‘We want a captain like that’ – Marc Bernal hails Raphinha after Barcelona brace",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131128/captain-like-that-marc-bernal-hails-raphinha",
+          "summary": "Barcelona midfielder Marc Bernal hailed Raphinha after the Brazilian scored a brace in Monday’s 5-2 win over Rayo Vallecano in La Liga. Raphinha’s started the season in superb form, playing as the team’s No. 9, and has already scored five times for Hansi Flick’s side. Bernal says he’s the perfect captain for Barcelona and a […]Barcelona midfielder Marc Bernal hailed Raphinha after the Brazilian sc",
+          "published": "2026-08-31T23:00:00-04:002026-08-31T23:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 10h ‘A top striker’ - Hansi Flick talks Gabriel Jesus after Barcelona beat Rayo The coach is thrilled with his new arrival.",
+      "summary": "www.barcablaugranes.com • 10h ‘A top striker’ - Hansi Flick talks Gabriel Jesus after Barcelona beat Rayo The coach is thrilled with his new arrival.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/131131/top-striker-hansi-flick-gabriel-jesus?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/131131/top-striker-hansi-flick-gabriel-jesus",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 10h ‘A top striker’ - Hansi Flick talks Gabriel Jesus after Barcelona beat Rayo The coach is thrilled with his new arrival.",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/131131/top-striker-hansi-flick-gabriel-jesus?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘A top striker’ – Hansi Flick talks Gabriel Jesus after Barcelona beat Rayo‘A top striker’ – Hansi Flick talks Gabriel Jesus after Barcelona beat Rayo",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/131131/top-striker-hansi-flick-gabriel-jesus",
+          "summary": "Barcelona boss Hansi Flick says he’s happy that Gabriel Jesus is set to sign for the club from Arsenal and feels the Brazilian can “give us a lot.” Jesus was in the stands on Monday night to watch Barcelona beat Rayo Vallecano 5-2 in La Liga and is due to complete his transfer on Tuesday. […]Barcelona boss Hansi Flick says he’s happy that Gabriel Jesus is set to sign for the club from Arsenal and ",
+          "published": "2026-08-31T18:05:11-04:002026-08-31T18:05:11-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 11h Lamine Yamal makes history in style as Barcelona star scores landmark 50th goal What a goal. What a player.",
+      "summary": "www.barcablaugranes.com • 11h Lamine Yamal makes history in style as Barcelona star scores landmark 50th goal What a goal. What a player.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131096/lamine-yamal-makes-history-50th-goal?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131096/lamine-yamal-makes-history-50th-goal",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 11h Lamine Yamal makes history in style as Barcelona star scores landmark 50th goal What a goal. What a player.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131096/lamine-yamal-makes-history-50th-goal?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Lamine Yamal makes history in style as Barcelona star scores landmark 50th goalLamine Yamal makes history in style as Barcelona star scores landmark 50th goal",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131096/lamine-yamal-makes-history-50th-goal",
+          "summary": "Lamine Yamal scored his 50th goal for Barcelona in some style on Monday night against Rayo Vallecano in La Liga at Camp Nou. The teenager fired a brilliant left-footed effort into the top corner to make it 2-1 and bring up his half century for the Catalan giants. Yamal is now the youngest player from […]Lamine Yamal scored his 50th goal for Barcelona in some style on Monday night against Rayo Vall",
+          "published": "2026-08-31T16:28:13-04:002026-08-31T16:28:13-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 12h ‘Truly sad’ - Barcelona boss Hansi Flick reacts as Lionel Messi retires from Argentina duty It’s the end of an era.",
+      "summary": "www.barcablaugranes.com • 12h ‘Truly sad’ - Barcelona boss Hansi Flick reacts as Lionel Messi retires from Argentina duty It’s the end of an era.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131080/sad-hansi-flick-reacts-lionel-messi-retires-argentina?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131080/sad-hansi-flick-reacts-lionel-messi-retires-argentina",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 12h ‘Truly sad’ - Barcelona boss Hansi Flick reacts as Lionel Messi retires from Argentina duty It’s the end of an era.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131080/sad-hansi-flick-reacts-lionel-messi-retires-argentina?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘Truly sad’ – Barcelona boss Hansi Flick reacts as Lionel Messi retires from Argentina duty‘Truly sad’ – Barcelona boss Hansi Flick reacts as Lionel Messi retires from Argentina duty",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131080/sad-hansi-flick-reacts-lionel-messi-retires-argentina",
+          "summary": "Barcelona boss Hansi Flick says he’s sad to hear that Lionel Messi is retiring from international football after the GOAT announced on Monday that he’s hanging up his Argentina boots. Messi has called it a day after making 207 appearances for Argentina and scoring 125 goals. During that time he’s won the World Cup and […]Barcelona boss Hansi Flick says he’s sad to hear that Lionel Messi is retirin",
+          "published": "2026-08-31T15:13:57-04:002026-08-31T15:13:57-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 17h ‘Very happy’ - Gabriel Jesus says his knee is ‘perfect’ after landing in Barcelona to complete transfer The Brazilian will now undergo a medical.",
+      "summary": "www.barcablaugranes.com • 17h ‘Very happy’ - Gabriel Jesus says his knee is ‘perfect’ after landing in Barcelona to complete transfer The Brazilian will now undergo a medical.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/131057/very-happy-gabriel-jesus-knee-perfect-transfer?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/131057/very-happy-gabriel-jesus-knee-perfect-transfer",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 17h ‘Very happy’ - Gabriel Jesus says his knee is ‘perfect’ after landing in Barcelona to complete transfer The Brazilian will now undergo a medical.",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/131057/very-happy-gabriel-jesus-knee-perfect-transfer?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘Very happy’ – Gabriel Jesus says his knee is ‘perfect’ after landing in Barcelona to complete transfer‘Very happy’ – Gabriel Jesus says his knee is ‘perfect’ after landing in Barcelona to complete transfer",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/131057/very-happy-gabriel-jesus-knee-perfect-transfer",
+          "summary": "Gabriel Jesus couldn’t hide his delight after landing in Barcelona to complete a transfer to the Spanish champions from Arsenal. “I’m very happy. Hopefully we win many titles,” he said after being met at the airport by reporters. Jesus was also asked about his knee, after recovering from an ACL injury, and said: “The knee […]Gabriel Jesus couldn’t hide his delight after landing in Barcelona to com",
+          "published": "2026-08-31T11:57:41-04:002026-08-31T11:57:41-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "Último día del mercado de fichajes, hoy, en directo: última hora de FC Barcelona, Real Madrid y todas las altas y bajas de las grandes ligasÚltimo día del mercado de fichajes, hoy, en directo: última hora de FC Barcelona, Real Madrid y todas las altas y bajas de las grandes ligas",
+      "summary": "Sigue la última hora de los rumores del último día de mercado de fichajes de verano del fútbol nacional e internacional, hoy martes 1 de septiembre. Sigue la última hora de los rumores del último día de mercado de fichajes de verano del fútbol nacional e internacional, hoy martes 1 de septiembre.",
+      "source_count": 2,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "SPORT",
+          "url": "https://www.sport.es/es/noticias/mercado-fichajes/ultimo-dia-mercado-fichajes-hoy-133826095https://www.sport.es/es/noticias/mercado-fichajes/ultimo-dia-mercado-fichajes-hoy-133826095",
+          "tier": "local"
+        },
+        {
+          "name": "El Periódico",
+          "url": "https://www.elperiodico.com/es/deportes/20260831/mercado-fichajes-ultima-hora-directo-133797607",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 25,
+          "source": "SPORT",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Último día del mercado de fichajes, hoy, en directo: última hora de FC Barcelona, Real Madrid y todas las altas y bajas de las grandes ligasÚltimo día del mercado de fichajes, hoy, en directo: última hora de FC Barcelona, Real Madrid y todas las altas y bajas de las grandes ligas",
+          "url": "https://www.sport.es/es/noticias/mercado-fichajes/ultimo-dia-mercado-fichajes-hoy-133826095https://www.sport.es/es/noticias/mercado-fichajes/ultimo-dia-mercado-fichajes-hoy-133826095",
+          "summary": "Sigue la última hora de los rumores del último día de mercado de fichajes de verano del fútbol nacional e internacional, hoy martes 1 de septiembre. Sigue la última hora de los rumores del último día de mercado de fichajes de verano del fútbol nacional e internacional, hoy martes 1 de septiembre.",
+          "published": ""
+        },
+        {
+          "source_id": 36,
+          "source": "El Periódico",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "Última hora del mercado de fichajes, en directo: altas y bajas en el FC Barcelona, Real Madrid y cuándo acaba",
+          "url": "https://www.elperiodico.com/es/deportes/20260831/mercado-fichajes-ultima-hora-directo-133797607",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Así estaría la clasificación de LaLiga sin el VAR tras la jornada 3Así estaría la clasificación de LaLiga sin el VAR tras la jornada 3",
+      "summary": "LaLiga EA Sports ya ha cerrado el telón de su tercera jornada de competición. La goleada del Barça contra el Rayo Vallecano pone el broche a un fin de semana en el que los aspirantes al título han hecho los deberes, algunos equipos han confirmado su buen momento y otros comienzan a mostrar maneras preocupantes. El signo de alguno de los partidos, sin embargo, pudo ser muy diferente de no ser por l",
+      "source_count": 2,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "SPORT",
+          "url": "https://www.sport.es/es/noticias/laliga/clasificacion-laliga-sin-var-jornada-3-133821880https://www.sport.es/es/noticias/laliga/clasificacion-laliga-sin-var-jornada-3-133821880",
+          "tier": "local"
+        },
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221850/asi-queda-clasificacion-laliga-barca-lider-jornada.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221850/asi-queda-clasificacion-laliga-barca-lider-jornada.html",
+          "tier": "local"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 25,
+          "source": "SPORT",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Así estaría la clasificación de LaLiga sin el VAR tras la jornada 3Así estaría la clasificación de LaLiga sin el VAR tras la jornada 3",
+          "url": "https://www.sport.es/es/noticias/laliga/clasificacion-laliga-sin-var-jornada-3-133821880https://www.sport.es/es/noticias/laliga/clasificacion-laliga-sin-var-jornada-3-133821880",
+          "summary": "LaLiga EA Sports ya ha cerrado el telón de su tercera jornada de competición. La goleada del Barça contra el Rayo Vallecano pone el broche a un fin de semana en el que los aspirantes al título han hecho los deberes, algunos equipos han confirmado su buen momento y otros comienzan a mostrar maneras preocupantes. El signo de alguno de los partidos, sin embargo, pudo ser muy diferente de no ser por l",
+          "published": ""
+        },
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Así queda la clasificación de LaLiga con el Barça líder una jornada más Así queda la clasificación de LaLiga con el Barça líder una jornada más",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221850/asi-queda-clasificacion-laliga-barca-lider-jornada.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260831/1004221850/asi-queda-clasificacion-laliga-barca-lider-jornada.html",
+          "summary": "Tenía que ganar por dos goles de diferencia al Rayo Vallecano para mantener el liderato y lo hizo. El Barça de Hansi Flick sigue navegando viento en popa en esta Liga camino de su tercera Liga consecutiva. Ya son tres victorias de tres del vigente campeón tras el 5-2 logrado este lunes en el Spotify Camp Nou. Tenía que ganar por dos goles de diferencia al Rayo Vallecano para mantener el liderato y",
+          "published": "31 Aug 2026 23:29:33 +020031 Aug 2026 23:29:33 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Un nuevo ídolo en el Camp Nou Un nuevo ídolo en el Camp Nou",
+      "summary": "Anthony Gordon (25 años) es de esos fichajes que tiene que ‘currárselo’ para convencer. Como siempre, el precio influye en la imagen que proyecta de inicio un jugador nuevo. Se pagaron 70 millones por él más variables y eso hay que devolverlo con juego. Pero Deco tenía claro que el extremo del Newcastle lo valía, sin olvidar que la Premier League siempre es un mercado inflacionado. Lo bueno para e",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221915/nuevo-idolo-camp-nou.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221915/nuevo-idolo-camp-nou.html",
+          "tier": "local"
+        },
+        {
+          "name": "ARA",
+          "url": "https://www.ara.cat/esports/barca/barca-fc-barcelona-ahtletic-club-catalunya-estelada-camp-nou_1_5833588.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Un nuevo ídolo en el Camp Nou Un nuevo ídolo en el Camp Nou",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221915/nuevo-idolo-camp-nou.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221915/nuevo-idolo-camp-nou.html",
+          "summary": "Anthony Gordon (25 años) es de esos fichajes que tiene que ‘currárselo’ para convencer. Como siempre, el precio influye en la imagen que proyecta de inicio un jugador nuevo. Se pagaron 70 millones por él más variables y eso hay que devolverlo con juego. Pero Deco tenía claro que el extremo del Newcastle lo valía, sin olvidar que la Premier League siempre es un mercado inflacionado. Lo bueno para e",
+          "published": "01 Sep 2026 00:55:32 +020001 Sep 2026 00:55:32 +0200"
+        },
+        {
+          "source_id": 32,
+          "source": "ARA",
+          "tier": "national",
+          "lang": [
+            "ca"
+          ],
+          "title": "Les estelades tornen al Camp Nou",
+          "url": "https://www.ara.cat/esports/barca/barca-fc-barcelona-ahtletic-club-catalunya-estelada-camp-nou_1_5833588.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Flick: \"Gabriel Jesus será importante\" Flick: \"Gabriel Jesus será importante\"",
+      "summary": "Ni siquiera una manita opacó la mirada de Hansi Flick . El entrenador alemán, que sí que elogió algunas fases de la actuación de su equipo, apuntó dónde está el margen de mejora. “Jugamos fantásticamente la primera parte. El 0-1 puede pasar, pero la reacción fue buena”, inició. En la grada, tomó nota Gabriel Jesus , a quien Hansi espera con los brazos abiertos.Ni siquiera una manita opacó la mirad",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221904/flick-gabriel-jesus-sera-importante.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221904/flick-gabriel-jesus-sera-importante.html",
+          "tier": "local"
+        },
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260901/11624138/flick-gabriel-jesus-delantero-top.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260901/11624138/flick-gabriel-jesus-delantero-top.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Flick: \"Gabriel Jesus será importante\" Flick: \"Gabriel Jesus será importante\"",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221904/flick-gabriel-jesus-sera-importante.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260901/1004221904/flick-gabriel-jesus-sera-importante.html",
+          "summary": "Ni siquiera una manita opacó la mirada de Hansi Flick . El entrenador alemán, que sí que elogió algunas fases de la actuación de su equipo, apuntó dónde está el margen de mejora. “Jugamos fantásticamente la primera parte. El 0-1 puede pasar, pero la reacción fue buena”, inició. En la grada, tomó nota Gabriel Jesus , a quien Hansi espera con los brazos abiertos.Ni siquiera una manita opacó la mirad",
+          "published": "01 Sep 2026 00:09:10 +020001 Sep 2026 00:09:10 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Flick: “Gabriel Jesus es un delantero top” Flick: “Gabriel Jesus es un delantero top”",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260901/11624138/flick-gabriel-jesus-delantero-top.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260901/11624138/flick-gabriel-jesus-delantero-top.html",
+          "summary": "El técnico blaugrana elogia al último fichaje blaugrana tras la victoria sobre el Rayo Vallecano El técnico blaugrana elogia al último fichaje blaugrana tras la victoria sobre el Rayo Vallecano",
+          "published": "01 Sep 2026 00:11:35 +020001 Sep 2026 00:11:35 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Hansi Flick: “No esperamos más fichajes”Hansi Flick: “No esperamos más fichajes”",
+      "summary": "Tras pactar el fichaje de Gabriel Jesus, el Barcelona se entrega a Raphinha de 9 y Lamine hace historia al llegar a los 50 goles como azulgranaTras pactar el fichaje de Gabriel Jesus, el Barcelona se entrega a Raphinha de 9 y Lamine hace historia al llegar a los 50 goles como azulgrana",
+      "source_count": 2,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/deportes/futbol/2026-08-31/hansi-flick-no-esperamos-mas-fichajes.htmlhttps://elpais.com/deportes/futbol/2026-08-31/hansi-flick-no-esperamos-mas-fichajes.html",
+          "tier": "national"
+        },
+        {
+          "name": "Culemanía",
+          "url": "https://cronicaglobal.elespanol.com/culemania/hablemos-del-barca/20260830/flick-no-deberia-callarse/1003742790364_12.html",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 30,
+          "source": "El País",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "Hansi Flick: “No esperamos más fichajes”Hansi Flick: “No esperamos más fichajes”",
+          "url": "https://elpais.com/deportes/futbol/2026-08-31/hansi-flick-no-esperamos-mas-fichajes.htmlhttps://elpais.com/deportes/futbol/2026-08-31/hansi-flick-no-esperamos-mas-fichajes.html",
+          "summary": "Tras pactar el fichaje de Gabriel Jesus, el Barcelona se entrega a Raphinha de 9 y Lamine hace historia al llegar a los 50 goles como azulgranaTras pactar el fichaje de Gabriel Jesus, el Barcelona se entrega a Raphinha de 9 y Lamine hace historia al llegar a los 50 goles como azulgrana",
+          "published": "Mon, 31 Aug 2026 23:00:01 GMTMon, 31 Aug 2026 23:00:01 GMT"
+        },
+        {
+          "source_id": 39,
+          "source": "Culemanía",
+          "tier": "specialist",
+          "lang": [
+            "es"
+          ],
+          "title": "Flick no debería callarse más",
+          "url": "https://cronicaglobal.elespanol.com/culemania/hablemos-del-barca/20260830/flick-no-deberia-callarse/1003742790364_12.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Gabriel Jesus ya está en Barcelona para pasar la revisión médica y firmar con el Barça Gabriel Jesus ya está en Barcelona para pasar la revisión médica y firmar con el Barça",
+      "summary": "El delantero brasileño llega procedente del Arsenal y el Barça pagará 10 millones de euros El delantero brasileño llega procedente del Arsenal y el Barça pagará 10 millones de euros",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260831/11623928/gabriel-jesus-esta-barcelona-pasar-revision-medica-firmar-barca.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260831/11623928/gabriel-jesus-esta-barcelona-pasar-revision-medica-firmar-barca.html",
+          "tier": "national"
+        },
+        {
+          "name": "El Periódico",
+          "url": "https://www.elperiodico.com/es/deportes/20260831/gabriel-jesus-aterriza-barcelona-firmar-133810800",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Gabriel Jesus ya está en Barcelona para pasar la revisión médica y firmar con el Barça Gabriel Jesus ya está en Barcelona para pasar la revisión médica y firmar con el Barça",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260831/11623928/gabriel-jesus-esta-barcelona-pasar-revision-medica-firmar-barca.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260831/11623928/gabriel-jesus-esta-barcelona-pasar-revision-medica-firmar-barca.html",
+          "summary": "El delantero brasileño llega procedente del Arsenal y el Barça pagará 10 millones de euros El delantero brasileño llega procedente del Arsenal y el Barça pagará 10 millones de euros",
+          "published": "31 Aug 2026 16:15:55 +020031 Aug 2026 16:15:55 +0200"
+        },
+        {
+          "source_id": 36,
+          "source": "El Periódico",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "Gabriel Jesús aterriza en Barcelona para firmar por el Barça: \"La rodilla, perfecta\"",
+          "url": "https://www.elperiodico.com/es/deportes/20260831/gabriel-jesus-aterriza-barcelona-firmar-133810800",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "BARÇABARÇA",
+      "summary": "Casadó, Balde, el fichaje de un central, la inscripción de Livakovic...Casadó, Balde, el fichaje de un central, la inscripción de Livakovic...",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/01/barca-le-espera-cierre-mercado-frenetico.htmlhttps://www.marca.com/futbol/barcelona/2026/09/01/barca-le-espera-cierre-mercado-frenetico.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/01/barca-le-espera-cierre-mercado-frenetico.htmlhttps://www.marca.com/futbol/barcelona/2026/09/01/barca-le-espera-cierre-mercado-frenetico.html",
+          "summary": "Casadó, Balde, el fichaje de un central, la inscripción de Livakovic...Casadó, Balde, el fichaje de un central, la inscripción de Livakovic...",
+          "published": "Tue, 01 Sep 2026 06:52:46 +0200Tue, 01 Sep 2026 06:52:46 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/01/lamine-yamal-supera-record-precocidad-goleadora-mbappe-50-goles-19-anos-49-dias.htmlhttps://www.marca.com/futbol/barcelona/2026/09/01/lamine-yamal-supera-record-precocidad-goleadora-mbappe-50-goles-19-anos-49-dias.html",
+          "summary": "Lamine Yamal se convirtió en el futbolista más joven de LaLiga, la Premier League, la Ligue 1, la Serie A y la Bundesliga en alcanzar los 50 golesLamine Yamal se convirtió en el futbolista más joven de LaLiga, la Premier League, la Ligue 1, la Serie A y la Bundesliga en alcanzar los 50 goles",
+          "published": "Tue, 01 Sep 2026 05:08:18 +0200Tue, 01 Sep 2026 05:08:18 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/01/flick-hicimos-gran-primera-parte-hay-controlar-partido.htmlhttps://www.marca.com/futbol/barcelona/2026/09/01/flick-hicimos-gran-primera-parte-hay-controlar-partido.html",
+          "summary": "El alemán desmenuza el cruce de LaLiga contra el Rayo disputado en el Spotify Camp NouEl alemán desmenuza el cruce de LaLiga contra el Rayo disputado en el Spotify Camp Nou",
+          "published": "Tue, 01 Sep 2026 00:00:54 +0200Tue, 01 Sep 2026 00:00:54 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/08/31/joven-debuta-flick-hamza-abdelkarim-estrena-elite.htmlhttps://www.marca.com/futbol/barcelona/2026/08/31/joven-debuta-flick-hamza-abdelkarim-estrena-elite.html",
+          "summary": "Sustituyó a Raphinha contra el RayoSustituyó a Raphinha contra el Rayo",
+          "published": "Mon, 31 Aug 2026 23:34:35 +0200Mon, 31 Aug 2026 23:34:35 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/08/31/lamine-pasa-grande.htmlhttps://www.marca.com/futbol/barcelona/2026/08/31/lamine-pasa-grande.html",
+          "summary": "La contracrónica del Barcelona-RayoLa contracrónica del Barcelona-Rayo",
+          "published": "Mon, 31 Aug 2026 23:30:20 +0200Mon, 31 Aug 2026 23:30:20 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/08/31/nuevo-record-lamine-joven-historia-marcar-50-goles.htmlhttps://www.marca.com/futbol/barcelona/2026/08/31/nuevo-record-lamine-joven-historia-marcar-50-goles.html",
+          "summary": "Supera a Haaland y MbappéSupera a Haaland y Mbappé",
+          "published": "Mon, 31 Aug 2026 22:39:19 +0200Mon, 31 Aug 2026 22:39:19 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/08/31/raphinha-arrollador-e-historico-tercer-partido-seguido-marcando.htmlhttps://www.marca.com/futbol/barcelona/2026/08/31/raphinha-arrollador-e-historico-tercer-partido-seguido-marcando.html",
+          "summary": "Ya suma cuatro golesYa suma cuatro goles",
+          "published": "Mon, 31 Aug 2026 22:09:02 +0200Mon, 31 Aug 2026 22:09:02 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/08/31/gabriel-jesus-pasa-reconocimiento-medico-manana-sera-jugador-barca.htmlhttps://www.marca.com/futbol/barcelona/2026/08/31/gabriel-jesus-pasa-reconocimiento-medico-manana-sera-jugador-barca.html",
+          "summary": "El brasileño, que estará esta noche en el palco del Spotify Camp Nou, refuerza el ataque culéEl brasileño, que estará esta noche en el palco del Spotify Camp Nou, refuerza el ataque culé",
+          "published": "Mon, 31 Aug 2026 20:36:43 +0200Mon, 31 Aug 2026 20:36:43 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "FC BARCELONAFC BARCELONA",
+      "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+          "published": "Mon, 09 Jun 2025 20:07:06 +0200Mon, 09 Jun 2025 20:07:06 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.html",
+          "summary": "El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"",
+          "published": "Mon, 09 Jun 2025 18:51:43 +0200Mon, 09 Jun 2025 18:51:43 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.html",
+          "summary": "Se reunió con Ceferin para intentar mitigar el castigo por irregularidades financierasSe reunió con Ceferin para intentar mitigar el castigo por irregularidades financieras",
+          "published": "Mon, 09 Jun 2025 12:34:03 +0200Mon, 09 Jun 2025 12:34:03 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.html",
+          "summary": "Principio de acuerdo para la rescisión del contrato del futbolistaPrincipio de acuerdo para la rescisión del contrato del futbolista",
+          "published": "Mon, 09 Jun 2025 13:47:01 +0200Mon, 09 Jun 2025 13:47:01 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Fabrizio Romano reveals Alejandro Balde stance on joining Man Utd from Barcelona",
+      "summary": "Fabrizio Romano reveals Alejandro Balde stance on joining Man Utd from Barcelona",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/alejandro-balde-manchester-united-barcelona-fabrizio-romano-transfer-update",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Fabrizio Romano reveals Alejandro Balde stance on joining Man Utd from Barcelona",
+          "url": "https://www.football365.com/news/alejandro-balde-manchester-united-barcelona-fabrizio-romano-transfer-update",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Man Utd signing Barcelona star is now ’50/50′ chance – Fabrizio Romano",
+          "url": "https://www.football365.com/news/man-utd-signing-barcelona-alejandro-balde-50-50-chance-fabrizio-romano",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona star makes U-turn on saying yes to Man Utd after Red Devils make offer",
+      "summary": "Barcelona star makes U-turn on saying yes to Man Utd after Red Devils make offer",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/barcelona-star-makes-u-turn-on-saying-yes-to-man-utd-after-red-devils-make-offer",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona star makes U-turn on saying yes to Man Utd after Red Devils make offer",
+          "url": "https://www.football365.com/news/barcelona-star-makes-u-turn-on-saying-yes-to-man-utd-after-red-devils-make-offer",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Man Utd make fresh decision on signing Myles Lewis-Skelly as offer for Barcelona star is lodged",
+          "url": "https://www.football365.com/news/man-utd-fresh-decision-lewis-skelly-barcelona-balde-offer",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "FC Barcelona News: 1 September 2026; Barça beat Rayo Vallecano, Lamine Yamal scores 50th Barça goalFC Barcelona News: 1 September 2026; Barça beat Rayo Vallecano, Lamine Yamal scores 50th Barça goal",
+      "summary": "FC Barcelona 5-2 Rayo Vallecano: Three from three – FC BarcelonaBraces for Raphinha and Lamine and a Lejeune own goal maintain the perfect Liga record in a lively encounter at Spotify Camp Nou. HIGHLIGHTS | LIGA | Barça v Rayo Vallecano – FC BarcelonaAll the best action from the La Liga clash at Spotify Camp […]FC Barcelona 5-2 Rayo Vallecano: Three from three – FC BarcelonaBraces for Raphinha and",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-news/131138/news-1-september-2026-rayo-vallecano-lamine-yamal-50th",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "FC Barcelona News: 1 September 2026; Barça beat Rayo Vallecano, Lamine Yamal scores 50th Barça goalFC Barcelona News: 1 September 2026; Barça beat Rayo Vallecano, Lamine Yamal scores 50th Barça goal",
+          "url": "https://www.barcablaugranes.com/barcelona-news/131138/news-1-september-2026-rayo-vallecano-lamine-yamal-50th",
+          "summary": "FC Barcelona 5-2 Rayo Vallecano: Three from three – FC BarcelonaBraces for Raphinha and Lamine and a Lejeune own goal maintain the perfect Liga record in a lively encounter at Spotify Camp Nou. HIGHLIGHTS | LIGA | Barça v Rayo Vallecano – FC BarcelonaAll the best action from the La Liga clash at Spotify Camp […]FC Barcelona 5-2 Rayo Vallecano: Three from three – FC BarcelonaBraces for Raphinha and",
+          "published": "2026-09-01T05:00:00-04:002026-09-01T05:00:00-04:00"
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona 5-2 Rayo Vallecano: Raphinha, Lamine Yamal, Anthony Gordon shine as Barça stay perfectBarcelona 5-2 Rayo Vallecano: Raphinha, Lamine Yamal, Anthony Gordon shine as Barça stay perfect",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131071/barcelona-rayo-vallecano-la-liga-final-score-match-report-recap-reactions",
+          "summary": "Barcelona have made it three wins out of three to continue their perfect start to the new La Liga season thanks to a very entertaining 5-2 win against Rayo Vallecano at Camp Nou on Monday night. The Blaugrana dominated the majority of the contest against a Rayo side who have given them so much trouble […]Barcelona have made it three wins out of three to continue their perfect start to the new La L",
+          "published": "2026-08-31T17:30:53-04:002026-08-31T17:30:53-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "Barça- Rayo Vallecano y el fichaje 'in extremis' de Gabriel Jesus, un nueve de 10 millones Barça- Rayo Vallecano y el fichaje 'in extremis' de Gabriel Jesus, un nueve de 10 millones",
+      "summary": "El Barça cierra con el Arsenal el fichaje del brasileño de 29 años por dos temporadas El Barça cierra con el Arsenal el fichaje del brasileño de 29 años por dos temporadas",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260831/11623255/nueve-10-millones-barca-rayo-vallecano-previa-partido-j3-liga.htmlhttps://www.lavanguardia.com/deportes/futbol/20260831/11623255/nueve-10-millones-barca-rayo-vallecano-previa-partido-j3-liga.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Barça- Rayo Vallecano y el fichaje 'in extremis' de Gabriel Jesus, un nueve de 10 millones Barça- Rayo Vallecano y el fichaje 'in extremis' de Gabriel Jesus, un nueve de 10 millones",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260831/11623255/nueve-10-millones-barca-rayo-vallecano-previa-partido-j3-liga.htmlhttps://www.lavanguardia.com/deportes/futbol/20260831/11623255/nueve-10-millones-barca-rayo-vallecano-previa-partido-j3-liga.html",
+          "summary": "El Barça cierra con el Arsenal el fichaje del brasileño de 29 años por dos temporadas El Barça cierra con el Arsenal el fichaje del brasileño de 29 años por dos temporadas",
+          "published": "31 Aug 2026 06:00:00 +020031 Aug 2026 06:00:00 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Gabriel Jesus, el nueve de 10 millones que negocia el Barça Gabriel Jesus, el nueve de 10 millones que negocia el Barça",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260830/11623141/gabriel-jesus-nueve-10-millones-negocia-barca.htmlhttps://www.lavanguardia.com/deportes/futbol/20260830/11623141/gabriel-jesus-nueve-10-millones-negocia-barca.html",
+          "summary": "El delantero brasileño, de 29 años, es la alternativa de última hora para reforzar el ataque El delantero brasileño, de 29 años, es la alternativa de última hora para reforzar el ataque",
+          "published": "30 Aug 2026 14:56:34 +020030 Aug 2026 14:56:34 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "RADIO MARCARADIO MARCA",
+      "summary": "El presentador de La Tribu destaca el momento del brasileño y asegura que Yamal \"aún está muy lejos del objetivo de ser ese 10 blaugrana que gana partidos y títulos por sí solo\"El presentador de La Tribu destaca el momento del brasileño y asegura que Yamal \"aún está muy lejos del objetivo de ser ese 10 blaugrana que gana partidos y títulos por sí solo\"",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/radio/2026/09/01/raul-varela-lamine-raphinha-verdadera-estrella-barcelona.htmlhttps://www.marca.com/radio/2026/09/01/raul-varela-lamine-raphinha-verdadera-estrella-barcelona.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "RADIO MARCARADIO MARCA",
+          "url": "https://www.marca.com/radio/2026/09/01/raul-varela-lamine-raphinha-verdadera-estrella-barcelona.htmlhttps://www.marca.com/radio/2026/09/01/raul-varela-lamine-raphinha-verdadera-estrella-barcelona.html",
+          "summary": "El presentador de La Tribu destaca el momento del brasileño y asegura que Yamal \"aún está muy lejos del objetivo de ser ese 10 blaugrana que gana partidos y títulos por sí solo\"El presentador de La Tribu destaca el momento del brasileño y asegura que Yamal \"aún está muy lejos del objetivo de ser ese 10 blaugrana que gana partidos y títulos por sí solo\"",
+          "published": "Tue, 01 Sep 2026 09:09:27 +0200Tue, 01 Sep 2026 09:09:27 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "RADIO MARCARADIO MARCA",
+          "url": "https://www.marca.com/radio/2026/08/31/barcelona-ficha-central-futuro.htmlhttps://www.marca.com/radio/2026/08/31/barcelona-ficha-central-futuro.html",
+          "summary": "Matteo Moretto desvela en La Pizarra que el Barça tiene apalabrada la llegada de Mikael Baza, central alemán de 16 años que se incorporará al Barça AthleticMatteo Moretto desvela en La Pizarra que el Barça tiene apalabrada la llegada de Mikael Baza, central alemán de 16 años que se incorporará al Barça Athletic",
+          "published": "Mon, 31 Aug 2026 11:37:28 +0200Mon, 31 Aug 2026 11:37:28 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "El fichaje sorpresa de Xevi Pujol para Sekulic en el Barça de basket: 18,5 puntos de media",
+      "summary": "El fichaje sorpresa de Xevi Pujol para Sekulic en el Barça de basket: 18,5 puntos de media",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Culemanía",
+          "url": "https://cronicaglobal.elespanol.com/culemania/secciones/20260831/fichaje-sorpresa-xevi-pujol-sekulic-barca-partido/1003742790570_0.html",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 39,
+          "source": "Culemanía",
+          "tier": "specialist",
+          "lang": [
+            "es"
+          ],
+          "title": "El fichaje sorpresa de Xevi Pujol para Sekulic en el Barça de basket: 18,5 puntos de media",
+          "url": "https://cronicaglobal.elespanol.com/culemania/secciones/20260831/fichaje-sorpresa-xevi-pujol-sekulic-barca-partido/1003742790570_0.html",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 39,
+          "source": "Culemanía",
+          "tier": "specialist",
+          "lang": [
+            "es"
+          ],
+          "title": "El último fichaje del Barça de basket no es un pívot: el desconcertante regalo de Xevi Pujol",
+          "url": "https://cronicaglobal.elespanol.com/culemania/secciones/20260830/fichaje-barca-desconcertante-xevi-pujol-plantilla-sekulic/1003742790395_0.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "summary": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Foundation The Official site of the Barça Foundation.",
+      "summary": "Barça Foundation The Official site of the Barça Foundation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Foundation The Official site of the Barça Foundation.",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "summary": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Innovation Hub The center for sports knowledge and innovation.",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "summary": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcamobile.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+          "url": "https://barcamobile.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Espai Barça The largest and most innovative sports and entertainment space",
+      "summary": "Espai Barça The largest and most innovative sports and entertainment space",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Espai Barça The largest and most innovative sports and entertainment space",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "summary": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://memorialfcbarcelona.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+          "url": "https://memorialfcbarcelona.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "summary": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "summary": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "summary": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "summary": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Players Find all the players that have played for Barça!",
+      "summary": "Barça Players Find all the players that have played for Barça!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Players Find all the players that have played for Barça!",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Rookies Barça's most special fans!",
+      "summary": "Barça Rookies Barça's most special fans!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Rookies Barça's most special fans!",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Lamine Yamal and Raphinha score twice as Barcelona hit fiveLamine Yamal and Raphinha score twice as Barcelona hit five",
+      "summary": "Lamine Yamal and Raphinha score twice as Barcelona beat Rayo Vallecano 5-2 in La Liga. Lamine Yamal and Raphinha score twice as Barcelona beat Rayo Vallecano 5-2 in La Liga.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c4gl7j81l1do?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/videos/c4gl7j81l1do?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Lamine Yamal and Raphinha score twice as Barcelona hit fiveLamine Yamal and Raphinha score twice as Barcelona hit five",
+          "url": "https://www.bbc.co.uk/sport/football/videos/c4gl7j81l1do?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/videos/c4gl7j81l1do?at_medium=RSS&at_campaign=rss",
+          "summary": "Lamine Yamal and Raphinha score twice as Barcelona beat Rayo Vallecano 5-2 in La Liga. Lamine Yamal and Raphinha score twice as Barcelona beat Rayo Vallecano 5-2 in La Liga.",
+          "published": "Mon, 31 Aug 2026 22:31:49 GMTMon, 31 Aug 2026 22:31:49 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Arsenal explore late move for Alvarez - Tuesday gossipArsenal explore late move for Alvarez - Tuesday gossip",
+      "summary": "Arsenal still interested in signing Julian Alvarez, Liverpool reject £30m bid from Nottingham Forest for Trey Nyoni, Borussia Dortmund consider move for Jadon Sancho.Arsenal still interested in signing Julian Alvarez, Liverpool reject £30m bid from Nottingham Forest for Trey Nyoni, Borussia Dortmund consider move for Jadon Sancho.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwyz130nxkro?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/cwyz130nxkro?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Arsenal explore late move for Alvarez - Tuesday gossipArsenal explore late move for Alvarez - Tuesday gossip",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cwyz130nxkro?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/cwyz130nxkro?at_medium=RSS&at_campaign=rss",
+          "summary": "Arsenal still interested in signing Julian Alvarez, Liverpool reject £30m bid from Nottingham Forest for Trey Nyoni, Borussia Dortmund consider move for Jadon Sancho.Arsenal still interested in signing Julian Alvarez, Liverpool reject £30m bid from Nottingham Forest for Trey Nyoni, Borussia Dortmund consider move for Jadon Sancho.",
+          "published": "Tue, 01 Sep 2026 05:43:23 GMTTue, 01 Sep 2026 05:43:23 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Football transfer deadline day: latest on Fernández, Alvarez, Ndiaye and more – liveFootball transfer deadline day: latest on Fernández, Alvarez, Ndiaye and more – live",
+      "summary": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Will and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there ",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updateshttps://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Football transfer deadline day: latest on Fernández, Alvarez, Ndiaye and more – liveFootball transfer deadline day: latest on Fernández, Alvarez, Ndiaye and more – live",
+          "url": "https://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updateshttps://www.theguardian.com/football/live/2026/sep/01/football-transfer-deadline-day-fernandez-alvarez-mudryk-ndiaye-latest-news-updates",
+          "summary": "Men’s transfer interactive | Women’s transfer interactive The Rumour Mill: check all of the deadline-day gossip You can mail Will and follow us on TikTok and Bluesky A lot of people are highly invested in people moving companies and changing jobs. You do not get this with accountancy or waste management. In case any players do not get a move today and are desperate to get out of their club, there ",
+          "published": "Tue, 01 Sep 2026 09:10:31 GMTTue, 01 Sep 2026 09:10:31 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Arsenal trying to lure Julián Álvarez after agreeing deals to sell Martinelli and JesusArsenal trying to lure Julián Álvarez after agreeing deals to sell Martinelli and Jesus",
+      "summary": "Atlético say they will not allow Barcelona to buy Álvarez Jesus poised for Barça and Martinelli for Al-Hilal Arsenal are running out of time to persuade Julián Álvarez to join them from Atlético Madrid after agreeing to sell Gabriel Martinelli, Gabriel Jesus and Fábio Vieira in deals collectively worth more than £70m. Álvarez has his heart set on joining Barcelona despite Atlético’s insistence the",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfershttps://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Arsenal trying to lure Julián Álvarez after agreeing deals to sell Martinelli and JesusArsenal trying to lure Julián Álvarez after agreeing deals to sell Martinelli and Jesus",
+          "url": "https://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfershttps://www.theguardian.com/football/2026/aug/31/arsenal-julian-alvarez-gabriel-martinelli-jesus-transfers",
+          "summary": "Atlético say they will not allow Barcelona to buy Álvarez Jesus poised for Barça and Martinelli for Al-Hilal Arsenal are running out of time to persuade Julián Álvarez to join them from Atlético Madrid after agreeing to sell Gabriel Martinelli, Gabriel Jesus and Fábio Vieira in deals collectively worth more than £70m. Álvarez has his heart set on joining Barcelona despite Atlético’s insistence the",
+          "published": "Mon, 31 Aug 2026 22:36:50 GMTMon, 31 Aug 2026 22:36:50 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Xavi hopes time at the ‘university of football’ will end with Dutch successXavi hopes time at the ‘university of football’ will end with Dutch success",
+      "summary": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach “My feeling today is that I’m going to the university of football.” Those were Xavi Hernández’s opening words at his presentation as the Netherlands coach on Tuesday. “I learned a lot from this university of football during my career as a player and as a coach. I have many con",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelonahttps://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelona",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Xavi hopes time at the ‘university of football’ will end with Dutch successXavi hopes time at the ‘university of football’ will end with Dutch success",
+          "url": "https://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelonahttps://www.theguardian.com/football/2026/aug/25/xavi-hernandez-university-of-football-netherlands-head-coach-barcelona",
+          "summary": "Barcelona legend wants to emulate Johan Cruyff’s total football philosophy after taking over as the Netherlands head coach “My feeling today is that I’m going to the university of football.” Those were Xavi Hernández’s opening words at his presentation as the Netherlands coach on Tuesday. “I learned a lot from this university of football during my career as a player and as a coach. I have many con",
+          "published": "Tue, 25 Aug 2026 19:58:37 GMTTue, 25 Aug 2026 19:58:37 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Ugly scenes as Argentina lose World Cup final – videoUgly scenes as Argentina lose World Cup final – video",
+      "summary": "There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then sent off after shoving Spain's Eric García by the throat and wrestling Gavi to the ground. He had already been booked during the match. The antics after the final whistle were quickly condemned by UK broadcast",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-videohttps://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Ugly scenes as Argentina lose World Cup final – videoUgly scenes as Argentina lose World Cup final – video",
+          "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-videohttps://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video",
+          "summary": "There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then sent off after shoving Spain's Eric García by the throat and wrestling Gavi to the ground. He had already been booked during the match. The antics after the final whistle were quickly condemned by UK broadcast",
+          "published": "Mon, 20 Jul 2026 11:21:26 GMTMon, 20 Jul 2026 11:21:26 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+      "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+          "published": "Fri, 19 Dec 2025 10:04:51 GMTFri, 19 Dec 2025 10:04:51 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+      "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+          "published": "Fri, 05 Dec 2025 08:00:42 GMTFri, 05 Dec 2025 08:00:42 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Predicted Lineup vs. Rayo Vallecano: La Liga The Catalans have been very impressive in their opening two games of the campaign.",
+      "summary": "Barcelona Predicted Lineup vs. Rayo Vallecano: La Liga The Catalans have been very impressive in their opening two games of the campaign.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "FOX Sports",
+          "url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-rayo-vallecano-la-liga-8-31-26",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 12,
+          "source": "FOX Sports",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Predicted Lineup vs. Rayo Vallecano: La Liga The Catalans have been very impressive in their opening two games of the campaign.",
+          "url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-rayo-vallecano-la-liga-8-31-26",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    }
+  ]
+}
