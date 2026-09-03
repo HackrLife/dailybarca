@@ -1,0 +1,295 @@
+{
+  "number": 246,
+  "date": "2026-09-04",
+  "label": "Friday 4 Sep 2026",
+  "title": {
+    "en": "Jesus and Gavi train with the group; UCL list includes Hamza and Bisiwu",
+    "es": "Jesus y Gavi entrenan con el grupo; lista UCL con Hamza y Bisiwu"
+  },
+  "deck": {
+    "en": "Gabriel Jesus completed his first group session. Gavi returned after the Elche knock. Champions League A-list confirmed with the new signings and two academy forwards. Ordinary General Assembly set for 19 September. Valencia away on Sunday.",
+    "es": "Gabriel Jesus completó su primera sesión de grupo. Gavi volvió tras el golpe de Elche. Lista A de Champions con los nuevos fichajes y dos delanteros de cantera. Asamblea General Ordinaria el 19 de septiembre. Valencia fuera el domingo."
+  },
+  "defaultSources": [
+    {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+    {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"},
+    {"label": "SPORT", "url": "https://www.sport.es/es/barca/"},
+    {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona.html"},
+    {"label": "AS", "url": "https://as.com/futbol/barcelona/"},
+    {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
+  ],
+  "stories": [
+    {
+      "theme": "squad",
+      "kicker": {"en": "Training", "es": "Entrenamiento"},
+      "headline": {
+        "en": "Gabriel Jesus trains with the group for the first time; Gavi returns",
+        "es": "Gabriel Jesus entrena con el grupo por primera vez; regresa Gavi"
+      },
+      "summary": {
+        "en": "Gabriel Jesus joined Hansi Flick’s first-team session at the Ciutat Esportiva on Thursday morning. Gavi also returned on a partial basis after missing the Athletic and Rayo matches following the knock sustained at Elche. Both are candidates for the Valencia trip on Sunday.",
+        "es": "Gabriel Jesus se incorporó a la sesión del primer equipo de Hansi Flick en la Ciutat Esportiva el jueves por la mañana. Gavi también regresó de forma parcial tras perderse los partidos ante Athletic y Rayo por el golpe recibido en Elche. Ambos son candidatos para el viaje a Valencia el domingo."
+      },
+      "body": {
+        "en": "Jesus worked alongside Raphinha, João Cancelo and Hamza Abdelkarim in the partial group. Mundo Deportivo reported the Brazilian had trained alone on Wednesday after completing his medical and presentation earlier in the week. Flick now has him available for selection against Valencia at Mestalla.\n\nGavi’s return closes the short absence that began when he was substituted at half-time in the opening Liga match. The midfielder is expected to be named in the squad for Sunday. The session prepared the side for a congested September that includes the Champions League opener against Feyenoord on 9 September."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2095467027972452747",
+          "text": "First training session for Gabriel Jesus 👋"
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2095506658625486874",
+          "text": "¡Gavi vuelve a entrenar con el grupo! 😍👏"
+        }
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222894/primer-entrenamiento-gabriel-jesus-barca-regreso-gavi.html"},
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Champions League", "es": "Champions"},
+      "headline": {
+        "en": "Hamza and Bisiwu make the Champions League A-list alongside new signings",
+        "es": "Hamza y Bisiwu entran en la lista A de Champions junto a los nuevos fichajes"
+      },
+      "summary": {
+        "en": "Barcelona submitted its Champions League squad to UEFA on Thursday. Hamza Abdelkarim and Jesse Bisiwu are included on List A. New arrivals Livaković, Rodri, Gordon, Adeyemi and Gabriel Jesus also appear, along with Xavi Espart.",
+        "es": "El Barça presentó el jueves su lista de Champions a la UEFA. Hamza Abdelkarim y Jesse Bisiwu figuran en la Lista A. También entran los nuevos Livaković, Rodri, Gordon, Adeyemi y Gabriel Jesus, junto a Xavi Espart."
+      },
+      "body": {
+        "en": "Víctor Navarro published the full list of new names that will be available for the league phase. The inclusion of the two young forwards gives Flick extra attacking depth for the European campaign that opens against Feyenoord at Spotify Camp Nou on 9 September.\n\nSPORT and Mundo Deportivo confirmed the submission. Brian Fariñas is listed on B. The registration follows the late-window arrivals and the academy promotions already completed before the deadline."
+      },
+      "tweets": [
+        {
+          "name": "Víctor Navarro",
+          "handle": "@victor_nahe",
+          "id": "2095604982804357507",
+          "text": "✨La plantilla del Barça para la Champions con: Livakovic Xavi Espart Rodri Bisiwu Hamza Gabriel Jesus Gordon Adeyemi"
+        },
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2095620700904026534",
+          "text": "🚨 Hamza y Bisiwu entran en la lista A del Barça para la Champions"
+        }
+      ],
+      "sources": [
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/hamza-bisiwu-entran-lista-barca-133930341"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004223091/barca-hamza-bisiwu-lista-champions-farinas-b.html"}
+      ]
+    },
+    {
+      "theme": "club",
+      "kicker": {"en": "Club", "es": "Club"},
+      "headline": {
+        "en": "Ordinary General Assembly called for Saturday 19 September",
+        "es": "Convocada la Asamblea General Ordinaria para el sábado 19 de septiembre"
+      },
+      "summary": {
+        "en": "The Board of Directors approved the call for the Ordinary General Assembly of members on Saturday 19 September. The meeting will cover the 2025/26 accounts, Espai Barça financing and several commercial agreements.",
+        "es": "La Junta Directiva aprobó la convocatoria de la Asamblea General Ordinaria de socios para el sábado 19 de septiembre. La reunión abordará las cuentas 2025/26, la financiación del Espai Barça y varios acuerdos comerciales."
+      },
+      "body": {
+        "en": "The club published the official statement on Thursday afternoon. The date sits one day after the Liga visit to Sevilla and advances the traditional mid-October slot so that the Espai Barça credit extension of roughly €500 million can be approved without a separate extraordinary meeting.\n\nMembers will also be asked to ratify the Ohana Development agreement, the Spotify sponsorship extensions and the appointment of seven directors. Full documentation will be available to socios in the coming days under the statutory 15-day notice period."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2095569399100973185",
+          "text": "Comunicado del FC Barcelona. La Junta Directiva ha aprobado la convocatoria de la Asamblea General Ordinaria de Socios y Socias para el sábado 19 de septiembre"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.es/es/club/noticias/4571765/comunicado-del-fc-barcelona"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260903/1004222706/hoy-reunion-junta-clave-asamblea-barca.html"}
+      ]
+    },
+    {
+      "theme": "league",
+      "kicker": {"en": "Preview", "es": "Previa"},
+      "headline": {
+        "en": "Valencia v Barcelona: Sunday 16:15 at Mestalla, last visit before the new stadium",
+        "es": "Valencia-Barça: domingo 16:15 en Mestalla, última visita antes del nuevo estadio"
+      },
+      "summary": {
+        "en": "Barcelona travel to Mestalla on Sunday for the fourth Liga match of the season. Kick-off is 16:15 CEST. The fixture is expected to be the club’s final competitive visit to the current ground before Valencia move to their new stadium.",
+        "es": "El Barça viaja a Mestalla el domingo para la cuarta jornada de Liga. Saque inicial a las 16:15. Se espera que sea la última visita competitiva al estadio actual antes del traslado del Valencia a su nuevo campo."
+      },
+      "body": {
+        "en": "The club released the international viewing schedule on Thursday. Flick’s side sit top of the table with nine points and a +10 goal difference after three wins. Valencia have yet to record a victory this season under Corberán.\n\nJesus and Gavi both trained on Thursday and are available for selection. The match forms the first of five fixtures in a 14-day stretch that also includes the Champions League opener against Feyenoord three days later."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2095497042776973336",
+          "text": "⏰ Los horarios internacionales del Valencia - Barça ⚔️"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "Las Provincias", "url": "https://www.lasprovincias.es/temas/entidades/fc-barcelona.html"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Squad", "es": "Plantilla"},
+      "headline": {
+        "en": "Raphinha remains Liga’s top scorer after three matchdays",
+        "es": "Raphinha sigue como máximo goleador de la Liga tras tres jornadas"
+      },
+      "summary": {
+        "en": "Raphinha has five goals in three Liga matches, scoring in every round. The Brazilian is the first Barcelona player to open a season with goals in the first three games since Lionel Messi. Lamine Yamal sits close behind on the early charts.",
+        "es": "Raphinha lleva cinco goles en tres partidos de Liga, marcando en todas las jornadas. El brasileño es el primer jugador del Barça que abre una temporada con goles en los tres primeros partidos desde Lionel Messi. Lamine Yamal está cerca en la tabla provisional."
+      },
+      "body": {
+        "en": "The club highlighted the run earlier in the week. Raphinha’s two goals against Rayo took him clear at the top of the scoring list. His link-up play with Yamal and the new wide options has given Flick a flexible front line even before Jesus is fully integrated.\n\nThe early numbers also reflect the improved chance creation from midfield. Pedri and the returning minutes of Gavi and Rodri have started to stabilise the supply. Valencia away on Sunday is the next test of the scoring run."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2095602735584329732",
+          "text": "Raphinha’s start deserves a conversation. 👀"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"}
+      ]
+    },
+    {
+      "theme": "transfer",
+      "kicker": {"en": "Transfer", "es": "Mercado"},
+      "headline": {
+        "en": "Summer window graded: two A’s and one D for the new arrivals",
+        "es": "Ventana de verano evaluada: dos A y una D para las nuevas incorporaciones"
+      },
+      "summary": {
+        "en": "Sports Illustrated and partner outlets graded Barcelona’s 2026 summer window. The review highlighted strong marks for several arrivals while noting the failure to land Julián Álvarez as the clear shortfall.",
+        "es": "Sports Illustrated y medios asociados evaluaron la ventana de verano 2026 del Barça. El análisis destacó notas altas para varias incorporaciones y señaló el fracaso por Julián Álvarez como el principal punto débil."
+      },
+      "body": {
+        "en": "The piece assessed the six first-team arrivals completed by Deco and Flick. Rodri, Gordon and Adeyemi received the strongest marks for immediate impact and tactical fit. Jesus was viewed as a solid late opportunity at a contained fee.\n\nThe D grade attached to the unresolved striker search after Atlético blocked any move for Álvarez. The club has already indicated it will revisit the position in January if the early-season numbers require it."
+      },
+      "tweets": [
+        {
+          "name": "BarcaFutbolLive",
+          "handle": "@BarcaFutbolLive",
+          "text": "Window closed. Jesus was the last first-team arrival. Squad list is set."
+        }
+      ],
+      "sources": [
+        {"label": "Sports Illustrated", "url": "https://www.si.com/soccer/grading-barcelona-2026-summer-transfer-window"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Injury", "es": "Lesiones"},
+      "headline": {
+        "en": "Bisiwu picks up a knock with Barça Atlètic; update expected before Valencia",
+        "es": "Bisiwu sufre un golpe con el Barça Atlètic; actualización prevista antes del Valencia"
+      },
+      "summary": {
+        "en": "Jesse Bisiwu took a knock to his left leg during Barça Atlètic’s Copa Catalunya final against Sabadell. The club issued a short injury update on Thursday. His availability for the first-team list against Valencia will be confirmed closer to the match.",
+        "es": "Jesse Bisiwu recibió un golpe en la pierna izquierda durante la final de la Copa Catalunya del Barça Atlètic ante el Sabadell. El club publicó una breve actualización el jueves. Su disponibilidad para la lista del primer equipo ante el Valencia se confirmará más cerca del partido."
+      },
+      "body": {
+        "en": "The Belgian forward had been included on the Champions League A-list earlier on Thursday. The timing of the knock creates a short assessment window before the Sunday squad is named.\n\nBarça Atlètic finished runners-up in the regional competition after a late goal. The first-team medical staff will monitor the player over the next 48 hours."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "text": "Bisiwu injury update. Belgian took a knock to his left leg during the Copa Catalunya match against Sabadell."
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news"}
+      ]
+    },
+    {
+      "theme": "league",
+      "kicker": {"en": "Calendar", "es": "Calendario"},
+      "headline": {
+        "en": "Five games in fourteen days before the first international break",
+        "es": "Cinco partidos en catorce días antes del primer parón de selecciones"
+      },
+      "summary": {
+        "en": "Barcelona face Valencia on Sunday, Feyenoord in the Champions League on 9 September, then Levante, Racing Santander and Sevilla in quick succession. The run ends just before the first international window of the season.",
+        "es": "El Barça se mide al Valencia el domingo, al Feyenoord en Champions el 9 de septiembre y después a Levante, Racing Santander y Sevilla en sucesión rápida. La racha termina justo antes del primer parón de selecciones."
+      },
+      "body": {
+        "en": "The club outlined the September schedule earlier in the week. The Valencia match is the final competitive visit to the current Mestalla. Feyenoord arrives three days later for the first league-phase fixture of the new Champions League format.\n\nFlick will manage minutes carefully across the five matches. The return of Gavi and the integration of Jesus give the coaching staff additional options for rotation."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "text": "Five games in fourteen days. Plenty in store for September."
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4569533/plenty-in-store-for-september"}
+      ]
+    },
+    {
+      "theme": "transfer",
+      "kicker": {"en": "Transfer", "es": "Mercado"},
+      "headline": {
+        "en": "Olmo on Atlético and Álvarez: ‘I don’t understand it’",
+        "es": "Olmo sobre el Atlético y Álvarez: ‘No lo entiendo’"
+      },
+      "summary": {
+        "en": "Dani Olmo spoke in Terrassa after a local tribute for Spain’s World Cup win. Asked about Atlético’s stance on Julián Álvarez, the midfielder said he could not understand the decision and that every player has the right to pursue their dreams.",
+        "es": "Dani Olmo habló en Terrassa tras un homenaje local por el Mundial de España. Preguntado por la postura del Atlético con Julián Álvarez, el centrocampista dijo que no entendía la decisión y que todo jugador tiene derecho a perseguir sus sueños."
+      },
+      "body": {
+        "en": "Olmo received civic recognition in his hometown on Wednesday. The conversation turned to the summer’s failed pursuit of Álvarez. The Barcelona midfielder stressed that Álvarez had been clear about his desire to move and that clubs should respect those ambitions.\n\nThe comments were reported by Mundo Deportivo, La Vanguardia and El Periódico. Barcelona has already signalled it will monitor the situation again in January."
+      },
+      "tweets": [
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "text": "Olmo: \"No entiendo lo del Atleti con Julián\""
+        }
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260902/1004222660/olmo-no-entiendo-atleti-julian.html"},
+        {"label": "La Vanguardia", "url": "https://www.lavanguardia.com/deportes/futbol/20260902/11625714/dani-olmo-decision-atletico-julian-alvarez-entenderlo-entiendo.html"}
+      ]
+    },
+    {
+      "theme": "club",
+      "kicker": {"en": "Club", "es": "Club"},
+      "headline": {
+        "en": "Barça Atlètic finish runners-up in Copa Catalunya after late Sabadell goal",
+        "es": "El Barça Atlètic acaba subcampeón de la Copa Catalunya tras un gol tardío del Sabadell"
+      },
+      "summary": {
+        "en": "Barça Atlètic lost 1-2 to CE Sabadell in the Copa Catalunya final. A late goal decided the regional competition. The first-team staff will monitor any knock sustained by Jesse Bisiwu during the match.",
+        "es": "El Barça Atlètic perdió 1-2 ante el CE Sabadell en la final de la Copa Catalunya. Un gol tardío decidió la competición regional. El cuerpo técnico del primer equipo supervisará el golpe que sufrió Jesse Bisiwu durante el partido."
+      },
+      "body": {
+        "en": "The result was confirmed by the club on Wednesday evening. Sabadell struck late to claim the title. Bisiwu’s involvement and subsequent knock will be assessed ahead of the Valencia squad announcement.\n\nThe regional competition provided useful minutes for several fringe and academy players while the first team prepared for the Liga and European calendar."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "text": "Barça Atlètic 1-2 CE Sabadell: Copa Catalunya slips away"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/barca-b/news"}
+      ]
+    }
+  ]
+}
