@@ -52,6 +52,245 @@
         {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4572031/second-to-last-session-before-trip-to-mestalla"},
         {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223279/gabriel-jesus-gavi-completan-trabajo-grupo-apuntan-mestalla.html"}
       ]
+    },
+    {
+      "theme": "league",
+      "kicker": {"en": "Preview", "es": "Previa"},
+      "headline": {
+        "en": "Last competitive visit to the current Mestalla on Sunday at 16:15",
+        "es": "Última visita competitiva al Mestalla actual el domingo a las 16:15"
+      },
+      "summary": {
+        "en": "Barcelona travel to Valencia on Sunday for Liga matchday four. Kick-off is 16:15 CEST at Mestalla. The club has confirmed it will be the final competitive appearance at the existing ground before Valencia move to their new stadium. Flick’s side sit top of the table with nine points and a +10 goal difference.",
+        "es": "El Barça viaja a Valencia el domingo para la cuarta jornada de Liga. Saque inicial a las 16:15 en Mestalla. El club ha confirmado que será la última aparición competitiva en el estadio actual antes del traslado del Valencia a su nuevo campo. El equipo de Flick lidera la tabla con nueve puntos y +10 de diferencia de goles."
+      },
+      "body": {
+        "en": "The club published a collection of historical memories from previous visits on Friday evening. Valencia have yet to win this season under Carlos Corberán and sit near the bottom of the table. Barcelona arrive with three straight Liga victories and the highest goal tally in the division.\n\nJesus and Gavi both trained fully on Friday and are available. The match opens a congested September that continues with Feyenoord at Spotify Camp Nou on 9 September, then Levante and Sevilla either side of the first international break.",
+        "es": "El club publicó el viernes por la tarde una recopilación de recuerdos históricos de visitas anteriores. El Valencia aún no ha ganado esta temporada bajo Carlos Corberán y se sitúa cerca de la zona baja. El Barça llega con tres victorias ligueras consecutivas y el mayor registro goleador de la categoría.\n\nJesus y Gavi entrenaron al completo el viernes y están disponibles. El partido abre un septiembre cargado que continúa con el Feyenoord en el Spotify Camp Nou el 9 de septiembre y después Levante y Sevilla a ambos lados del primer parón de selecciones."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2095965309026881649",
+          "text": "Este domingo, por última vez, visitamos un estadio centenario como Mestalla. Una recopilación de algunos recuerdos en el feudo valencianista 👇"
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2095904722616304119",
+          "text": "Listos para visitar Mestalla 🦇"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4571115/last-visit-to-mestalla-a-stadium-with-great-memories-for-barca"},
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4572031/second-to-last-session-before-trip-to-mestalla"}
+      ]
+    },
+    {
+      "theme": "club",
+      "kicker": {"en": "Champions League", "es": "Champions"},
+      "headline": {
+        "en": "High-risk security protocol activated for Feyenoord at Spotify Camp Nou",
+        "es": "Activado el protocolo de seguridad de alto riesgo para el Feyenoord en el Spotify Camp Nou"
+      },
+      "summary": {
+        "en": "Barcelona will apply the full ‘Security and Rival Fan Control Protocol’ for the Champions League league-phase opener against Feyenoord on 9 September. Tickets are nominal, visiting supporters must enter via Gate L, and rival colours are restricted to the away section. The club asked fans without tickets not to travel.",
+        "es": "El Barça aplicará el ‘Protocolo de seguridad y control de la afición rival’ completo para el estreno de la fase liga de Champions ante el Feyenoord el 9 de septiembre. Las entradas son nominativas, los aficionados visitantes deben acceder por la Puerta L y los colores rivales quedan restringidos a la zona visitante. El club pidió a quienes no tengan entrada que no viajen."
+      },
+      "body": {
+        "en": "The measures follow the standard high-risk template used by the Anti-Violence Commission. Sales to overseas IP addresses and certain foreign bank cards were blocked during the public window. Identification documents must be shown with the ticket on request.\n\nCoordination is under way with Feyenoord, the Guardia Urbana and the Mossos d’Esquadra to keep rival supporters away from the perimeter of the stadium. Kick-off remains 18:45 CEST on Wednesday 9 September.",
+        "es": "Las medidas siguen el modelo estándar de alto riesgo de la Comisión Antiviolencia. Se bloquearon las ventas a direcciones IP extranjeras y a determinadas tarjetas bancarias durante la ventana pública. Habrá que mostrar el documento de identidad junto a la entrada si se solicita.\n\nLa coordinación avanza con el Feyenoord, la Guardia Urbana y los Mossos d’Esquadra para mantener a la afición rival lejos del perímetro del estadio. El saque inicial sigue fijado a las 18:45 del miércoles 9 de septiembre."
+      },
+      "tweets": [],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/club/news"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223297/barca-extrema-protecciones-feyenoord.html"}
+      ]
+    },
+    {
+      "theme": "club",
+      "kicker": {"en": "Club", "es": "Club"},
+      "headline": {
+        "en": "Ordinary General Assembly confirmed for Saturday 19 September",
+        "es": "Confirmada la Asamblea General Ordinaria para el sábado 19 de septiembre"
+      },
+      "summary": {
+        "en": "The Board of Directors formally convened the Ordinary General Assembly of members for Saturday 19 September. The meeting will examine the 2025/26 accounts, Espai Barça financing and several commercial agreements already approved by the board. Documentation will be available to socios under the statutory notice period.",
+        "es": "La Junta Directiva convocó formalmente la Asamblea General Ordinaria de socios para el sábado 19 de septiembre. La reunión examinará las cuentas 2025/26, la financiación del Espai Barça y varios acuerdos comerciales ya aprobados por la junta. La documentación estará a disposición de los socios dentro del plazo legal."
+      },
+      "body": {
+        "en": "The date was brought forward from the traditional mid-October slot so that the Espai Barça credit extension of roughly €500 million can be ratified without a separate extraordinary session. Members will also be asked to approve the Ohana Development agreement, Spotify sponsorship extensions and the appointment of seven directors.\n\nThe assembly will be held online with the Table formed in the Auditori 1899. Full papers are expected to be published in the coming days.",
+        "es": "La fecha se adelantó respecto al tradicional hueco de mediados de octubre para que la ampliación de crédito del Espai Barça de unos 500 millones de euros pueda ratificarse sin una sesión extraordinaria aparte. Los socios también deberán aprobar el acuerdo con Ohana Development, las prórrogas de patrocinio de Spotify y el nombramiento de siete directivos.\n\nLa asamblea se celebrará online con la Mesa constituida en el Auditori 1899. Se espera que los papeles completos se publiquen en los próximos días."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2095569399100973185",
+          "text": "Comunicado del FC Barcelona. La Junta Directiva ha aprobado la convocatoria de la Asamblea General Ordinaria de Socios y Socias para el sábado 19 de septiembre"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.es/es/club/noticias/4571765/comunicado-del-fc-barcelona"},
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.es/es/club/noticias/4572015/convocatoria-de-la-asamblea-general-ordinaria-2026"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Squad", "es": "Plantilla"},
+      "headline": {
+        "en": "Iu Martínez from the U19s trains again with the first team",
+        "es": "Iu Martínez del Juvenil A vuelve a entrenar con el primer equipo"
+      },
+      "summary": {
+        "en": "Seventeen-year-old winger Iu Martínez from the U19 A squad took part in Friday’s first-team session for the second consecutive day. The club listed him alongside the available senior players as Flick continued preparations for Valencia. He had also featured on Thursday when Jesus and Gavi first joined the group.",
+        "es": "El extremo de 17 años Iu Martínez, del Juvenil A, participó el viernes en la sesión del primer equipo por segundo día consecutivo. El club lo incluyó junto a los senior disponibles mientras Flick sigue preparando el Valencia. También había trabajado el jueves cuando Jesus y Gavi se incorporaron al grupo."
+      },
+      "body": {
+        "en": "The repeated call-up gives the teenager further exposure to senior intensity ahead of a busy September. Flick has already shown willingness to use academy attackers when the schedule tightens, as seen with Hamza Abdelkarim and Jesse Bisiwu on the Champions League A-list.\n\nMartínez will not travel to Mestalla as a first-team squad member, but the consecutive sessions keep him in the coaching staff’s sight for possible future opportunities.",
+        "es": "La repetición de la convocatoria da al adolescente más exposición a la intensidad del primer equipo de cara a un septiembre cargado. Flick ya ha mostrado disposición a usar delanteros de cantera cuando el calendario se aprieta, como se vio con Hamza Abdelkarim y Jesse Bisiwu en la lista A de Champions.\n\nMartínez no viajará a Mestalla como miembro de la lista del primer equipo, pero las sesiones consecutivas lo mantienen en el radar del cuerpo técnico para posibles oportunidades futuras."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2095950019744665805",
+          "text": "Another session, another step."
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4572031/second-to-last-session-before-trip-to-mestalla"}
+      ]
+    },
+    {
+      "theme": "league",
+      "kicker": {"en": "Form", "es": "Estado de forma"},
+      "headline": {
+        "en": "Raphinha still leads the Liga scoring chart after three rounds",
+        "es": "Raphinha sigue liderando la tabla de goleadores de la Liga tras tres jornadas"
+      },
+      "summary": {
+        "en": "Raphinha has five goals in three Liga matches and has scored in every round so far. He is the first Barcelona player to open a season with goals in the first three games since Lionel Messi. Lamine Yamal sits close behind on the early charts after contributing heavily in the wins over Elche, Athletic and Rayo.",
+        "es": "Raphinha lleva cinco goles en tres partidos de Liga y ha marcado en todas las jornadas. Es el primer jugador del Barça que abre una temporada con goles en los tres primeros partidos desde Lionel Messi. Lamine Yamal está cerca en la tabla provisional tras contribuir de forma decisiva en las victorias ante Elche, Athletic y Rayo."
+      },
+      "body": {
+        "en": "The Brazilian’s two goals against Rayo on Monday took him clear at the top of the scoring list. His combination with Yamal and the new wide options has given Flick a flexible front line even before Jesus is fully integrated into match rhythm.\n\nThe early numbers also reflect improved chance creation from midfield. Pedri and the returning minutes of Gavi and Rodri have started to stabilise the supply. Valencia away is the next test of the scoring run.",
+        "es": "Los dos goles del brasileño ante el Rayo el lunes le colocaron en solitario al frente de la tabla. Su combinación con Yamal y las nuevas opciones en banda ha dado a Flick una delantera flexible incluso antes de que Jesus se integre por completo al ritmo de partido.\n\nLos números tempranos también reflejan una mejor creación de ocasiones desde el centro del campo. Pedri y los minutos de regreso de Gavi y Rodri han empezado a estabilizar el suministro. El Valencia fuera de casa es la siguiente prueba de la racha goleadora."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2095602735584329732",
+          "text": "Raphinha’s start deserves a conversation. 👀"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"}
+      ]
+    },
+    {
+      "theme": "transfer",
+      "kicker": {"en": "Window", "es": "Mercado"},
+      "headline": {
+        "en": "Summer window closed: Jesus the final first-team arrival",
+        "es": "Cerrada la ventana de verano: Jesus, el último refuerzo del primer equipo"
+      },
+      "summary": {
+        "en": "Gabriel Jesus was the last first-team signing of the summer after arriving from Arsenal for a fee in the region of €10-14 million. The club has indicated no further incomings are expected before the January window. Rodri, Gordon, Adeyemi and Livaković complete the senior arrivals alongside the academy promotions already registered.",
+        "es": "Gabriel Jesus fue el último fichaje del primer equipo en el verano tras llegar del Arsenal por una cifra cercana a los 10-14 millones de euros. El club ha indicado que no se esperan más incorporaciones antes de la ventana de enero. Rodri, Gordon, Adeyemi y Livaković completan las llegadas senior junto a las promociones de cantera ya inscritas."
+      },
+      "body": {
+        "en": "Flick and Deco agreed to park any remaining centre-back interest until the mid-season window. The failed pursuit of Julián Álvarez remains the clearest shortfall of the summer, a point Dani Olmo addressed publicly earlier in the week.\n\nThe squad list for the Champions League league phase is now final. Jesus is available for selection against Valencia and will be assessed for possible minutes in the Feyenoord match three days later.",
+        "es": "Flick y Deco acordaron aparcar cualquier interés restante por un central hasta la ventana de mitad de temporada. El fallido intento por Julián Álvarez sigue siendo el punto más claro de la ventana de verano, un asunto que Dani Olmo abordó en público a principios de semana.\n\nLa lista para la fase liga de Champions ya es definitiva. Jesus está disponible para la convocatoria ante el Valencia y será evaluado para posibles minutos en el partido ante el Feyenoord tres días después."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2095708636752318794",
+          "text": "Gabriel Jesús - Day 1"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"}
+      ]
+    },
+    {
+      "theme": "women",
+      "kicker": {"en": "Women", "es": "Femenino"},
+      "headline": {
+        "en": "Women’s Champions League opponents confirmed: Bayern, Arsenal, Paris FC, Roma",
+        "es": "Confirmados los rivales de la Champions femenina: Bayern, Arsenal, Paris FC, Roma"
+      },
+      "summary": {
+        "en": "Barcelona’s women’s team learned their league-phase opponents in the UEFA Women’s Champions League. Bayern Munich, Arsenal, Paris FC, Roma, Servette and HB Køge make up the group. The draw sets a demanding early European schedule for Jonatan Giráldez’s side.",
+        "es": "El equipo femenino del Barça conoció a sus rivales de la fase liga de la UEFA Women’s Champions League. Bayern Múnich, Arsenal, Paris FC, Roma, Servette y HB Køge componen el grupo. El sorteo marca un calendario europeo exigente para el equipo de Jonatan Giráldez."
+      },
+      "body": {
+        "en": "The club published the full list on Friday. Home and away fixtures against the stronger sides will dominate the autumn calendar. Barcelona enter the competition as one of the favourites after consistent deep runs in recent seasons.\n\nTraining and squad planning will now incorporate the European dates alongside the Liga F programme. Further details on venues and exact kick-off times are expected in the coming days.",
+        "es": "El club publicó la lista completa el viernes. Los partidos de ida y vuelta ante los equipos más fuertes dominarán el calendario de otoño. El Barça entra en la competición como uno de los favoritos tras las carreras profundas de las últimas temporadas.\n\nEl entrenamiento y la planificación de plantilla incorporarán ahora las fechas europeas junto al programa de Liga F. Se esperan más detalles sobre sedes y horarios exactos en los próximos días."
+      },
+      "tweets": [],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/womens-football/news"}
+      ]
+    },
+    {
+      "theme": "league",
+      "kicker": {"en": "Calendar", "es": "Calendario"},
+      "headline": {
+        "en": "Five matches in fourteen days before the first international break",
+        "es": "Cinco partidos en catorce días antes del primer parón de selecciones"
+      },
+      "summary": {
+        "en": "Barcelona face Valencia on Sunday, Feyenoord in the Champions League on 9 September, then Levante, Racing Santander and Sevilla in quick succession. The run ends just before the first international window of the 2026/27 season. Flick will manage minutes carefully across the five fixtures.",
+        "es": "El Barça se mide al Valencia el domingo, al Feyenoord en Champions el 9 de septiembre y después a Levante, Racing Santander y Sevilla en sucesión rápida. La racha termina justo antes del primer parón de selecciones de la temporada 2026/27. Flick gestionará los minutos con cuidado a lo largo de los cinco partidos."
+      },
+      "body": {
+        "en": "The club outlined the September schedule earlier in the week. The Valencia match is the final competitive visit to the current Mestalla. Feyenoord arrives three days later for the first league-phase fixture of the new Champions League format.\n\nThe return of Gavi and the integration of Jesus give the coaching staff additional options for rotation. Saturday’s final training session will finalise the Valencia squad before the short trip south.",
+        "es": "El club detalló el calendario de septiembre a principios de semana. El partido ante el Valencia es la última visita competitiva al Mestalla actual. El Feyenoord llega tres días después para el primer partido de la fase liga del nuevo formato de Champions.\n\nEl regreso de Gavi y la integración de Jesus dan al cuerpo técnico opciones adicionales de rotación. La sesión final del sábado cerrará la lista del Valencia antes del corto viaje al sur."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2095950019744665805",
+          "text": "Another session, another step."
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Injury watch", "es": "Lesiones"},
+      "headline": {
+        "en": "Valencia’s injury list leaves Corberán short of options for Sunday",
+        "es": "La lista de lesionados del Valencia deja a Corberán corto de opciones para el domingo"
+      },
+      "summary": {
+        "en": "Mundo Deportivo reported a lengthy Valencia injury list ahead of the visit of Barcelona. Several senior players remain unavailable, forcing Corberán to reshuffle his midfield and attack. The home side have yet to record a win this season and sit near the bottom of the early table.",
+        "es": "Mundo Deportivo informó de una larga lista de lesionados del Valencia antes de la visita del Barça. Varios jugadores senior siguen indisponibles, lo que obliga a Corberán a reordenar el centro del campo y el ataque. El equipo local aún no ha sumado una victoria esta temporada y se sitúa cerca de la zona baja de la tabla provisional."
+      },
+      "body": {
+        "en": "The report listed multiple absences that reduce Valencia’s depth for a match against the league leaders. Barcelona arrive with almost a full squad available after the returns of Gavi and Jesus.\n\nFlick is expected to name a strong side for the final visit to the current Mestalla. The contrast in resources underlines the challenge facing the home team on Sunday afternoon.",
+        "es": "El informe detalló varias bajas que reducen la profundidad del Valencia para un partido ante el líder. El Barça llega con casi toda la plantilla disponible tras los regresos de Gavi y Jesus.\n\nSe espera que Flick nombre un once fuerte para la última visita al Mestalla actual. El contraste de recursos subraya el reto al que se enfrenta el equipo local el domingo por la tarde."
+      },
+      "tweets": [
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2095791414722416938",
+          "text": "⚫️⚪️ Enfermería llena en el Valencia para recibir al Barça"
+        }
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223193/enfermeria-llena-valencia-recibir-barca.html"}
+      ]
     }
   ]
 }
