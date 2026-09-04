@@ -1,1 +1,57 @@
-PLACEHOLDER
+{
+  "number": 247,
+  "date": "2026-09-05",
+  "label": "Saturday 5 Sep 2026",
+  "title": {
+    "en": "Jesus and Gavi clear for Valencia; final Mestalla trip; Feyenoord security protocol",
+    "es": "Jesus y Gavi listos para Valencia; última visita a Mestalla; protocolo de seguridad ante el Feyenoord"
+  },
+  "deck": {
+    "en": "Gabriel Jesus and Gavi completed the full Friday session and are available for Sunday’s trip to Mestalla. The match is Barcelona’s last competitive visit to the current ground. High-risk security measures confirmed for the Champions League opener against Feyenoord on 9 September. Ordinary General Assembly remains set for 19 September.",
+    "es": "Gabriel Jesus y Gavi completaron la sesión completa del viernes y están disponibles para el viaje del domingo a Mestalla. El partido es la última visita competitiva del Barça al estadio actual. Medidas de seguridad de alto riesgo confirmadas para el estreno de Champions ante el Feyenoord el 9 de septiembre. La Asamblea General Ordinaria sigue fijada para el 19 de septiembre."
+  },
+  "defaultSources": [
+    {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+    {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"},
+    {"label": "SPORT", "url": "https://www.sport.es/es/barca/"},
+    {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona.html"},
+    {"label": "AS", "url": "https://as.com/futbol/barcelona/"},
+    {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
+  ],
+  "stories": [
+    {
+      "theme": "squad",
+      "kicker": {"en": "Training", "es": "Entrenamiento"},
+      "headline": {
+        "en": "Jesus and Gavi complete full Friday session and are available for Valencia",
+        "es": "Jesus y Gavi completan la sesión del viernes y están disponibles para el Valencia"
+      },
+      "summary": {
+        "en": "Gabriel Jesus and Gavi both finished the full group session at the Ciutat Esportiva on Friday. The Brazilian, signed from Arsenal earlier in the week, worked the entire morning with the first team for the first time. Gavi returned after missing the Athletic and Rayo matches following the knock sustained at Elche. Both are candidates for Sunday’s squad at Mestalla.",
+        "es": "Gabriel Jesus y Gavi terminaron la sesión completa de grupo en la Ciutat Esportiva el viernes. El brasileño, fichado del Arsenal a principios de semana, trabajó toda la mañana con el primer equipo por primera vez. Gavi regresó tras perderse los partidos ante Athletic y Rayo por el golpe de Elche. Ambos son candidatos para la lista del domingo en Mestalla."
+      },
+      "body": {
+        "en": "Flick’s side prepared for the fourth Liga match with both players integrated into the full group. Mundo Deportivo and the club confirmed Jesus completed the work after a partial session on Thursday. The midfielder’s return closes a short absence that began when he was withdrawn at half-time against Elche on the opening weekend.\n\nThe pair will be assessed again on Saturday morning before the squad is named. Valencia at Mestalla kicks off at 16:15 CEST. The fixture forms the first of five games in a 14-day stretch that also includes the Champions League opener against Feyenoord three days later.",
+        "es": "El equipo de Flick preparó el cuarto partido de Liga con ambos jugadores integrados en el grupo completo. Mundo Deportivo y el club confirmaron que Jesus completó el trabajo tras una sesión parcial el jueves. El regreso del centrocampista cierra una breve ausencia que comenzó cuando fue sustituido en el descanso ante el Elche en la jornada inaugural.\n\nLa pareja será evaluada de nuevo el sábado por la mañana antes de anunciar la lista. El Valencia-Mestalla arranca a las 16:15. El partido es el primero de cinco en un tramo de 14 días que incluye el estreno de Champions ante el Feyenoord tres días después."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2095965124058341565",
+          "text": "Intensity is non-negotiable for Gavi. 😤"
+        },
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2095860400227025312",
+          "text": "🔵🔴 Gabriel Jesus y Gavi completan el trabajo con el grupo y apuntan a Mestalla\n\n✍️ @sergisoleMD"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4572031/second-to-last-session-before-trip-to-mestalla"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260904/1004223279/gabriel-jesus-gavi-completan-trabajo-grupo-apuntan-mestalla.html"}
+      ]
+    }
+  ]
+}
