@@ -1,1 +1,68 @@
-PLACEHOLDER
+{
+  "editions": [
+    {
+      "number": 247,
+      "date": "2026-09-05",
+      "label": "Saturday 5 Sep 2026",
+      "file": "2026-09-05.json",
+      "tweets": 11,
+      "lead": "Jesus + Gavi clear for Valencia; last Mestalla; Feyenoord security"
+    },
+    {
+      "number": 246,
+      "date": "2026-09-04",
+      "label": "Friday 4 Sep 2026",
+      "file": "2026-09-04.json",
+      "tweets": 12,
+      "lead": "Jesus + Gavi train; UCL list with Hamza/Bisiwu; Assembly 19 Sep"
+    },
+    {
+      "number": 245,
+      "date": "2026-09-02",
+      "label": "Wednesday 2 Sep 2026",
+      "file": "2026-09-02.json",
+      "tweets": 14,
+      "lead": "Jesus presented; Casadó to Deportivo; Yamal AFE award"
+    },
+    {
+      "number": 244,
+      "date": "2026-09-01",
+      "label": "Tuesday 1 Sep 2026",
+      "file": "2026-09-01.json",
+      "tweets": 12,
+      "lead": "Gabriel Jesus passes medical; presentation Tuesday"
+    },
+    {
+      "number": 243,
+      "date": "2026-08-31",
+      "label": "Monday 31 Aug 2026",
+      "file": "2026-08-31.json",
+      "tweets": 18,
+      "lead": "Gabriel Jesus from Arsenal for €10m; Rayo at 21:30"
+    },
+    {
+      "number": 242,
+      "date": "2026-08-30",
+      "label": "Sunday 30 Aug 2026",
+      "file": "2026-08-30.json",
+      "tweets": 24,
+      "lead": "Héctor Fort sold to Real Sociedad; Rayo on Monday"
+    },
+    {
+      "number": 241,
+      "date": "2026-08-29",
+      "label": "Saturday 29 Aug 2026",
+      "file": "2026-08-29.json",
+      "tweets": 72,
+      "lead": "Feyenoord at 18:45 on 9 September; Garcia banned"
+    },
+    {
+      "number": 240,
+      "date": "2026-08-28",
+      "label": "Friday 28 Aug 2026",
+      "file": "2026-08-28.json",
+      "tweets": 4,
+      "lead": "UCL draw: PSG away, City at home"
+    }
+  ]
+}
