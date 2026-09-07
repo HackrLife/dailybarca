@@ -1,0 +1,256 @@
+{
+  "number": 248,
+  "date": "2026-09-08",
+  "label": "Tuesday 8 Sep 2026",
+  "title": {
+    "en": "CL preparations begin; Raphinha on four-game scoring run; Flick still wants a pure No.9",
+    "es": "Arranca la preparación de Champions; Raphinha encadena cuatro partidos goleando; Flick sigue pidiendo un 9 puro"
+  },
+  "deck": {
+    "en": "Hansi Flick’s squad opened Champions League week on Monday with a recovery session after the 5-0 win at Mestalla. Raphinha has scored in all four Liga matches and sits on six goals. Eric García is suspended for Wednesday’s Feyenoord opener. Flick repeated after the Valencia game that the squad still needs a recognised centre-forward.",
+    "es": "La plantilla de Hansi Flick abrió la semana de Champions el lunes con una sesión de recuperación tras el 5-0 en Mestalla. Raphinha ha marcado en las cuatro jornadas de Liga y suma seis goles. Eric García está sancionado para el estreno ante el Feyenoord. Flick repitió tras el Valencia que el equipo sigue necesitando un delantero centro de referencia."
+  },
+  "defaultSources": [
+    {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+    {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"},
+    {"label": "SPORT", "url": "https://www.sport.es/es/barca/"},
+    {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona.html"},
+    {"label": "AS", "url": "https://as.com/futbol/barcelona/"},
+    {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
+  ],
+  "stories": [
+    {
+      "theme": "champions",
+      "kicker": {"en": "Champions League", "es": "Champions"},
+      "headline": {
+        "en": "Champions League preparations begin; Eric García suspended for Feyenoord",
+        "es": "Arranca la preparación de Champions; Eric García sancionado ante el Feyenoord"
+      },
+      "summary": {
+        "en": "Hansi Flick’s squad completed the first session of Champions League week on Monday at the Ciutat Esportiva. Players who started at Mestalla plus Jules Koundé did recovery work; the rest trained at higher intensity. Eric García wore a protective mask and will miss Wednesday’s opener against Feyenoord through suspension after a red card in last season’s competition.",
+        "es": "La plantilla de Hansi Flick completó el lunes la primera sesión de la semana de Champions en la Ciutat Esportiva. Los titulares de Mestalla más Jules Koundé hicieron trabajo de recuperación; el resto entrenó a mayor intensidad. Eric García llevó máscara protectora y se perderá el estreno del miércoles ante el Feyenoord por sanción tras una roja de la pasada edición."
+      },
+      "body": {
+        "en": "Hamza Abdelkarim and Jesse Bisiwu trained with the main group. Frenkie de Jong remains unavailable with a knee problem and is not expected back until after the first international break in October. Kick-off against Feyenoord is 18:45 CEST at Spotify Camp Nou.\n\nThe club published international broadcast times on Monday evening. German referee Sven Jablonski has been appointed for the match, his first Barcelona assignment in Europe. Flick’s side return to training on Tuesday to finalise the squad for the league-phase opener.",
+        "es": "Hamza Abdelkarim y Jesse Bisiwu entrenaron con el grupo principal. Frenkie de Jong sigue fuera por un problema de rodilla y no se espera su regreso hasta después del primer parón de selecciones en octubre. El saque inicial ante el Feyenoord es a las 18:45 en el Spotify Camp Nou.\n\nEl club publicó el lunes por la tarde los horarios internacionales de retransmisión. El árbitro alemán Sven Jablonski ha sido designado para el partido, su primera asignación con el Barça en Europa. El equipo de Flick vuelve a entrenar el martes para cerrar la lista del estreno de la fase liga."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2097052288304955743",
+          "text": "A darlo todo contra el Feyenoord ⭐️"
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2097052284769226900",
+          "text": "Mask on, focus intact."
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4573254/champions-league-preparations-begin"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260907/1004224235/nuevo-arbitro-camino-barca-champions.html"}
+      ]
+    },
+    {
+      "theme": "form",
+      "kicker": {"en": "Form", "es": "Estado de forma"},
+      "headline": {
+        "en": "Raphinha has scored in all four Liga matches and sits on six goals",
+        "es": "Raphinha ha marcado en las cuatro jornadas de Liga y suma seis goles"
+      },
+      "summary": {
+        "en": "Raphinha found the net against Valencia to make it four consecutive Liga games with a goal. The Brazilian now has six goals from the opening four matches — braces against Elche and Rayo plus singles against Athletic and Valencia. Only five Barcelona players in history had previously scored in each of the first four league fixtures.",
+        "es": "Raphinha marcó ante el Valencia y encadenó cuatro partidos consecutivos de Liga con gol. El brasileño suma ya seis goles en las cuatro primeras jornadas — dobletes ante Elche y Rayo y tantos ante Athletic y Valencia. Solo cinco jugadores del Barça en la historia habían marcado en cada uno de los cuatro primeros partidos de liga."
+      },
+      "body": {
+        "en": "The club listed Kubala, Cayetano Ré, César, Ibrahimović and Cesc Fàbregas among the previous names. César and Ibrahimović extended the run to five games; no Barcelona player has ever scored in the first five fixtures across different competitions. A goal against Feyenoord on Wednesday would put Raphinha in that territory.\n\nSPORT noted that Raphinha, Lamine Yamal and Fermín López have already combined for 14 goals in four matches, a front-three total last seen in the late 1950s. The Brazilian remains the league’s outright top scorer heading into the midweek European fixture.",
+        "es": "El club citó a Kubala, Cayetano Ré, César, Ibrahimović y Cesc Fàbregas entre los precedentes. César e Ibrahimović alargaron la racha a cinco partidos; ningún jugador del Barça ha marcado nunca en los cinco primeros encuentros de competiciones distintas. Un gol ante el Feyenoord el miércoles situaría a Raphinha en ese terreno.\n\nSPORT señaló que Raphinha, Lamine Yamal y Fermín López ya suman 14 goles en cuatro partidos, un registro de tridente que no se veía desde finales de los años 50. El brasileño sigue siendo el máximo goleador de la liga de cara al partido europeo de mitad de semana."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2096962640727691387",
+          "text": "Un Raphinha de récord ✨\nhttps://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/4573271/un-raphinha-de-record"
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2096886202192552167",
+          "text": "10 goals in 4 games between @Raphinha_11b & Lamine Yamal 🤯"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4573271/un-raphinha-de-record"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/raphinha-pone-barca-ritmo-record-134022821"}
+      ]
+    },
+    {
+      "theme": "league",
+      "kicker": {"en": "Form", "es": "Estado de forma"},
+      "headline": {
+        "en": "Seventeen goals in four games: best Liga start in club history",
+        "es": "Diecisiete goles en cuatro partidos: el mejor inicio liguero de la historia del club"
+      },
+      "summary": {
+        "en": "Barcelona’s 5-0 win at Mestalla took their Liga tally to 17 goals from four matches with only two conceded. SPORT reported it as the best opening four-game record in club history, surpassing the starts under Guardiola and Luis Enrique. The side sit top of the table on 12 points after Real Madrid dropped points against Betis.",
+        "es": "El 5-0 en Mestalla elevó el registro liguero del Barça a 17 goles en cuatro partidos con solo dos encajados. SPORT lo situó como el mejor arranque de cuatro jornadas en la historia del club, por delante de los inicios de Guardiola y Luis Enrique. El equipo lidera la tabla con 12 puntos tras los puntos perdidos del Real Madrid ante el Betis."
+      },
+      "body": {
+        "en": "Lamine Yamal scored twice at Valencia, with further goals from Fermín López, Raphinha and Pedri. Gabriel Jesus made his debut from the bench in the closing minutes. The attacking output has come without a recognised centre-forward after the summer departures of Lewandowski and Ferran Torres.\n\nFlick’s side travel to Levante on Sunday looking to make it five wins from five in the league. The midweek Champions League fixture against Feyenoord is the first test of whether the scoring rate can be maintained against higher-level opposition.",
+        "es": "Lamine Yamal marcó dos veces en Valencia, con goles adicionales de Fermín López, Raphinha y Pedri. Gabriel Jesus debutó desde el banquillo en los minutos finales. La producción ofensiva ha llegado sin un delantero centro de referencia tras las salidas de Lewandowski y Ferran Torres en el verano.\n\nEl equipo de Flick visita al Levante el domingo con la intención de sumar cinco victorias en cinco jornadas de liga. El partido de Champions ante el Feyenoord a mitad de semana es la primera prueba de si el ritmo goleador se sostiene ante rivales de mayor nivel."
+      },
+      "tweets": [
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2096896254991065446",
+          "text": "✅ Flick cosecha el mejor inicio liguero de la historia del Barça y supera los registros de Guardiola y Luis Enrique\n\n⚽️ El conjunto azulgrana ha arrancado LaLiga imparable, con cuatro victorias, 17 goles a favor y solo dos en contra"
+        }
+      ],
+      "sources": [
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/flick-cosecha-mejor-inicio-liguero-historia-barca-barcelona-guardiola-luis-enrique-134022273"},
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Squad", "es": "Plantilla"},
+      "headline": {
+        "en": "Flick insists Barcelona still need a pure No.9 despite 17 goals",
+        "es": "Flick insiste en que el Barça sigue necesitando un 9 puro pese a los 17 goles"
+      },
+      "summary": {
+        "en": "Asked after the 5-0 win at Valencia whether the scoring form changed his thinking on transfers, Hansi Flick said the priority remains unchanged. “We need normally a real No.9, this is clear,” the coach told reporters. He added that the squad already possesses “huge quality in the offence” and that midfielders are also contributing goals.",
+        "es": "Preguntado tras el 5-0 en Valencia si el ritmo goleador cambiaba su visión del mercado, Hansi Flick respondió que la prioridad se mantiene. “Normalmente necesitamos un verdadero 9, eso está claro”, dijo el técnico. Añadió que la plantilla ya tiene “enorme calidad en ataque” y que los centrocampistas también están aportando goles."
+      },
+      "body": {
+        "en": "The comments were reported by Barça Blaugranes and Goal. Flick has rotated Raphinha, Fermín, Yamal, Gordon and Adeyemi through central and wide roles since the window closed without a classic centre-forward. Gabriel Jesus arrived on deadline day and made a late debut at Mestalla but is still building match fitness.\n\nThe coach’s stance keeps the January window open for a dedicated striker even while the side sits top of the table. Squad rotation and physical load will be monitored closely once European midweek fixtures begin.",
+        "es": "Los comentarios fueron recogidos por Barça Blaugranes y Goal. Flick ha rotado a Raphinha, Fermín, Yamal, Gordon y Adeyemi por posiciones centrales y de banda desde que el mercado cerró sin un delantero centro clásico. Gabriel Jesus llegó el último día y debutó tarde en Mestalla, pero aún está ganando ritmo de competición.\n\nLa postura del técnico mantiene abierta la ventana de enero para un delantero específico aunque el equipo lidere la tabla. La rotación y la carga física se vigilarán de cerca una vez empiecen los partidos europeos entre semana."
+      },
+      "tweets": [],
+      "sources": [
+        {"label": "Goal", "url": "https://www.goal.com/en/lists/barcelona-hansi-flick-recognised-striker-transfer-stance-valencia-rout/blta8243ef09e679243"},
+        {"label": "AS", "url": "https://en.as.com/soccer/no-centre-forward-no-problem-for-barcelona-and-hansi-flick-f202609-n/"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Debut", "es": "Debut"},
+      "headline": {
+        "en": "Gabriel Jesus makes competitive debut in the final minutes at Mestalla",
+        "es": "Gabriel Jesus debuta en competición en los minutos finales de Mestalla"
+      },
+      "summary": {
+        "en": "Gabriel Jesus came off the bench in the closing stages of the 5-0 win at Valencia for his first competitive appearance in a Barcelona shirt. The Brazilian, signed from Arsenal for a fee reported between €10 m and €14 m, nearly scored with one of his first touches. The club posted images of him preparing for the next fixture on Monday.",
+        "es": "Gabriel Jesus entró desde el banquillo en los minutos finales del 5-0 en Valencia para su primera aparición competitiva con la camiseta del Barça. El brasileño, fichado del Arsenal por una cifra entre 10 y 14 millones de euros, estuvo cerca de marcar con una de sus primeras acciones. El club publicó el lunes imágenes suyas preparándose para el siguiente partido."
+      },
+      "body": {
+        "en": "Jesus had trained fully with the group in the days before the trip to Mestalla after completing his medical earlier in the week. Flick used the late substitution to give the 29-year-old a first taste of La Liga intensity without disrupting the rhythm of a side already five goals ahead.\n\nThe forward now has midweek training and the Feyenoord match to continue his integration. Hamza Abdelkarim and Jesse Bisiwu also remain options from the academy pipeline that Flick has already registered for the Champions League list.",
+        "es": "Jesus había entrenado al completo con el grupo en los días previos al viaje a Mestalla tras completar el reconocimiento médico a principios de semana. Flick utilizó el cambio tardío para dar al brasileño de 29 años un primer contacto con la intensidad de la Liga sin alterar el ritmo de un equipo que ya ganaba por cinco goles.\n\nEl delantero tiene ahora el entrenamiento de mitad de semana y el partido ante el Feyenoord para seguir integrándose. Hamza Abdelkarim y Jesse Bisiwu siguen siendo opciones de la cantera que Flick ya ha inscrito en la lista de Champions."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2097067390789919099",
+          "text": "A por otro partido, Gabriel 🤙"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4573254/champions-league-preparations-begin"}
+      ]
+    },
+    {
+      "theme": "champions",
+      "kicker": {"en": "Preview", "es": "Previa"},
+      "headline": {
+        "en": "Feyenoord at Spotify Camp Nou on Wednesday at 18:45 CEST",
+        "es": "Feyenoord en el Spotify Camp Nou el miércoles a las 18:45"
+      },
+      "summary": {
+        "en": "Barcelona open their Champions League league-phase campaign against Feyenoord on Wednesday evening. Kick-off is 18:45 CEST at Spotify Camp Nou. The Dutch side are coached by former Barcelona midfielder Gio van Bronckhorst and arrive with several defensive absences. High-risk security measures remain in place for the fixture.",
+        "es": "El Barça abre su campaña de la fase liga de Champions ante el Feyenoord el miércoles por la tarde. Saque inicial a las 18:45 en el Spotify Camp Nou. El equipo neerlandés lo dirige el exazulgrana Gio van Bronckhorst y llega con varias bajas defensivas. Las medidas de seguridad de alto riesgo se mantienen para el partido."
+      },
+      "body": {
+        "en": "Feyenoord are without Bart Nieuwkoop, Gijs Smal, Jordan Bos, Thomas Beelen and Jakub Moder. Barcelona will also be without Eric García (suspension) and Frenkie de Jong (knee). Lamine Yamal, Raphinha and Fermín López arrive in strong domestic form after the Valencia rout.\n\nThe club published full international television times on Monday. Tickets remain nominal and visiting supporters are restricted to the designated away section via Gate L. The match is the first of a midweek-weekend double-header that continues with Levante on Sunday.",
+        "es": "El Feyenoord se presenta sin Bart Nieuwkoop, Gijs Smal, Jordan Bos, Thomas Beelen y Jakub Moder. El Barça tampoco contará con Eric García (sanción) ni Frenkie de Jong (rodilla). Lamine Yamal, Raphinha y Fermín López llegan en gran forma doméstica tras la goleada de Valencia.\n\nEl club publicó el lunes los horarios internacionales completos. Las entradas siguen siendo nominativas y los aficionados visitantes están restringidos a la zona visitante por la Puerta L. El partido es el primero de un doblete entre semana y fin de semana que continúa con el Levante el domingo."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2097014535315992941",
+          "text": "⏰ Los horarios internacionales del Barça - Feyenoord ⚔️\n\n🔗👉 https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/4573406/cuando-y-donde-ver-el-fc-barcelona--feyenoord-rotterdam"
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2097006991730159825",
+          "text": "Preparados para la Champions ⭐️"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4573254/champions-league-preparations-begin"},
+        {"label": "UEFA", "url": "https://www.uefa.com/uefachampionsleague/news/02a9-2188cf675017-df8325ec95c3-1000--champions-league-predicted-line-ups-matchday-1-team-news-/"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Injury", "es": "Lesión"},
+      "headline": {
+        "en": "Frenkie de Jong still targeting return after the October international break",
+        "es": "Frenkie de Jong sigue apuntando a su regreso tras el parón de octubre"
+      },
+      "summary": {
+        "en": "Fernando Polo reported on Sunday that Frenkie de Jong’s conservative treatment is progressing and the midfielder is expected to rejoin the group after the international break that ends on 6 October. He is currently running in straight lines without the ball. Flick will then decide on his match readiness.",
+        "es": "Fernando Polo informó el domingo de que el tratamiento conservador de Frenkie de Jong avanza y se espera que el centrocampista se reincorpore al grupo tras el parón de selecciones que termina el 6 de octubre. Ahora mismo corre en línea recta sin balón. Flick decidirá después su disponibilidad para jugar."
+      },
+      "body": {
+        "en": "De Jong has been absent since sustaining a knee issue in the summer. The October target keeps him out of the opening Champions League fixtures and the next two Liga matches. Marc Bernal, Pedri and Rodri have covered the central midfield roles in his absence.\n\nPolo noted that if the conservative approach does not produce the expected progress, the medical staff will reassess the next steps. For now the plan remains non-surgical and focused on a return in early October.",
+        "es": "De Jong lleva fuera desde que se lesionó de rodilla en el verano. El objetivo de octubre lo mantiene al margen de los primeros partidos de Champions y de las dos próximas jornadas de Liga. Marc Bernal, Pedri y Rodri han cubierto los roles de mediocentro en su ausencia.\n\nPolo señaló que si el enfoque conservador no da el progreso esperado, el cuerpo médico reevaluará los siguientes pasos. De momento el plan sigue siendo no quirúrgico y centrado en un regreso a principios de octubre."
+      },
+      "tweets": [
+        {
+          "name": "Fernando Polo",
+          "handle": "@ffpolo",
+          "id": "2096544930931851653",
+          "text": "La previsión de Frenkie es poder unirse al grupo tras el parón de selecciones que acaba el 6 de octubre. Eso, si todo va bien en su tratamiento conservador. Luego Flick decidirá cuándo juega. Ahora está corriendo en línea recta sin balón. Si no va bien se abrirá otro escenario..."
+        }
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004223772/octubre-mes-decisivo-frenkie-jong.html"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Youth", "es": "Cantera"},
+      "headline": {
+        "en": "Xavi Espart continues as the only defender outside the rotation",
+        "es": "Xavi Espart sigue como el único defensa fuera de la rotación"
+      },
+      "summary": {
+        "en": "SPORT reported that Xavi Espart is the sole first-team defender who has not been rotated in the opening weeks. The academy product has started regularly as a false full-back and is viewed inside the club as a key piece of Flick’s current system. He is expected to feature again against Feyenoord.",
+        "es": "SPORT informó de que Xavi Espart es el único defensa del primer equipo que no ha entrado en las rotaciones de las primeras semanas. El canterano ha sido titular habitual como falso lateral y se le considera dentro del club una pieza clave del sistema actual de Flick. Se espera que vuelva a jugar ante el Feyenoord."
+      },
+      "body": {
+        "en": "The piece described Espart’s role as the “X-factor” of Flick’s 3.0 setup. While other defenders have shared minutes, the young left-footed player has kept his place through consistent performances in both build-up and defensive transitions.\n\nHis continued selection keeps a pathway open for further academy exposure in a congested September calendar that already includes Champions League and domestic fixtures either side of the international break.",
+        "es": "La información describía el papel de Espart como el “factor X” del sistema 3.0 de Flick. Mientras otros defensas han compartido minutos, el joven zurdo ha mantenido su puesto gracias a actuaciones consistentes tanto en la construcción como en las transiciones defensivas.\n\nSu continuidad mantiene abierta la vía de más minutos de cantera en un septiembre cargado que ya incluye Champions y partidos domésticos a ambos lados del parón de selecciones."
+      },
+      "tweets": [
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2096877380639818018",
+          "text": "🧐 Flick exprime a Espart con el invento de Guardiola: \"Es un jugador top\"\n\n👉 El canterano es el único defensa que no está participando en las rotaciones y apunta a la Champions. Desde su posición de falso lateral se está convirtiendo en el factor X del Barça de Flick 3.0"
+        }
+      ],
+      "sources": [
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/"}
+      ]
+    }
+  ]
+}
