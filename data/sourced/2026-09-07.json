@@ -1,0 +1,2123 @@
+{
+  "date": "2026-09-07",
+  "generated_at": "2026-09-07T09:24:42.964000+00:00",
+  "source_pool": 50,
+  "articles_kept": 266,
+  "clusters": 222,
+  "failed_sources": [
+    "UEFA – Barcelona",
+    "LaLiga – Barcelona",
+    "Reuters",
+    "Associated Press",
+    "BBC Sport",
+    "ESPN",
+    "Sky Sports",
+    "CBS Sports",
+    "The Independent",
+    "Goal",
+    "Football España",
+    "Get Spanish Football News",
+    "Barça News Network",
+    "Esport3",
+    "RAC1",
+    "Cadena SER",
+    "AS",
+    "Relevo",
+    "El Nacional",
+    "Món Esport",
+    "Onda Cero",
+    "COPE",
+    "FotMob",
+    "Sofascore",
+    "FBref",
+    "WhoScored",
+    "Transfermarkt",
+    "OneFootball",
+    "LiveScore"
+  ],
+  "stories": [
+    {
+      "headline": "www.barcablaugranes.com • 14h Hansi Flick talks Lamine Yamal, Fermin Lopez and Rodri after Barcelona hammer Valencia The Catalans remain perfect in La Liga.",
+      "summary": "www.barcablaugranes.com • 14h Hansi Flick talks Lamine Yamal, Fermin Lopez and Rodri after Barcelona hammer Valencia The Catalans remain perfect in La Liga.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131674/hansi-flick-lamine-yamal-fermin-lopez-rodri?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131674/hansi-flick-lamine-yamal-fermin-lopez-rodri",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 14h Hansi Flick talks Lamine Yamal, Fermin Lopez and Rodri after Barcelona hammer Valencia The Catalans remain perfect in La Liga.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131674/hansi-flick-lamine-yamal-fermin-lopez-rodri?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 15h Three talking points from Valencia 0-5 Barcelona as Lamine Yamal, Raphinha and Fermin Lopez run riot The Catalans were on fire at Mestalla.",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/131585/three-talking-points-valencia-yamal?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Hansi Flick talks Lamine Yamal, Fermin Lopez and Rodri after Barcelona hammer ValenciaHansi Flick talks Lamine Yamal, Fermin Lopez and Rodri after Barcelona hammer Valencia",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131674/hansi-flick-lamine-yamal-fermin-lopez-rodri",
+          "summary": "Hansi Flick was a happy man after seeing his Barcelona team continue their perfect start to the new La Liga season with a 5-0 thrashing of Valencia at Mestalla. The Catalans giants put in another impressive showing, with Lamine Yamal, Fermin Lopez and Rodri all shining. Flick was happy to talk about all three after […]Hansi Flick was a happy man after seeing his Barcelona team continue their perfe",
+          "published": "2026-09-06T14:00:00-04:002026-09-06T14:00:00-04:00"
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Three talking points from Valencia 0-5 Barcelona as Lamine Yamal, Raphinha and Fermin Lopez run riotThree talking points from Valencia 0-5 Barcelona as Lamine Yamal, Raphinha and Fermin Lopez run riot",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/131585/three-talking-points-valencia-yamal",
+          "summary": "Barcelona became the only club La Liga to make it four wins from their opening four games on Sunday with a comprehensive 5-0 thrashing of Valencia. Hansi Flick’s side simply blew away the opposition thanks to a brace from Lamine Yamal as well as goals from Raphinha, Fermin Lopez and Pedri. Let’s take a look […]Barcelona became the only club La Liga to make it four wins from their opening four game",
+          "published": "2026-09-06T13:00:00-04:002026-09-06T13:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "Transfer Rumors: Barcelona Ready Haaland Bid; Man Utd Suffer Huge Hall Blow",
+      "summary": "Transfer Rumors: Barcelona Ready Haaland Bid; Man Utd Suffer Huge Hall Blow",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/transfer-rumors-barcelona-haaland-man-utd-hall",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/transfer-rumors-barcelona-haaland-man-utd-hall",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Barcelona Ready Haaland Bid; Man Utd Suffer Huge Hall Blow",
+          "url": "https://www.si.com/soccer/transfer-rumors-barcelona-haaland-man-utd-hall",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Barcelona Ready Haaland Bid; Man Utd Suffer Huge Hall Blow",
+          "url": "https://www.si.com/soccer/transfer-rumors-barcelona-haaland-man-utd-hall",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Liverpool Consider Olise Move; Barcelona Ready Sesko Bid",
+          "url": "https://www.si.com/soccer/transfer-rumors-liverpool-olise-barcelona-sesko",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Lionel Messi Sets Latest MLS Record in Starring Performance vs. Ex-Barcelona Manager",
+      "summary": "Lionel Messi Sets Latest MLS Record in Starring Performance vs. Ex-Barcelona Manager",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Sports Illustrated",
+          "url": "https://www.si.com/soccer/lionel-messi-mls-record-ex-barcelona-manager",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/lionel-messi-mls-record-ex-barcelona-manager",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 10,
+          "source": "Sports Illustrated",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Lionel Messi Sets Latest MLS Record in Starring Performance vs. Ex-Barcelona Manager",
+          "url": "https://www.si.com/soccer/lionel-messi-mls-record-ex-barcelona-manager",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Lionel Messi Sets Latest MLS Record in Starring Performance vs. Ex-Barcelona Manager",
+          "url": "https://www.si.com/soccer/lionel-messi-mls-record-ex-barcelona-manager",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Player Ratings vs. Valencia: Catalans Bulldoze Their Way to La Liga Summit Hansi Flick’s demolished Valencia to continue the perfect start of their title defense.",
+      "summary": "Barcelona Player Ratings vs. Valencia: Catalans Bulldoze Their Way to La Liga Summit Hansi Flick’s demolished Valencia to continue the perfect start of their title defense.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "FOX Sports",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-valencia-9-6-26",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-valencia-9-6-26",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 12,
+          "source": "FOX Sports",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Player Ratings vs. Valencia: Catalans Bulldoze Their Way to La Liga Summit Hansi Flick’s demolished Valencia to continue the perfect start of their title defense.",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-valencia-9-6-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Player Ratings vs. Valencia: Catalans Bulldoze Their Way to La Liga Summit",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-valencia-9-6-26",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Announce Record-Breaking Finances But Still Trail Real Madrid The La Liga champions financial recovery continues after a difficult period.",
+      "summary": "Barcelona Announce Record-Breaking Finances But Still Trail Real Madrid The La Liga champions financial recovery continues after a difficult period.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "FOX Sports",
+          "url": "https://www.si.com/soccer/barcelona-record-breaking-finances-trail-real-madrid",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-record-breaking-finances-trail-real-madrid",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 12,
+          "source": "FOX Sports",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Announce Record-Breaking Finances But Still Trail Real Madrid The La Liga champions financial recovery continues after a difficult period.",
+          "url": "https://www.si.com/soccer/barcelona-record-breaking-finances-trail-real-madrid",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Announce Record-Breaking Finances But Still Trail Real Madrid",
+          "url": "https://www.si.com/soccer/barcelona-record-breaking-finances-trail-real-madrid",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Valencia vs. Barcelona: Preview, Predictions and Lineups",
+      "summary": "Valencia vs. Barcelona: Preview, Predictions and Lineups",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/valencia-vs-barcelona-preview-predictions-lineups-6-9-26",
+          "tier": "volume"
+        },
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/valencia-vs-barcelona-la-liga-preview-predictions-team-news-and-tv-info",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Valencia vs. Barcelona: Preview, Predictions and Lineups",
+          "url": "https://www.si.com/soccer/valencia-vs-barcelona-preview-predictions-lineups-6-9-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Valencia vs Barcelona: La Liga preview, predictions, team news and TV info",
+          "url": "https://everythingbarca.com/valencia-vs-barcelona-la-liga-preview-predictions-team-news-and-tv-info",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 3h Lamine Yamal and Fermín López are forming a lethal partnership for Barcelona The Barcelona attacking duo made easy work of Valencia",
+      "summary": "www.barcablaugranes.com • 3h Lamine Yamal and Fermín López are forming a lethal partnership for Barcelona The Barcelona attacking duo made easy work of Valencia",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/131698/lamine-yamal-fermin-lopez-lethal-partnership?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/131698/lamine-yamal-fermin-lopez-lethal-partnership",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 3h Lamine Yamal and Fermín López are forming a lethal partnership for Barcelona The Barcelona attacking duo made easy work of Valencia",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/131698/lamine-yamal-fermin-lopez-lethal-partnership?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Lamine Yamal and Fermín López are forming a lethal partnership for BarcelonaLamine Yamal and Fermín López are forming a lethal partnership for Barcelona",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/131698/lamine-yamal-fermin-lopez-lethal-partnership",
+          "summary": "There’s something different about Barcelona this season. For a team that’s coming off back to back La Liga titles, they look like men on a mission to keep the momentum going in search of more silverware. There’s simply no complacency at all. The new arrivals are working hard to get with the agenda, and the […]There’s something different about Barcelona this season. For a team that’s coming off bac",
+          "published": "2026-09-07T02:00:00-04:002026-09-07T02:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 5h ‘We’re going to have a good understanding’ - Pedri dismisses Rodri fears after Barcelona thrash Valencia The two can play together.",
+      "summary": "www.barcablaugranes.com • 5h ‘We’re going to have a good understanding’ - Pedri dismisses Rodri fears after Barcelona thrash Valencia The two can play together.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131688/pedri-rodri-fears-valencia?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131688/pedri-rodri-fears-valencia",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 5h ‘We’re going to have a good understanding’ - Pedri dismisses Rodri fears after Barcelona thrash Valencia The two can play together.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131688/pedri-rodri-fears-valencia?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘We’re going to have a good understanding’ – Pedri dismisses Rodri fears after Barcelona thrash Valencia‘We’re going to have a good understanding’ – Pedri dismisses Rodri fears after Barcelona thrash Valencia",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131688/pedri-rodri-fears-valencia",
+          "summary": "Barcelona star Pedri has dismissed suggestions that he’s not compatible with Rodri after Sunday’s 5-0 win over Valencia. The two Spain stars started the game at Mestalla and were part of a brilliant Barcelona performance that delivered a fourth straight La Liga win. Pedri was asked for his thoughts afterwards and made it clear he’s […]Barcelona star Pedri has dismissed suggestions that he’s not co",
+          "published": "2026-09-06T23:00:00-04:002026-09-06T23:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 9h Do Barcelona still need a striker? Hansi Flick shares his thoughts after 5-0 win over Valencia The attack looks red-hot at the start of the season.",
+      "summary": "www.barcablaugranes.com • 9h Do Barcelona still need a striker? Hansi Flick shares his thoughts after 5-0 win over Valencia The attack looks red-hot at the start of the season.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131687/still-need-a-striker-hansi-flick-verdict?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131687/still-need-a-striker-hansi-flick-verdict",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 9h Do Barcelona still need a striker? Hansi Flick shares his thoughts after 5-0 win over Valencia The attack looks red-hot at the start of the season.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131687/still-need-a-striker-hansi-flick-verdict?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Do Barcelona still need a striker? Hansi Flick shares his thoughts after 5-0 win over ValenciaDo Barcelona still need a striker? Hansi Flick shares his thoughts after 5-0 win over Valencia",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131687/still-need-a-striker-hansi-flick-verdict",
+          "summary": "Hansi Flick says Barcelona still need a No. 9 despite a superb start to the season that has seen the team score 17 goals in just four La Liga games. Raphinha, Lamine Yamal, Anthony Gordon and Fermin Lopez have all starred in the early weeks of the season following a summer where the club tried […]Hansi Flick says Barcelona still need a No. 9 despite a superb start to the season that has seen the t",
+          "published": "2026-09-06T19:00:00-04:002026-09-06T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 13h Raphinha, Lamine Yamal, Fermín López: Who will be Barcelona’s top scorer this season? Time to talk the flying attack!",
+      "summary": "www.barcablaugranes.com • 13h Raphinha, Lamine Yamal, Fermín López: Who will be Barcelona’s top scorer this season? Time to talk the flying attack!",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/131678/raphinha-lamine-yamal-fermin-lopez-who-will-be-top-scorer?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/131678/raphinha-lamine-yamal-fermin-lopez-who-will-be-top-scorer",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 13h Raphinha, Lamine Yamal, Fermín López: Who will be Barcelona’s top scorer this season? Time to talk the flying attack!",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/131678/raphinha-lamine-yamal-fermin-lopez-who-will-be-top-scorer?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Raphinha, Lamine Yamal, Fermín López: Who will be Barcelona’s top scorer this season?Raphinha, Lamine Yamal, Fermín López: Who will be Barcelona’s top scorer this season?",
+          "url": "https://www.barcablaugranes.com/cant-del-blog-barcelona-opinion/131678/raphinha-lamine-yamal-fermin-lopez-who-will-be-top-scorer",
+          "summary": "Barcelona continued their brilliant start to the season with another sensational attacking display as they beat Valencia 5-0 at Mestalla to make it four wins out of four in La Liga. Hansi Flick’s attack put on a show once again and created over a dozen huge scoring chances, and found the net five times to […]Barcelona continued their brilliant start to the season with another sensational attacking",
+          "published": "2026-09-06T15:00:00-04:002026-09-06T15:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 16h Eric Garcia forced off injured for Barcelona after collision with Rodri The defender took a painful blow to the face.",
+      "summary": "www.barcablaugranes.com • 16h Eric Garcia forced off injured for Barcelona after collision with Rodri The defender took a painful blow to the face.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131636/eric-garcia-injured-valencia-rodri?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131636/eric-garcia-injured-valencia-rodri",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 16h Eric Garcia forced off injured for Barcelona after collision with Rodri The defender took a painful blow to the face.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131636/eric-garcia-injured-valencia-rodri?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Eric Garcia forced off injured for Barcelona after collision with RodriEric Garcia forced off injured for Barcelona after collision with Rodri",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131636/eric-garcia-injured-valencia-rodri",
+          "summary": "Barcelona lost Eric Garcia to injury in the first half of Sunday’s La Liga clash against Valencia at Mestalla. The defender was accidentally caught in the face by team-mate Rodri in the first half and couldn’t continue. He was replaced by Jules Kounde just before the half hour mark. Early reports suggest that Eric, who […]Barcelona lost Eric Garcia to injury in the first half of Sunday’s La Liga c",
+          "published": "2026-09-06T11:04:54-04:002026-09-06T11:04:54-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 16h VAR image shows why Lamine Yamal’s goal was disallowed for Barcelona vs Valencia By a toenail.",
+      "summary": "www.barcablaugranes.com • 16h VAR image shows why Lamine Yamal’s goal was disallowed for Barcelona vs Valencia By a toenail.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131641/var-image-shows-why-lamine-yamals-goal-was-disallowed-for-barcelona-vs-valencia?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131641/var-image-shows-why-lamine-yamals-goal-was-disallowed-for-barcelona-vs-valencia",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 16h VAR image shows why Lamine Yamal’s goal was disallowed for Barcelona vs Valencia By a toenail.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131641/var-image-shows-why-lamine-yamals-goal-was-disallowed-for-barcelona-vs-valencia?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "VAR image shows why Lamine Yamal’s goal was disallowed for Barcelona vs ValenciaVAR image shows why Lamine Yamal’s goal was disallowed for Barcelona vs Valencia",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/131641/var-image-shows-why-lamine-yamals-goal-was-disallowed-for-barcelona-vs-valencia",
+          "summary": "Lamine Yamal opened the scoring for Barcelona against Valencia on Sunday with a brilliant strike but was denied a second minutes later due to VAR. The Barcelona star saw his effort ruled out for an incredibly tight offside call. The image released after the decision was made show just how marginal the decision was to […]Lamine Yamal opened the scoring for Barcelona against Valencia on Sunday with ",
+          "published": "2026-09-06T11:18:55-04:002026-09-06T11:18:55-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "Eight in, many out – Rating Barcelona’s 2026 summer transfer window",
+      "summary": "Eight in, many out – Rating Barcelona’s 2026 summer transfer window",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/eight-in-many-out-rating-barcelonas-2026-summer-transfer-window/",
+          "tier": "specialist"
+        },
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/barcelona-complete-2026-summer-transfer-window-recap",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Eight in, many out – Rating Barcelona’s 2026 summer transfer window",
+          "url": "https://barcauniversal.com/eight-in-many-out-rating-barcelonas-2026-summer-transfer-window/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Complete recap of Barcelona's massive 2026 summer transfer window",
+          "url": "https://everythingbarca.com/barcelona-complete-2026-summer-transfer-window-recap",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Hansi Flick: “Estos jugadores tienen hambre de conseguir más”Hansi Flick: “Estos jugadores tienen hambre de conseguir más”",
+      "summary": "El preparador del Barcelona destaca la actitud de sus jugadores y mira a Fermín: “Tiene mucha energía e intensidad, a veces me gustaría que controlara más el balón”El preparador del Barcelona destaca la actitud de sus jugadores y mira a Fermín: “Tiene mucha energía e intensidad, a veces me gustaría que controlara más el balón”",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "El País",
+          "url": "https://elpais.com/deportes/futbol/2026-09-06/hansi-flick-estos-jugadores-tienen-hambre-de-conseguir-mas.htmlhttps://elpais.com/deportes/futbol/2026-09-06/hansi-flick-estos-jugadores-tienen-hambre-de-conseguir-mas.html",
+          "tier": "national"
+        },
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628587/flick-veo-hambre-mis-jugadores-siempre-quieren-mas.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628587/flick-veo-hambre-mis-jugadores-siempre-quieren-mas.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 30,
+          "source": "El País",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "Hansi Flick: “Estos jugadores tienen hambre de conseguir más”Hansi Flick: “Estos jugadores tienen hambre de conseguir más”",
+          "url": "https://elpais.com/deportes/futbol/2026-09-06/hansi-flick-estos-jugadores-tienen-hambre-de-conseguir-mas.htmlhttps://elpais.com/deportes/futbol/2026-09-06/hansi-flick-estos-jugadores-tienen-hambre-de-conseguir-mas.html",
+          "summary": "El preparador del Barcelona destaca la actitud de sus jugadores y mira a Fermín: “Tiene mucha energía e intensidad, a veces me gustaría que controlara más el balón”El preparador del Barcelona destaca la actitud de sus jugadores y mira a Fermín: “Tiene mucha energía e intensidad, a veces me gustaría que controlara más el balón”",
+          "published": "Sun, 06 Sep 2026 17:33:32 GMTSun, 06 Sep 2026 17:33:32 GMT"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "“Flick: “Veo el hambre en mis jugadores, siempre quieren más” “Flick: “Veo el hambre en mis jugadores, siempre quieren más”",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628587/flick-veo-hambre-mis-jugadores-siempre-quieren-mas.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628587/flick-veo-hambre-mis-jugadores-siempre-quieren-mas.html",
+          "summary": "El técnico alemán ensalza la ambición de sus futbolistas y se muestra muy satisfecho con el partido de Mestalla El técnico alemán ensalza la ambición de sus futbolistas y se muestra muy satisfecho con el partido de Mestalla",
+          "published": "06 Sep 2026 19:01:05 +020006 Sep 2026 19:01:05 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Lamine Yamal se recupera a tiempo en el debut de Rodri como titular con el Barça en Valencia Lamine Yamal se recupera a tiempo en el debut de Rodri como titular con el Barça en Valencia",
+      "summary": "El equipo de Flick busca ampliar su ventaja al frente de LaLiga ante un Valencia en crisis, con Mestalla viviendo sus últimos partidos antes del traslado al nuevo estadio. El equipo de Flick busca ampliar su ventaja al frente de LaLiga ante un Valencia en crisis, con Mestalla viviendo sus últimos partidos antes del traslado al nuevo estadio.",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628538/lamine-yamal-recupera-debut-rodri-titular-barca-valencia.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628538/lamine-yamal-recupera-debut-rodri-titular-barca-valencia.html",
+          "tier": "national"
+        },
+        {
+          "name": "El Periódico",
+          "url": "https://www.elperiodico.com/es/deportes/20260906/alineacion-barca-valencia-rodrigo-lamine-134004308",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Lamine Yamal se recupera a tiempo en el debut de Rodri como titular con el Barça en Valencia Lamine Yamal se recupera a tiempo en el debut de Rodri como titular con el Barça en Valencia",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628538/lamine-yamal-recupera-debut-rodri-titular-barca-valencia.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260906/11628538/lamine-yamal-recupera-debut-rodri-titular-barca-valencia.html",
+          "summary": "El equipo de Flick busca ampliar su ventaja al frente de LaLiga ante un Valencia en crisis, con Mestalla viviendo sus últimos partidos antes del traslado al nuevo estadio. El equipo de Flick busca ampliar su ventaja al frente de LaLiga ante un Valencia en crisis, con Mestalla viviendo sus últimos partidos antes del traslado al nuevo estadio.",
+          "published": "06 Sep 2026 15:33:13 +020006 Sep 2026 15:33:13 +0200"
+        },
+        {
+          "source_id": 36,
+          "source": "El Periódico",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "La alineación del Barça en Valencia: Rodrigo y Lamine Yamal, titulares",
+          "url": "https://www.elperiodico.com/es/deportes/20260906/alineacion-barca-valencia-rodrigo-lamine-134004308",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Julián Álvarez regresa y es el mejor del Atlético en la severa derrota en San Mamés Julián Álvarez regresa y es el mejor del Atlético en la severa derrota en San Mamés",
+      "summary": "“Salvo la de Julián, la verdad es que no tuvimos situaciones importantes para marcar”, lamentó Simeone “Salvo la de Julián, la verdad es que no tuvimos situaciones importantes para marcar”, lamentó Simeone",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260905/11628096/julian-alvarez-regresa-mejor-atletico-severa-derrota-san-mames.htmlhttps://www.lavanguardia.com/deportes/futbol/20260905/11628096/julian-alvarez-regresa-mejor-atletico-severa-derrota-san-mames.html",
+          "tier": "national"
+        },
+        {
+          "name": "Culemanía",
+          "url": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20260905/atletico-madrid-mames-julian-alvarez-athletic-simeone/1003742792198_0.html",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Julián Álvarez regresa y es el mejor del Atlético en la severa derrota en San Mamés Julián Álvarez regresa y es el mejor del Atlético en la severa derrota en San Mamés",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260905/11628096/julian-alvarez-regresa-mejor-atletico-severa-derrota-san-mames.htmlhttps://www.lavanguardia.com/deportes/futbol/20260905/11628096/julian-alvarez-regresa-mejor-atletico-severa-derrota-san-mames.html",
+          "summary": "“Salvo la de Julián, la verdad es que no tuvimos situaciones importantes para marcar”, lamentó Simeone “Salvo la de Julián, la verdad es que no tuvimos situaciones importantes para marcar”, lamentó Simeone",
+          "published": "05 Sep 2026 19:26:56 +020005 Sep 2026 19:26:56 +0200"
+        },
+        {
+          "source_id": 39,
+          "source": "Culemanía",
+          "tier": "specialist",
+          "lang": [
+            "es"
+          ],
+          "title": "El Atlético de Madrid colapsa en San Mamés: pitos a Julián Álvarez, paliza del Athletic y feo a Diego Simeone",
+          "url": "https://cronicaglobal.elespanol.com/culemania/culemaniacos/20260905/atletico-madrid-mames-julian-alvarez-athletic-simeone/1003742792198_0.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "BARÇABARÇA",
+      "summary": "Líder en el campo y también en el vestuarioLíder en el campo y también en el vestuario",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/07/rodri-ganado-todos.htmlhttps://www.marca.com/futbol/barcelona/2026/09/07/rodri-ganado-todos.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/07/rodri-ganado-todos.htmlhttps://www.marca.com/futbol/barcelona/2026/09/07/rodri-ganado-todos.html",
+          "summary": "Líder en el campo y también en el vestuarioLíder en el campo y también en el vestuario",
+          "published": "Mon, 07 Sep 2026 09:46:12 +0200Mon, 07 Sep 2026 09:46:12 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/06/maquina-marcar.htmlhttps://www.marca.com/futbol/barcelona/2026/09/06/maquina-marcar.html",
+          "summary": "El Barça ofrece un poder ofensivo descomunal en este comienzo de LigaEl Barça ofrece un poder ofensivo descomunal en este comienzo de Liga",
+          "published": "Sun, 06 Sep 2026 23:43:05 +0200Sun, 06 Sep 2026 23:43:05 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/06/flick-sido-fantastico-hemos-dominado-principio.htmlhttps://www.marca.com/futbol/barcelona/2026/09/06/flick-sido-fantastico-hemos-dominado-principio.html",
+          "summary": "El alemán, feliz con su equipo aunque apunta que siempre se puede mejorarEl alemán, feliz con su equipo aunque apunta que siempre se puede mejorar",
+          "published": "Sun, 06 Sep 2026 18:51:42 +0200Sun, 06 Sep 2026 18:51:42 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/06/mes-nadie-habria-creido.htmlhttps://www.marca.com/futbol/barcelona/2026/09/06/mes-nadie-habria-creido.html",
+          "summary": "La contracrónica de Valencia-BarcelonaLa contracrónica de Valencia-Barcelona",
+          "published": "Sun, 06 Sep 2026 18:17:47 +0200Sun, 06 Sep 2026 18:17:47 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/06/eric-marcha-lesionado-cabezazo-rodri.htmlhttps://www.marca.com/futbol/barcelona/2026/09/06/eric-marcha-lesionado-cabezazo-rodri.html",
+          "summary": "Koundé entró en su lugarKoundé entró en su lugar",
+          "published": "Sun, 06 Sep 2026 17:01:57 +0200Sun, 06 Sep 2026 17:01:57 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/06/barca-vs-valencia-valoracion-comentarios.htmlhttps://www.marca.com/futbol/barcelona/2026/09/06/barca-vs-valencia-valoracion-comentarios.html",
+          "summary": "Analizamos el rendimiento de los azulgranas y el planteamiento de FlickAnalizamos el rendimiento de los azulgranas y el planteamiento de Flick",
+          "published": "Sun, 06 Sep 2026 15:40:48 +0200Sun, 06 Sep 2026 15:40:48 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/06/valencia-barca-festival-goleador.htmlhttps://www.marca.com/futbol/barcelona/2026/09/06/valencia-barca-festival-goleador.html",
+          "summary": "En los últimos cinco cruces, los culés, que llegan con Raphinha como Pichichi y con el objetivo de afianzar su liderato, han marcado 21 tantosEn los últimos cinco cruces, los culés, que llegan con Raphinha como Pichichi y con el objetivo de afianzar su liderato, han marcado 21 tantos",
+          "published": "Sun, 06 Sep 2026 07:49:32 +0200Sun, 06 Sep 2026 07:49:32 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/05/alineaciones-probables-partido-laliga-valencia-vs-barca.htmlhttps://www.marca.com/futbol/barcelona/2026/09/05/alineaciones-probables-partido-laliga-valencia-vs-barca.html",
+          "summary": "Flick medita cambios pensando en la Champions y Corberán mantendrá una línea de cinco defensas con muchas bajas por lesiónFlick medita cambios pensando en la Champions y Corberán mantendrá una línea de cinco defensas con muchas bajas por lesión",
+          "published": "Sat, 05 Sep 2026 18:16:46 +0200Sat, 05 Sep 2026 18:16:46 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "FC BARCELONAFC BARCELONA",
+      "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+          "published": "Mon, 09 Jun 2025 20:07:06 +0200Mon, 09 Jun 2025 20:07:06 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.html",
+          "summary": "El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"",
+          "published": "Mon, 09 Jun 2025 18:51:43 +0200Mon, 09 Jun 2025 18:51:43 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.html",
+          "summary": "Se reunió con Ceferin para intentar mitigar el castigo por irregularidades financierasSe reunió con Ceferin para intentar mitigar el castigo por irregularidades financieras",
+          "published": "Mon, 09 Jun 2025 12:34:03 +0200Mon, 09 Jun 2025 12:34:03 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.html",
+          "summary": "Principio de acuerdo para la rescisión del contrato del futbolistaPrincipio de acuerdo para la rescisión del contrato del futbolista",
+          "published": "Mon, 09 Jun 2025 13:47:01 +0200Mon, 09 Jun 2025 13:47:01 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona learn their Women's Champions League opponents as draw is made",
+      "summary": "Barcelona learn their Women's Champions League opponents as draw is made",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/barcelona-learn-their-womens-champions-league-opponents-as-draw-is-made",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona learn their Women's Champions League opponents as draw is made",
+          "url": "https://everythingbarca.com/barcelona-learn-their-womens-champions-league-opponents-as-draw-is-made",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Femeni vs. Lyon: The 2026 Women's Champions League Final",
+          "url": "https://everythingbarca.com/barcelona-femeni-vs-lyon-uwcl-final-preview-how-to-watch",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Women's Champions League draw: Everything Barcelona fans need to know",
+          "url": "https://everythingbarca.com/womens-champions-league-draw-everything-barcelona-fans-need-to-know",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Valencia - FC Barcelona, en directo | Resultado y resumen del partido de fútbol de LaLiga Valencia - FC Barcelona, en directo | Resultado y resumen del partido de fútbol de LaLiga",
+      "summary": "Valencia - FC Barcelona, en directo | Resultado y resumen del partido de fútbol de LaLiga Valencia - FC Barcelona, en directo | Resultado y resumen del partido de fútbol de LaLiga",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260906/11628571/valencia-fc-barcelona-futbol-hoy-directo-laliga-ea-sports.htmlhttps://www.lavanguardia.com/deportes/futbol/20260906/11628571/valencia-fc-barcelona-futbol-hoy-directo-laliga-ea-sports.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Valencia - FC Barcelona, en directo | Resultado y resumen del partido de fútbol de LaLiga Valencia - FC Barcelona, en directo | Resultado y resumen del partido de fútbol de LaLiga",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260906/11628571/valencia-fc-barcelona-futbol-hoy-directo-laliga-ea-sports.htmlhttps://www.lavanguardia.com/deportes/futbol/20260906/11628571/valencia-fc-barcelona-futbol-hoy-directo-laliga-ea-sports.html",
+          "summary": "",
+          "published": "06 Sep 2026 18:00:02 +020006 Sep 2026 18:00:02 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Valencia – FC Barcelona el partido de fútbol de Jornada 4 de LaLiga EA Sports, en directo Valencia – FC Barcelona el partido de fútbol de Jornada 4 de LaLiga EA Sports, en directo",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260906/24409/valencia-fc-barcelona-laliga-primera-division-ca-en-directo-ctx.htmlhttps://www.lavanguardia.com/deportes/futbol/20260906/24409/valencia-fc-barcelona-laliga-primera-division-ca-en-directo-ctx.html",
+          "summary": "Sigue en directo el partido de fútbol de LaLiga EA Sports entre Valencia y FC Barcelona Sigue en directo el partido de fútbol de LaLiga EA Sports entre Valencia y FC Barcelona",
+          "published": "06 Sep 2026 15:45:00 +020006 Sep 2026 15:45:00 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Valencia - FC Barcelona: resultado y minuto a minuto del partido de LaLiga, en directo Valencia - FC Barcelona: resultado y minuto a minuto del partido de LaLiga, en directo",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260906/11628465/valencia-barcelona-laliga-ea-sports-partido-futbol-hoy-en-directo.htmlhttps://www.lavanguardia.com/deportes/futbol/20260906/11628465/valencia-barcelona-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
+          "summary": "",
+          "published": "06 Sep 2026 14:42:35 +020006 Sep 2026 14:42:35 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "ESPN FC 18h @ESPNFC LAMINE YAMAL PUTS IT OVER THE KEEPER 🔥 View on X",
+      "summary": "ESPN FC 18h @ESPNFC LAMINE YAMAL PUTS IT OVER THE KEEPER 🔥 View on X",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://twitter.com/ESPNFC/status/2096606280907407845",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "ESPN FC 18h @ESPNFC LAMINE YAMAL PUTS IT OVER THE KEEPER 🔥 View on X",
+          "url": "https://twitter.com/ESPNFC/status/2096606280907407845",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "ESPN FC 18h @ESPNFC FERMÍN LÓPEZ WITH A CLASS FINISH 🎯 View on X",
+          "url": "https://twitter.com/ESPNFC/status/2096610160282108203",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.footyheadlines.com • 13h Nike x Barcelona 2027 Barcelona's new 2027 training jersey introduces a steel gray design.",
+      "summary": "www.footyheadlines.com • 13h Nike x Barcelona 2027 Barcelona's new 2027 training jersey introduces a steel gray design.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.footyheadlines.com/6182624074/nike-x-barcelona-2027.html?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.footyheadlines.com • 13h Nike x Barcelona 2027 Barcelona's new 2027 training jersey introduces a steel gray design.",
+          "url": "https://www.footyheadlines.com/6182624074/nike-x-barcelona-2027.html?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.footyheadlines.com • 13h FC Barcelona 2027 Training Shirt Leaked FC Barcelona will receive a fresh look on the training pitch for the second half of the 2026-27 season.",
+          "url": "https://www.footyheadlines.com/5926087759/fc-barcelona-2027-training-shirt-leaked.html?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Shock green light given to Julian Alvarez transfer as Arsenal decide on January move",
+      "summary": "Shock green light given to Julian Alvarez transfer as Arsenal decide on January move",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/arsenal-julian-alvarez-transfer-decision-january-barcelona-green-light",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Shock green light given to Julian Alvarez transfer as Arsenal decide on January move",
+          "url": "https://www.football365.com/news/arsenal-julian-alvarez-transfer-decision-january-barcelona-green-light",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Romano reveals Barcelona decision on late Julian Alvarez move after Arsenal transfer",
+          "url": "https://www.football365.com/news/julian-alvarez-transfer-news-barcelona-decision-fabrizio-romano-arsenal",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona star makes U-turn on saying yes to Man Utd after Red Devils make offer",
+      "summary": "Barcelona star makes U-turn on saying yes to Man Utd after Red Devils make offer",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/barcelona-star-makes-u-turn-on-saying-yes-to-man-utd-after-red-devils-make-offer",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona star makes U-turn on saying yes to Man Utd after Red Devils make offer",
+          "url": "https://www.football365.com/news/barcelona-star-makes-u-turn-on-saying-yes-to-man-utd-after-red-devils-make-offer",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Man Utd make fresh decision on signing Myles Lewis-Skelly as offer for Barcelona star is lodged",
+          "url": "https://www.football365.com/news/man-utd-fresh-decision-lewis-skelly-barcelona-balde-offer",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "El 1x1 del Valencia ante el Barça El 1x1 del Valencia ante el Barça",
+      "summary": "DIMITRIEVSKI Salvador DIMITRIEVSKI Salvador",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004224024/1x1-valencia-barca.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004224024/1x1-valencia-barca.html",
+          "tier": "local"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "El 1x1 del Valencia ante el Barça El 1x1 del Valencia ante el Barça",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004224024/1x1-valencia-barca.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004224024/1x1-valencia-barca.html",
+          "summary": "DIMITRIEVSKI Salvador DIMITRIEVSKI Salvador",
+          "published": "06 Sep 2026 18:41:18 +020006 Sep 2026 18:41:18 +0200"
+        },
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "El 1x1 del Barça ante el Valencia El 1x1 del Barça ante el Valencia",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004223956/1x1-barca-valencia.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260906/1004223956/1x1-barca-valencia.html",
+          "summary": "",
+          "published": "06 Sep 2026 18:17:07 +020006 Sep 2026 18:17:07 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "VALENCIAVALENCIA",
+      "summary": "La afición valencianista convirtió la visita del Barcelona en una protesta masiva contra la gestión de Peter Lim, la falta de fichajes y el rumbo del equipoLa afición valencianista convirtió la visita del Barcelona en una protesta masiva contra la gestión de Peter Lim, la falta de fichajes y el rumbo del equipo",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/valencia/2026/09/06/mestalla-estalla-todos-estreno-kiat-lim-bronca-total-palco-corberan-jugadores.htmlhttps://www.marca.com/futbol/valencia/2026/09/06/mestalla-estalla-todos-estreno-kiat-lim-bronca-total-palco-corberan-jugadores.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "VALENCIAVALENCIA",
+          "url": "https://www.marca.com/futbol/valencia/2026/09/06/mestalla-estalla-todos-estreno-kiat-lim-bronca-total-palco-corberan-jugadores.htmlhttps://www.marca.com/futbol/valencia/2026/09/06/mestalla-estalla-todos-estreno-kiat-lim-bronca-total-palco-corberan-jugadores.html",
+          "summary": "La afición valencianista convirtió la visita del Barcelona en una protesta masiva contra la gestión de Peter Lim, la falta de fichajes y el rumbo del equipoLa afición valencianista convirtió la visita del Barcelona en una protesta masiva contra la gestión de Peter Lim, la falta de fichajes y el rumbo del equipo",
+          "published": "Sun, 06 Sep 2026 18:15:43 +0200Sun, 06 Sep 2026 18:15:43 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "VALENCIAVALENCIA",
+          "url": "https://www.marca.com/futbol/valencia/2026/09/06/david-otorbi-distinto-17-agosto-2024-barcelona.htmlhttps://www.marca.com/futbol/valencia/2026/09/06/david-otorbi-distinto-17-agosto-2024-barcelona.html",
+          "summary": "El extremo de la cantera emerge en este momento de crisis tras dos años en el olvido... cuando debutó en Liga por sorpresa ante el Barça en la primera jornada y desaparecióEl extremo de la cantera emerge en este momento de crisis tras dos años en el olvido... cuando debutó en Liga por sorpresa ante el Barça en la primera jornada y desapareció",
+          "published": "Sun, 06 Sep 2026 09:15:12 +0200Sun, 06 Sep 2026 09:15:12 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "LALIGA EA SPORTSLALIGA EA SPORTS",
+      "summary": "Valencia y Barcelona se enfrentan hoy domingo 6 de septiembre a las 16:15 horas en Mestalla en el partido correspondiente a la jornada 4 de LaLiga EA Sports.Valencia y Barcelona se enfrentan hoy domingo 6 de septiembre a las 16:15 horas en Mestalla en el partido correspondiente a la jornada 4 de LaLiga EA Sports.",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/primera-division/2026/09/04/a-que-hora-es-el-valencia-barcelona-horario-y-donde-ver-hoy-en-tv-el-partido-de-laliga-ea-sports.htmlhttps://www.marca.com/futbol/primera-division/2026/09/04/a-que-hora-es-el-valencia-barcelona-horario-y-donde-ver-hoy-en-tv-el-partido-de-laliga-ea-sports.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "LALIGA EA SPORTSLALIGA EA SPORTS",
+          "url": "https://www.marca.com/futbol/primera-division/2026/09/04/a-que-hora-es-el-valencia-barcelona-horario-y-donde-ver-hoy-en-tv-el-partido-de-laliga-ea-sports.htmlhttps://www.marca.com/futbol/primera-division/2026/09/04/a-que-hora-es-el-valencia-barcelona-horario-y-donde-ver-hoy-en-tv-el-partido-de-laliga-ea-sports.html",
+          "summary": "Valencia y Barcelona se enfrentan hoy domingo 6 de septiembre a las 16:15 horas en Mestalla en el partido correspondiente a la jornada 4 de LaLiga EA Sports.Valencia y Barcelona se enfrentan hoy domingo 6 de septiembre a las 16:15 horas en Mestalla en el partido correspondiente a la jornada 4 de LaLiga EA Sports.",
+          "published": "Sun, 06 Sep 2026 09:18:00 +0200Sun, 06 Sep 2026 09:18:00 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "LALIGA EA SPORTSLALIGA EA SPORTS",
+          "url": "https://www.marca.com/futbol/primera-division/2026/09/06/elliott-persigue-estela-gordon.htmlhttps://www.marca.com/futbol/primera-division/2026/09/06/elliott-persigue-estela-gordon.html",
+          "summary": "Compañeros de la selección inglesa sub 21, el jugador del Barcelona llega a la Liga como estrella • El valencianista batía récords de precocidad, pero le falta consolidarseCompañeros de la selección inglesa sub 21, el jugador del Barcelona llega a la Liga como estrella • El valencianista batía récords de precocidad, pero le falta consolidarse",
+          "published": "Sun, 06 Sep 2026 07:50:53 +0200Sun, 06 Sep 2026 07:50:53 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+      "summary": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona Noticias",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "FC Barcelona – Athletic Club: Todo listo en el Camp Nou para un choque de altura",
+          "url": "https://www.fcbarcelonanoticias.com/fc-barcelona-athletic-club-todo-listo-en-el-camp-nou-para-un-choque-de-altura/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "summary": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Foundation The Official site of the Barça Foundation.",
+      "summary": "Barça Foundation The Official site of the Barça Foundation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Foundation The Official site of the Barça Foundation.",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "summary": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Innovation Hub The center for sports knowledge and innovation.",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "summary": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcamobile.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+          "url": "https://barcamobile.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Espai Barça The largest and most innovative sports and entertainment space",
+      "summary": "Espai Barça The largest and most innovative sports and entertainment space",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Espai Barça The largest and most innovative sports and entertainment space",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "summary": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://memorialfcbarcelona.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+          "url": "https://memorialfcbarcelona.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "summary": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "summary": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "summary": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "summary": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Players Find all the players that have played for Barça!",
+      "summary": "Barça Players Find all the players that have played for Barça!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Players Find all the players that have played for Barça!",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Rookies Barça's most special fans!",
+      "summary": "Barça Rookies Barça's most special fans!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Rookies Barça's most special fans!",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "European football: Lamine Yamal’s double powers Barcelona to rout of ValenciaEuropean football: Lamine Yamal’s double powers Barcelona to rout of Valencia",
+      "summary": "Gatti’s stoppage-time header rescues Juve against Milan Goalkeeper Koeman Jr scores two penalties in Eredivisie Lamine Yamal struck twice for Barcelona as they demolished Valencia 5-0 on Sunday to maintain their 100% start in La Liga. The reigning champions moved three points clear at the top of La Liga after Jose Mourinho’s Real Madrid lost 1-0 at Real Betis on Friday. Fermín López, Raphinha and ",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/06/european-football-lamine-yamal-double-barcelona-valencia-juventus-milanhttps://www.theguardian.com/football/2026/sep/06/european-football-lamine-yamal-double-barcelona-valencia-juventus-milan",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "European football: Lamine Yamal’s double powers Barcelona to rout of ValenciaEuropean football: Lamine Yamal’s double powers Barcelona to rout of Valencia",
+          "url": "https://www.theguardian.com/football/2026/sep/06/european-football-lamine-yamal-double-barcelona-valencia-juventus-milanhttps://www.theguardian.com/football/2026/sep/06/european-football-lamine-yamal-double-barcelona-valencia-juventus-milan",
+          "summary": "Gatti’s stoppage-time header rescues Juve against Milan Goalkeeper Koeman Jr scores two penalties in Eredivisie Lamine Yamal struck twice for Barcelona as they demolished Valencia 5-0 on Sunday to maintain their 100% start in La Liga. The reigning champions moved three points clear at the top of La Liga after Jose Mourinho’s Real Madrid lost 1-0 at Real Betis on Friday. Fermín López, Raphinha and ",
+          "published": "Sun, 06 Sep 2026 21:25:17 GMTSun, 06 Sep 2026 21:25:17 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona breeze past Rayo but all eyes in Spain remain on Julián ÁlvarezBarcelona breeze past Rayo but all eyes in Spain remain on Julián Álvarez",
+      "summary": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona – but Julián Álvarez remains the ultimate prize If Raphinha has any misgivings about playing as a makeshift No 9 for Barcelona, he is doing a good job of hiding it. Julián Álvarez would have been proud of the Brazilian’s two neat finishes that inspired the Spanish champions to a 5-2 victory against Rayo Vallecano on Monday night, 24 h",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarezhttps://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarez",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona breeze past Rayo but all eyes in Spain remain on Julián ÁlvarezBarcelona breeze past Rayo but all eyes in Spain remain on Julián Álvarez",
+          "url": "https://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarezhttps://www.theguardian.com/football/2026/sep/01/barcelona-la-liga-rayo-vallecano-atletico-julian-alvarez",
+          "summary": "Hansi Flick is very happy to welcome Gabriel Jesus to Barcelona – but Julián Álvarez remains the ultimate prize If Raphinha has any misgivings about playing as a makeshift No 9 for Barcelona, he is doing a good job of hiding it. Julián Álvarez would have been proud of the Brazilian’s two neat finishes that inspired the Spanish champions to a 5-2 victory against Rayo Vallecano on Monday night, 24 h",
+          "published": "Tue, 01 Sep 2026 09:42:25 GMTTue, 01 Sep 2026 09:42:25 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Ugly scenes as Argentina lose World Cup final – videoUgly scenes as Argentina lose World Cup final – video",
+      "summary": "There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then sent off after shoving Spain's Eric García by the throat and wrestling Gavi to the ground. He had already been booked during the match. The antics after the final whistle were quickly condemned by UK broadcast",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-videohttps://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Ugly scenes as Argentina lose World Cup final – videoUgly scenes as Argentina lose World Cup final – video",
+          "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-videohttps://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video",
+          "summary": "There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then sent off after shoving Spain's Eric García by the throat and wrestling Gavi to the ground. He had already been booked during the match. The antics after the final whistle were quickly condemned by UK broadcast",
+          "published": "Mon, 20 Jul 2026 11:21:26 GMTMon, 20 Jul 2026 11:21:26 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+      "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+          "published": "Fri, 19 Dec 2025 10:04:51 GMTFri, 19 Dec 2025 10:04:51 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+      "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+          "published": "Fri, 05 Dec 2025 08:00:42 GMTFri, 05 Dec 2025 08:00:42 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Two As, One D—Grading Barcelona's 2026 Summer Transfer Window There is a high bar for the new additions at the defending La Liga champions.",
+      "summary": "Two As, One D—Grading Barcelona's 2026 Summer Transfer Window There is a high bar for the new additions at the defending La Liga champions.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "FOX Sports",
+          "url": "https://www.si.com/soccer/grading-barcelona-2026-summer-transfer-window",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 12,
+          "source": "FOX Sports",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Two As, One D—Grading Barcelona's 2026 Summer Transfer Window There is a high bar for the new additions at the defending La Liga champions.",
+          "url": "https://www.si.com/soccer/grading-barcelona-2026-summer-transfer-window",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Goalkeeper, Son of Barcelona Legend, Scores Twice for Crucial Result in Eredivisie",
+      "summary": "Goalkeeper, Son of Barcelona Legend, Scores Twice for Crucial Result in Eredivisie",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/goalkeeper-barcelona-legend-scores-result-eredivisie",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Goalkeeper, Son of Barcelona Legend, Scores Twice for Crucial Result in Eredivisie",
+          "url": "https://www.si.com/soccer/goalkeeper-barcelona-legend-scores-result-eredivisie",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Predicted Lineup vs. Valencia: Rodri Earns Much-Anticipated Promotion",
+      "summary": "Barcelona Predicted Lineup vs. Valencia: Rodri Earns Much-Anticipated Promotion",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-valencia-9-6-26",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Predicted Lineup vs. Valencia: Rodri Earns Much-Anticipated Promotion",
+          "url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-valencia-9-6-26",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Lamine Yamal’s Latest Barcelona Milestone Paves the Way for More History",
+      "summary": "Lamine Yamal’s Latest Barcelona Milestone Paves the Way for More History",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/lamine-yamal-latest-barcelona-milestone-more-history",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Lamine Yamal’s Latest Barcelona Milestone Paves the Way for More History",
+          "url": "https://www.si.com/soccer/lamine-yamal-latest-barcelona-milestone-more-history",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "‘The Quality’—Ferran Torres Takes Cheap Swipe at Former Barcelona Teammates",
+      "summary": "‘The Quality’—Ferran Torres Takes Cheap Swipe at Former Barcelona Teammates",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/ferran-torres-cheap-swipe-former-barcelona-teammates",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "‘The Quality’—Ferran Torres Takes Cheap Swipe at Former Barcelona Teammates",
+          "url": "https://www.si.com/soccer/ferran-torres-cheap-swipe-former-barcelona-teammates",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    }
+  ]
+}
