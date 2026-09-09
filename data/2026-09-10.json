@@ -1,0 +1,259 @@
+{
+  "number": 249,
+  "date": "2026-09-10",
+  "label": "Thursday 10 Sep 2026",
+  "title": {
+    "en": "Raphinha brace and Yamal free-kick launch Champions League with 5-1 win over Feyenoord",
+    "es": "Doblete de Raphinha y falta de Yamal estrenan la Champions con un 5-1 al Feyenoord"
+  },
+  "deck": {
+    "en": "Barcelona opened the Champions League league phase with a 5-1 victory over Feyenoord at Spotify Camp Nou on Wednesday. Raphinha scored twice to take his season tally to eight goals in five matches. Karim Adeyemi, Lamine Yamal and Gabriel Jesus also scored. Hansi Flick said he was proud of the intensity but still saw room to improve.",
+    "es": "El Barça abrió la fase liga de Champions con un 5-1 al Feyenoord en el Spotify Camp Nou el miércoles. Raphinha marcó dos goles y suma ya ocho en cinco partidos esta temporada. También anotaron Karim Adeyemi, Lamine Yamal y Gabriel Jesus. Hansi Flick se mostró orgulloso de la intensidad pero insistió en que aún hay margen de mejora."
+  },
+  "defaultSources": [
+    {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+    {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"},
+    {"label": "SPORT", "url": "https://www.sport.es/es/barca/"},
+    {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona.html"},
+    {"label": "AS", "url": "https://as.com/futbol/barcelona/"},
+    {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
+  ],
+  "stories": [
+    {
+      "theme": "champions",
+      "kicker": {"en": "Champions League", "es": "Champions"},
+      "headline": {
+        "en": "Barcelona open Champions League with 5-1 rout of Feyenoord",
+        "es": "El Barça estrena la Champions con un 5-1 al Feyenoord"
+      },
+      "summary": {
+        "en": "Barcelona beat Feyenoord 5-1 at Spotify Camp Nou on Wednesday to start the Champions League league phase. Raphinha scored in the third minute and again on 57. Karim Adeyemi made it 2-0 with a long-range strike, Lamine Yamal scored from a free-kick and substitute Gabriel Jesus added a fifth. Sem Steijn pulled one back late for the visitors.",
+        "es": "El Barça venció 5-1 al Feyenoord en el Spotify Camp Nou el miércoles y arrancó la fase liga de Champions. Raphinha marcó en el minuto 3 y de nuevo en el 57. Karim Adeyemi hizo el 2-0 de larga distancia, Lamine Yamal transformó una falta y el suplente Gabriel Jesus cerró el marcador. Sem Steijn descontó tarde para los visitantes."
+      },
+      "body": {
+        "en": "Raphinha opened the scoring after three minutes, receiving from Yamal, sending two defenders sliding past him and finishing past Tjark Ernst. Adeyemi doubled the lead in the 22nd minute with a curling effort from outside the box. Pedri’s through-ball set up Raphinha’s second just before the hour. Yamal converted a free-kick in the 77th minute and Jesus, on for only a few minutes, headed home from a Yamal delivery in the 85th.\n\nFlick made five changes from the side that beat Valencia 5-0. Rodri started in midfield alongside Pedri and Dani Olmo. Eric García remained suspended and Frenkie de Jong is still recovering from a knee issue. The result left Barcelona with three points and a goal difference of +4 after the opening matchday.",
+        "es": "Raphinha abrió el marcador a los tres minutos tras recibir de Yamal, dejar atrás a dos defensas con un amago y batir a Tjark Ernst. Adeyemi amplió la ventaja en el 22 con un golpeo lejano. El pase en profundidad de Pedri preparó el segundo de Raphinha cerca de la hora. Yamal convirtió una falta en el 77 y Jesus, recién entrado, cabeceó un centro del canterano en el 85.\n\nFlick introdujo cinco cambios respecto al once del 5-0 en Valencia. Rodri formó en el centro del campo junto a Pedri y Dani Olmo. Eric García siguió sancionado y Frenkie de Jong permanece en recuperación de la rodilla. El resultado dejó al Barça con tres puntos y una diferencia de goles de +4 tras la primera jornada."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2097758371621359880",
+          "text": "Una máquina de hacer goles\n\nElche: ⚽️⚽️⚽️⚽️⚽️\nAthletic Club: ⚽️⚽️\nRayo: ⚽️⚽️⚽️⚽️⚽️\nValencia: ⚽️⚽️⚽️⚽️⚽️\nFeyenoord: ⚽️⚽️⚽️⚽️⚽️\n\nFlickball."
+        },
+        {
+          "name": "MARCA",
+          "handle": "@marca",
+          "id": "2097757061228511296",
+          "text": "‼️ El Barça se pasea en su estreno en la Champions League 26/27: los de Flick sacan el rodillo y pasan por encima del Feyenoord\n\n⚽ Gabriel Jesus se estrenó como goleador azulgrana"
+        }
+      ],
+      "sources": [
+        {"label": "Al Jazeera", "url": "https://www.aljazeera.com/sports/2026/9/9/rampant-raphinha-nets-two-goals-as-barcelona-rout-feyenoord"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225326/raphinha-marcar-golazo.html"},
+        {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/09/09/flick-disfrutando-tecnico-barca-orgulloso.html"}
+      ]
+    },
+    {
+      "theme": "form",
+      "kicker": {"en": "Raphinha", "es": "Raphinha"},
+      "headline": {
+        "en": "Raphinha reaches eight goals in five matches after brace against Feyenoord",
+        "es": "Raphinha llega a ocho goles en cinco partidos tras el doblete ante el Feyenoord"
+      },
+      "summary": {
+        "en": "Raphinha scored twice against Feyenoord to take his season total to eight goals in five appearances. The Brazilian has now found the net in every match Barcelona have played this campaign. Flick said after the game that both Raphinha and Pedri should be on the Ballon d’Or shortlist.",
+        "es": "Raphinha marcó dos goles ante el Feyenoord y elevó su registro de temporada a ocho tantos en cinco partidos. El brasileño ha anotado en todos los encuentros que ha disputado el Barça este curso. Flick dijo tras el partido que tanto Raphinha como Pedri deberían estar en la lista del Balón de Oro."
+      },
+      "body": {
+        "en": "The first goal arrived after three minutes. Yamal supplied the pass, Raphinha stopped, let two Feyenoord defenders slide past and finished low. His second came from Pedri’s vertical ball just before the hour. He was substituted to a standing ovation in the 72nd minute and handed the captain’s armband to Yamal.\n\nMundo Deportivo noted that no Barcelona player has scored in each of the first five matches of a season since 1958. Raphinha himself downplayed the Ballon d’Or omission, telling reporters he prefers to talk about Barcelona rather than individual awards. He remains the competition’s joint-top scorer early in the campaign.",
+        "es": "El primer gol llegó a los tres minutos. Yamal puso el pase, Raphinha se detuvo, dejó pasar a dos defensas del Feyenoord y definió abajo. El segundo nació de un pase vertical de Pedri cerca de la hora. Fue sustituido con ovación en el 72 y entregó el brazalete de capitán a Yamal.\n\nMundo Deportivo recordó que ningún jugador del Barça había marcado en cada uno de los cinco primeros partidos de una temporada desde 1958. El propio Raphinha restó importancia a su ausencia en la lista del Balón de Oro y dijo que prefiere hablar del Barcelona antes que de premios individuales. Sigue siendo el máximo goleador compartido de la competición en este arranque."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2097768250323218493",
+          "text": "Raphinha juega en otra liga 🚀"
+        },
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2097765269787529291",
+          "text": "😌 Raphinha: \"Yo no hablo del Balón de Oro, hablo del Barcelona\"\n\n✍️ @jordicardero"
+        }
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225371/raphinha-no-hablo-balon-oro-hablo-barcelona.html"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/vio-barca-feyenoord-flick-descansa-134124222"},
+        {"label": "ESPN", "url": "https://www.espn.com/soccer/story/_/id/49883678/leading-line-leading-example-raphinha-central-barcelona-hot-start"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Captaincy", "es": "Capitanía"},
+      "headline": {
+        "en": "Lamine Yamal wears the captain’s armband for the first time at 19",
+        "es": "Lamine Yamal estrena el brazalete de capitán con 19 años"
+      },
+      "summary": {
+        "en": "Lamine Yamal became Barcelona’s youngest captain in a competitive match when Hansi Flick handed him the armband after substituting Raphinha in the 72nd minute against Feyenoord. The 19-year-old later scored the fourth goal with a free-kick and provided the assist for Gabriel Jesus’s first club goal.",
+        "es": "Lamine Yamal se convirtió en el capitán más joven del Barça en partido oficial cuando Hansi Flick le entregó el brazalete tras sustituir a Raphinha en el 72 ante el Feyenoord. El canterano de 19 años marcó después el cuarto gol de falta y asistió el primero de Gabriel Jesus con la camiseta azulgrana."
+      },
+      "body": {
+        "en": "Pol Ballús of The Athletic noted the moment on the night: Yamal wore the armband for the first time in his career. The teenager had already created Raphinha’s opener and continued to dictate the final stages. His free-kick in the 77th minute bent through a gap in the wall and left Ernst with no chance.\n\nClub accounts posted the image of Yamal with the armband under the simple caption “CAPTAIN LAMINE YAMAL”. The moment came in the same week he also collected an AFE award and continued his strong start to the season. Flick has rotated leadership duties but this was the first competitive outing for the academy product as skipper.",
+        "es": "Pol Ballús de The Athletic destacó el momento en la noche: Yamal llevaba el brazalete por primera vez en su carrera. El adolescente ya había creado el gol de Raphinha y siguió dirigiendo los minutos finales. Su falta del 77 se coló por un hueco en la barrera y no dejó opciones a Ernst.\n\nLas cuentas del club publicaron la imagen de Yamal con el brazalete bajo el simple mensaje “CAPTAIN LAMINE YAMAL”. El momento llegó la misma semana en que también recogió un premio de la AFE y mantuvo su buen inicio de temporada. Flick ha rotado las responsabilidades de liderazgo, pero esta fue la primera salida competitiva del canterano como capitán."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2097755410220392737",
+          "text": "CAPTAIN LAMINE YAMAL"
+        },
+        {
+          "name": "Pol Ballús",
+          "handle": "@polballus",
+          "id": "2097752068308046221",
+          "text": "Lamine Yamal wears Barça’s captain armband for the first time ever tonight. At 19."
+        }
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225326/raphinha-marcar-golazo.html"},
+        {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Debut goal", "es": "Primer gol"},
+      "headline": {
+        "en": "Gabriel Jesus scores first Barcelona goal two minutes after coming on",
+        "es": "Gabriel Jesus marca su primer gol como azulgrana dos minutos después de entrar"
+      },
+      "summary": {
+        "en": "Gabriel Jesus scored his first goal for Barcelona in the 85th minute against Feyenoord, two minutes after entering the pitch. The Brazilian, signed from Arsenal on deadline day, headed in a cross from Lamine Yamal to complete the 5-1 scoreline. It was his second competitive appearance after a late cameo at Valencia.",
+        "es": "Gabriel Jesus marcó su primer gol con el Barça en el minuto 85 ante el Feyenoord, dos minutos después de saltar al campo. El brasileño, fichado del Arsenal el último día de mercado, cabeceó un centro de Lamine Yamal para cerrar el 5-1. Fue su segunda aparición competitiva tras el debut tardío en Valencia."
+      },
+      "body": {
+        "en": "Jesus had trained fully with the group in the days leading into the Champions League opener. Flick introduced him with the score already 4-0 and the result secure. The forward needed only a short sequence of touches before connecting with Yamal’s delivery at the far post.\n\nClub channels celebrated the moment with the caption “Primera llamada de Gabriel Jesus”. The goal also made it four matches this season in which Barcelona have scored five times. Jesus now has a midweek recovery window and the upcoming Liga fixture against Levante to continue building match fitness.",
+        "es": "Jesus había entrenado al completo con el grupo en los días previos al estreno de Champions. Flick le dio entrada con el marcador ya en 4-0 y el resultado sentenciado. El delantero necesitó apenas una secuencia corta de toques para conectar con el centro de Yamal en el segundo palo.\n\nLos canales del club celebraron el momento con el mensaje “Primera llamada de Gabriel Jesus”. El gol también completó el cuarto partido de la temporada en el que el Barça ha marcado cinco veces. Jesus dispone ahora de una ventana de recuperación entre semana y el próximo partido de Liga ante el Levante para seguir ganando ritmo."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2097754622282674525",
+          "text": "GABRIEL JESUS' FIRST BARÇA GOAL!!!!"
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2097760650738950347",
+          "text": "Primera llamada de Gabriel Jesus ☎️"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "Al Jazeera", "url": "https://www.aljazeera.com/sports/2026/9/9/rampant-raphinha-nets-two-goals-as-barcelona-rout-feyenoord"}
+      ]
+    },
+    {
+      "theme": "coach",
+      "kicker": {"en": "Flick", "es": "Flick"},
+      "headline": {
+        "en": "Flick: ‘I am enjoying being Barcelona coach and I am proud’",
+        "es": "Flick: ‘Estoy disfrutando ser el técnico del Barça y estoy orgulloso’"
+      },
+      "summary": {
+        "en": "Hansi Flick said after the 5-1 win that he is enjoying his role at Barcelona and feels proud of the group’s intensity. The coach still insisted the team can improve and that both Raphinha and Pedri deserve places on the Ballon d’Or shortlist. He highlighted the quality of training sessions since the Valencia match.",
+        "es": "Hansi Flick dijo tras el 5-1 que está disfrutando de su etapa en el Barça y se siente orgulloso de la intensidad del grupo. El técnico insistió en que el equipo aún puede mejorar y que tanto Raphinha como Pedri merecen estar en la lista del Balón de Oro. Destacó la calidad de los entrenamientos desde el partido de Valencia."
+      },
+      "body": {
+        "en": "Speaking to the media at Spotify Camp Nou, Flick described the post-Valencia session as one of the best he has seen, even compared with his time at Bayern Munich. He said the squad’s competitiveness allows him to rotate without a drop in level. On the Ballon d’Or, he was clear: “Raphinha and Pedri should be on the list, but that is something that cannot be changed.”\n\nThe German added that the season is still young and titles are decided in May. He praised the collective pressing and the connection between lines while warning that every opponent in the Champions League must be respected. The comments were carried by MARCA and other Spanish outlets on Wednesday night.",
+        "es": "En declaraciones en el Spotify Camp Nou, Flick calificó la sesión posterior al Valencia como una de las mejores que ha visto, incluso comparándola con su etapa en el Bayern. Dijo que la competitividad de la plantilla le permite rotar sin que baje el nivel. Sobre el Balón de Oro fue claro: “Raphinha y Pedri deberían estar en la lista, pero eso es algo que no se puede cambiar”.\n\nEl alemán añadió que la temporada aún es joven y que los títulos se deciden en mayo. Elogió la presión colectiva y la conexión entre líneas, aunque advirtió de que hay que respetar a todos los rivales de la Champions. Las declaraciones fueron recogidas por MARCA y otros medios españoles la noche del miércoles."
+      },
+      "tweets": [
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2097786964451758295",
+          "text": "🔴𝗘𝗹 𝗽𝗼𝘀𝘁 𝗽𝗮𝗿𝘁𝗶𝗱𝗼 𝗰𝗼𝗻 @DBR8 :\n🏆“La final de la Champions debería ser el domingo\"\n🤩4 goleadas de 5, 22 goles, más de 80 ocasiones… Los pitos del Bernabéu vienen del miedo”\n🌟“Raphinha y Lamine, superstars\""
+        }
+      ],
+      "sources": [
+        {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/09/09/flick-disfrutando-tecnico-barca-orgulloso.html"},
+        {"label": "beIN SPORTS", "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/flick-not-satisfied-despite-barcelona-s-champions-league-rout-2026-09-09"}
+      ]
+    },
+    {
+      "theme": "form",
+      "kicker": {"en": "Attack", "es": "Ataque"},
+      "headline": {
+        "en": "Four five-goal games in five matches under Flick this season",
+        "es": "Cuatro partidos de cinco goles en cinco encuentros con Flick esta temporada"
+      },
+      "summary": {
+        "en": "Barcelona have now scored five goals in four of their five matches this season after the win over Feyenoord. The side have totalled 22 goals across those games. SPORT and club channels highlighted the attacking output without a traditional centre-forward after the summer departures of Lewandowski and Ferran Torres.",
+        "es": "El Barça ha marcado cinco goles en cuatro de sus cinco partidos esta temporada tras el triunfo ante el Feyenoord. El equipo suma 22 goles en esos encuentros. SPORT y los canales del club destacaron la producción ofensiva sin un delantero centro clásico tras las salidas de Lewandowski y Ferran Torres."
+      },
+      "body": {
+        "en": "The sequence reads Elche 5, Athletic 2, Rayo 5, Valencia 5 and Feyenoord 5. Only the Athletic Club match failed to reach five. Raphinha, Yamal, Fermín López, Adeyemi and now Jesus have all contributed. Pedri and Rodri have added midfield goals and assists.\n\nFlick has rotated the forward line heavily, using Raphinha through the middle and interchanging Yamal, Adeyemi and Gordon on the flanks. The coach continues to say the squad would benefit from a pure No.9, yet the current system is producing the best start in goals the club has recorded in decades. Levante on Sunday is the next domestic test.",
+        "es": "La secuencia es Elche 5, Athletic 2, Rayo 5, Valencia 5 y Feyenoord 5. Solo el partido ante el Athletic se quedó por debajo de los cinco. Raphinha, Yamal, Fermín López, Adeyemi y ahora Jesus han aportado goles. Pedri y Rodri han sumado tanto desde el centro del campo.\n\nFlick ha rotado mucho la línea de ataque, situando a Raphinha por el centro e intercambiando a Yamal, Adeyemi y Gordon en las bandas. El técnico sigue diciendo que la plantilla se beneficiaría de un 9 puro, pero el sistema actual está generando el mejor arranque goleador del club en décadas. El Levante el domingo es la siguiente prueba doméstica."
+      },
+      "tweets": [
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2097760109615071309",
+          "text": "🔴Opinión SPORT\n\n🌟 Lamine y Raphinha hacen olvidar a Lewandowski, Ferran y Julián Álvarez\n\n✍️@jvehils"
+        }
+      ],
+      "sources": [
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/opinion/lamine-raphinha-olvidar-lewandowski-ferran-134123359"},
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"}
+      ]
+    },
+    {
+      "theme": "preview",
+      "kicker": {"en": "Next", "es": "Siguiente"},
+      "headline": {
+        "en": "Levante next in La Liga on Sunday after European opener",
+        "es": "El Levante, siguiente rival de Liga el domingo tras el estreno europeo"
+      },
+      "summary": {
+        "en": "Barcelona turn their attention to La Liga after the Champions League win. They face Levante on Sunday looking to make it five league victories from five. The side sit top of the table with 12 points and a goal difference of +15 from the opening four matches before the midweek fixture.",
+        "es": "El Barça vuelve a centrarse en La Liga tras el triunfo en Champions. Se mide al Levante el domingo con la intención de sumar la quinta victoria liguera en cinco jornadas. El equipo lidera la tabla con 12 puntos y una diferencia de goles de +15 en los cuatro primeros partidos antes del encuentro de mitad de semana."
+      },
+      "body": {
+        "en": "Flick will manage minutes carefully after the midweek European game. Several players who started against Feyenoord are likely to be rotated. Gabriel Jesus and the academy options remain available for selection. The coaching staff have already spoken about maintaining the same intensity in training that produced the strong start.\n\nThe fixture list now alternates domestic and European commitments more frequently. Barcelona’s next Champions League match will come later in the league phase, with home games against Manchester City, Aston Villa and Como still to come. For now the focus shifts back to La Liga and the visit of Levante.",
+        "es": "Flick gestionará con cuidado los minutos tras el partido europeo de mitad de semana. Varios de los titulares ante el Feyenoord podrían rotar. Gabriel Jesus y las opciones de cantera siguen disponibles. El cuerpo técnico ya ha hablado de mantener en los entrenamientos la misma intensidad que ha producido este buen arranque.\n\nEl calendario alternará ahora con más frecuencia los compromisos domésticos y europeos. El próximo partido de Champions del Barça llegará más adelante en la fase liga, con partidos en casa ante Manchester City, Aston Villa y Como todavía por disputar. De momento la atención regresa a La Liga y a la visita del Levante."
+      },
+      "tweets": [],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/barca/"}
+      ]
+    },
+    {
+      "theme": "club",
+      "kicker": {"en": "Business", "es": "Gestión"},
+      "headline": {
+        "en": "Barcelona complete sale of Can Rigalt land for €30 m",
+        "es": "El Barça cierra la venta de los terrenos de Can Rigalt por 30 millones"
+      },
+      "summary": {
+        "en": "Barcelona have sold their land at Can Rigalt in L’Hospitalet de Llobregat for €30 million. Ten million has already been paid by the buyer, Metropolitan House BCN Residencial. The deal appears in the 2025-26 annual accounts that will go before the Assembly of Delegates.",
+        "es": "El Barça ha vendido sus terrenos de Can Rigalt en L’Hospitalet de Llobregat por 30 millones de euros. Diez millones ya han sido abonados por el comprador, Metropolitan House BCN Residencial. La operación figura en las cuentas del ejercicio 2025-26 que deberán aprobarse en la Asamblea de Compromisarios."
+      },
+      "body": {
+        "en": "SPORT and El Periódico both reported the transaction on the day of the Feyenoord match. The remaining payments are structured over the coming periods. The sale forms part of the club’s ongoing efforts to generate extraordinary income while the Spotify Camp Nou redevelopment continues.\n\nThe Assembly is scheduled for later in September. Members will also review the wider financial picture, including the impact of player trading and the continued amortisation of previous squad investments. The Can Rigalt deal provides a modest but clean cash injection without affecting the first-team wage bill.",
+        "es": "SPORT y El Periódico informaron de la operación el mismo día del partido ante el Feyenoord. Los pagos restantes están estructurados a lo largo de los próximos periodos. La venta forma parte de los esfuerzos del club por generar ingresos extraordinarios mientras continúa la remodelación del Spotify Camp Nou.\n\nLa Asamblea está prevista para más adelante en septiembre. Los compromisarios revisarán también el panorama financiero más amplio, incluido el impacto de las operaciones de jugadores y la amortización de inversiones previas en la plantilla. La operación de Can Rigalt aporta una inyección de liquidez modesta pero limpia sin afectar a la masa salarial del primer equipo."
+      },
+      "tweets": [],
+      "sources": [
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/barcelona-vende-terrenos-can-rigalt-134095026"},
+        {"label": "El Periódico", "url": "https://www.elperiodico.com/es/deportes/20260908/barcelona-vende-terrenos-can-rigalt-134076457"}
+      ]
+    }
+  ]
+}
