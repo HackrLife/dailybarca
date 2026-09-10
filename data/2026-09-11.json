@@ -1,0 +1,332 @@
+{
+  "number": 250,
+  "date": "2026-09-11",
+  "label": "Friday 11 Sep 2026",
+  "title": {
+    "en": "Barça salary limit rises to €582m; Raphinha on eight goals; Rodri apologises to Valencia",
+    "es": "El Barça sube el límite salarial a 582 millones; Raphinha a ocho goles; Rodri se disculpa con el Valencia"
+  },
+  "deck": {
+    "en": "LaLiga published the new salary limits on Thursday. Barcelona climbed from €432m to €582.7m while Real Madrid reached a record €832.8m. Raphinha’s brace against Feyenoord took him to eight goals in five matches. Rodri publicly apologised to Valencia after comments caught on camera at Mestalla. Levante away is next on Sunday.",
+    "es": "LaLiga publicó el jueves los nuevos límites salariales. El Barcelona pasó de 432 a 582,7 millones mientras el Real Madrid marcó un récord con 832,8. El doblete de Raphinha ante el Feyenoord le dejó en ocho goles en cinco partidos. Rodri pidió disculpas públicas al Valencia tras las palabras captadas en Mestalla. El domingo toca Levante fuera."
+  },
+  "defaultSources": [
+    {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+    {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"},
+    {"label": "SPORT", "url": "https://www.sport.es/es/barca/"},
+    {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona.html"},
+    {"label": "AS", "url": "https://as.com/futbol/barcelona/"},
+    {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
+  ],
+  "stories": [
+    {
+      "theme": "finance",
+      "kicker": {"en": "Salary limit", "es": "Límite salarial"},
+      "headline": {
+        "en": "Barcelona salary limit rises to €582.7m as LaLiga updates figures",
+        "es": "El límite salarial del Barça sube a 582,7 millones tras la actualización de LaLiga"
+      },
+      "summary": {
+        "en": "LaLiga released the new Cost of Sports Squad limits on Thursday. Barcelona moved from €432.8m after the winter window to €582.769m. Real Madrid set a record at €832.786m. Atlético sit third on €361.3m. Sevilla remain bottom of the table on €20.2m.",
+        "es": "LaLiga publicó el jueves los nuevos Límites de Coste de Plantilla Deportiva. El Barcelona pasó de los 432,8 millones del mercado de invierno a 582,769. El Real Madrid marcó récord con 832,786. El Atlético es tercero con 361,3. El Sevilla cierra la tabla con 20,2."
+      },
+      "body": {
+        "en": "Javier Gómez, LaLiga’s corporate managing director, linked Barcelona’s rise to higher budgeted income, previous losses being recovered and transfer activity. The club is again operating under the 1:1 rule. Real Madrid used the regulation that lets clubs with healthy ratios apply prior net-worth savings for up to a 25 percent increase.\n\nThe gap between the two clubs still stands at roughly €250m. For Barcelona the new ceiling restores capacity closer to its status after years of restrictions. The figures cover both Primera and Segunda and were published nine days after the summer window closed.",
+        "es": "Javier Gómez, director general corporativo de LaLiga, vinculó la subida del Barça a mayores ingresos presupuestados, la recuperación de pérdidas anteriores y la actividad de traspasos. El club opera de nuevo bajo la norma 1:1. El Real Madrid aplicó la regla que permite a los clubes con ratios sanos usar ahorros de patrimonio neto de años anteriores hasta un 25 por ciento.\n\nLa diferencia entre ambos sigue cerca de los 250 millones. Para el Barcelona el nuevo techo recupera capacidad acorde a su estatus tras años de restricciones. Las cifras abarcan Primera y Segunda y se publicaron nueve días después del cierre del mercado de verano."
+      },
+      "tweets": [
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2098155680280547365",
+          "text": "⚠️ El entrenador del Fenerbahce, Ismail Kartal, había anunciado su dimisión, pero el presidente del club ha asegurado que seguirá y ha explicado los motivos de su cabreo"
+        }
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260910/1004225711/barca-pasa-432-millones-limite-salarial-582.html"},
+        {"label": "AS", "url": "https://as.com/futbol/primera/el-madrid-manda-en-limite-salarial-pero-el-barca-da-un-paso-de-gigante-f202609-n/"},
+        {"label": "MARCA", "url": "https://www.marca.com/futbol/primera-division/2026/09/10/limites-salariales-26-27-record-real-madrid-nuevo-subidon-barcelona.html"}
+      ]
+    },
+    {
+      "theme": "form",
+      "kicker": {"en": "Raphinha", "es": "Raphinha"},
+      "headline": {
+        "en": "Raphinha reaches eight goals in five matches and fifth all-time in Champions League for Barça",
+        "es": "Raphinha llega a ocho goles en cinco partidos y es quinto máximo goleador azulgrana en Champions"
+      },
+      "summary": {
+        "en": "Raphinha’s two goals against Feyenoord took his season total to eight in five appearances and made him Barcelona’s fifth-highest scorer in Champions League history. He has scored in every match the team has played this campaign. Club channels posted highlight packages throughout Thursday.",
+        "es": "Los dos goles de Raphinha ante el Feyenoord le dejaron en ocho tantos en cinco partidos y le convirtieron en el quinto máximo goleador del Barça en la historia de la Champions. Ha marcado en todos los encuentros del equipo este curso. Los canales del club publicaron resúmenes durante todo el jueves."
+      },
+      "body": {
+        "en": "The Brazilian finished the third-minute opener by stopping two sliding defenders on the wet pitch and slotting past Ernst. His second arrived from Pedri’s through-ball before the hour. Flick substituted him to an ovation and Yamal took the captain’s armband. Official accounts noted the five-game scoring streak and the historic Champions League ranking.\n\nRaphinha told reporters after the match that he prefers to talk about Barcelona rather than individual awards after his Ballon d’Or omission. Mundo Deportivo and SPORT both highlighted that no Barça player had scored in each of the first five matches of a season since the late 1950s.",
+        "es": "El brasileño definió el tanto del minuto 3 dejando pasar a dos defensas en el césped mojado y batir a Ernst. El segundo nació de un pase en profundidad de Pedri antes de la hora. Flick le sustituyó con ovación y Yamal recibió el brazalete. Las cuentas oficiales subrayaron la racha de cinco partidos seguidos anotando y el puesto histórico en Champions.\n\nRaphinha dijo a los periodistas que prefiere hablar del Barcelona antes que de premios individuales tras su ausencia en la lista del Balón de Oro. Mundo Deportivo y SPORT recordaron que ningún azulgrana había marcado en cada uno de los cinco primeros partidos de una temporada desde finales de los cincuenta."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2098154751531667661",
+          "text": "Lo de Raphinha no tiene sentido 🤯"
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2098154743885406516",
+          "text": "Rapha. Different level. 🥶"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225371/raphinha-no-hablo-balon-oro-hablo-barcelona.html"},
+        {"label": "ESPN", "url": "https://www.espn.com/soccer/story/_/id/49883678/leading-line-leading-example-raphinha-central-barcelona-hot-start"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Rodri", "es": "Rodri"},
+      "headline": {
+        "en": "Rodri apologises to Valencia after ‘weak’ comments caught on camera at Mestalla",
+        "es": "Rodri se disculpa con el Valencia tras las palabras de ‘muy flojos’ captadas en Mestalla"
+      },
+      "summary": {
+        "en": "Rodri issued a public apology after Barcelona’s 5-1 win over Feyenoord. Television cameras at Mestalla had shown him telling teammates the Valencia side looked “really weak” during the 5-0 league victory. He said he called José Gayà and apologised to the whole Valencia squad.",
+        "es": "Rodri pidió disculpas públicas tras el 5-1 al Feyenoord. Las cámaras de televisión en Mestalla le habían captado diciendo a compañeros que el Valencia se veía “muy flojo” durante el 5-0 de Liga. Afirmó que llamó a José Gayà y se disculpó con toda la plantilla che."
+      },
+      "body": {
+        "en": "Speaking in the mixed zone, Rodri opened by saying that when someone makes a mistake they must apologise. He described the remark as an expression of surprise rather than mockery and added that he wants Valencia to return to the place they belong in the league. The footage had no audio; Movistar reported the lip-read version.\n\nValencia sit bottom after four matches. Gayà, Spain teammate of Rodri, received the private call. Carlos Corberán later called the original words unfortunate while accepting the apology. The midfielder also used the same appearance to stress that he and Pedri understand each other perfectly in midfield.",
+        "es": "En la zona mixta Rodri empezó diciendo que cuando uno comete un error hay que pedir perdón. Calificó el comentario de expresión de sorpresa y no de burla, y añadió que desea que el Valencia vuelva al lugar que le corresponde en la liga. El vídeo no tenía audio; Movistar ofreció la lectura de labios.\n\nEl Valencia cierra la clasificación tras cuatro jornadas. Gayà, compañero de selección de Rodri, recibió la llamada privada. Carlos Corberán calificó después de desafortunadas las palabras originales aunque aceptó la disculpa. El centrocampista aprovechó la misma comparecencia para subrayar que se entiende de maravilla con Pedri en el centro del campo."
+      },
+      "tweets": [
+        {
+          "name": "Samuel Marsden",
+          "handle": "@samuelmarsden",
+          "id": "2097789806860235083",
+          "text": "The rain stopped but the goals didn’t. \n\nRaphinha, leading the way, leading the line and sending Feyenoord defenders on slip&slides, scores two more as Barça kick off CL campaign with a fourth 5-star showing of the season already"
+        }
+      ],
+      "sources": [
+        {"label": "BBC Sport", "url": "https://www.bbc.com/sport/football/articles/cvgyrx8gd71o"},
+        {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/7579769/2026/09/09/barcelona-rodri-apology-valencia-weak/"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225376/rodri-disculpa-ojala-valencia-pueda-volver-merece.html"}
+      ]
+    },
+    {
+      "theme": "champions",
+      "kicker": {"en": "Attack", "es": "Ataque"},
+      "headline": {
+        "en": "Four five-goal games in five matches leave Barça on 22 goals for the season",
+        "es": "Cuatro partidos de cinco goles en cinco dejan al Barça con 22 tantos esta temporada"
+      },
+      "summary": {
+        "en": "The 5-1 win over Feyenoord was Barcelona’s fourth five-goal performance in five matches across all competitions. The side have scored 22 times and sit top of LaLiga with a +15 goal difference after four league games. Only one match this season has failed to reach five.",
+        "es": "El 5-1 al Feyenoord fue el cuarto partido de cinco goles del Barça en cinco encuentros de todas las competiciones. El equipo lleva 22 goles y lidera LaLiga con +15 de diferencia tras cuatro jornadas. Solo un partido de esta temporada no ha llegado a los cinco."
+      },
+      "body": {
+        "en": "Club data and local papers noted the sequence has not been matched since the early 1920s for five-goal hauls at this stage. Raphinha, Adeyemi, Yamal and Jesus all scored on Wednesday. Flick rotated five players from the Valencia win yet the attacking output remained the same.\n\nThe German coach said after the game that the intensity of training since Mestalla was among the best he has seen, including his Bayern years. He still insisted there is room to improve and that titles are decided in May. Next is Levante away on Sunday before the first Champions League away trip to Galatasaray.",
+        "es": "Los datos del club y la prensa local señalaron que la secuencia no se había visto desde los primeros años veinte en cuanto a goleadas a estas alturas. Raphinha, Adeyemi, Yamal y Jesus marcaron el miércoles. Flick rotó cinco jugadores respecto al Valencia y la producción ofensiva se mantuvo.\n\nEl técnico alemán dijo tras el partido que la intensidad de los entrenamientos desde Mestalla está entre las mejores que ha visto, incluida su etapa en el Bayern. Insistió en que aún hay margen de mejora y que los títulos se deciden en mayo. El domingo toca Levante fuera antes del primer viaje de Champions a Galatasaray."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2098139638980317416",
+          "text": "There’s nothing he can’t do. 😮‍💨"
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2098139638145679434",
+          "text": "No hay nada que no pueda hacer. 😮‍💨"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/barca-tormenta-134118560"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Yamal", "es": "Yamal"},
+      "headline": {
+        "en": "Lamine Yamal wears the captain’s armband for the first time at 19",
+        "es": "Lamine Yamal estrena el brazalete de capitán con 19 años"
+      },
+      "summary": {
+        "en": "Flick handed Lamine Yamal the captain’s armband in the 72nd minute against Feyenoord after substituting Raphinha. The 19-year-old later scored from a free-kick and assisted Gabriel Jesus’s first club goal. Pol Ballús of The Athletic flagged the moment on the night.",
+        "es": "Flick entregó el brazalete de capitán a Lamine Yamal en el minuto 72 ante el Feyenoord tras sustituir a Raphinha. El canterano de 19 años marcó después de falta y asistió el primer gol de Gabriel Jesus con el club. Pol Ballús de The Athletic destacó el momento en la noche."
+      },
+      "body": {
+        "en": "Yamal had already created the opening goal with the pass that set Raphinha free. His free-kick in the 77th minute found a gap in the wall and beat Ernst. Two minutes after Jesus entered, Yamal’s cross was headed in for 5-1. Club accounts posted the image of the teenager with the armband under the caption “CAPTAIN LAMINE YAMAL”.\n\nThe moment arrived in the same week Yamal collected an AFE award. Flick has rotated leadership duties across the squad; this was the first competitive outing for the academy product as skipper. He remains one of three Barcelona players shortlisted for the Ballon d’Or.",
+        "es": "Yamal ya había creado el primer gol con el pase que liberó a Raphinha. Su falta del 77 encontró un hueco en la barrera y batió a Ernst. Dos minutos después de la entrada de Jesus, el centro del canterano fue cabeceado para el 5-1. Las cuentas del club publicaron la imagen del adolescente con el brazalete bajo el mensaje “CAPTAIN LAMINE YAMAL”.\n\nEl momento llegó la misma semana en que Yamal recogió un premio de la AFE. Flick ha rotado las responsabilidades de liderazgo; esta fue la primera salida competitiva del canterano como capitán. Sigue siendo uno de los tres azulgranas preseleccionados para el Balón de Oro."
+      },
+      "tweets": [
+        {
+          "name": "Pol Ballús",
+          "handle": "@polballus",
+          "id": "2097752068308046221",
+          "text": "Lamine Yamal wears Barça’s captain armband for the first time ever tonight. At 19."
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2097755410220392737",
+          "text": "CAPTAIN LAMINE YAMAL"
+        }
+      ],
+      "sources": [
+        {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"},
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Jesus", "es": "Jesus"},
+      "headline": {
+        "en": "Gabriel Jesus scores first Barcelona goal two minutes after coming on",
+        "es": "Gabriel Jesus marca su primer gol como azulgrana dos minutos después de entrar"
+      },
+      "summary": {
+        "en": "Gabriel Jesus headed in his first goal for Barcelona in the 85th minute against Feyenoord, two minutes after entering. The former Arsenal forward connected with a Lamine Yamal cross. It was his second competitive appearance after a late cameo at Valencia.",
+        "es": "Gabriel Jesus cabeceó su primer gol con el Barça en el minuto 85 ante el Feyenoord, dos minutos después de saltar al campo. El ex del Arsenal conectó un centro de Lamine Yamal. Fue su segunda aparición competitiva tras el debut tardío en Valencia."
+      },
+      "body": {
+        "en": "Jesus had trained fully with the group in the days before the Champions League opener. Flick introduced him with the score already 4-0. Club channels celebrated with the line “Primera llamada de Gabriel Jesus”. The goal completed a fourth five-goal game of the season.\n\nThe Brazilian now has the midweek recovery window and Sunday’s trip to Levante to continue building match fitness. Deco and the sporting department completed the deal on deadline day for an initial fee reported around €10m. Flick has used him as an impact option while Raphinha continues as the central reference.",
+        "es": "Jesus había entrenado al completo con el grupo en los días previos al estreno de Champions. Flick le dio entrada con el marcador ya en 4-0. Los canales del club celebraron con el mensaje “Primera llamada de Gabriel Jesus”. El tanto completó el cuarto partido de cinco goles de la temporada.\n\nEl brasileño dispone ahora de la ventana de recuperación entre semana y el viaje del domingo a Levante para seguir ganando ritmo. Deco y la dirección deportiva cerraron el fichaje el último día de mercado por una cifra inicial en torno a los 10 millones. Flick le ha usado como recurso de impacto mientras Raphinha sigue como referencia central."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2097754622282674525",
+          "text": "GABRIEL JESUS' FIRST BARÇA GOAL!!!!"
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2097760650738950347",
+          "text": "Primera llamada de Gabriel Jesus ☎️"
+        }
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news"},
+        {"label": "Al Jazeera", "url": "https://www.aljazeera.com/sports/2026/9/9/rampant-raphinha-nets-two-goals-as-barcelona-rout-feyenoord"}
+      ]
+    },
+    {
+      "theme": "coach",
+      "kicker": {"en": "Flick", "es": "Flick"},
+      "headline": {
+        "en": "Flick says he is enjoying the job and proud of the group’s intensity",
+        "es": "Flick dice que disfruta del cargo y está orgulloso de la intensidad del grupo"
+      },
+      "summary": {
+        "en": "Hansi Flick told reporters after the Feyenoord win that he is enjoying being Barcelona coach and feels proud of the squad’s intensity. He still sees room for improvement and argued that both Raphinha and Pedri should have been on the Ballon d’Or shortlist. Training quality since Valencia was highlighted.",
+        "es": "Hansi Flick dijo a los periodistas tras el partido ante el Feyenoord que disfruta siendo entrenador del Barça y se siente orgulloso de la intensidad de la plantilla. Sigue viendo margen de mejora y defendió que tanto Raphinha como Pedri deberían haber estado en la lista del Balón de Oro. Destacó la calidad de los entrenamientos desde el Valencia."
+      },
+      "body": {
+        "en": "Flick compared the post-Valencia session favourably even with his Bayern years. He said squad competitiveness allows rotation without a drop in level. On the Ballon d’Or he was direct: the omission of Raphinha and Pedri cannot be changed now. He added that the season is still young and titles are decided in May.\n\nThe coach also noted that every Champions League opponent must be respected. MARCA and other Spanish outlets carried the comments on Wednesday night. Flick has started the campaign with five wins from five and 22 goals scored.",
+        "es": "Flick comparó favorablemente la sesión posterior al Valencia incluso con sus años en el Bayern. Dijo que la competitividad de la plantilla permite rotar sin que baje el nivel. Sobre el Balón de Oro fue directo: la ausencia de Raphinha y Pedri ya no se puede cambiar. Añadió que la temporada aún es joven y que los títulos se deciden en mayo.\n\nEl técnico también señaló que hay que respetar a todos los rivales de Champions. MARCA y otros medios españoles recogieron las declaraciones la noche del miércoles. Flick ha arrancado la temporada con cinco victorias en cinco y 22 goles a favor."
+      },
+      "tweets": [
+        {
+          "name": "Sid Lowe",
+          "handle": "@sidlowe",
+          "id": "2097748868091777434",
+          "text": "Not many players that are as enjoyable to watch as Raphinha right now. A kind of mad intensity about him. Something admirable about him too."
+        }
+      ],
+      "sources": [
+        {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/09/09/flick-disfrutando-tecnico-barca-orgulloso.html"},
+        {"label": "beIN SPORTS", "url": "https://www.beinsports.com/en-us/soccer/uefa-champions-league/articles/flick-not-satisfied-despite-barcelona-s-champions-league-rout-2026-09-09"}
+      ]
+    },
+    {
+      "theme": "fixture",
+      "kicker": {"en": "Next", "es": "Próximo"},
+      "headline": {
+        "en": "Levante away on Sunday before first Champions League trip to Galatasaray",
+        "es": "Levante fuera el domingo antes del primer viaje de Champions a Galatasaray"
+      },
+      "summary": {
+        "en": "Barcelona travel to Levante on Sunday 13 September for matchday five of LaLiga. The side sit top with 12 points and a +15 goal difference after four games. The first Champions League away fixture is against Galatasaray later in the month. Penya members can already apply for tickets.",
+        "es": "El Barça visita al Levante el domingo 13 de septiembre en la quinta jornada de LaLiga. El equipo lidera con 12 puntos y +15 de diferencia de goles tras cuatro partidos. El primer partido de Champions como visitante será ante el Galatasaray a finales de mes. Los socios de las peñas ya pueden solicitar entradas."
+      },
+      "body": {
+        "en": "Levante sit mid-table after a mixed start. Barcelona won the corresponding fixture 3-0 last season. Flick has rotation options after the midweek European game and the short recovery window. Eric García remains suspended from the Valencia red card and Frenkie de Jong is still working his way back from a knee issue.\n\nClub channels confirmed the Galatasaray trip details and ticket information for members. The league-phase calendar also includes home games against Manchester City, Aston Villa and Como plus visits to PSG, Sporting and Sabah. The early scoring form has set a high bar for the coming weeks.",
+        "es": "El Levante ocupa zona media tras un inicio irregular. El Barça ganó el partido correspondiente 3-0 la temporada pasada. Flick dispone de opciones de rotación tras el partido europeo entre semana y la corta ventana de recuperación. Eric García sigue sancionado por la roja de Valencia y Frenkie de Jong continúa recuperándose de la rodilla.\n\nLos canales del club confirmaron los detalles del viaje a Galatasaray y la información de entradas para socios. El calendario de la fase liga incluye también partidos en casa ante Manchester City, Aston Villa y Como más visitas a PSG, Sporting y Sabah. El ritmo goleador de arranque ha puesto el listón alto para las próximas semanas."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2098056990052262039",
+          "text": "Rainy Champions League nights just hit different for Raphinha 🌧️"
+        }
+      ],
+      "sources": [
+        {"label": "Sofascore", "url": "https://www.sofascore.com/football/match/levante-ud-fc-barcelona/rgbsZgb"},
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news"}
+      ]
+    },
+    {
+      "theme": "opinion",
+      "kicker": {"en": "Ballon d’Or", "es": "Balón de Oro"},
+      "headline": {
+        "en": "Deco and Flick criticise absence of Raphinha and Pedri from Ballon d’Or list",
+        "es": "Deco y Flick critican la ausencia de Raphinha y Pedri en la lista del Balón de Oro"
+      },
+      "summary": {
+        "en": "Sporting director Deco called the omission of Raphinha and Pedri from the 30-player Ballon d’Or shortlist “outrageous” in a radio interview on Thursday. Flick had already said both players should have been included. Raphinha himself preferred to talk about the team rather than the award.",
+        "es": "El director deportivo Deco calificó de “indignante” la ausencia de Raphinha y Pedri en la lista de 30 del Balón de Oro en una entrevista radiofónica el jueves. Flick ya había dicho que ambos deberían haber entrado. El propio Raphinha prefirió hablar del equipo antes que del premio."
+      },
+      "body": {
+        "en": "The shortlist was published earlier in the week and featured Lamine Yamal, Rodri and Cubarsí from the Barcelona squad. Deco used his RAC1 appearance to push back on the wider selection while reviewing the summer market. Flick’s post-match comments on Wednesday had already framed the issue as something that cannot now be altered.\n\nRaphinha’s eight goals in five matches and Pedri’s midfield influence have been central to the early-season results. Local papers treated the omission as a talking point across Thursday. The final Ballon d’Or vote and ceremony remain months away.",
+        "es": "La lista se publicó a principios de semana e incluía a Lamine Yamal, Rodri y Cubarsí del plantel azulgrana. Deco aprovechó su intervención en RAC1 para rebatir la selección general mientras repasaba el mercado de verano. Las declaraciones de Flick tras el partido del miércoles ya habían enmarcado el asunto como algo que ahora no se puede cambiar.\n\nLos ocho goles de Raphinha en cinco partidos y la influencia de Pedri en el centro del campo han sido centrales en los resultados de arranque. La prensa local trató la omisión como tema de conversación durante todo el jueves. La votación final y la gala del Balón de Oro quedan a meses vista."
+      },
+      "tweets": [
+        {
+          "name": "MARCA",
+          "handle": "@marca",
+          "id": "2098155894659768730",
+          "text": "‼️ El PSG lidera, el Barça representa a España en el top 8 y el Como se presenta en Europa\n\n🔥 Así queda la CLASIFICACIÓN de la Champions tras la primera jornada"
+        }
+      ],
+      "sources": [
+        {"label": "AS", "url": "https://en.as.com/soccer/deco-its-outrageous-that-pedri-and-raphinha-are-not-on-the-ballon-dor-list-f202609-n/"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/opinion/farsa-balon-oro-134126201"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260909/1004225371/raphinha-no-hablo-balon-oro-hablo-barcelona.html"}
+      ]
+    },
+    {
+      "theme": "form",
+      "kicker": {"en": "Adeyemi", "es": "Adeyemi"},
+      "headline": {
+        "en": "Karim Adeyemi’s long-range strike continues early contribution after summer arrival",
+        "es": "El gol de larga distancia de Karim Adeyemi sigue sumando tras su llegada en verano"
+      },
+      "summary": {
+        "en": "Karim Adeyemi scored Barcelona’s second goal against Feyenoord with a curling effort from outside the box in the 22nd minute. The German forward, signed from Borussia Dortmund, has now contributed in the early fixtures alongside Raphinha’s central role. Flick started him in place of Anthony Gordon.",
+        "es": "Karim Adeyemi marcó el segundo gol del Barça ante el Feyenoord con un golpeo curvado desde fuera del área en el minuto 22. El delantero alemán, llegado del Borussia Dortmund, ya ha aportado en los primeros partidos junto al rol central de Raphinha. Flick le alineó de inicio en lugar de Anthony Gordon."
+      },
+      "body": {
+        "en": "Adeyemi’s finish beat Ernst into the top corner and doubled the lead on a rain-soaked night. Local coverage noted both of his early goals for the club have come with his right foot despite being left-footed. The summer deal was completed for a reported €22m plus variables and a contract to 2031.\n\nFlick has used the new arrivals in rotation while keeping the attacking structure fluid. Adeyemi’s pace and shooting from distance give another option when Raphinha drops deeper or when the wide forwards interchange. The performance against Feyenoord was his most complete start so far.",
+        "es": "El remate de Adeyemi batió a Ernst por la escuadra y puso el 2-0 en una noche de lluvia. La prensa local señaló que sus dos primeros goles con el club han llegado con la derecha pese a ser zurdo. El fichaje de verano se cerró por unos 22 millones más variables y contrato hasta 2031.\n\nFlick ha usado a los nuevos en rotación manteniendo la estructura ofensiva fluida. La velocidad y el disparo lejano de Adeyemi ofrecen otra opción cuando Raphinha cae o cuando los extremos intercambian. La actuación ante el Feyenoord fue su inicio más completo hasta ahora."
+      },
+      "tweets": [
+        {
+          "name": "Samuel Marsden",
+          "handle": "@samuelmarsden",
+          "id": "2097754556058714223",
+          "text": "Gabriel Jesus off the mark. Barça have a fifth... for the fourth time in five games this season. Remarkable fire power."
+        }
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"},
+        {"label": "MARCA", "url": "https://www.marca.com/en/football/champions-league/2026/09/09/barcelona-dances-in-the-rain.html"}
+      ]
+    }
+  ]
+}
