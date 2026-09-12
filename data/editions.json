@@ -1,6 +1,14 @@
 {
   "editions": [
     {
+      "number": 252,
+      "date": "2026-09-13",
+      "label": "Sunday 13 Sep 2026",
+      "file": "2026-09-13.json",
+      "tweets": 10,
+      "lead": "Flick: better squad than last year; Cubarsí at new level; Levante away today"
+    },
+    {
       "number": 251,
       "date": "2026-09-12",
       "label": "Saturday 12 Sep 2026",
