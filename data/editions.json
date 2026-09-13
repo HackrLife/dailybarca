@@ -1,6 +1,14 @@
 {
   "editions": [
     {
+      "number": 253,
+      "date": "2026-09-14",
+      "label": "Monday 14 Sep 2026",
+      "file": "2026-09-14.json",
+      "tweets": 12,
+      "lead": "Yamal brace, Adeyemi late winner; Barça equal best-ever start"
+    },
+    {
       "number": 252,
       "date": "2026-09-13",
       "label": "Sunday 13 Sep 2026",

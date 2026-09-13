@@ -1,0 +1,270 @@
+{
+  "number": 253,
+  "date": "2026-09-14",
+  "label": "Monday 14 Sep 2026",
+  "title": {
+    "en": "Yamal brace, Adeyemi late winner; Barça equal best-ever start",
+    "es": "Doblete de Yamal, gol de Adeyemi; el Barça iguala el mejor inicio"
+  },
+  "deck": {
+    "en": "Barcelona beat Levante 4-2 at the Ciutat de València to make it five wins from five in LaLiga and six from six in all competitions. Lamine Yamal scored twice, Xavi Espart opened his account and Karim Adeyemi sealed it in stoppage time. Hansi Flick called it far from their best performance.",
+    "es": "El Barcelona venció 4-2 al Levante en el Ciutat de València y suma cinco victorias de cinco en Liga y seis de seis en todas las competiciones. Lamine Yamal marcó dos, Xavi Espart abrió su cuenta y Karim Adeyemi cerró en el descuento. Hansi Flick admitió que no fue su mejor partido."
+  },
+  "defaultSources": [
+    {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+    {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"},
+    {"label": "SPORT", "url": "https://www.sport.es/es/barca/"},
+    {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona.html"},
+    {"label": "AS", "url": "https://as.com/futbol/barcelona/"},
+    {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
+  ],
+  "stories": [
+    {
+      "theme": "match",
+      "kicker": {"en": "Result", "es": "Resultado"},
+      "headline": {
+        "en": "Yamal brace and Adeyemi winner keep Barça perfect at Levante",
+        "es": "Doblete de Yamal y gol de Adeyemi mantienen el pleno en Valencia"
+      },
+      "summary": {
+        "en": "Barcelona won 4-2 at Levante on Sunday. Xavi Espart scored after five minutes, Lamine Yamal added two either side of half-time and Karim Adeyemi finished a late fightback with a solo goal in stoppage time. The result left Barça three points clear at the top of LaLiga.",
+        "es": "El Barcelona ganó 4-2 al Levante el domingo. Xavi Espart marcó a los cinco minutos, Lamine Yamal añadió dos a ambos lados del descanso y Karim Adeyemi cerró la remontada local con un gol en solitario en el descuento. El resultado dejó al Barça tres puntos por encima en la tabla."
+      },
+      "body": {
+        "en": "Espart’s deflected effort put the visitors ahead early. Raphinha then rounded the goalkeeper and cut the ball back for Yamal to make it 2-0 before the break. Yamal converted a penalty two minutes into the second half after being fouled by Mandi.\n\nLevante refused to fold. Iván Romero capitalised on a misplaced pass in the 79th minute and Roger Brugué added a second in the 88th. Adeyemi, on as a substitute, collected the ball on the left, beat two defenders and slotted home in the 93rd minute to restore the two-goal cushion. Barcelona have now scored 26 goals in six competitive matches.",
+        "es": "El disparo desviado de Espart puso por delante a los visitantes muy pronto. Raphinha regateó después al portero y cedió a Yamal para el 0-2 antes del descanso. Yamal transformó un penalti a los dos minutos de la reanudación tras una falta de Mandi.\n\nEl Levante no se rindió. Iván Romero aprovechó un pase mal dado en el 79 y Roger Brugué añadió el segundo en el 88. Adeyemi, entrado desde el banquillo, recogió el balón en la izquierda, superó a dos defensas y definió en el 93 para recuperar la ventaja de dos goles. El Barcelona lleva ya 26 goles en seis partidos oficiales."
+      },
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2099175789660930429", "text": "ADEYEMI ONLY SCORES BANGERS 🥶"},
+        {"name": "FC Barcelona", "handle": "@FCBarcelona_es", "id": "2099196411589914633", "text": "Los 4 últimos partidos de Lamine 😁: ⚽⚽ vs Levante ⚽🅰️🅰️ vs Feyenoord ⚽⚽ vs Valencia ⚽⚽ vs Rayo Vallecano"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226757/2-4-barca-sigue-racha-correoso-levante.html"},
+        {"label": "ESPN", "url": "https://www.espn.com/soccer/match/_/gameId/401882883/barcelona-levante"}
+      ]
+    },
+    {
+      "theme": "match",
+      "kicker": {"en": "Flick", "es": "Flick"},
+      "headline": {
+        "en": "Flick: not our best game, first Levante goal was my fault",
+        "es": "Flick: no fue nuestro mejor partido, el primer gol del Levante fue culpa mía"
+      },
+      "summary": {
+        "en": "Hansi Flick admitted Barcelona were not at their best after the 4-2 win at Levante. He took personal responsibility for the hosts’ first goal, saying he delayed a planned substitution of Xavi Espart. The coach still praised the result and the side’s ability to survive the late scare.",
+        "es": "Hansi Flick reconoció que el Barcelona no estuvo en su mejor versión tras el 4-2 en Valencia. Se responsabilizó del primer gol del Levante por retrasar el cambio previsto de Xavi Espart. El técnico valoró el resultado y la capacidad del equipo para superar el susto final."
+      },
+      "body": {
+        "en": "“It was not our best game,” Flick told the post-match conference. “We had a great start, but then in the second half we struggled a little bit. We have to be calmer at 3-0.” He added that the pitch conditions did not help and that Levante had performed well at home.\n\nOn the first goal conceded he was blunt: the substitution of Espart had already been decided, but he chose to wait for the next stoppage. “Maybe if we had changed him at that moment, we would not have conceded that goal.” Flick said the afternoon would still serve as a useful lesson before the next fixtures.",
+        "es": "“No fue nuestro mejor encuentro”, dijo Flick en rueda de prensa. “Tuvimos un gran comienzo, pero en la segunda parte nos costó un poco. Con el 3-0 debimos tener más control.” Añadió que el estado del césped no ayudó y que el Levante hizo un buen partido en casa.\n\nSobre el primer gol encajado fue claro: el cambio de Espart ya estaba decidido, pero optó por esperar a la siguiente interrupción. “Quizá si lo hubiéramos cambiado en ese momento no habríamos encajado ese gol.” El técnico consideró que la tarde servirá como lección de cara a los próximos partidos."
+      },
+      "tweets": [
+        {"name": "Samuel Marsden", "handle": "@samuelmarsden", "id": "2099209372136014154", "text": "Barça score four more, remain perfect in LaLiga but Flick admits they were not good as they survive late scare to beat Levante 4-2"},
+        {"name": "FC Barcelona", "handle": "@FCBarcelona_es", "id": "2099219277286953234", "text": "🎙️ Las declaraciones de Hansi Flick tras la victoria en el Ciutat de Valencia"}
+      ],
+      "sources": [
+        {"label": "ESPN", "url": "https://www.espn.com/soccer/story/_/id/49929329/barcelona-hansi-flick-not-our-best-game-levante-win-laliga"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226705/flick-sufrimos-segunda-parte-contento.html"},
+        {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona/2026/09/13/hansi-flick-hemos-sobrevivido.html"}
+      ]
+    },
+    {
+      "theme": "club",
+      "kicker": {"en": "Record", "es": "Récord"},
+      "headline": {
+        "en": "Six wins from six equals Barcelona’s best-ever start",
+        "es": "Seis victorias de seis igualan el mejor inicio histórico del Barça"
+      },
+      "summary": {
+        "en": "The 4-2 win at Levante made it six victories from the first six competitive matches of the season. Only three previous Barcelona sides have achieved the same start: 1929/30, 1960/61 and 2018/19. Club channels highlighted the historic parallel on Sunday evening.",
+        "es": "El 4-2 en Valencia elevó el registro a seis victorias en los seis primeros partidos oficiales de la temporada. Solo tres equipos anteriores del Barcelona lo habían logrado: 1929/30, 1960/61 y 2018/19. Los canales del club subrayaron el paralelo histórico el domingo por la noche."
+      },
+      "body": {
+        "en": "The sequence covers five LaLiga matches and the Champions League opener against Feyenoord. Barcelona have scored 26 goals and conceded five across those fixtures. The 1929/30 side under James Bellamy, the 1960/61 team managed by Ljubiša Broćić and Ernesto Valverde’s 2018/19 group remain the only predecessors.\n\nFlick’s side now sit three points clear of Real Madrid at the top of LaLiga. The next opportunity to extend the perfect record comes midweek, when the calendar offers a chance to move past the previous club marks.",
+        "es": "La secuencia incluye cinco partidos de Liga y el estreno de Champions ante el Feyenoord. El Barcelona ha marcado 26 goles y ha encajado cinco en esos encuentros. El equipo de 1929/30 de James Bellamy, el de 1960/61 de Ljubiša Broćić y el de Ernesto Valverde en 2018/19 son los únicos precedentes.\n\nEl conjunto de Flick está ahora tres puntos por encima del Real Madrid en la clasificación. La próxima oportunidad de alargar el pleno llega a media semana, cuando el calendario ofrece la posibilidad de superar las marcas anteriores del club."
+      },
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona_es", "id": "2099241786241692099", "text": "1929/30, 1960/61, 2018/19 y... 𝟮𝟬𝟮𝟲/𝟮𝟳 Es la cuarta vez que el Barça gana los seis primeros partidos oficiales del curso 😉"},
+        {"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2099211512598470664", "text": "FLICK’S BARÇA 3.0 🫡"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.es/es/futbol/primer-equipo/noticias/4575846/igualado-el-mejor-inicio-historico"},
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"}
+      ]
+    },
+    {
+      "theme": "player",
+      "kicker": {"en": "Yamal", "es": "Yamal"},
+      "headline": {
+        "en": "Yamal scores in four straight matches and takes season tally to seven",
+        "es": "Yamal marca en cuatro partidos seguidos y llega a siete goles esta temporada"
+      },
+      "summary": {
+        "en": "Lamine Yamal scored twice at Levante to extend his scoring run to four consecutive matches. The teenager now has seven goals across all competitions this season. Club graphics underlined the sequence that includes braces against Rayo, Valencia and Levante plus a contribution against Feyenoord.",
+        "es": "Lamine Yamal marcó dos veces ante el Levante y alargó su racha goleadora a cuatro partidos consecutivos. El adolescente suma ya siete goles en todas las competiciones esta temporada. Los gráficos del club subrayaron la secuencia que incluye dobletes ante el Rayo, el Valencia y el Levante más la aportación ante el Feyenoord."
+      },
+      "body": {
+        "en": "Yamal opened the scoring run with a brace against Rayo Vallecano, repeated the feat at Valencia and then delivered another two goals in the Ciutat de València. In between he contributed a goal and two assists in the 5-1 Champions League win over Feyenoord.\n\nThe 19-year-old also converted the penalty that made it 3-0 on Sunday after winning the foul himself. Flick has repeatedly used him as a central reference as well as on the right, and the player remains the side’s most consistent attacking outlet through the opening weeks.",
+        "es": "Yamal abrió la racha con un doblete ante el Rayo Vallecano, la repitió en Valencia y volvió a marcar dos en el Ciutat de València. En medio aportó un gol y dos asistencias en el 5-1 de Champions ante el Feyenoord.\n\nEl futbolista de 19 años también transformó el penalti del 0-3 el domingo tras provocar la falta. Flick le ha utilizado como referencia central además de en la derecha, y el jugador sigue siendo la amenaza ofensiva más constante del equipo en estas primeras semanas."
+      },
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona_es", "id": "2099196411589914633", "text": "Los 4 últimos partidos de Lamine 😁: ⚽⚽ vs Levante ⚽🅰️🅰️ vs Feyenoord ⚽⚽ vs Valencia ⚽⚽ vs Rayo Vallecano"},
+        {"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2099145871212364054", "text": "GOAL BY LAMINE YAMAL! ⚽️ 0-2 | ⏱️19’"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226757/2-4-barca-sigue-racha-correoso-levante.html"},
+        {"label": "beIN SPORTS", "url": "https://www.beinsports.com/en-us/soccer/la-liga/articles/live-blog-levante-vs-barcelona-live-in-laliga-2026-09-13"}
+      ]
+    },
+    {
+      "theme": "player",
+      "kicker": {"en": "Adeyemi", "es": "Adeyemi"},
+      "headline": {
+        "en": "Adeyemi’s late solo goal ends Levante fightback",
+        "es": "El gol en solitario de Adeyemi corta la remontada del Levante"
+      },
+      "summary": {
+        "en": "Karim Adeyemi came off the bench in the 66th minute and scored the decisive fourth goal in stoppage time. The German collected the ball on the left, beat two defenders and finished low to kill Levante’s late surge. Flick described the contribution as typical of a player who stays focused.",
+        "es": "Karim Adeyemi entró en el 66 y marcó el cuarto gol decisivo en el descuento. El alemán recogió el balón en la izquierda, superó a dos defensas y definió bajo para cortar el empuje final del Levante. Flick describió la aportación como típica de un jugador que mantiene la concentración."
+      },
+      "body": {
+        "en": "Adeyemi replaced Anthony Gordon as part of a triple change that also brought on Dani Olmo and Marc Bernal. With Levante having reduced the deficit to 3-2, the substitute produced the moment of quality the visitors needed. Official accounts immediately labelled the finish another “banger”.\n\nFlick said after the match that Adeyemi “resolved the game” and that when the forward is focused he is “fantastic”. The coach has known the player for years and continues to use him as an impact option from the bench while the attacking rotation remains deep.",
+        "es": "Adeyemi sustituyó a Anthony Gordon en un triple cambio que también incluyó a Dani Olmo y Marc Bernal. Con el Levante habiendo recortado hasta el 3-2, el suplente produjo el momento de calidad que necesitaban los visitantes. Las cuentas oficiales etiquetaron de inmediato el remate como otro “banger”.\n\nFlick dijo tras el partido que Adeyemi “resolvió el encuentro” y que cuando el delantero está centrado es “fantástico”. El técnico conoce al jugador desde hace años y sigue utilizándolo como opción de impacto desde el banquillo mientras la rotación ofensiva se mantiene profunda."
+      },
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2099175789660930429", "text": "ADEYEMI ONLY SCORES BANGERS 🥶"},
+        {"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2099181314574328117", "text": "Adeyemi’s minutes are pure electricity ⚡"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/adeyemi-frota-lampara-barca-centrado-134245728"},
+        {"label": "ESPN", "url": "https://www.espn.com/soccer/story/_/id/49929329/barcelona-hansi-flick-not-our-best-game-levante-win-laliga"}
+      ]
+    },
+    {
+      "theme": "player",
+      "kicker": {"en": "Espart", "es": "Espart"},
+      "headline": {
+        "en": "Xavi Espart scores first senior goal in 11th competitive appearance",
+        "es": "Xavi Espart marca su primer gol oficial en su 11ª aparición"
+      },
+      "summary": {
+        "en": "Full-back Xavi Espart opened the scoring after five minutes at the Ciutat de València with a deflected shot from inside the box. It was his first competitive goal for Barcelona in his 11th appearance. Flick praised the teenager’s technical, tactical and physical readiness afterwards.",
+        "es": "El lateral Xavi Espart abrió el marcador a los cinco minutos en el Ciutat de València con un disparo desviado desde dentro del área. Fue su primer gol oficial con el Barcelona en su 11ª aparición. Flick elogió después la preparación técnica, táctica y física del adolescente."
+      },
+      "body": {
+        "en": "Espart started at left-back in a rotated side and produced the early breakthrough that set the tone. He was later substituted in the 80th minute after reporting cramps, the delay in that change forming part of Flick’s self-criticism for the first Levante goal.\n\nThe coach said Espart is “playing at a great level” and is physically ready. The goal added another name to the growing list of academy products contributing in the first team under Flick this season.",
+        "es": "Espart arrancó de lateral izquierdo en un once rotado y produjo el primer tanto que marcó el tono del partido. Más tarde fue sustituido en el 80 tras acusar molestias, y el retraso en ese cambio formó parte de la autocrítica de Flick por el primer gol del Levante.\n\nEl técnico afirmó que Espart “está jugando a un gran nivel” y que está preparado físicamente. El gol añadió otro nombre a la lista creciente de canteranos que aportan en el primer equipo con Flick esta temporada."
+      },
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona_es", "id": "2099203960846397870", "text": "Lista de sueños: marcar un gol con el Barça ✅"},
+        {"name": "Samuel Marsden", "handle": "@samuelmarsden", "id": "2099141507047387396", "text": "Espart opens the scoring at Levante"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226757/2-4-barca-sigue-racha-correoso-levante.html"},
+        {"label": "Barca Universal", "url": "https://barcauniversal.com/hansi-flick-talks-xavi-espart-karim-adeyemi-and-anthony-gordon-after-levante-2-4-barcelona/"}
+      ]
+    },
+    {
+      "theme": "table",
+      "kicker": {"en": "LaLiga", "es": "LaLiga"},
+      "headline": {
+        "en": "Barça three points clear after five wins from five",
+        "es": "El Barça, tres puntos por encima tras cinco victorias de cinco"
+      },
+      "summary": {
+        "en": "The win at Levante left Barcelona on 15 points from five matches and three points ahead of Real Madrid. Goal difference stands at +19 for Flick’s side. Barcelona have scored 21 league goals already, continuing the highest-scoring start by any team in recent decades.",
+        "es": "La victoria en Valencia dejó al Barcelona con 15 puntos de cinco partidos y tres de ventaja sobre el Real Madrid. La diferencia de goles se sitúa en +19 para el equipo de Flick. El Barça lleva ya 21 goles en Liga, el arranque más goleador de cualquier equipo en décadas recientes."
+      },
+      "body": {
+        "en": "Real Madrid’s win over Rayo Vallecano on Saturday had temporarily levelled the two clubs on 12 points. Barcelona’s response at the Ciutat de València restored the gap. Only three previous Barcelona sides have begun a season with six straight competitive wins.\n\nThe attacking numbers remain eye-catching. Twenty-six goals in six matches across competitions underline the intensity Flick has demanded since pre-season. The next league fixture will offer another chance to extend the perfect domestic record.",
+        "es": "El triunfo del Real Madrid ante el Rayo Vallecano el sábado había igualado temporalmente a ambos en 12 puntos. La respuesta del Barcelona en el Ciutat de València recuperó la distancia. Solo tres equipos anteriores del club habían comenzado una temporada con seis victorias oficiales seguidas.\n\nLos números ofensivos siguen siendo llamativos. Veintiséis goles en seis partidos en todas las competiciones subrayan la intensidad que Flick ha exigido desde la pretemporada. El próximo partido de Liga ofrecerá otra oportunidad de alargar el pleno doméstico."
+      },
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2099211512598470664", "text": "FLICK’S BARÇA 3.0 🫡"},
+        {"name": "FC Barcelona", "handle": "@FCBarcelona_es", "id": "2099211599781286396", "text": "Seguimos sumando de tres en tres ✅"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"},
+        {"label": "ESPN", "url": "https://www.espn.com/soccer/match/_/gameId/401882883/barcelona-levante"}
+      ]
+    },
+    {
+      "theme": "match",
+      "kicker": {"en": "Reaction", "es": "Reacción"},
+      "headline": {
+        "en": "Levante coach Castro: next time we will try to block out the sun",
+        "es": "Castro, entrenador del Levante: la próxima vez intentaremos tapar el sol"
+      },
+      "summary": {
+        "en": "Luis Castro used irony after the 4-2 defeat to answer complaints from Barcelona players and staff about the pitch and the late pressure. The Portuguese coach said his side had competed until the end and that the home crowd had given everything. SPORT reported the remarks on Sunday evening.",
+        "es": "Luis Castro utilizó la ironía tras el 4-2 para contestar las quejas de jugadores y cuerpo técnico del Barcelona sobre el césped y la presión final. El técnico portugués dijo que su equipo había competido hasta el final y que la afición local lo había dado todo. SPORT recogió las declaraciones el domingo por la noche."
+      },
+      "body": {
+        "en": "Castro’s side recovered from 3-0 down to make the final minutes uncomfortable. Romero and Brugué scored within nine minutes of each other, forcing Barcelona to dig in until Adeyemi’s intervention. The coach’s post-match comments mixed pride in the recovery with a pointed jab at the visitors’ complaints.\n\nFlick had already accepted that the second half was difficult and that Levante had performed well at home. The Portuguese’s line about blocking out the sun was the sharpest note of the evening from the home dressing room.",
+        "es": "El equipo de Castro remontó desde el 0-3 para hacer incómodos los minutos finales. Romero y Brugué marcaron en un intervalo de nueve minutos y obligaron al Barcelona a apretar hasta la intervención de Adeyemi. Los comentarios del técnico mezclaron orgullo por la reacción con un dardo a las quejas de los visitantes.\n\nFlick ya había aceptado que la segunda parte fue difícil y que el Levante había rendido bien en casa. La frase de Castro sobre tapar el sol fue la nota más afilada de la noche desde el vestuario local."
+      },
+      "tweets": [
+        {"name": "Diario SPORT", "handle": "@sport", "id": "2099241710639317293", "text": "🤨El 'palo' de Luis Castro al Barça: \"La próxima vez vamos a intentar tapar el Sol...\""}
+      ],
+      "sources": [
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/palo-luis-castro-barca-proxima-134250500"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226757/2-4-barca-sigue-racha-correoso-levante.html"}
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Rotation", "es": "Rotación"},
+      "headline": {
+        "en": "Flick rotates again: Espart, Gordon and Fariñas start at Levante",
+        "es": "Flick vuelve a rotar: Espart, Gordon y Fariñas titularidad en Valencia"
+      },
+      "summary": {
+        "en": "Hansi Flick made several changes from the midweek Champions League side. Xavi Espart, Anthony Gordon and Brian Fariñas all started at the Ciutat de València. Eric García returned after suspension and wore a protective mask. Frenkie de Jong remained unavailable.",
+        "es": "Hansi Flick introdujo varios cambios respecto al once de Champions. Xavi Espart, Anthony Gordon y Brian Fariñas fueron titulares en el Ciutat de València. Eric García regresó tras la sanción y jugó con máscara protectora. Frenkie de Jong siguió ausente."
+      },
+      "body": {
+        "en": "The starting XI featured Joan García in goal, a back line that included Espart and Eric García, and an attacking group with Gordon and Yamal supporting Raphinha. Pedri and Fermín started in midfield alongside Rodri. The triple change on 66 minutes brought Adeyemi, Olmo and Bernal into the game.\n\nFlick has used the early part of the season to spread minutes across the squad. The coach has repeatedly said the depth allows him to keep intensity high across a congested calendar that already includes Champions League football.",
+        "es": "El once inicial contó con Joan García en la portería, una línea defensiva que incluía a Espart y Eric García, y un grupo ofensivo con Gordon y Yamal apoyando a Raphinha. Pedri y Fermín arrancaron en el centro junto a Rodri. El triple cambio del 66 introdujo a Adeyemi, Olmo y Bernal.\n\nFlick ha aprovechado el tramo inicial de la temporada para repartir minutos. El técnico ha insistido en que la profundidad le permite mantener la intensidad alta en un calendario cargado que ya incluye partidos de Champions."
+      },
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2099163737697435926", "text": "🔄 Triple substitution for Barça | 66’ ↑🟢 Bernal ↑🟢 Olmo ↑🟢 Adeyemi ↓🔴 Pedri ↓🔴 Lamine ↓🔴 Gordon"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260913/1004226757/2-4-barca-sigue-racha-correoso-levante.html"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/barca/"}
+      ]
+    },
+    {
+      "theme": "form",
+      "kicker": {"en": "Attack", "es": "Ataque"},
+      "headline": {
+        "en": "Twenty-six goals in six matches: Barça’s scoring run continues",
+        "es": "Veintiséis goles en seis partidos: la racha goleadora del Barça continúa"
+      },
+      "summary": {
+        "en": "Barcelona have scored 26 times in their first six competitive matches of the season. The total includes five against Feyenoord and four at Levante. Only a handful of previous sides in club history have matched this level of early output under any coach.",
+        "es": "El Barcelona ha marcado 26 veces en sus seis primeros partidos oficiales de la temporada. El total incluye cinco ante el Feyenoord y cuatro en Valencia. Solo unos pocos equipos anteriores en la historia del club han alcanzado este nivel de producción temprana bajo cualquier entrenador."
+      },
+      "body": {
+        "en": "The goals have been shared. Yamal leads the way with seven, Raphinha remains highly involved, and contributions have come from Espart, Adeyemi, Fermín and others. Flick has rotated the front line while maintaining the high-pressing structure that creates the chances.\n\nThe numbers sit alongside the perfect win record. Twenty-six scored and five conceded across six matches give the side a goal difference that already separates them from the rest of LaLiga. The coach continues to stress that the intensity must not drop.",
+        "es": "Los goles se han repartido. Yamal lidera con siete, Raphinha sigue muy involucrado y han llegado aportaciones de Espart, Adeyemi, Fermín y otros. Flick ha rotado la delantera manteniendo la estructura de presión alta que genera las ocasiones.\n\nLos números acompañan el pleno de victorias. Veintiséis a favor y cinco en contra en seis partidos dan una diferencia de goles que ya separa al equipo del resto de LaLiga. El técnico sigue insistiendo en que la intensidad no puede bajar."
+      },
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2099211512598470664", "text": "FLICK’S BARÇA 3.0 🫡"},
+        {"name": "FC Barcelona", "handle": "@FCBarcelona_es", "id": "2099241786241692099", "text": "1929/30, 1960/61, 2018/19 y... 𝟮𝟬𝟮𝟲/𝟮𝟳"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"},
+        {"label": "ESPN", "url": "https://www.espn.com/soccer/match/_/gameId/401882883/barcelona-levante"}
+      ]
+    }
+  ]
+}
