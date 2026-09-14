@@ -1,1 +1,48 @@
-{"number": 254, "date": "2026-09-15", "label": "Tuesday 15 Sep 2026", "title": {"en": "Yamal stakes Ballon d\u2019Or claim; Garcia wants all-Bar\u00e7a podium; Racing on Wednesday", "es": "Yamal se postula al Bal\u00f3n de Oro; Garc\u00eda pide podio blaugrana; Racing el mi\u00e9rcoles"}, "deck": {"en": "Lamine Yamal told Universo Valdano he and Mbapp\u00e9 are the two best players in the world and that the Ballon d\u2019Or should be his this year. Eric Garcia said the podium should be all Barcelona. Anthony Gordon spoke of an incredible start and the squad trained at the Ciutat Esportiva before Racing Santander on Wednesday.", "es": "Lamine Yamal dijo en Universo Valdano que \u00e9l y Mbapp\u00e9 son los dos mejores del mundo y que el Bal\u00f3n de Oro le corresponder\u00eda este a\u00f1o. Eric Garcia afirm\u00f3 que el podio deber\u00eda ser todo del Barcelona. Anthony Gordon habl\u00f3 de un inicio incre\u00edble y la plantilla entren\u00f3 en la Ciutat Esportiva antes del Racing de Santander del mi\u00e9rcoles."}, "defaultSources": [{"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"}, {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"}, {"label": "SPORT", "url": "https://www.sport.es/es/barca/"}, {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona.html"}, {"label": "AS", "url": "https://as.com/futbol/barcelona/"}, {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}], "stories": []}
+{
+  "number": 254,
+  "date": "2026-09-15",
+  "label": "Tuesday 15 Sep 2026",
+  "title": {
+    "en": "Yamal stakes Ballon d’Or claim; Garcia wants all-Barça podium; Racing on Wednesday",
+    "es": "Yamal se postula al Balón de Oro; García pide podio blaugrana; Racing el miércoles"
+  },
+  "deck": {
+    "en": "Lamine Yamal told Universo Valdano he and Mbappé are the two best players in the world and that the Ballon d’Or should be his this year. Eric Garcia said the podium should be all Barcelona. Anthony Gordon spoke of an incredible start and the squad trained at the Ciutat Esportiva before Racing Santander on Wednesday.",
+    "es": "Lamine Yamal dijo en Universo Valdano que él y Mbappé son los dos mejores del mundo y que el Balón de Oro le correspondería este año. Eric Garcia afirmó que el podio debería ser todo del Barcelona. Anthony Gordon habló de un inicio increíble y la plantilla entrenó en la Ciutat Esportiva antes del Racing de Santander del miércoles."
+  },
+  "defaultSources": [
+    {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+    {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"},
+    {"label": "SPORT", "url": "https://www.sport.es/es/barca/"},
+    {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona.html"},
+    {"label": "AS", "url": "https://as.com/futbol/barcelona/"},
+    {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
+  ],
+  "stories": [
+    {
+      "theme": "player",
+      "kicker": {"en": "Ballon d’Or", "es": "Balón de Oro"},
+      "headline": {
+        "en": "Yamal: Mbappé and I are the two best, this year the Ballon d’Or should be mine",
+        "es": "Yamal: Mbappé y yo somos los dos mejores, este año el Balón de Oro me correspondería"
+      },
+      "summary": {
+        "en": "In an advance of his Universo Valdano interview, due to air on 18 September, Lamine Yamal said he and Kylian Mbappé are the two best players in the world and that the titles won with Spain and Barcelona mean the Ballon d’Or should go to him this year. Mundo Deportivo, El País and La Vanguardia all carried the quotes on Monday.",
+        "es": "En un avance de su entrevista en Universo Valdano, prevista para el 18 de septiembre, Lamine Yamal afirmó que él y Kylian Mbappé son los dos mejores jugadores del mundo y que los títulos con España y el Barcelona hacen que el Balón de Oro le corresponda este año. Mundo Deportivo, El País y La Vanguardia recogieron las declaraciones el lunes."
+      },
+      "body": {
+        "en": "Yamal scored twice at Levante on Sunday to move level with Raphinha, Mbappé and Camello on six league goals. The teenager already has seven goals in all competitions and has scored in four consecutive matches. He framed the Ballon d’Or race as a duel with the Real Madrid forward while pointing to the silverware collected in the past twelve months.\n\nThe full interview is scheduled for Movistar+ on 18 September at 21:00. Club channels and Spanish sports desks treated the comments as the clearest public claim yet from the 19-year-old.",
+        "es": "Yamal marcó dos veces ante el Levante el domingo y se igualó con Raphinha, Mbappé y Camello a seis goles en Liga. El adolescente suma ya siete en todas las competiciones y ha marcado en cuatro partidos seguidos. Presentó la carrera por el Balón de Oro como un duelo con el delantero del Real Madrid y señaló los títulos logrados en los últimos doce meses.\n\nLa entrevista completa se emitirá en Movistar+ el 18 de septiembre a las 21:00. Los canales del club y las redacciones deportivas trataron las declaraciones como la reivindicación pública más clara del futbolista de 19 años."
+      },
+      "tweets": [
+        {"name": "Mundo Deportivo", "handle": "@mundodeportivo", "id": "2099601293106946375", "text": "🎙️ Mendes: \"El Balón de Oro es para Lamine, es el mejor con mucha diferencia\""},
+        {"name": "FC Barcelona", "handle": "@FCBarcelona_es", "id": "2099543701857165423", "text": "📈 Lamine Yamal ha igualado unos registros que solo había conseguido Leo Messi en todo el siglo XXI en la Liga"}
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260914/1004226919/lamine-mbappe-dos-mejores-creo-balon-oro-me-mereceria.html"},
+        {"label": "El País", "url": "https://elpais.com/deportes/futbol/2026-09-14/lamine-yamal-desafia-a-mbappe-en-la-carrera-por-el-balon-de-oro-este-ano-me-lo-mereceria-yo.html"},
+        {"label": "La Vanguardia", "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260914/11634039/lamine-yamal-ano-merezco-balon-oro.html"}
+      ]
+    }
+  ]
+}
