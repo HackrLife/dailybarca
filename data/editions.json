@@ -1,6 +1,14 @@
 {
   "editions": [
     {
+      "number": 255,
+      "date": "2026-09-16",
+      "label": "Wednesday 16 Sep 2026",
+      "file": "2026-09-16.json",
+      "tweets": 12,
+      "lead": "Camp Nou hosts 2029 CL final; Hamza to 2030; Racing at 21:30"
+    },
+    {
       "number": 254,
       "date": "2026-09-15",
       "label": "Tuesday 15 Sep 2026",
