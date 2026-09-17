@@ -1,0 +1,2227 @@
+{
+  "date": "2026-09-17",
+  "generated_at": "2026-09-17T09:29:37.769222+00:00",
+  "source_pool": 50,
+  "articles_kept": 230,
+  "clusters": 180,
+  "failed_sources": [
+    "UEFA – Barcelona",
+    "LaLiga – Barcelona",
+    "Reuters",
+    "Associated Press",
+    "ESPN",
+    "Sky Sports",
+    "Sports Illustrated",
+    "The Independent",
+    "Goal",
+    "Football España",
+    "Get Spanish Football News",
+    "Barça News Network",
+    "Everything Barça",
+    "SPORT",
+    "Esport3",
+    "RAC1",
+    "Cadena SER",
+    "AS",
+    "Relevo",
+    "El Periódico",
+    "El Nacional",
+    "Món Esport",
+    "Onda Cero",
+    "COPE",
+    "FotMob",
+    "Sofascore",
+    "FBref",
+    "WhoScored",
+    "Transfermarkt",
+    "OneFootball",
+    "LiveScore"
+  ],
+  "stories": [
+    {
+      "headline": "Barcelona vs Racing de Santander",
+      "summary": "Barcelona vs Racing de Santander",
+      "source_count": 3,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "CBS Sports",
+          "url": "https://www.cbssports.com/watch/la-liga/video/barcelona-vs-racing-santander-la-liga-match-highlights-916-scoreline?ftag=CBS-16-10aci9g",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/how-to-watch-barcelona-vs-racing-santander-tv-live-stream-9-16-26",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/adeyemi-cancelo-start-in-a-4-3-3-how-barcelona-can-line-up-against-racing-santander/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 11,
+          "source": "CBS Sports",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona vs Racing de Santander",
+          "url": "https://www.cbssports.com/watch/la-liga/video/barcelona-vs-racing-santander-la-liga-match-highlights-916-scoreline?ftag=CBS-16-10aci9g",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "How to Watch Barcelona vs. Racing Santander on TV, Live Stream",
+          "url": "https://www.si.com/soccer/how-to-watch-barcelona-vs-racing-santander-tv-live-stream-9-16-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Adeyemi, Cancelo start in a 4-3-3: How Barcelona can line up against Racing Santander",
+          "url": "https://barcauniversal.com/adeyemi-cancelo-start-in-a-4-3-3-how-barcelona-can-line-up-against-racing-santander/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Eric, Bernal start in a 4-2-3-1: How Barcelona can line up against Levante",
+          "url": "https://barcauniversal.com/eric-bernal-start-in-a-4-2-3-1-how-barcelona-can-line-up-against-levante/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "La final de la Champions en el Camp Nou, mejor que un Balón de Oro La final de la Champions en el Camp Nou, mejor que un Balón de Oro",
+      "summary": "La final de la Champions en el Camp Nou, mejor que un Balón de Oro La final de la Champions en el Camp Nou, mejor que un Balón de Oro",
+      "source_count": 3,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260915/11635677/final-champions-camp-nou-mejor-balon-oro.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260915/11635677/final-champions-camp-nou-mejor-balon-oro.html",
+          "tier": "national"
+        },
+        {
+          "name": "Culemanía",
+          "url": "https://cronicaglobal.elespanol.com/culemania/palco/20260915/nuevo-barca-laporta-champions-spotify-camp-nou/1003742794395_0.html",
+          "tier": "specialist"
+        },
+        {
+          "name": "FC Barcelona Noticias",
+          "url": "https://www.fcbarcelonanoticias.com/el-spotify-camp-nou-se-pide-la-vez-el-barca-quiere-organizar-la-final-de-la-champions-en-2029/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "La final de la Champions en el Camp Nou, mejor que un Balón de Oro La final de la Champions en el Camp Nou, mejor que un Balón de Oro",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260915/11635677/final-champions-camp-nou-mejor-balon-oro.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260915/11635677/final-champions-camp-nou-mejor-balon-oro.html",
+          "summary": "",
+          "published": "15 Sep 2026 18:56:06 +020015 Sep 2026 18:56:06 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "La UEFA escoge el Spotify Camp Nou como sede de la final de la Champions League de 2029 La UEFA escoge el Spotify Camp Nou como sede de la final de la Champions League de 2029",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260915/11635225/spotify-camp-nou-uefa-champions-league-fnal-champions-2029.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260915/11635225/spotify-camp-nou-uefa-champions-league-fnal-champions-2029.html",
+          "summary": "El estadio del Barça acogerá por tercera vez el partido más importante de Europa El estadio del Barça acogerá por tercera vez el partido más importante de Europa",
+          "published": "15 Sep 2026 11:26:21 +020015 Sep 2026 11:26:21 +0200"
+        },
+        {
+          "source_id": 39,
+          "source": "Culemanía",
+          "tier": "specialist",
+          "lang": [
+            "es"
+          ],
+          "title": "Nuevo éxito del Barça de Laporta: la final de la Champions de 2029 se disputará en el Spotify Camp Nou",
+          "url": "https://cronicaglobal.elespanol.com/culemania/palco/20260915/nuevo-barca-laporta-champions-spotify-camp-nou/1003742794395_0.html",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "El Spotify Camp Nou se pide la vez: el Barça quiere organizar la final de la Champions en 2029",
+          "url": "https://www.fcbarcelonanoticias.com/el-spotify-camp-nou-se-pide-la-vez-el-barca-quiere-organizar-la-final-de-la-champions-en-2029/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Raphinha hat-trick as Barcelona hit seven past Racing SantanderRaphinha hat-trick as Barcelona hit seven past Racing Santander",
+      "summary": "Raphinha scores a hat-trick to help Barcelona thrash Racing Santander 7-2 to maintain their perfect start to the La Liga season, with the defending champions top of the table after six wins.Raphinha scores a hat-trick to help Barcelona thrash Racing Santander 7-2 to maintain their perfect start to the La Liga season, with the defending champions top of the table after six wins.",
+      "source_count": 3,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqy8zgxpp3dko?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/videos/cqy8zgxpp3dko?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        },
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/16/raphinha-hat-trick-santander-barcelona-hit-seven-atletico-madridhttps://www.theguardian.com/football/2026/sep/16/raphinha-hat-trick-santander-barcelona-hit-seven-atletico-madrid",
+          "tier": "major"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132586/barcelona-racing-santander-la-liga-final-score-match-report-recap-reactions",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Raphinha hat-trick as Barcelona hit seven past Racing SantanderRaphinha hat-trick as Barcelona hit seven past Racing Santander",
+          "url": "https://www.bbc.co.uk/sport/football/videos/cqy8zgxpp3dko?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/videos/cqy8zgxpp3dko?at_medium=RSS&at_campaign=rss",
+          "summary": "Raphinha scores a hat-trick to help Barcelona thrash Racing Santander 7-2 to maintain their perfect start to the La Liga season, with the defending champions top of the table after six wins.Raphinha scores a hat-trick to help Barcelona thrash Racing Santander 7-2 to maintain their perfect start to the La Liga season, with the defending champions top of the table after six wins.",
+          "published": "Thu, 17 Sep 2026 09:08:49 GMTThu, 17 Sep 2026 09:08:49 GMT"
+        },
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Raphinha cashes in against Santander with hat-trick as Barça hit sevenRaphinha cashes in against Santander with hat-trick as Barça hit seven",
+          "url": "https://www.theguardian.com/football/2026/sep/16/raphinha-hat-trick-santander-barcelona-hit-seven-atletico-madridhttps://www.theguardian.com/football/2026/sep/16/raphinha-hat-trick-santander-barcelona-hit-seven-atletico-madrid",
+          "summary": "Cancelo, Jesus and Lamine Yamal also score in rout Atlético Madrid thrash Osasuna 4-0 to move into third Raphinha scored a hat-trick as Barcelona ripped Racing Santander to shreds in a spectacular 7-2 triumph in La Liga on Wednesday. The win makes Hansi Flick the club’s first manager to win ⁠the opening seven competitive matches of a season. João Cancelo, Gabriel Jesus and Lamine Yamal also scored",
+          "published": "Wed, 16 Sep 2026 22:10:33 GMTWed, 16 Sep 2026 22:10:33 GMT"
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona 7-2 Racing Santander: Raphinha scores hat-trick as La Liga leaders run riotBarcelona 7-2 Racing Santander: Raphinha scores hat-trick as La Liga leaders run riot",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132586/barcelona-racing-santander-la-liga-final-score-match-report-recap-reactions",
+          "summary": "Barcelona remain perfect to begin the season and have made it six wins out of six in La Liga thanks to a very entertaining 7-2 victory at home to Racing Santander on Wednesday night. The Blaugrana produced another brilliant attacking display, and Raphinha’s hat-trick along with two spectacular goals from João Cancelo and one each […]Barcelona remain perfect to begin the season and have made it six",
+          "published": "2026-09-16T17:33:16-04:002026-09-16T17:33:16-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "Raphinha equals Lionel Messi record as Barcelona make perfect La Liga start",
+      "summary": "Raphinha equals Lionel Messi record as Barcelona make perfect La Liga start",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.planetfootball.com/barcelona/raphinha-equals-lionel-messi-record-barcelona-2026#new_tab",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/barcelona-captain-raphinha-matches-lionel-messis-record-after-stunning-start-to-2026-27-season/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Raphinha equals Lionel Messi record as Barcelona make perfect La Liga start",
+          "url": "https://www.planetfootball.com/barcelona/raphinha-equals-lionel-messi-record-barcelona-2026#new_tab",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Anthony Gordon equals Lionel Messi record in incredible start to Barcelona career",
+          "url": "https://www.planetfootball.com/barcelona/anthony-gordon-equals-lionel-messi-record-barcelona-career#new_tab",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona captain Raphinha matches Lionel Messi’s record after stunning start to 2026/27 season",
+          "url": "https://barcauniversal.com/barcelona-captain-raphinha-matches-lionel-messis-record-after-stunning-start-to-2026-27-season/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona - Racing de Santander | Resultado, resumen, goles y clasificación de LaLiga EA Sports de fútbol: Primera división Barcelona - Racing de Santander | Resultado, resumen, goles y clasificación de LaLiga EA Sports de fútbol: Primera división",
+      "summary": "Barcelona - Racing de Santander | Resultado, resumen, goles y clasificación de LaLiga EA Sports de fútbol: Primera división Barcelona - Racing de Santander | Resultado, resumen, goles y clasificación de LaLiga EA Sports de fútbol: Primera división",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004226147/fc-barcelona-racing-santander-directo-laliga-ea-sports-primera-division-jornada-6.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004226147/fc-barcelona-racing-santander-directo-laliga-ea-sports-primera-division-jornada-6.html",
+          "tier": "local"
+        },
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260916/24497/fc-barcelona-racing-laliga-primera-division-ca-en-directo-ctx.htmlhttps://www.lavanguardia.com/deportes/futbol/20260916/24497/fc-barcelona-racing-laliga-primera-division-ca-en-directo-ctx.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Barcelona - Racing de Santander | Resultado, resumen, goles y clasificación de LaLiga EA Sports de fútbol: Primera división Barcelona - Racing de Santander | Resultado, resumen, goles y clasificación de LaLiga EA Sports de fútbol: Primera división",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004226147/fc-barcelona-racing-santander-directo-laliga-ea-sports-primera-division-jornada-6.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004226147/fc-barcelona-racing-santander-directo-laliga-ea-sports-primera-division-jornada-6.html",
+          "summary": "",
+          "published": "16 Sep 2026 23:37:46 +020016 Sep 2026 23:37:46 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "FC Barcelona – Racing el partido de fútbol de Jornada 6 de LaLiga EA Sports, en directo FC Barcelona – Racing el partido de fútbol de Jornada 6 de LaLiga EA Sports, en directo",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260916/24497/fc-barcelona-racing-laliga-primera-division-ca-en-directo-ctx.htmlhttps://www.lavanguardia.com/deportes/futbol/20260916/24497/fc-barcelona-racing-laliga-primera-division-ca-en-directo-ctx.html",
+          "summary": "Sigue en directo el partido de fútbol de LaLiga EA Sports entre FC Barcelona y Racing Sigue en directo el partido de fútbol de LaLiga EA Sports entre FC Barcelona y Racing",
+          "published": "16 Sep 2026 21:00:00 +020016 Sep 2026 21:00:00 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Barcelona 7-2 Racing, en directo | Resultado, goles, declaraciones y la última hora del partido de La Liga EA Sports Barcelona 7-2 Racing, en directo | Resultado, goles, declaraciones y la última hora del partido de La Liga EA Sports",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260916/11636540/barcelona-racing-laliga-ea-sports-partido-futbol-hoy-en-directo.htmlhttps://www.lavanguardia.com/deportes/futbol/20260916/11636540/barcelona-racing-laliga-ea-sports-partido-futbol-hoy-en-directo.html",
+          "summary": "Revive el directo del Barcelona - Racing, correspondiente a la 8ª jornada de La Liga EA Sports Revive el directo del Barcelona - Racing, correspondiente a la 8ª jornada de La Liga EA Sports",
+          "published": "16 Sep 2026 19:58:08 +020016 Sep 2026 19:58:08 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona vs. Racing Santander: Preview, Predictions and Lineups These two teams meet for the first time in La Liga since 2011.",
+      "summary": "Barcelona vs. Racing Santander: Preview, Predictions and Lineups These two teams meet for the first time in La Liga since 2011.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "FOX Sports",
+          "url": "https://www.si.com/soccer/barcelona-vs-racing-santander-preview-predictions-lineups-9-16-26",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-vs-racing-santander-preview-predictions-lineups-9-16-26",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 12,
+          "source": "FOX Sports",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona vs. Racing Santander: Preview, Predictions and Lineups These two teams meet for the first time in La Liga since 2011.",
+          "url": "https://www.si.com/soccer/barcelona-vs-racing-santander-preview-predictions-lineups-9-16-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona vs. Racing Santander: Preview, Predictions and Lineups",
+          "url": "https://www.si.com/soccer/barcelona-vs-racing-santander-preview-predictions-lineups-9-16-26",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Three Takeaways From Barcelona's Sloppy Win Against Levante Barcelona’s successful start to their La Liga title defense continued on Sunday.",
+      "summary": "Three Takeaways From Barcelona's Sloppy Win Against Levante Barcelona’s successful start to their La Liga title defense continued on Sunday.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "FOX Sports",
+          "url": "https://www.si.com/soccer/three-takeaways-barcelona-sloppy-win-levante",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/three-takeaways-barcelona-sloppy-win-levante",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 12,
+          "source": "FOX Sports",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Three Takeaways From Barcelona's Sloppy Win Against Levante Barcelona’s successful start to their La Liga title defense continued on Sunday.",
+          "url": "https://www.si.com/soccer/three-takeaways-barcelona-sloppy-win-levante",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Three Takeaways From Barcelona’s Sloppy Win Against Levante",
+          "url": "https://www.si.com/soccer/three-takeaways-barcelona-sloppy-win-levante",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Player Ratings vs. Levante: Lamine Yamal Matches Thrilling Lionel Messi Feat La Blaugrana stay three points clear in La Liga with latest high-scoring win.",
+      "summary": "Barcelona Player Ratings vs. Levante: Lamine Yamal Matches Thrilling Lionel Messi Feat La Blaugrana stay three points clear in La Liga with latest high-scoring win.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "FOX Sports",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-levante-9-13-26",
+          "tier": "major"
+        },
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-levante-9-13-26",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 12,
+          "source": "FOX Sports",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Player Ratings vs. Levante: Lamine Yamal Matches Thrilling Lionel Messi Feat La Blaugrana stay three points clear in La Liga with latest high-scoring win.",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-levante-9-13-26",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Player Ratings vs. Levante: Lamine Yamal Matches Thrilling Lionel Messi Feat",
+          "url": "https://www.si.com/soccer/barcelona-player-ratings-vs-levante-9-13-26",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "barcauniversal.com • 11h Cancelo Goes OFF vs. Racing Player ratings are in for 7-2 mauling 📲",
+      "summary": "barcauniversal.com • 11h Cancelo Goes OFF vs. Racing Player ratings are in for 7-2 mauling 📲",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://barcauniversal.com/raphinha-10-cancelo-9-barcelona-7-2-racing-club-player-ratings/?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/raphinha-10-cancelo-9-barcelona-7-2-racing-club-player-ratings/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "barcauniversal.com • 11h Cancelo Goes OFF vs. Racing Player ratings are in for 7-2 mauling 📲",
+          "url": "https://barcauniversal.com/raphinha-10-cancelo-9-barcelona-7-2-racing-club-player-ratings/?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Raphinha 10, Cancelo 9 | Barcelona 7-2 Racing Club: Player Ratings",
+          "url": "https://barcauniversal.com/raphinha-10-cancelo-9-barcelona-7-2-racing-club-player-ratings/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 15m ‘Best goal of my career’ - Joao Cancelo thrilled by stunner for Barcelona vs Racing The defender scored a memorable opener at Camp Nou.",
+      "summary": "www.barcablaugranes.com • 15m ‘Best goal of my career’ - Joao Cancelo thrilled by stunner for Barcelona vs Racing The defender scored a memorable opener at Camp Nou.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132670/best-goal-career-joao-cancelo-stunner-racing?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132670/best-goal-career-joao-cancelo-stunner-racing",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 15m ‘Best goal of my career’ - Joao Cancelo thrilled by stunner for Barcelona vs Racing The defender scored a memorable opener at Camp Nou.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132670/best-goal-career-joao-cancelo-stunner-racing?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘Best goal of my career’ – Joao Cancelo thrilled by stunner for Barcelona vs Racing‘Best goal of my career’ – Joao Cancelo thrilled by stunner for Barcelona vs Racing",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132670/best-goal-career-joao-cancelo-stunner-racing",
+          "summary": "Joao Cancelo was back in the starting XI for Barcelona on Wednesday night in La Liga and back in the goals for Barcelona in their 7-2 win. The Portugal international’s first goal came after just eight minutes and was an absolute stunner as he found the top corner from range. Cancelo admitted afterwards it’s the […]Joao Cancelo was back in the starting XI for Barcelona on Wednesday night in La Liga",
+          "published": "2026-09-17T04:00:00-04:002026-09-17T04:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 3h World Cup Final should be at Barcelona’s Camp Nou, says Joan Laporta The president wants the team’s stadium to host the showpiece event in 2030.",
+      "summary": "www.barcablaugranes.com • 3h World Cup Final should be at Barcelona’s Camp Nou, says Joan Laporta The president wants the team’s stadium to host the showpiece event in 2030.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/132606/world-cup-final-camp-nou-joan-laporta?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/132606/world-cup-final-camp-nou-joan-laporta",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 3h World Cup Final should be at Barcelona’s Camp Nou, says Joan Laporta The president wants the team’s stadium to host the showpiece event in 2030.",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/132606/world-cup-final-camp-nou-joan-laporta?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "World Cup Final should be at Barcelona’s Camp Nou, says Joan LaportaWorld Cup Final should be at Barcelona’s Camp Nou, says Joan Laporta",
+          "url": "https://www.barcablaugranes.com/barcelona-internationals/132606/world-cup-final-camp-nou-joan-laporta",
+          "summary": "“It shouldn’t be Casablanca or Madrid; it should be the Spotify Camp Nou.” That’s how FC Barcelona’s president, Joan Laporta, put it, in an interview with Spanish radio. He wants the FIFA World Cup final to be played at Barcelona’s refurbished home, urging football’s governing body to pass over Madrid, Spain’s capital, and Casablanca, Morocco’s […]“It shouldn’t be Casablanca or Madrid; it should b",
+          "published": "2026-09-17T01:00:00-04:002026-09-17T01:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 5h No striker, no problem: Barcelona have scored five or more goals in five out of seven games so far this season Hansi Flick’s side are on fire.",
+      "summary": "www.barcablaugranes.com • 5h No striker, no problem: Barcelona have scored five or more goals in five out of seven games so far this season Hansi Flick’s side are on fire.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132633/no-striker-no-problem-score-five-goals-five-seven?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132633/no-striker-no-problem-score-five-goals-five-seven",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 5h No striker, no problem: Barcelona have scored five or more goals in five out of seven games so far this season Hansi Flick’s side are on fire.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132633/no-striker-no-problem-score-five-goals-five-seven?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "No striker, no problem: Barcelona have scored five or more goals in five out of seven games so far this seasonNo striker, no problem: Barcelona have scored five or more goals in five out of seven games so far this season",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132633/no-striker-no-problem-score-five-goals-five-seven",
+          "summary": "FC Barcelona spent the summer fretting who their starting striker would be after letting Robert Lewandowski and Ferran Torres, the top two strikers from last season, go. They chased Atlético Madrid’s Julián Alvarez through the entire transfer window to no avail. And yet, Barça cannot stop scoring. They once again put more than five goals […]FC Barcelona spent the summer fretting who their starting",
+          "published": "2026-09-16T23:00:00-04:002026-09-16T23:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 6h ‘We always want more’ - Raphinha says Barcelona players hungry for goals after seven-goal haul The Catalans are scoring for fun right now.",
+      "summary": "www.barcablaugranes.com • 6h ‘We always want more’ - Raphinha says Barcelona players hungry for goals after seven-goal haul The Catalans are scoring for fun right now.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132631/raphinha-players-hungry-for-goals-after-seven-goal-haul?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132631/raphinha-players-hungry-for-goals-after-seven-goal-haul",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 6h ‘We always want more’ - Raphinha says Barcelona players hungry for goals after seven-goal haul The Catalans are scoring for fun right now.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132631/raphinha-players-hungry-for-goals-after-seven-goal-haul?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘We always want more’ – Raphinha says Barcelona players hungry for goals after seven-goal haul‘We always want more’ – Raphinha says Barcelona players hungry for goals after seven-goal haul",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132631/raphinha-players-hungry-for-goals-after-seven-goal-haul",
+          "summary": "Raphinha bagged a hat-trick on Wednesday night as Barcelona ran out 7-2 winners against Racing in La Liga at Camp Nou. Joao Cancelo was also on target with a brilliant brace, while Lamine Yamal and Gabriel Jesus also scored for Hansi Flick’s side. Barca have now found the back of the net 28 times in […]Raphinha bagged a hat-trick on Wednesday night as Barcelona ran out 7-2 winners against Racing i",
+          "published": "2026-09-16T21:00:00-04:002026-09-16T21:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 8h Three talking points from Barcelona 7-2 Racing as Raphinha and Karim Adeyemi dazzle Another opponent swept aside by the champions.",
+      "summary": "www.barcablaugranes.com • 8h Three talking points from Barcelona 7-2 Racing as Raphinha and Karim Adeyemi dazzle Another opponent swept aside by the champions.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132578/three-talking-points-racing-raphinha-karim-adeyemi?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132578/three-talking-points-racing-raphinha-karim-adeyemi",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 8h Three talking points from Barcelona 7-2 Racing as Raphinha and Karim Adeyemi dazzle Another opponent swept aside by the champions.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132578/three-talking-points-racing-raphinha-karim-adeyemi?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Three talking points from Barcelona 7-2 Racing as Raphinha and Karim Adeyemi dazzleThree talking points from Barcelona 7-2 Racing as Raphinha and Karim Adeyemi dazzle",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132578/three-talking-points-racing-raphinha-karim-adeyemi",
+          "summary": "Barcelona romped to another big victory on Wednesday night in La Liga as Hansi Flick’s side put on another thrilling attacking show to beat Racing 7-2 and maintain their perfect start to the new campaign. Let’s take a look at three talking points from the match… Joao Cancelo gives Hansi Flick food for thought On […]Barcelona romped to another big victory on Wednesday night in La Liga as Hansi Flic",
+          "published": "2026-09-16T19:00:00-04:002026-09-16T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 10h Electric Karim Adeyemi brings the fun to Camp Nou as Barcelona overwhelm Racing The summer signing was the pick of the bunch.",
+      "summary": "www.barcablaugranes.com • 10h Electric Karim Adeyemi brings the fun to Camp Nou as Barcelona overwhelm Racing The summer signing was the pick of the bunch.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132629/electric-karim-adeyemi-fun-racing?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132629/electric-karim-adeyemi-fun-racing",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 10h Electric Karim Adeyemi brings the fun to Camp Nou as Barcelona overwhelm Racing The summer signing was the pick of the bunch.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132629/electric-karim-adeyemi-fun-racing?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Electric Karim Adeyemi brings the fun to Camp Nou as Barcelona overwhelm RacingElectric Karim Adeyemi brings the fun to Camp Nou as Barcelona overwhelm Racing",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/132629/electric-karim-adeyemi-fun-racing",
+          "summary": "Football is supposed to be fun. When it looks effortless, that’s when you know you’re a great team. Barcelona aren’t just playing the game at the moment, they are in a true flow state. It’s starting to look like, for the first time in a long time, an actual manifestation of Johan Cruyff’s dream of […]Football is supposed to be fun. When it looks effortless, that’s when you know you’re a great team",
+          "published": "2026-09-16T18:20:53-04:002026-09-16T18:20:53-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 10h Hansi Flick offers update on Joan Garcia injury after Barcelona thrash Racing The goalkeeper will now undergo tests.",
+      "summary": "www.barcablaugranes.com • 10h Hansi Flick offers update on Joan Garcia injury after Barcelona thrash Racing The goalkeeper will now undergo tests.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/132642/hansi-flick-update-joan-garcia-injury?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/132642/hansi-flick-update-joan-garcia-injury",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 10h Hansi Flick offers update on Joan Garcia injury after Barcelona thrash Racing The goalkeeper will now undergo tests.",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/132642/hansi-flick-update-joan-garcia-injury?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Hansi Flick offers update on Joan Garcia injury after Barcelona thrash RacingHansi Flick offers update on Joan Garcia injury after Barcelona thrash Racing",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/132642/hansi-flick-update-joan-garcia-injury",
+          "summary": "Barcelona boss Hansi Flick says that Joan Garcia picked up a knee injury during Wednesday’s 7-2 win over Racing in La Liga. Garcia seemed to slip at the end of the first half and was replaced by Wojciech Szczęsny for the second half of the match at Camp Nou. Flick was asked about his stopper […]Barcelona boss Hansi Flick says that Joan Garcia picked up a knee injury during Wednesday’s 7-2 win over",
+          "published": "2026-09-16T18:00:25-04:002026-09-16T18:00:25-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "Gabriel Jesus aprovecha los minutos a lo grande Gabriel Jesus aprovecha los minutos a lo grande",
+      "summary": "Si hay un jugador que sabe aprovechar los minutos en este Barça , es Gabriel Jesus. Le ha bastado poco más de media hora para anotar dos goles. De los cuatro partidos que ha podido jugar desde su llegada, el delantero brasileño ha intervenido en tres, anotando un gol en la Champions League ante el Feyenoord y estrenándose ante el Racing. Si hay un jugador que sabe aprovechar los minutos en este Ba",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228209/gabriel-jesus-aprovecha-minutos-2-goles-37.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228209/gabriel-jesus-aprovecha-minutos-2-goles-37.html",
+          "tier": "local"
+        },
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/20260917/11636817/minutos-gavi-gabriel-jesus.htmlhttps://www.lavanguardia.com/deportes/20260917/11636817/minutos-gavi-gabriel-jesus.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Gabriel Jesus aprovecha los minutos a lo grande Gabriel Jesus aprovecha los minutos a lo grande",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228209/gabriel-jesus-aprovecha-minutos-2-goles-37.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228209/gabriel-jesus-aprovecha-minutos-2-goles-37.html",
+          "summary": "Si hay un jugador que sabe aprovechar los minutos en este Barça , es Gabriel Jesus. Le ha bastado poco más de media hora para anotar dos goles. De los cuatro partidos que ha podido jugar desde su llegada, el delantero brasileño ha intervenido en tres, anotando un gol en la Champions League ante el Feyenoord y estrenándose ante el Racing. Si hay un jugador que sabe aprovechar los minutos en este Ba",
+          "published": "16 Sep 2026 23:40:03 +020016 Sep 2026 23:40:03 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Minutos de Gavi y Gabriel Jesus Minutos de Gavi y Gabriel Jesus",
+          "url": "https://www.lavanguardia.com/deportes/20260917/11636817/minutos-gavi-gabriel-jesus.htmlhttps://www.lavanguardia.com/deportes/20260917/11636817/minutos-gavi-gabriel-jesus.html",
+          "summary": "",
+          "published": "17 Sep 2026 01:08:57 +020017 Sep 2026 01:08:57 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "El 1x1 del Barça ante el Racing El 1x1 del Barça ante el Racing",
+      "summary": "El 1x1 del Barça ante el Racing El 1x1 del Barça ante el Racing",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228124/1x1-barca-racing.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228124/1x1-barca-racing.html",
+          "tier": "local"
+        },
+        {
+          "name": "ARA",
+          "url": "https://www.ara.cat/esports/barca/lliga-directe-barca-racing_26_5851997.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "El 1x1 del Barça ante el Racing El 1x1 del Barça ante el Racing",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228124/1x1-barca-racing.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260916/1004228124/1x1-barca-racing.html",
+          "summary": "",
+          "published": "16 Sep 2026 23:37:26 +020016 Sep 2026 23:37:26 +0200"
+        },
+        {
+          "source_id": 32,
+          "source": "ARA",
+          "tier": "national",
+          "lang": [
+            "ca"
+          ],
+          "title": "La Lliga en directe: Barça - Racing",
+          "url": "https://www.ara.cat/esports/barca/lliga-directe-barca-racing_26_5851997.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "BARÇABARÇA",
+      "summary": "El alemán dio una asistencia, provocó dos penaltis y fue un dolor de cabeza para la zaga rivalEl alemán dio una asistencia, provocó dos penaltis y fue un dolor de cabeza para la zaga rival",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/17/adeyemi-seduce-spotify-camp-nou-numeros-espectaculares.htmlhttps://www.marca.com/futbol/barcelona/2026/09/17/adeyemi-seduce-spotify-camp-nou-numeros-espectaculares.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/17/adeyemi-seduce-spotify-camp-nou-numeros-espectaculares.htmlhttps://www.marca.com/futbol/barcelona/2026/09/17/adeyemi-seduce-spotify-camp-nou-numeros-espectaculares.html",
+          "summary": "El alemán dio una asistencia, provocó dos penaltis y fue un dolor de cabeza para la zaga rivalEl alemán dio una asistencia, provocó dos penaltis y fue un dolor de cabeza para la zaga rival",
+          "published": "Thu, 17 Sep 2026 10:52:35 +0200Thu, 17 Sep 2026 10:52:35 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/17/nuevo-reto-flick.htmlhttps://www.marca.com/futbol/barcelona/2026/09/17/nuevo-reto-flick.html",
+          "summary": "Los culés nunca han marcado más de siete tantos en un encuentroLos culés nunca han marcado más de siete tantos en un encuentro",
+          "published": "Thu, 17 Sep 2026 10:26:14 +0200Thu, 17 Sep 2026 10:26:14 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/17/joan-laporta-casablanca-madrid-son-final-mundial-2030-deberia-camp-nou.htmlhttps://www.marca.com/futbol/barcelona/2026/09/17/joan-laporta-casablanca-madrid-son-final-mundial-2030-deberia-camp-nou.html",
+          "summary": "Joan Laporta comparte que \"hemos propuesto\" el&nbsp;Spotify Camp Nou como sede de la final del Mundial 2030Joan Laporta comparte que \"hemos propuesto\" el&nbsp;Spotify Camp Nou como sede de la final del Mundial 2030",
+          "published": "Thu, 17 Sep 2026 06:25:34 +0200Thu, 17 Sep 2026 06:25:34 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/16/hansi-flick-hemos-jugado-bien-alla-resultado.htmlhttps://www.marca.com/futbol/barcelona/2026/09/16/hansi-flick-hemos-jugado-bien-alla-resultado.html",
+          "summary": "El preparador ofrece su visión del cruce de LaLiga contra el RacingEl preparador ofrece su visión del cruce de LaLiga contra el Racing",
+          "published": "Wed, 16 Sep 2026 23:57:06 +0200Wed, 16 Sep 2026 23:57:06 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/16/raphinha-jugadores-hambre-siempre-quieren.htmlhttps://www.marca.com/futbol/barcelona/2026/09/16/raphinha-jugadores-hambre-siempre-quieren.html",
+          "summary": "El brasileño reconoce que está muy cómodo jugando de falso '9'El brasileño reconoce que está muy cómodo jugando de falso '9'",
+          "published": "Wed, 16 Sep 2026 23:43:53 +0200Wed, 16 Sep 2026 23:43:53 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/16/barca-inunda-victorias-goles-laliga.htmlhttps://www.marca.com/futbol/barcelona/2026/09/16/barca-inunda-victorias-goles-laliga.html",
+          "summary": "La contracrónica del Barcelona - RacingLa contracrónica del Barcelona - Racing",
+          "published": "Wed, 16 Sep 2026 23:32:42 +0200Wed, 16 Sep 2026 23:32:42 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/16/alarma-joan-garcia.htmlhttps://www.marca.com/futbol/barcelona/2026/09/16/alarma-joan-garcia.html",
+          "summary": "Szczesny salió en el descanso tras un mal gesto del porteroSzczesny salió en el descanso tras un mal gesto del portero",
+          "published": "Wed, 16 Sep 2026 22:51:29 +0200Wed, 16 Sep 2026 22:51:29 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/16/yuste-me-gusta-lamine-pida-balon-oro-mejor-mundo.htmlhttps://www.marca.com/futbol/barcelona/2026/09/16/yuste-me-gusta-lamine-pida-balon-oro-mejor-mundo.html",
+          "summary": "\"Eso demuestra una personalidad muy marcada para su edad\"\"Eso demuestra una personalidad muy marcada para su edad\"",
+          "published": "Wed, 16 Sep 2026 17:06:34 +0200Wed, 16 Sep 2026 17:06:34 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "FC BARCELONAFC BARCELONA",
+      "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+          "published": "Mon, 09 Jun 2025 20:07:06 +0200Mon, 09 Jun 2025 20:07:06 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.html",
+          "summary": "El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"",
+          "published": "Mon, 09 Jun 2025 18:51:43 +0200Mon, 09 Jun 2025 18:51:43 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.html",
+          "summary": "Se reunió con Ceferin para intentar mitigar el castigo por irregularidades financierasSe reunió con Ceferin para intentar mitigar el castigo por irregularidades financieras",
+          "published": "Mon, 09 Jun 2025 12:34:03 +0200Mon, 09 Jun 2025 12:34:03 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.html",
+          "summary": "Principio de acuerdo para la rescisión del contrato del futbolistaPrincipio de acuerdo para la rescisión del contrato del futbolista",
+          "published": "Mon, 09 Jun 2025 13:47:01 +0200Mon, 09 Jun 2025 13:47:01 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Lamine Yamal, Kylian Mbappe’s Three Main Rivals Teased by Ballon d’Or Organizer",
+      "summary": "Lamine Yamal, Kylian Mbappe’s Three Main Rivals Teased by Ballon d’Or Organizer",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/lamine-yamal-kylian-mbappe-three-main-rivals-teased-ballon-dor",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Lamine Yamal, Kylian Mbappe’s Three Main Rivals Teased by Ballon d’Or Organizer",
+          "url": "https://www.si.com/soccer/lamine-yamal-kylian-mbappe-three-main-rivals-teased-ballon-dor",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Lamine Yamal or Kylian Mbappe: Who Really Deserves the Ballon d’Or?",
+          "url": "https://www.si.com/soccer/lamine-yamal-kylian-mbappe-who-deserves-ballon-dor",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Lamine Yamal’s Three-Word Message Ignites Ballon d’Or Feud With Kylian Mbappe",
+          "url": "https://www.si.com/soccer/lamine-yamal-three-word-message-ballon-dor-feud-kylian-mbappe",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Kane on target, Barcelona stay perfect and Ballon d’Or debate | Football Weekly – videoKane on target, Barcelona stay perfect and Ballon d’Or debate | Football Weekly – video",
+      "summary": "Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Continue reading... Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Continue reading...",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/video/2026/sep/15/kane-on-target-barcelona-stay-perfect-and-ballon-dor-debate-football-weekly-videohttps://www.theguardian.com/football/video/2026/sep/15/kane-on-target-barcelona-stay-perfect-and-ballon-dor-debate-football-weekly-video",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Kane on target, Barcelona stay perfect and Ballon d’Or debate | Football Weekly – videoKane on target, Barcelona stay perfect and Ballon d’Or debate | Football Weekly – video",
+          "url": "https://www.theguardian.com/football/video/2026/sep/15/kane-on-target-barcelona-stay-perfect-and-ballon-dor-debate-football-weekly-videohttps://www.theguardian.com/football/video/2026/sep/15/kane-on-target-barcelona-stay-perfect-and-ballon-dor-debate-football-weekly-video",
+          "summary": "Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Continue reading... Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Continue reading...",
+          "published": "Tue, 15 Sep 2026 08:56:13 GMTTue, 15 Sep 2026 08:56:13 GMT"
+        },
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Kane on target, Barcelona stay perfect and Ballon d’Or debate – Football WeeklyKane on target, Barcelona stay perfect and Ballon d’Or debate – Football Weekly",
+          "url": "https://www.theguardian.com/football/audio/2026/sep/15/europe-bayern-harry-kane-barcelona-ballon-dor-football-weeklyhttps://www.theguardian.com/football/audio/2026/sep/15/europe-bayern-harry-kane-barcelona-ballon-dor-football-weekly",
+          "summary": "Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe Max Rushden is joined by Philippe Auclair , Sid Lowe , Nicky Bandini and Mark Langdon to discuss the weekend’s action around Europe. On the podcast today: Harry Kane scored his 150th goal for Bayern Munich against Bundesliga newcomers Elversberg, while Ballon d’Or riv",
+          "published": "Tue, 15 Sep 2026 05:00:27 GMTTue, 15 Sep 2026 05:00:27 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Transfer Rumors: Man Utd Eye $160 Million Barcelona Raid; Olise’s Liverpool Swap",
+      "summary": "Transfer Rumors: Man Utd Eye $160 Million Barcelona Raid; Olise’s Liverpool Swap",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/transfer-rumors-man-utd-160-million-barcelona-raid-olise-liverpool-swap",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Man Utd Eye $160 Million Barcelona Raid; Olise’s Liverpool Swap",
+          "url": "https://www.si.com/soccer/transfer-rumors-man-utd-160-million-barcelona-raid-olise-liverpool-swap",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Transfer Rumors: Barcelona Ready Estevao Move; Liverpool Battle Man Utd for Balde",
+          "url": "https://www.si.com/soccer/transfer-rumors-barcelona-estevao-liverpool-battle-man-utd-balde",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona Predicted Lineup vs. Racing Santander: Goal-Hungry Raphinha Eyes More",
+      "summary": "Barcelona Predicted Lineup vs. Racing Santander: Goal-Hungry Raphinha Eyes More",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-racing-santander-9-16-25",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Predicted Lineup vs. Racing Santander: Goal-Hungry Raphinha Eyes More",
+          "url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-racing-santander-9-16-25",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Barcelona Predicted Lineup vs. Levante: Yamal, Raphinha Chasing Greatness",
+          "url": "https://www.si.com/soccer/barcelona-predicted-lineup-vs-levante-9-13-26",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "ESPN FC 13h @ESPNFC JOÃO CANCELO WITH A SCREAMER FOR BARCELONA 😨 View on X",
+      "summary": "ESPN FC 13h @ESPNFC JOÃO CANCELO WITH A SCREAMER FOR BARCELONA 😨 View on X",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://twitter.com/ESPNFC/status/2100310121377137134",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "ESPN FC 13h @ESPNFC JOÃO CANCELO WITH A SCREAMER FOR BARCELONA 😨 View on X",
+          "url": "https://twitter.com/ESPNFC/status/2100310121377137134",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "ESPN FC 13h @ESPNFC Lamine Yamal's reaction to João Cancelo's banger 😂 Bro couldn't believe it 😭 View on X",
+          "url": "https://twitter.com/ESPNFC/status/2100312713784180959",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "FC Barcelona 29m Just business. View on X",
+      "summary": "FC Barcelona 29m Just business. View on X",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://twitter.com/FCBarcelona/status/2100510070480224678",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "FC Barcelona 29m Just business. View on X",
+          "url": "https://twitter.com/FCBarcelona/status/2100510070480224678",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "FC Barcelona 15h @FCBarcelona 🚨 𝗕𝗔𝗥𝗖̧𝗔 𝗫𝗜 🚨 View on X",
+          "url": "https://twitter.com/FCBarcelona/status/2100287422202356182",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Haaland, Man City ‘understanding’ in 2027 revealed as Barcelona, Real Madrid prepare bids",
+      "summary": "Haaland, Man City ‘understanding’ in 2027 revealed as Barcelona, Real Madrid prepare bids",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/man-city-erling-haaland-understanding-barcelona-real-madrid",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Haaland, Man City ‘understanding’ in 2027 revealed as Barcelona, Real Madrid prepare bids",
+          "url": "https://www.football365.com/news/man-city-erling-haaland-understanding-barcelona-real-madrid",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Haaland makes decision on leaving Man City in 2027 as he chooses between Barcelona, Real Madrid",
+          "url": "https://www.football365.com/news/man-city-erling-haaland-decision-transfer-barcelona-real-madrid",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Hansi Flick sets new Barcelona record after 7-2 demolition of Racing Santander",
+      "summary": "Hansi Flick sets new Barcelona record after 7-2 demolition of Racing Santander",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Barça Universal",
+          "url": "https://barcauniversal.com/hansi-flick-sets-new-barcelona-record-after-7-2-demolition-of-racing-santander/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Hansi Flick sets new Barcelona record after 7-2 demolition of Racing Santander",
+          "url": "https://barcauniversal.com/hansi-flick-sets-new-barcelona-record-after-7-2-demolition-of-racing-santander/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 20,
+          "source": "Barça Universal",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "In numbers: Barcelona’s exceptional home record under Hansi Flick",
+          "url": "https://barcauniversal.com/in-numbers-barcelonas-exceptional-home-record-under-hansi-flick/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "RADIO MARCARADIO MARCA",
+      "summary": "El presentador de Despierta San Francisco destaca el espectacular rendimiento de Karim Adeyemi y apunta a DecoEl presentador de Despierta San Francisco destaca el espectacular rendimiento de Karim Adeyemi y apunta a Deco",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/radio/2026/09/17/david-sanchez-alucina-fichaje-barca-nadie-esperaba.htmlhttps://www.marca.com/radio/2026/09/17/david-sanchez-alucina-fichaje-barca-nadie-esperaba.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "RADIO MARCARADIO MARCA",
+          "url": "https://www.marca.com/radio/2026/09/17/david-sanchez-alucina-fichaje-barca-nadie-esperaba.htmlhttps://www.marca.com/radio/2026/09/17/david-sanchez-alucina-fichaje-barca-nadie-esperaba.html",
+          "summary": "El presentador de Despierta San Francisco destaca el espectacular rendimiento de Karim Adeyemi y apunta a DecoEl presentador de Despierta San Francisco destaca el espectacular rendimiento de Karim Adeyemi y apunta a Deco",
+          "published": "Thu, 17 Sep 2026 07:37:58 +0200Thu, 17 Sep 2026 07:37:58 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "RADIO MARCARADIO MARCA",
+          "url": "https://www.marca.com/radio/2026/09/16/agirrezabala-marca-camino-ganar-barca-hay-partido-practicamente-perfecto.htmlhttps://www.marca.com/radio/2026/09/16/agirrezabala-marca-camino-ganar-barca-hay-partido-practicamente-perfecto.html",
+          "summary": "El portero del Racing avisó en 'La Tribu' de la dificultad de asaltar el Camp Nou ante un equipo que define como “una máquina de crear ocasiones” y con jugadores que “con muy poco” generan peligroEl portero del Racing avisó en 'La Tribu' de la dificultad de asaltar el Camp Nou ante un equipo que define como “una máquina de crear ocasiones” y con jugadores que “con muy poco” generan peligro",
+          "published": "Wed, 16 Sep 2026 08:12:07 +0200Wed, 16 Sep 2026 08:12:07 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "FÚTBOLFÚTBOL",
+      "summary": "La mujer del ex del Barcelona ha fallecido a los 65 años tras una larga enfermedadLa mujer del ex del Barcelona ha fallecido a los 65 años tras una larga enfermedad",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/2026/09/16/muere-bartina-esposa-ronald-koeman.htmlhttps://www.marca.com/futbol/2026/09/16/muere-bartina-esposa-ronald-koeman.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FÚTBOLFÚTBOL",
+          "url": "https://www.marca.com/futbol/2026/09/16/muere-bartina-esposa-ronald-koeman.htmlhttps://www.marca.com/futbol/2026/09/16/muere-bartina-esposa-ronald-koeman.html",
+          "summary": "La mujer del ex del Barcelona ha fallecido a los 65 años tras una larga enfermedadLa mujer del ex del Barcelona ha fallecido a los 65 años tras una larga enfermedad",
+          "published": "Wed, 16 Sep 2026 11:34:59 +0200Wed, 16 Sep 2026 11:34:59 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FÚTBOLFÚTBOL",
+          "url": "https://www.marca.com/futbol/2026/09/16/jan-virgili-diablo-brujas-convertirse-extremo-primer-nivel-europa.htmlhttps://www.marca.com/futbol/2026/09/16/jan-virgili-diablo-brujas-convertirse-extremo-primer-nivel-europa.html",
+          "summary": "El ex de Mallorca y Barcelona ya sabe lo que es marcar y asistir en el&nbsp;Jan Breydel StadiumEl ex de Mallorca y Barcelona ya sabe lo que es marcar y asistir en el&nbsp;Jan Breydel Stadium",
+          "published": "Wed, 16 Sep 2026 06:52:39 +0200Wed, 16 Sep 2026 06:52:39 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+      "summary": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona Noticias",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "FC Barcelona – Athletic Club: Todo listo en el Camp Nou para un choque de altura",
+          "url": "https://www.fcbarcelonanoticias.com/fc-barcelona-athletic-club-todo-listo-en-el-camp-nou-para-un-choque-de-altura/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "ticket-vip BARÇA BUSINESS External link",
+      "summary": "ticket-vip BARÇA BUSINESS External link",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbarcelona.com/en/tickets/hospitality?int=APP_26-27_K0-258&btm_source=MainApp&btm_medium=SliderMenu&btm_campaign=barcabusiness_EN_TKT_B2B_WW",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "ticket-vip BARÇA BUSINESS External link",
+          "url": "https://www.fcbarcelona.com/en/tickets/hospitality?int=APP_26-27_K0-258&btm_source=MainApp&btm_medium=SliderMenu&btm_campaign=barcabusiness_EN_TKT_B2B_WW",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "summary": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Foundation The Official site of the Barça Foundation.",
+      "summary": "Barça Foundation The Official site of the Barça Foundation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Foundation The Official site of the Barça Foundation.",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "summary": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Innovation Hub The center for sports knowledge and innovation.",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "summary": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcamobile.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+          "url": "https://barcamobile.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Espai Barça The largest and most innovative sports and entertainment space",
+      "summary": "Espai Barça The largest and most innovative sports and entertainment space",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Espai Barça The largest and most innovative sports and entertainment space",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "summary": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://memorialfcbarcelona.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+          "url": "https://memorialfcbarcelona.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "summary": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "summary": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "summary": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "summary": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Players Find all the players that have played for Barça!",
+      "summary": "Barça Players Find all the players that have played for Barça!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Players Find all the players that have played for Barça!",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Rookies Barça's most special fans!",
+      "summary": "Barça Rookies Barça's most special fans!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Rookies Barça's most special fans!",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "From Segura to Maltby: six breakout stars from the Women’s Under-20 World CupFrom Segura to Maltby: six breakout stars from the Women’s Under-20 World Cup",
+      "summary": "With an incredible array of talent on show we select half a dozen players who could make the step up to the senior World Cup next year The 2026 Under-20 Women’s World Cup is entering the knockout stage in Poland and, after an intriguing group stage, we pick some of the young stars who have stood out. Celia Segura (Spain and Barcelona) Segura is no stranger to knockout football, having helped Spain",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/15/six-breakout-stars-from-the-womens-under-20-world-cuphttps://www.theguardian.com/football/2026/sep/15/six-breakout-stars-from-the-womens-under-20-world-cup",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "From Segura to Maltby: six breakout stars from the Women’s Under-20 World CupFrom Segura to Maltby: six breakout stars from the Women’s Under-20 World Cup",
+          "url": "https://www.theguardian.com/football/2026/sep/15/six-breakout-stars-from-the-womens-under-20-world-cuphttps://www.theguardian.com/football/2026/sep/15/six-breakout-stars-from-the-womens-under-20-world-cup",
+          "summary": "With an incredible array of talent on show we select half a dozen players who could make the step up to the senior World Cup next year The 2026 Under-20 Women’s World Cup is entering the knockout stage in Poland and, after an intriguing group stage, we pick some of the young stars who have stood out. Celia Segura (Spain and Barcelona) Segura is no stranger to knockout football, having helped Spain",
+          "published": "Tue, 15 Sep 2026 12:00:42 GMTTue, 15 Sep 2026 12:00:42 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "‘They are very similar’: Arsenal’s Dowman reminds Merino of Lamine Yamal‘They are very similar’: Arsenal’s Dowman reminds Merino of Lamine Yamal",
+      "summary": "Teenager continues development with two goals at Ipswich Merino: ‘He is a big talent and we have to take care of him’ Mikel Merino says Max Dowman reminds him of Lamine Yamal after the Arsenal prodigy continued his development by scoring twice in his side’s 4-2 win against Ipswich . Dowman, who has been given a host of opportunities at senior level by Mikel Arteta, starred after being handed his f",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/16/they-are-very-similar-arsenals-dowman-reminds-merino-of-lamine-yamalhttps://www.theguardian.com/football/2026/sep/16/they-are-very-similar-arsenals-dowman-reminds-merino-of-lamine-yamal",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "‘They are very similar’: Arsenal’s Dowman reminds Merino of Lamine Yamal‘They are very similar’: Arsenal’s Dowman reminds Merino of Lamine Yamal",
+          "url": "https://www.theguardian.com/football/2026/sep/16/they-are-very-similar-arsenals-dowman-reminds-merino-of-lamine-yamalhttps://www.theguardian.com/football/2026/sep/16/they-are-very-similar-arsenals-dowman-reminds-merino-of-lamine-yamal",
+          "summary": "Teenager continues development with two goals at Ipswich Merino: ‘He is a big talent and we have to take care of him’ Mikel Merino says Max Dowman reminds him of Lamine Yamal after the Arsenal prodigy continued his development by scoring twice in his side’s 4-2 win against Ipswich . Dowman, who has been given a host of opportunities at senior level by Mikel Arteta, starred after being handed his f",
+          "published": "Wed, 16 Sep 2026 16:00:23 GMTWed, 16 Sep 2026 16:00:23 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "PSG have finally won a game in Ligue 1 – but they were far from convincingPSG have finally won a game in Ligue 1 – but they were far from convincing",
+      "summary": "Ferran Torres has been brilliant for his new club with most of his new teammates floundering for form By Get French Football News It was just a flicker. Ferran Torres picks the ball up and passes it to João Neves. The Portugal midfielder plays it into Ousmane Dembélé, who has lured in Raphaël Le Guen and eliminates him with a mesmeric first-time back-heel into the path of Torres. The Brest defence",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/14/psg-won-game-ligue-1-convincing-ferran-torreshttps://www.theguardian.com/football/2026/sep/14/psg-won-game-ligue-1-convincing-ferran-torres",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "PSG have finally won a game in Ligue 1 – but they were far from convincingPSG have finally won a game in Ligue 1 – but they were far from convincing",
+          "url": "https://www.theguardian.com/football/2026/sep/14/psg-won-game-ligue-1-convincing-ferran-torreshttps://www.theguardian.com/football/2026/sep/14/psg-won-game-ligue-1-convincing-ferran-torres",
+          "summary": "Ferran Torres has been brilliant for his new club with most of his new teammates floundering for form By Get French Football News It was just a flicker. Ferran Torres picks the ball up and passes it to João Neves. The Portugal midfielder plays it into Ousmane Dembélé, who has lured in Raphaël Le Guen and eliminates him with a mesmeric first-time back-heel into the path of Torres. The Brest defence",
+          "published": "Mon, 14 Sep 2026 11:35:28 GMTMon, 14 Sep 2026 11:35:28 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Ugly scenes as Argentina lose World Cup final – videoUgly scenes as Argentina lose World Cup final – video",
+      "summary": "There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then sent off after shoving Spain's Eric García by the throat and wrestling Gavi to the ground. He had already been booked during the match. The antics after the final whistle were quickly condemned by UK broadcast",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-videohttps://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Ugly scenes as Argentina lose World Cup final – videoUgly scenes as Argentina lose World Cup final – video",
+          "url": "https://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-videohttps://www.theguardian.com/football/video/2026/jul/20/ugly-scenes-argentina-lose-world-cup-final-video",
+          "summary": "There were ugly scenes at the end of the World Cup final as Argentina’s Leandro Paredes and Nahuel Molina were seen throwing punches at Spain players after their 1-0 defeat. Paredes was then sent off after shoving Spain's Eric García by the throat and wrestling Gavi to the ground. He had already been booked during the match. The antics after the final whistle were quickly condemned by UK broadcast",
+          "published": "Mon, 20 Jul 2026 11:21:26 GMTMon, 20 Jul 2026 11:21:26 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+      "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+          "published": "Fri, 19 Dec 2025 10:04:51 GMTFri, 19 Dec 2025 10:04:51 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+      "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+          "published": "Fri, 05 Dec 2025 08:00:42 GMTFri, 05 Dec 2025 08:00:42 GMT"
+        }
+      ]
+    }
+  ]
+}
