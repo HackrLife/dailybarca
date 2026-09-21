@@ -1,0 +1,60 @@
+{
+  "editions": [
+    {
+      "number": 261,
+      "date": "2026-09-22",
+      "label": "Tuesday 22 Sep 2026",
+      "file": "2026-09-22.json",
+      "tweets": 8,
+      "lead": "Adeyemi called into Klopp’s first Germany group; Flick’s side at 354 goals; Christensen out weeks"
+    },
+    {
+      "number": 260,
+      "date": "2026-09-21",
+      "label": "Monday 21 Sep 2026",
+      "file": "2026-09-21.json",
+      "tweets": 10,
+      "lead": "Christensen out weeks with thigh strain; Raphinha on 14 goals; seven from seven into the break"
+    },
+    {
+      "number": 259,
+      "date": "2026-09-20",
+      "label": "Sunday 20 Sep 2026",
+      "file": "2026-09-20.json",
+      "tweets": 8,
+      "lead": "Raphinha hat-trick, Barça 3-1 at Sevilla; seven from seven; Assembly clears Camp Nou finance"
+    },
+    {
+      "number": 258,
+      "date": "2026-09-19",
+      "label": "Saturday 19 Sep 2026",
+      "file": "2026-09-19.json",
+      "tweets": 6,
+      "lead": "Sevilla away 21:00; Joan Garcia out, Szczęsny set; seven Spain call-ups"
+    },
+    {
+      "number": 257,
+      "date": "2026-09-18",
+      "label": "Friday 18 Sep 2026",
+      "file": "2026-09-18.json",
+      "tweets": 5,
+      "lead": "Joan Garcia mild knee; Szczęsny for Sevilla; Super Cup Istanbul Feb 2"
+    },
+    {
+      "number": 256,
+      "date": "2026-09-17",
+      "label": "Thursday 17 Sep 2026",
+      "file": "2026-09-17.json",
+      "tweets": 12,
+      "lead": "Raphinha hat-trick, Barça 5-2 Racing; six from six; Sevilla Saturday"
+    },
+    {
+      "number": 255,
+      "date": "2026-09-16",
+      "label": "Wednesday 16 Sep 2026",
+      "file": "2026-09-16.json",
+      "tweets": 12,
+      "lead": "Camp Nou hosts 2029 CL final; Hamza to 2030; Racing at 21:30"
+    }
+  ]
+}
