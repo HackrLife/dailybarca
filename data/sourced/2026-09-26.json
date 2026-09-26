@@ -1,0 +1,1941 @@
+{
+  "date": "2026-09-26",
+  "generated_at": "2026-09-26T09:23:38.277961+00:00",
+  "source_pool": 50,
+  "articles_kept": 215,
+  "clusters": 182,
+  "failed_sources": [
+    "UEFA – Barcelona",
+    "LaLiga – Barcelona",
+    "Reuters",
+    "Associated Press",
+    "ESPN",
+    "Sky Sports",
+    "Sports Illustrated",
+    "CBS Sports",
+    "The Independent",
+    "Goal",
+    "Football España",
+    "Get Spanish Football News",
+    "Barça Universal",
+    "Barça News Network",
+    "SPORT",
+    "Esport3",
+    "RAC1",
+    "Cadena SER",
+    "AS",
+    "Relevo",
+    "El Periódico",
+    "El Nacional",
+    "Món Esport",
+    "Onda Cero",
+    "COPE",
+    "FotMob",
+    "Sofascore",
+    "FBref",
+    "WhoScored",
+    "Transfermarkt",
+    "OneFootball",
+    "LiveScore",
+    "Opta Analyst"
+  ],
+  "stories": [
+    {
+      "headline": "www.barcablaugranes.com • 5h ‘I’d give it to Raphinha right now’ - Ex-Barcelona boss says Brazilian deserves Ballon d’Or “He’s an absolutely complete footballer.”",
+      "summary": "www.barcablaugranes.com • 5h ‘I’d give it to Raphinha right now’ - Ex-Barcelona boss says Brazilian deserves Ballon d’Or “He’s an absolutely complete footballer.”",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/133459/raphinha-right-now-ex-boss-ballon-dor?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/133459/raphinha-right-now-ex-boss-ballon-dor",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 5h ‘I’d give it to Raphinha right now’ - Ex-Barcelona boss says Brazilian deserves Ballon d’Or “He’s an absolutely complete footballer.”",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/133459/raphinha-right-now-ex-boss-ballon-dor?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘I’d give it to Raphinha right now’ – Ex-Barcelona boss says Brazilian deserves Ballon d’Or‘I’d give it to Raphinha right now’ – Ex-Barcelona boss says Brazilian deserves Ballon d’Or",
+          "url": "https://www.barcablaugranes.com/barcelona-team-news/133459/raphinha-right-now-ex-boss-ballon-dor",
+          "summary": "Former Barcelona boss Quique Setien says he thinks Raphinha deserves to win the 2026 Ballon d’Or. Raphinha is not even on the final shortlist for the award, with Harry Kane, Lamine Yamal and Kylian Mbappe the current favorites. However, Setien is in no doubt at all that Raphinha is the world’s best player at the […]Former Barcelona boss Quique Setien says he thinks Raphinha deserves to win the 202",
+          "published": "2026-09-25T23:00:00-04:002026-09-25T23:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 9h ‘I know I’m going to be important’ - Dani Olmo not worried by lack of Barcelona starts The forward has only started three games this season.",
+      "summary": "www.barcablaugranes.com • 9h ‘I know I’m going to be important’ - Dani Olmo not worried by lack of Barcelona starts The forward has only started three games this season.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133452/going-to-be-important-dani-olmo-not-worried?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133452/going-to-be-important-dani-olmo-not-worried",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 9h ‘I know I’m going to be important’ - Dani Olmo not worried by lack of Barcelona starts The forward has only started three games this season.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133452/going-to-be-important-dani-olmo-not-worried?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘I know I’m going to be important’ – Dani Olmo not worried by lack of Barcelona starts‘I know I’m going to be important’ – Dani Olmo not worried by lack of Barcelona starts",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133452/going-to-be-important-dani-olmo-not-worried",
+          "summary": "Dani Olmo says he’s not worried about his lack of starts this season for Barcelona as he knows there is plenty of football to be played and that he “will be important.” The Spain star has started only three times this season and has been asked how he feels about the situation in a new […]Dani Olmo says he’s not worried about his lack of starts this season for Barcelona as he knows there is plenty ",
+          "published": "2026-09-25T19:00:00-04:002026-09-25T19:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 11h Fermin Lopez reveals which Barcelona summer signing has surprised him the most “I think he’s a player who’s going to help us a great deal.”",
+      "summary": "www.barcablaugranes.com • 11h Fermin Lopez reveals which Barcelona summer signing has surprised him the most “I think he’s a player who’s going to help us a great deal.”",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133466/fermin-lopez-reveals-summer-signing-surprised-most?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133466/fermin-lopez-reveals-summer-signing-surprised-most",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 11h Fermin Lopez reveals which Barcelona summer signing has surprised him the most “I think he’s a player who’s going to help us a great deal.”",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133466/fermin-lopez-reveals-summer-signing-surprised-most?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Fermin Lopez reveals which Barcelona summer signing has surprised him the mostFermin Lopez reveals which Barcelona summer signing has surprised him the most",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133466/fermin-lopez-reveals-summer-signing-surprised-most",
+          "summary": "Fermin Lopez has revealed that Anthony Gordon is the summer signing that has surprised him the most at Barcelona. The Catalan giants invested in the squad in the summer by signing Gordon, Karim Adeyemi, Rodri and Gabriel Jesus as well as landing Joao Cancelo on a permanent transfer. Lopez has now been asked which signing […]Fermin Lopez has revealed that Anthony Gordon is the summer signing that h",
+          "published": "2026-09-25T17:00:00-04:002026-09-25T17:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 14h ‘Unstoppable’ - Marc-Andre ter Stegen gives his verdict on Hansi Flick’s Barcelona The goalkeeper is happy to see the Catalans doing well.",
+      "summary": "www.barcablaugranes.com • 14h ‘Unstoppable’ - Marc-Andre ter Stegen gives his verdict on Hansi Flick’s Barcelona The goalkeeper is happy to see the Catalans doing well.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133449/unstoppable-marc-andre-ter-stegen-gives-his-verdict-on-hansi-flicks?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133449/unstoppable-marc-andre-ter-stegen-gives-his-verdict-on-hansi-flicks",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 14h ‘Unstoppable’ - Marc-Andre ter Stegen gives his verdict on Hansi Flick’s Barcelona The goalkeeper is happy to see the Catalans doing well.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133449/unstoppable-marc-andre-ter-stegen-gives-his-verdict-on-hansi-flicks?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘Unstoppable’ – Marc-Andre ter Stegen gives his verdict on Hansi Flick’s Barcelona‘Unstoppable’ – Marc-Andre ter Stegen gives his verdict on Hansi Flick’s Barcelona",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133449/unstoppable-marc-andre-ter-stegen-gives-his-verdict-on-hansi-flicks",
+          "summary": "Marc-Andre ter Stegen has praised Barcelona and the incredible start to the season they have made under Hansi Flick. The goalkeeper is spending the season on loan at Ajax but was asked about his parent club after playing for Germany in the Nations League against the Netherlands on Thursday. “They’re unstoppable right now. They are […]Marc-Andre ter Stegen has praised Barcelona and the incredible s",
+          "published": "2026-09-25T14:00:00-04:002026-09-25T14:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 18h ‘Not very interested’ - Barcelona star Lamine Yamal reacts to Real Madrid’s referee complaints All the latest news and opinion on FC Barcelona",
+      "summary": "www.barcablaugranes.com • 18h ‘Not very interested’ - Barcelona star Lamine Yamal reacts to Real Madrid’s referee complaints All the latest news and opinion on FC Barcelona",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133444/not-very-interested-lamine-yamal-real-madrid-complaints?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133444/not-very-interested-lamine-yamal-real-madrid-complaints",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 18h ‘Not very interested’ - Barcelona star Lamine Yamal reacts to Real Madrid’s referee complaints All the latest news and opinion on FC Barcelona",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133444/not-very-interested-lamine-yamal-real-madrid-complaints?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘Not very interested’ – Barcelona star Lamine Yamal reacts to Real Madrid’s referee complaints‘Not very interested’ – Barcelona star Lamine Yamal reacts to Real Madrid’s referee complaints",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133444/not-very-interested-lamine-yamal-real-madrid-complaints",
+          "summary": "Lamine Yamal has been quizzed on Real Madrid’s refereeing complaints and says he’s “not interested” in the regular toxicity coming out of the Santiago Bernabeu. Los Blancos were at it again after losing to Atletico Madrid in La Liga at the weekend, and Yamal has been asked for his thoughts on the situation. However, Barca’s […]Lamine Yamal has been quizzed on Real Madrid’s refereeing complaints an",
+          "published": "2026-09-25T11:00:00-04:002026-09-25T11:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 18h ‘Ballon d’Or of our hearts’ - Barcelona legend Samuel Eto’o sends message to Lamine Yamal “Keep making us dream.”",
+      "summary": "www.barcablaugranes.com • 18h ‘Ballon d’Or of our hearts’ - Barcelona legend Samuel Eto’o sends message to Lamine Yamal “Keep making us dream.”",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133439/ballon-dor-of-our-hearts-lamine-yamal?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133439/ballon-dor-of-our-hearts-lamine-yamal",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 18h ‘Ballon d’Or of our hearts’ - Barcelona legend Samuel Eto’o sends message to Lamine Yamal “Keep making us dream.”",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133439/ballon-dor-of-our-hearts-lamine-yamal?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "‘Ballon d’Or of our hearts’ – Barcelona legend Samuel Eto’o sends message to Lamine Yamal‘Ballon d’Or of our hearts’ – Barcelona legend Samuel Eto’o sends message to Lamine Yamal",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133439/ballon-dor-of-our-hearts-lamine-yamal",
+          "summary": "Barcelona legend Samuel Eto’o has wished Lamine Yamal luck in the battle to win the 2026 Ballon d’Or. Yamal is in the running for the prize after a season where he won La Liga with Barcelona and the World Cup with Spain. Eto’o is hoping the teenager will be crowned the best player on the […]Barcelona legend Samuel Eto’o has wished Lamine Yamal luck in the battle to win the 2026 Ballon d’Or. Yamal ",
+          "published": "2026-09-25T10:09:27-04:002026-09-25T10:09:27-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 21h Jesse Bisiwu sends message to Hansi Flick as Barcelona summer signing eyes senior debut The youngster is raring to go.",
+      "summary": "www.barcablaugranes.com • 21h Jesse Bisiwu sends message to Hansi Flick as Barcelona summer signing eyes senior debut The youngster is raring to go.",
+      "source_count": 2,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133330/jesse-bisiwu-message-hansi-flick-as-barcelona?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        },
+        {
+          "name": "Barça Blaugranes",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133330/jesse-bisiwu-message-hansi-flick-as-barcelona",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 21h Jesse Bisiwu sends message to Hansi Flick as Barcelona summer signing eyes senior debut The youngster is raring to go.",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133330/jesse-bisiwu-message-hansi-flick-as-barcelona?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 21,
+          "source": "Barça Blaugranes",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Jesse Bisiwu sends message to Hansi Flick as Barcelona summer signing eyes senior debutJesse Bisiwu sends message to Hansi Flick as Barcelona summer signing eyes senior debut",
+          "url": "https://www.barcablaugranes.com/barcelona-la-liga/133330/jesse-bisiwu-message-hansi-flick-as-barcelona",
+          "summary": "Jesse Bisiwu has told Hansi Flick “he’s ready” for whenever he’s needed at Barcelona as he eyes a senior debut for his new club. The youngster arrived in the summer and caught the eye in pre-season with some impressive goals in a friendly against FC Basel. Bisiwu is yet to make his senior competitive debut […]Jesse Bisiwu has told Hansi Flick “he’s ready” for whenever he’s needed at Barcelona as h",
+          "published": "2026-09-25T07:00:00-04:002026-09-25T07:00:00-04:00"
+        }
+      ]
+    },
+    {
+      "headline": "El Barça pone a la venta 2.000 asientos VIP más y calcula ingresar 700 millones en 30 años El Barça pone a la venta 2.000 asientos VIP más y calcula ingresar 700 millones en 30 años",
+      "summary": "El club ya ha comercializado 5.000 asientos VIP del Spotify Camp Nou en la fase inicial del proyecto El club ya ha comercializado 5.000 asientos VIP del Spotify Camp Nou en la fase inicial del proyecto",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260925/11643712/barca-pone-venta-2-000-asientos-vip-mas-calcula-ingresar-700-millones-30-anos.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260925/11643712/barca-pone-venta-2-000-asientos-vip-mas-calcula-ingresar-700-millones-30-anos.html",
+          "tier": "national"
+        },
+        {
+          "name": "Culemanía",
+          "url": "https://cronicaglobal.elespanol.com/culemania/palco/20260925/camp-nou-maquina-dinero-millones-asientos-vip/1003742797243_0.html",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "El Barça pone a la venta 2.000 asientos VIP más y calcula ingresar 700 millones en 30 años El Barça pone a la venta 2.000 asientos VIP más y calcula ingresar 700 millones en 30 años",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260925/11643712/barca-pone-venta-2-000-asientos-vip-mas-calcula-ingresar-700-millones-30-anos.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260925/11643712/barca-pone-venta-2-000-asientos-vip-mas-calcula-ingresar-700-millones-30-anos.html",
+          "summary": "El club ya ha comercializado 5.000 asientos VIP del Spotify Camp Nou en la fase inicial del proyecto El club ya ha comercializado 5.000 asientos VIP del Spotify Camp Nou en la fase inicial del proyecto",
+          "published": "25 Sep 2026 11:53:57 +020025 Sep 2026 11:53:57 +0200"
+        },
+        {
+          "source_id": 39,
+          "source": "Culemanía",
+          "tier": "specialist",
+          "lang": [
+            "es"
+          ],
+          "title": "El Camp Nou, una máquina de hacer dinero: 700 millones más por 2.000 asientos Vip",
+          "url": "https://cronicaglobal.elespanol.com/culemania/palco/20260925/camp-nou-maquina-dinero-millones-asientos-vip/1003742797243_0.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "La pareja 10: Lamine Yamal-Raphinha La pareja 10: Lamine Yamal-Raphinha",
+      "summary": "Los dos delanteros blaugrana han encontrado una compatibilidad casi perfecta Los dos delanteros blaugrana han encontrado una compatibilidad casi perfecta",
+      "source_count": 2,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/20260923/11641665/pareja-10-lamine-yamal-raphinha.htmlhttps://www.lavanguardia.com/deportes/20260923/11641665/pareja-10-lamine-yamal-raphinha.html",
+          "tier": "national"
+        },
+        {
+          "name": "ARA",
+          "url": "https://www.ara.cat/esports/barca/lamine-yamal-tabarra-pilota-d-or_129_5859687.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "La pareja 10: Lamine Yamal-Raphinha La pareja 10: Lamine Yamal-Raphinha",
+          "url": "https://www.lavanguardia.com/deportes/20260923/11641665/pareja-10-lamine-yamal-raphinha.htmlhttps://www.lavanguardia.com/deportes/20260923/11641665/pareja-10-lamine-yamal-raphinha.html",
+          "summary": "Los dos delanteros blaugrana han encontrado una compatibilidad casi perfecta Los dos delanteros blaugrana han encontrado una compatibilidad casi perfecta",
+          "published": "23 Sep 2026 06:00:00 +020023 Sep 2026 06:00:00 +0200"
+        },
+        {
+          "source_id": 32,
+          "source": "ARA",
+          "tier": "national",
+          "lang": [
+            "ca"
+          ],
+          "title": "Lamine Yamal i la tabarra de la Pilota d’Or",
+          "url": "https://www.ara.cat/esports/barca/lamine-yamal-tabarra-pilota-d-or_129_5859687.html",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "BARÇABARÇA",
+      "summary": "El Barça y las instituciones creen en sus opciones pese a que todo apunta a que será en CasablancaEl Barça y las instituciones creen en sus opciones pese a que todo apunta a que será en Casablanca",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/26/spotify-camp-nou-reluce-acoger-final-champions-2029-optimismo-mundial-2030.htmlhttps://www.marca.com/futbol/barcelona/2026/09/26/spotify-camp-nou-reluce-acoger-final-champions-2029-optimismo-mundial-2030.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/26/spotify-camp-nou-reluce-acoger-final-champions-2029-optimismo-mundial-2030.htmlhttps://www.marca.com/futbol/barcelona/2026/09/26/spotify-camp-nou-reluce-acoger-final-champions-2029-optimismo-mundial-2030.html",
+          "summary": "El Barça y las instituciones creen en sus opciones pese a que todo apunta a que será en CasablancaEl Barça y las instituciones creen en sus opciones pese a que todo apunta a que será en Casablanca",
+          "published": "Sat, 26 Sep 2026 11:03:50 +0200Sat, 26 Sep 2026 11:03:50 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/26/flick-olvida-gavi.htmlhttps://www.marca.com/futbol/barcelona/2026/09/26/flick-olvida-gavi.html",
+          "summary": "Pese a que no está jugando, habla mucho con él: le motiva y le destaca siempre que puedePese a que no está jugando, habla mucho con él: le motiva y le destaca siempre que puede",
+          "published": "Sat, 26 Sep 2026 08:16:07 +0200Sat, 26 Sep 2026 08:16:07 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/25/mensaje-eto-lamine-yamal-lucha-balon-oro.htmlhttps://www.marca.com/futbol/barcelona/2026/09/25/mensaje-eto-lamine-yamal-lucha-balon-oro.html",
+          "summary": "El exazulgrana se deshace en elogios hacia el extremo de RocafondaEl exazulgrana se deshace en elogios hacia el extremo de Rocafonda",
+          "published": "Fri, 25 Sep 2026 16:26:16 +0200Fri, 25 Sep 2026 16:26:16 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/25/gerard-martin-lamine-yamal-merece-balon-oro-cubarsi-tambien-deberia.htmlhttps://www.marca.com/futbol/barcelona/2026/09/25/gerard-martin-lamine-yamal-merece-balon-oro-cubarsi-tambien-deberia.html",
+          "summary": "El catalán elogio el rendimiento de su compañero en el eje de la zagaEl catalán elogio el rendimiento de su compañero en el eje de la zaga",
+          "published": "Fri, 25 Sep 2026 15:23:46 +0200Fri, 25 Sep 2026 15:23:46 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/25/ter-stegen-vuelta.htmlhttps://www.marca.com/futbol/barcelona/2026/09/25/ter-stegen-vuelta.html",
+          "summary": "Tras dos cursos para olvidar, el alemán vuelve a disfrutar de la titularidad sobre el verdeTras dos cursos para olvidar, el alemán vuelve a disfrutar de la titularidad sobre el verde",
+          "published": "Fri, 25 Sep 2026 13:57:41 +0200Fri, 25 Sep 2026 13:57:41 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/25/cubarsi-lamine-yamal-merece-balon-oro.htmlhttps://www.marca.com/futbol/barcelona/2026/09/25/cubarsi-lamine-yamal-merece-balon-oro.html",
+          "summary": "El defensa, también nominado al galardón, espera que lo gane el extremo de RocafondaEl defensa, también nominado al galardón, espera que lo gane el extremo de Rocafonda",
+          "published": "Fri, 25 Sep 2026 11:26:30 +0200Fri, 25 Sep 2026 11:26:30 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/25/olmo-desconoce-interes-bayern.htmlhttps://www.marca.com/futbol/barcelona/2026/09/25/olmo-desconoce-interes-bayern.html",
+          "summary": "Según Sky Sports, el bloque alemán estudia la incorporación del medio para eneroSegún Sky Sports, el bloque alemán estudia la incorporación del medio para enero",
+          "published": "Fri, 25 Sep 2026 10:47:30 +0200Fri, 25 Sep 2026 10:47:30 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "BARÇABARÇA",
+          "url": "https://www.marca.com/futbol/barcelona/2026/09/25/fuente-ingresos-spotify-camp-nou-700-millones-venta-licencias-individuales-asientos-vip.htmlhttps://www.marca.com/futbol/barcelona/2026/09/25/fuente-ingresos-spotify-camp-nou-700-millones-venta-licencias-individuales-asientos-vip.html",
+          "summary": "Se comercializan 2000 localidades mediante contratos de 15 y 30 años y con un pago inicialSe comercializan 2000 localidades mediante contratos de 15 y 30 años y con un pago inicial",
+          "published": "Fri, 25 Sep 2026 09:44:07 +0200Fri, 25 Sep 2026 09:44:07 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "FC BARCELONAFC BARCELONA",
+      "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "MARCA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/barcelona-ter-stegen-maxima-tension.html",
+          "summary": "El portero está a la espera de que el club le comunique cómo queda su situaciónEl portero está a la espera de que el club le comunique cómo queda su situación",
+          "published": "Mon, 09 Jun 2025 20:07:06 +0200Mon, 09 Jun 2025 20:07:06 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lewandowski-me-dijeron-me-quitaban-brazalete-acostando-mis-hijos.html",
+          "summary": "El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"El delantero afirma que&nbsp; Michal Probierz \"ha traicionado mi confianza\"",
+          "published": "Mon, 09 Jun 2025 18:51:43 +0200Mon, 09 Jun 2025 18:51:43 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/laporta-tira-diplomacia-evitar-sancion-uefa.html",
+          "summary": "Se reunió con Ceferin para intentar mitigar el castigo por irregularidades financierasSe reunió con Ceferin para intentar mitigar el castigo por irregularidades financieras",
+          "published": "Mon, 09 Jun 2025 12:34:03 +0200Mon, 09 Jun 2025 12:34:03 +0200"
+        },
+        {
+          "source_id": 34,
+          "source": "MARCA",
+          "tier": "national",
+          "lang": [
+            "es"
+          ],
+          "title": "FC BARCELONAFC BARCELONA",
+          "url": "https://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.htmlhttps://www.marca.com/futbol/barcelona/2025/06/09/lenglet-deja-barca.html",
+          "summary": "Principio de acuerdo para la rescisión del contrato del futbolistaPrincipio de acuerdo para la rescisión del contrato del futbolista",
+          "published": "Mon, 09 Jun 2025 13:47:01 +0200Mon, 09 Jun 2025 13:47:01 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "www.barcablaugranes.com • 23h FC Barcelona News: 25 September 2026; Deco talks Julian Alvarez and JJ Gabriel A round-up of the latest Barcelona news and rumors.",
+      "summary": "www.barcablaugranes.com • 23h FC Barcelona News: 25 September 2026; Deco talks Julian Alvarez and JJ Gabriel A round-up of the latest Barcelona news and rumors.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Bleacher Report",
+          "url": "https://www.barcablaugranes.com/barcelona-news/133415/news-25-september-2026-deco-talks-julian-alvarez-and-jj-gabriel?utm_source=bleacherreport&amp;utm_medium=referral",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 23h FC Barcelona News: 25 September 2026; Deco talks Julian Alvarez and JJ Gabriel A round-up of the latest Barcelona news and rumors.",
+          "url": "https://www.barcablaugranes.com/barcelona-news/133415/news-25-september-2026-deco-talks-julian-alvarez-and-jj-gabriel?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 16,
+          "source": "Bleacher Report",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "www.barcablaugranes.com • 1d ‘Julian Alvarez is in the past’ - Deco says Gabriel Jesus is the ‘perfect fit’ for Barcelona Some interesting comments from the sporting director.",
+          "url": "https://www.barcablaugranes.com/fc-barcelona-transfer-rumors-news/133386/julian-alvarez-is-in-the-past-deco-says-gabriel-jesus-is-the-perfect-fit-for-barcelona?utm_source=bleacherreport&amp;utm_medium=referral",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Boost for Man Utd as Barcelona make shock decision on signing JJ Gabriel",
+      "summary": "Boost for Man Utd as Barcelona make shock decision on signing JJ Gabriel",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/jj-gabriel-barcelona-decision-united-boost",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Boost for Man Utd as Barcelona make shock decision on signing JJ Gabriel",
+          "url": "https://www.football365.com/news/jj-gabriel-barcelona-decision-united-boost",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Huge Arsenal boost in Alvarez race as Barcelona make fresh decision on signing Atletico star",
+          "url": "https://www.football365.com/news/arsenal-huge-boost-alvarez-barcelona-fresh-decision-signing-atletico-madrid",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "JJ Gabriel to Barcelona undergoes significant shift after Real Madrid financial offer for Man Utd gem",
+      "summary": "JJ Gabriel to Barcelona undergoes significant shift after Real Madrid financial offer for Man Utd gem",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Football365",
+          "url": "https://www.football365.com/news/manchester-united-jj-gabriel-barcelona-real-madrid-transfer-latest",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "JJ Gabriel to Barcelona undergoes significant shift after Real Madrid financial offer for Man Utd gem",
+          "url": "https://www.football365.com/news/manchester-united-jj-gabriel-barcelona-real-madrid-transfer-latest",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 17,
+          "source": "Football365",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "JJ Gabriel reacts to Barcelona offer as Man Utd learn of compensation fee",
+          "url": "https://www.football365.com/news/jj-gabriel-barcelona-manchester-united-offer",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Raphinha’s Perfect Hat-Trick Heroics | 5 Headlines from 3-1 Win vs. SevillaRaphinha’s Perfect Hat-Trick Heroics | 5 Headlines from 3-1 Win vs. Sevilla",
+      "summary": "On episode 855, Barcelona faced their most challenging match of the season so far, and still came out with a 3-1 win. Raphinha made some hat-trick history while Rodri diagnosed how Sevilla gave them a fight. New Store! – HERE Watchalongs – HERE Join the Discord server! The post Raphinha’s Perfect Hat-Trick Heroics | 5 Headlines from 3-1 Win vs. Sevilla appeared first on BarcaBlog . On episode 855,",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BarçaBlog",
+          "url": "https://barcablog.com/2026/09/raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevilla.html?utm_source=rss&utm_medium=rss&utm_campaign=raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevillahttps://barcablog.com/2026/09/raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevilla.html?utm_source=rss&utm_medium=rss&utm_campaign=raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevilla",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 23,
+          "source": "BarçaBlog",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Raphinha’s Perfect Hat-Trick Heroics | 5 Headlines from 3-1 Win vs. SevillaRaphinha’s Perfect Hat-Trick Heroics | 5 Headlines from 3-1 Win vs. Sevilla",
+          "url": "https://barcablog.com/2026/09/raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevilla.html?utm_source=rss&utm_medium=rss&utm_campaign=raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevillahttps://barcablog.com/2026/09/raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevilla.html?utm_source=rss&utm_medium=rss&utm_campaign=raphinhas-perfect-hat-trick-heroics-5-headlines-from-3-1-win-vs-sevilla",
+          "summary": "On episode 855, Barcelona faced their most challenging match of the season so far, and still came out with a 3-1 win. Raphinha made some hat-trick history while Rodri diagnosed how Sevilla gave them a fight. New Store! – HERE Watchalongs – HERE Join the Discord server! The post Raphinha’s Perfect Hat-Trick Heroics | 5 Headlines from 3-1 Win vs. Sevilla appeared first on BarcaBlog . On episode 855,",
+          "published": "Sun, 20 Sep 2026 06:13:28 +0000Sun, 20 Sep 2026 06:13:28 +0000"
+        },
+        {
+          "source_id": 23,
+          "source": "BarçaBlog",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Raphinha’s Hat-Trick Headlines Rout of Racing | 5 Headlines from 7-2 WinRaphinha’s Hat-Trick Headlines Rout of Racing | 5 Headlines from 7-2 Win",
+          "url": "https://barcablog.com/2026/09/raphinhas-hat-trick-headlines-rout-of-racing-5-headlines-from-7-2-win.html?utm_source=rss&utm_medium=rss&utm_campaign=raphinhas-hat-trick-headlines-rout-of-racing-5-headlines-from-7-2-winhttps://barcablog.com/2026/09/raphinhas-hat-trick-headlines-rout-of-racing-5-headlines-from-7-2-win.html?utm_source=rss&utm_medium=rss&utm_campaign=raphinhas-hat-trick-headlines-rout-of-racing-5-headlines-from-7-2-win",
+          "summary": "On episode 854, Racing Santander were the latest victim to Barcelona’s sensational start to the season. Two more worrying signs at the back were the lowlights on a rainy night full of highlights, with Raphinha and his hat-trick signing brightest. Or maybe it was Cancelo’s opener. Or the Adeyemi and Lamine Yamal seventh. New Store! […] The post Raphinha’s Hat-Trick Headlines Rout of Racing | 5 Head",
+          "published": "Thu, 17 Sep 2026 05:42:36 +0000Thu, 17 Sep 2026 05:42:36 +0000"
+        }
+      ]
+    },
+    {
+      "headline": "Barça Femení vs Paris FC: Women's Champions League preview, predictions, team news and TV info",
+      "summary": "Barça Femení vs Paris FC: Women's Champions League preview, predictions, team news and TV info",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "Everything Barça",
+          "url": "https://everythingbarca.com/barca-femeni-vs-paris-fc-womens-champions-league-preview-predictions-team-news-and-tv-info",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Barça Femení vs Paris FC: Women's Champions League preview, predictions, team news and TV info",
+          "url": "https://everythingbarca.com/barca-femeni-vs-paris-fc-womens-champions-league-preview-predictions-team-news-and-tv-info",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 24,
+          "source": "Everything Barça",
+          "tier": "specialist",
+          "lang": [
+            "en"
+          ],
+          "title": "Sevilla vs Barcelona: La Liga preview, predictions, team news and TV info",
+          "url": "https://everythingbarca.com/sevilla-vs-barcelona-la-liga-preview-predictions-team-news-and-tv-info",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "A Logroño, con Aitana y Pina A Logroño, con Aitana y Pina",
+      "summary": "El FC Barcelona vuelve a ponerse el mono de la Liga F Moeve para medirse hoy al Logroño United (16.30 horas/ TV3, DAZN y RTVE Play). Tras imponerse este miércoles al Paris FC por 5-2 en el estreno de Champions, las de Pere Romeu viajaron ayer para jugar hoy ante el cuadro riojano el partido de la quinta jornada de la Liga F con la principal novedad del regreso de Aitana Bonmatí a la lista de convo",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260926/1004231224/logrono-aitana-pina.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260926/1004231224/logrono-aitana-pina.html",
+          "tier": "local"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "A Logroño, con Aitana y Pina A Logroño, con Aitana y Pina",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260926/1004231224/logrono-aitana-pina.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260926/1004231224/logrono-aitana-pina.html",
+          "summary": "El FC Barcelona vuelve a ponerse el mono de la Liga F Moeve para medirse hoy al Logroño United (16.30 horas/ TV3, DAZN y RTVE Play). Tras imponerse este miércoles al Paris FC por 5-2 en el estreno de Champions, las de Pere Romeu viajaron ayer para jugar hoy ante el cuadro riojano el partido de la quinta jornada de la Liga F con la principal novedad del regreso de Aitana Bonmatí a la lista de convo",
+          "published": "26 Sep 2026 05:45:00 +020026 Sep 2026 05:45:00 +0200"
+        },
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "Lo de Pina queda en un susto y Aitana entra en la lista Lo de Pina queda en un susto y Aitana entra en la lista",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260925/1004231110/pina-queda-susto-aitana-apunta-lista.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260925/1004231110/pina-queda-susto-aitana-apunta-lista.html",
+          "summary": "El FC Barcelona vuelve a ponerse el mono de la Liga F para medirse este sábado al Logroño United (16.30 horas/ DAZN). Tras imponerse al Paris FC por 5-2 en el estreno de Champions, las de Pere Romeu viajan este viernes para jugar ante el cuadro riojano el partido de la quinta jornada de la Liga F con la principal novedad del regreso de Aitana Bonmatí a la lista de convocadas.El FC Barcelona vuelve",
+          "published": "25 Sep 2026 11:51:27 +020025 Sep 2026 11:51:27 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "El Barça se va a los toros El Barça se va a los toros",
+      "summary": "En Montjuïc , en las explanadas próximas al estadio, cerca de Can Valero , era habitual ver a todas horas a jóvenes maletillas entregados al toreo. Eran chicos de las barracas que crecieron en la montaña con la emigración que imitaban a los grandes maestros batiéndose contra un cacharro sobre una rueda cubierto por una postiza cabeza de toro. La escena se repetía en el Poble Sec y en Can Tunis , i",
+      "source_count": 1,
+      "languages": [
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260926/1004231233/barca-toros.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260926/1004231233/barca-toros.html",
+          "tier": "local"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "El Barça se va a los toros El Barça se va a los toros",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260926/1004231233/barca-toros.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260926/1004231233/barca-toros.html",
+          "summary": "En Montjuïc , en las explanadas próximas al estadio, cerca de Can Valero , era habitual ver a todas horas a jóvenes maletillas entregados al toreo. Eran chicos de las barracas que crecieron en la montaña con la emigración que imitaban a los grandes maestros batiéndose contra un cacharro sobre una rueda cubierto por una postiza cabeza de toro. La escena se repetía en el Poble Sec y en Can Tunis , i",
+          "published": "26 Sep 2026 04:00:00 +020026 Sep 2026 04:00:00 +0200"
+        },
+        {
+          "source_id": 26,
+          "source": "Mundo Deportivo",
+          "tier": "local",
+          "lang": [
+            "es"
+          ],
+          "title": "El anti-Barça El anti-Barça",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260926/1004231194/anti-barca.htmlhttps://www.mundodeportivo.com/futbol/fc-barcelona/20260926/1004231194/anti-barca.html",
+          "summary": "Mourinho no es el anticristo, pero podría serlo. El personaje que se ha creado, evoca las fuerzas del mal, la crítica, la conspiración y la destrucción. Todo vale para ganar. Lo que sucede es que no siempre se vence. El Madrid de Florentino se las prometía muy felices cuando fichó al galáctico Mbappé y se encontró con el Barça de Flick y los ‘Golden Boys’. Mourinho no es el anticristo, pero podría",
+          "published": "26 Sep 2026 04:00:00 +020026 Sep 2026 04:00:00 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Lamine Yamal: “No me arrepiento de ser sincero sobre el Balón de Oro” Lamine Yamal: “No me arrepiento de ser sincero sobre el Balón de Oro”",
+      "summary": "El blaugrana responde a las críticas: “Si Mbappé y yo hubiéramos dicho que no lo merecemos, nos dirían que por qué decimos eso” El blaugrana responde a las críticas: “Si Mbappé y yo hubiéramos dicho que no lo merecemos, nos dirían que por qué decimos eso”",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260924/11643093/lamine-yamal-balon-de-oro-no-arrepiento-feliz.htmlhttps://www.lavanguardia.com/deportes/futbol/20260924/11643093/lamine-yamal-balon-de-oro-no-arrepiento-feliz.html",
+          "tier": "national"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Lamine Yamal: “No me arrepiento de ser sincero sobre el Balón de Oro” Lamine Yamal: “No me arrepiento de ser sincero sobre el Balón de Oro”",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20260924/11643093/lamine-yamal-balon-de-oro-no-arrepiento-feliz.htmlhttps://www.lavanguardia.com/deportes/futbol/20260924/11643093/lamine-yamal-balon-de-oro-no-arrepiento-feliz.html",
+          "summary": "El blaugrana responde a las críticas: “Si Mbappé y yo hubiéramos dicho que no lo merecemos, nos dirían que por qué decimos eso” El blaugrana responde a las críticas: “Si Mbappé y yo hubiéramos dicho que no lo merecemos, nos dirían que por qué decimos eso”",
+          "published": "24 Sep 2026 16:02:10 +020024 Sep 2026 16:02:10 +0200"
+        },
+        {
+          "source_id": 31,
+          "source": "La Vanguardia",
+          "tier": "national",
+          "lang": [
+            "es",
+            "ca"
+          ],
+          "title": "Lamine Yamal se reivindica en 'L’Equipe': “Quiero este Balón de Oro y cinco más” Lamine Yamal se reivindica en 'L’Equipe': “Quiero este Balón de Oro y cinco más”",
+          "url": "https://www.lavanguardia.com/deportes/fc-barcelona/20260922/11641585/lamine-yamal-l-equipe-balon-de-oro-argumento-forma-jugar.htmlhttps://www.lavanguardia.com/deportes/fc-barcelona/20260922/11641585/lamine-yamal-l-equipe-balon-de-oro-argumento-forma-jugar.html",
+          "summary": "El extremo considera que tiene “las capacidades y los recursos para estar entre los grandes” El extremo considera que tiene “las capacidades y los recursos para estar entre los grandes”",
+          "published": "22 Sep 2026 18:50:03 +020022 Sep 2026 18:50:03 +0200"
+        }
+      ]
+    },
+    {
+      "headline": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+      "summary": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona Noticias",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "tier": "specialist"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "Barcelona 2-0 Athletic Club: el proyecto de Hansi Flick firma un triunfo contundente en el Camp Nou",
+          "url": "https://www.fcbarcelonanoticias.com/barcelona-2-0-athletic-club-el-proyecto-de-hansi-flick-firma-un-triunfo-contundente-en-el-camp-nou/",
+          "summary": "",
+          "published": ""
+        },
+        {
+          "source_id": 40,
+          "source": "FC Barcelona Noticias",
+          "tier": "specialist",
+          "lang": [
+            "es",
+            "en"
+          ],
+          "title": "FC Barcelona – Athletic Club: Todo listo en el Camp Nou para un choque de altura",
+          "url": "https://www.fcbarcelonanoticias.com/fc-barcelona-athletic-club-todo-listo-en-el-camp-nou-para-un-choque-de-altura/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "ticket-vip BARÇA BUSINESS External link",
+      "summary": "ticket-vip BARÇA BUSINESS External link",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbarcelona.com/en/tickets/hospitality?int=WB_26-27_K0-272&btm_source=WebBarca&btm_medium=SliderMenu&btm_campaign=barcabusiness_EN_TKT_B2B_WW",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "ticket-vip BARÇA BUSINESS External link",
+          "url": "https://www.fcbarcelona.com/en/tickets/hospitality?int=WB_26-27_K0-272&btm_source=WebBarca&btm_medium=SliderMenu&btm_campaign=barcabusiness_EN_TKT_B2B_WW",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "summary": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Academy The flagship Barça school. Teaching Barça values to boys and girls",
+          "url": "https://barcaacademy.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=BarcaAcademy_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Foundation The Official site of the Barça Foundation.",
+      "summary": "Barça Foundation The Official site of the Barça Foundation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Foundation The Official site of the Barça Foundation.",
+          "url": "https://foundation.fcbarcelona.com/home?ext=OCM_880&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=Fundacio_ORG_DIG_WEB_TXT_WW_EN&utm_term=BarcaSitesFundacio",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "summary": "Barça Innovation Hub The center for sports knowledge and innovation.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Innovation Hub The center for sports knowledge and innovation.",
+          "url": "https://barcainnovationhub.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Bihub_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "summary": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcamobile.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Mobile The virtual mobile network operator of FC Barcelona",
+          "url": "https://barcamobile.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Espai Barça The largest and most innovative sports and entertainment space",
+      "summary": "Espai Barça The largest and most innovative sports and entertainment space",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Espai Barça The largest and most innovative sports and entertainment space",
+          "url": "https://espaibarca.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=EspaiBarca_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "summary": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://memorialfcbarcelona.com/en",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Memorial FC Barcelona FC Barcelona Memorial Official Website",
+          "url": "https://memorialfcbarcelona.com/en",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "summary": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Vision Barça Vision is an innovative platform that uses emerging technologies like Web3 and Artificial intelligence to revolutionise the fan experience.",
+          "url": "https://barcavision.fcbarcelona.com/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Barca-Vision_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "summary": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Official Store Camp Nou Shop now at Barça's Official Store Camp Nou",
+          "url": "https://store.fcbarcelona.com/en/?ext=OCM_2913&utm_source=WebBarca&utm_medium=BarcaSites&utm_campaign=BLM_ORG_BLM_HOME_OCM_webBarca_TXT_WW_EN&utm_content=&utm_term=BarcaSitesBLM",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "summary": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Penyes All the official information of the FC Barcelona Supporters' Clubs",
+          "url": "https://penyes.fcbarcelona.com/en/",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "summary": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Agrupació Jugadors The organisation that unites ex-players from all FC Barcelona football teams.",
+          "url": "https://agrupaciojugadors.fcbarcelona.com/en/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=ABJ_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Players Find all the players that have played for Barça!",
+      "summary": "Barça Players Find all the players that have played for Barça!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Players Find all the players that have played for Barça!",
+          "url": "https://players.fcbarcelona.com/en?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Players_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Barça Rookies Barça's most special fans!",
+      "summary": "Barça Rookies Barça's most special fans!",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "Barça Rookies Barça's most special fans!",
+          "url": "https://www.fcbrookies.cat/?btm_source=WebBarca&btm_medium=BarcaSites&btm_campaign=Rookies_ORG_DIG_WEB_WebBarca_TXT_WW_EN",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "FC Barcelona club badge Vote for the best moment in September First Team Published date 22 hrs ago",
+      "summary": "FC Barcelona club badge Vote for the best moment in September First Team Published date 22 hrs ago",
+      "source_count": 1,
+      "languages": [
+        "ca",
+        "en",
+        "es"
+      ],
+      "sources": [
+        {
+          "name": "FC Barcelona News",
+          "url": "https://ow.ly/exy450ZRncH",
+          "tier": "official"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 1,
+          "source": "FC Barcelona News",
+          "tier": "official",
+          "lang": [
+            "en",
+            "es",
+            "ca"
+          ],
+          "title": "FC Barcelona club badge Vote for the best moment in September First Team Published date 22 hrs ago",
+          "url": "https://ow.ly/exy450ZRncH",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Rodri believes in Man City's 'innocence'Rodri believes in Man City's 'innocence'",
+      "summary": "Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmkgwwze9r28o?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/cmkgwwze9r28o?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Rodri believes in Man City's 'innocence'Rodri believes in Man City's 'innocence'",
+          "url": "https://www.bbc.co.uk/sport/football/articles/cmkgwwze9r28o?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/cmkgwwze9r28o?at_medium=RSS&at_campaign=rss",
+          "summary": "Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.Former Manchester City midfielder Rodri believes the club are innocent of any financial wrongdoing and will trust them unless they are proved otherwise.",
+          "published": "Fri, 25 Sep 2026 21:56:35 GMTFri, 25 Sep 2026 21:56:35 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Education, Barcelona & Basque culture - why Spain are dominating footballEducation, Barcelona & Basque culture - why Spain are dominating football",
+      "summary": "Spain go into Saturday's Nations League match against England on a 38-match unbeaten run - and with a host of honours to their name. Why are they so good?Spain go into Saturday's Nations League match against England on a 38-match unbeaten run - and with a host of honours to their name. Why are they so good?",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "BBC Sport",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c1e5d2n273zo?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/c1e5d2n273zo?at_medium=RSS&at_campaign=rss",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 6,
+          "source": "BBC Sport",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Education, Barcelona & Basque culture - why Spain are dominating footballEducation, Barcelona & Basque culture - why Spain are dominating football",
+          "url": "https://www.bbc.co.uk/sport/football/articles/c1e5d2n273zo?at_medium=RSS&at_campaign=rsshttps://www.bbc.co.uk/sport/football/articles/c1e5d2n273zo?at_medium=RSS&at_campaign=rss",
+          "summary": "Spain go into Saturday's Nations League match against England on a 38-match unbeaten run - and with a host of honours to their name. Why are they so good?Spain go into Saturday's Nations League match against England on a 38-match unbeaten run - and with a host of honours to their name. Why are they so good?",
+          "published": "Fri, 25 Sep 2026 06:20:57 GMTFri, 25 Sep 2026 06:20:57 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Lamine Yamal: ‘Football is mechanised but players like me have that special spark’Lamine Yamal: ‘Football is mechanised but players like me have that special spark’",
+      "summary": "Spain and Barcelona wonderkid has won World Cup and European Championship but says there are no limits for his career Like the kid he is, Lamine Yamal just wanted to keep playing. This wasn’t Plaça Joan XXIII, wasn’t El Parque de Rocafonda either; it wasn’t the Mataró neighbourhood where it all began, but it might have been. “We’re in a World Cup final and I wanted to carry on,” he says, and there",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/26/lamine-yamal-football-special-spark-spain-world-cup-barcelonahttps://www.theguardian.com/football/2026/sep/26/lamine-yamal-football-special-spark-spain-world-cup-barcelona",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Lamine Yamal: ‘Football is mechanised but players like me have that special spark’Lamine Yamal: ‘Football is mechanised but players like me have that special spark’",
+          "url": "https://www.theguardian.com/football/2026/sep/26/lamine-yamal-football-special-spark-spain-world-cup-barcelonahttps://www.theguardian.com/football/2026/sep/26/lamine-yamal-football-special-spark-spain-world-cup-barcelona",
+          "summary": "Spain and Barcelona wonderkid has won World Cup and European Championship but says there are no limits for his career Like the kid he is, Lamine Yamal just wanted to keep playing. This wasn’t Plaça Joan XXIII, wasn’t El Parque de Rocafonda either; it wasn’t the Mataró neighbourhood where it all began, but it might have been. “We’re in a World Cup final and I wanted to carry on,” he says, and there",
+          "published": "Sat, 26 Sep 2026 07:00:30 GMTSat, 26 Sep 2026 07:00:30 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Rodri insists Manchester City ‘deserved’ success despite FFP guilty verdictRodri insists Manchester City ‘deserved’ success despite FFP guilty verdict",
+      "summary": "‘I believe in the justice system and innocence of the club’ Midfielder ended glittering spell with City this year Rodri says nobody can take away Manchester City players’ success and still believes in his former club’s innocence despite reports they have been found guilty of breaching Premier League financial rules . The football world was rocked on Friday afternoon when a variety of outlets repor",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/25/rodri-adamant-manchester-city-deserved-success-despite-being-found-guilty-of-rule-breakinghttps://www.theguardian.com/football/2026/sep/25/rodri-adamant-manchester-city-deserved-success-despite-being-found-guilty-of-rule-breaking",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Rodri insists Manchester City ‘deserved’ success despite FFP guilty verdictRodri insists Manchester City ‘deserved’ success despite FFP guilty verdict",
+          "url": "https://www.theguardian.com/football/2026/sep/25/rodri-adamant-manchester-city-deserved-success-despite-being-found-guilty-of-rule-breakinghttps://www.theguardian.com/football/2026/sep/25/rodri-adamant-manchester-city-deserved-success-despite-being-found-guilty-of-rule-breaking",
+          "summary": "‘I believe in the justice system and innocence of the club’ Midfielder ended glittering spell with City this year Rodri says nobody can take away Manchester City players’ success and still believes in his former club’s innocence despite reports they have been found guilty of breaching Premier League financial rules . The football world was rocked on Friday afternoon when a variety of outlets repor",
+          "published": "Fri, 25 Sep 2026 22:42:47 GMTFri, 25 Sep 2026 22:42:47 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Raphinha: ‘In my head I was leaving Barça, but a few small words can change you’Raphinha: ‘In my head I was leaving Barça, but a few small words can change you’",
+      "summary": "Two years ago the Brazilian thought his time at Barcelona was ending but, two La Liga titles later, he is now captain and the most potent No 9 in Europe For once, Raphael Dias Belloli puts the brakes on. The man who seems to be in perpetual motion, a footballer forever on fast forward, pauses, goes quiet for a moment and then, softly, utters something that says so much: “I think maybe people saw i",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2026/sep/24/raphinha-barcelona-interview-la-liga-no9https://www.theguardian.com/football/2026/sep/24/raphinha-barcelona-interview-la-liga-no9",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Raphinha: ‘In my head I was leaving Barça, but a few small words can change you’Raphinha: ‘In my head I was leaving Barça, but a few small words can change you’",
+          "url": "https://www.theguardian.com/football/2026/sep/24/raphinha-barcelona-interview-la-liga-no9https://www.theguardian.com/football/2026/sep/24/raphinha-barcelona-interview-la-liga-no9",
+          "summary": "Two years ago the Brazilian thought his time at Barcelona was ending but, two La Liga titles later, he is now captain and the most potent No 9 in Europe For once, Raphael Dias Belloli puts the brakes on. The man who seems to be in perpetual motion, a footballer forever on fast forward, pauses, goes quiet for a moment and then, softly, utters something that says so much: “I think maybe people saw i",
+          "published": "Thu, 24 Sep 2026 17:00:25 GMTThu, 24 Sep 2026 17:00:25 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+      "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "The 100 best male footballers in the world 2025The 100 best male footballers in the world 2025",
+          "url": "https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025https://www.theguardian.com/football/ng-interactive/2025/dec/16/the-100-best-male-footballers-in-the-world-2025",
+          "summary": "Ousmane Dembélé becomes our seventh winner as he beats Lamine Yamal into second and Vitinha into third on our list of the best players on the planet Premier League dominates list | How every judge voted | Our methodology | The top 100 female players for 2025 2024 edition | 2023 | 2022 | 2021 | 2020 | 2019 | 2018 | 2017 | 2016 | 2015 | 2014 | 2013 | 2012 Continue reading... Ousmane Dembélé becomes ",
+          "published": "Fri, 19 Dec 2025 10:04:51 GMTFri, 19 Dec 2025 10:04:51 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+      "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "The Guardian",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 7,
+          "source": "The Guardian",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Aitana Bonmatí makes Guardian top 100 history with third title in a rowAitana Bonmatí makes Guardian top 100 history with third title in a row",
+          "url": "https://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-titlehttps://www.theguardian.com/football/2025/dec/05/aitana-bonmati-guardian-top-100-history-third-straight-title",
+          "summary": "The margin may have got smaller but the brilliant Spanish midfielder makes it a hat-trick of No 1 finishes They say the best things come in threes, and Aitana Bonmatí has written herself into the Guardian’s top 100 history as the first player to finish at the top of the tree for a third consecutive year. Last year the majestic midfielder emulated her Barcelona and Spain teammate Alexia Putellas by",
+          "published": "Fri, 05 Dec 2025 08:00:42 GMTFri, 05 Dec 2025 08:00:42 GMT"
+        }
+      ]
+    },
+    {
+      "headline": "Rodri explains his decision to snub Real Madrid and join Barcelona Your best source for quality Real Madrid news, rumors, analysis, stats and scores from the fan perspective.",
+      "summary": "Rodri explains his decision to snub Real Madrid and join Barcelona Your best source for quality Real Madrid news, rumors, analysis, stats and scores from the fan perspective.",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "FOX Sports",
+          "url": "https://www.managingmadrid.com/113410/rodri-barcelona-real-madrid-interview-quotes-2026",
+          "tier": "major"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 12,
+          "source": "FOX Sports",
+          "tier": "major",
+          "lang": [
+            "en"
+          ],
+          "title": "Rodri explains his decision to snub Real Madrid and join Barcelona Your best source for quality Real Madrid news, rumors, analysis, stats and scores from the fan perspective.",
+          "url": "https://www.managingmadrid.com/113410/rodri-barcelona-real-madrid-interview-quotes-2026",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Rodri Names His Six-Man Ballon d’Or Shortlist—And There’s a Theme",
+      "summary": "Rodri Names His Six-Man Ballon d’Or Shortlist—And There’s a Theme",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/rodri-names-six-man-ballon-dor-shortlist-theme",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Rodri Names His Six-Man Ballon d’Or Shortlist—And There’s a Theme",
+          "url": "https://www.si.com/soccer/rodri-names-six-man-ballon-dor-shortlist-theme",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Rodri Reveals Why He Chose Barcelona Over Real Madrid—Despite Jose Mourinho ‘Attraction’",
+      "summary": "Rodri Reveals Why He Chose Barcelona Over Real Madrid—Despite Jose Mourinho ‘Attraction’",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/rodri-why-chose-barcelona-over-real-madrid-jose-mourinho-attraction",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Rodri Reveals Why He Chose Barcelona Over Real Madrid—Despite Jose Mourinho ‘Attraction’",
+          "url": "https://www.si.com/soccer/rodri-why-chose-barcelona-over-real-madrid-jose-mourinho-attraction",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or",
+      "summary": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/five-reasons-why-lamine-yamal-should-win-2026-ballon-dor",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Five Reasons Why Lamine Yamal Should Win the 2026 Ballon d’Or",
+          "url": "https://www.si.com/soccer/five-reasons-why-lamine-yamal-should-win-2026-ballon-dor",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Raphinha Obliterated Even His Own Doubts in Historic Start to Season",
+      "summary": "Raphinha Obliterated Even His Own Doubts in Historic Start to Season",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/raphinha-obliterated-doubts-historic-start-to-season",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Raphinha Obliterated Even His Own Doubts in Historic Start to Season",
+          "url": "https://www.si.com/soccer/raphinha-obliterated-doubts-historic-start-to-season",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Lamine Yamal Sets Fascinating Personal Target",
+      "summary": "Lamine Yamal Sets Fascinating Personal Target",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/lamine-yamal-fascinating-personal-target",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Lamine Yamal Sets Fascinating Personal Target",
+          "url": "https://www.si.com/soccer/lamine-yamal-fascinating-personal-target",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Lamine Yamal Changes His Mind About Lionel Messi’s Ballon d’Or Chances",
+      "summary": "Lamine Yamal Changes His Mind About Lionel Messi’s Ballon d’Or Chances",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/lamine-yamal-changes-mind-lionel-messi-ballon-dor-chances",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Lamine Yamal Changes His Mind About Lionel Messi’s Ballon d’Or Chances",
+          "url": "https://www.si.com/soccer/lamine-yamal-changes-mind-lionel-messi-ballon-dor-chances",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "Why Joao Pedro Rejected Summer Arsenal, Barcelona Interest for Chelsea Stay",
+      "summary": "Why Joao Pedro Rejected Summer Arsenal, Barcelona Interest for Chelsea Stay",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/why-joao-pedro-rejected-arsenal-barcelona-interest-chelsea-stay",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "Why Joao Pedro Rejected Summer Arsenal, Barcelona Interest for Chelsea Stay",
+          "url": "https://www.si.com/soccer/why-joao-pedro-rejected-arsenal-barcelona-interest-chelsea-stay",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    },
+    {
+      "headline": "The Top-Scoring Brazilians in Barcelona History",
+      "summary": "The Top-Scoring Brazilians in Barcelona History",
+      "source_count": 1,
+      "languages": [
+        "en"
+      ],
+      "sources": [
+        {
+          "name": "90min",
+          "url": "https://www.si.com/soccer/top-scoring-brazilians-barcelona-history",
+          "tier": "volume"
+        }
+      ],
+      "articles": [
+        {
+          "source_id": 15,
+          "source": "90min",
+          "tier": "volume",
+          "lang": [
+            "en"
+          ],
+          "title": "The Top-Scoring Brazilians in Barcelona History",
+          "url": "https://www.si.com/soccer/top-scoring-brazilians-barcelona-history",
+          "summary": "",
+          "published": ""
+        }
+      ]
+    }
+  ]
+}
