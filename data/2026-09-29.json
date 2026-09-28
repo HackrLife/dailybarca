@@ -1,1 +1,48 @@
-PLACEHOLDER
+{
+  "number": 266,
+  "date": "2026-09-29",
+  "label": "Tuesday 29 Sep 2026",
+  "title": {
+    "en": "Eric Garcia clears medicals after Spain knee scare; Barça one win from best-ever LaLiga start; Yamal pushes Ballon d’Or case",
+    "es": "Eric Garcia supera las pruebas tras el susto de rodilla con España; el Barça a un triunfo del mejor inicio de Liga; Yamal empuja el Balón de Oro"
+  },
+  "deck": {
+    "en": "Eric Garcia underwent checks at the Ciutat Esportiva on Monday after withdrawing from Spain’s squad with left-knee discomfort; club doctors found no lesion and he is expected to be available for Getafe on 10 October. Flick’s side sit on seven straight league wins and need one more to match Tata Martino’s 2013/14 record. Lamine Yamal scored in Spain’s 3-2 win at Wembley and continues to dominate Ballon d’Or conversation.",
+    "es": "Eric Garcia pasó por la Ciutat Esportiva el lunes tras abandonar la concentración de España por molestias en la rodilla izquierda; los médicos del club no detectaron lesión y se espera que esté disponible ante el Getafe el 10 de octubre. El equipo de Flick suma siete victorias ligueras seguidas y necesita una más para igualar el récord de Tata Martino en 2013/14. Lamine Yamal marcó en el 3-2 de España en Wembley y sigue dominando la conversación del Balón de Oro."
+  },
+  "defaultSources": [
+    {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+    {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"},
+    {"label": "SPORT", "url": "https://www.sport.es/es/barca/"},
+    {"label": "MARCA", "url": "https://www.marca.com/futbol/barcelona.html"},
+    {"label": "AS", "url": "https://as.com/futbol/barcelona/"},
+    {"label": "The Athletic", "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"}
+  ],
+  "stories": [
+    {
+      "theme": "injury",
+      "kicker": {"en": "Eric Garcia", "es": "Eric Garcia"},
+      "headline": {
+        "en": "Eric Garcia clears medical checks: no lesion, only precaution after Spain knee scare",
+        "es": "Eric Garcia supera las pruebas: no hay lesión, solo precaución tras el susto de rodilla con España"
+      },
+      "summary": {
+        "en": "Eric Garcia attended the Ciutat Esportiva on Monday morning for medical checks after withdrawing from Spain’s Nations League squad with left-knee discomfort. Club doctors validated the RFEF tests and confirmed there is no lesion. He is expected to be available for the Getafe match on 10 October after the rest of the international break.",
+        "es": "Eric Garcia acudió el lunes por la mañana a la Ciutat Esportiva para pruebas médicas tras abandonar la concentración de España por molestias en la rodilla izquierda. Los médicos del club dieron por buenas las pruebas de la RFEF y confirmaron que no hay lesión. Se espera que esté disponible para el partido ante el Getafe el 10 de octubre."
+      },
+      "body": {
+        "en": "Garcia had been named in Luis de la Fuente’s starting lineup for the Wembley clash with England but felt the problem in the warm-up and never took the field. Spain called up Robin Le Normand as cover and later released the Barcelona defender so he could return home. Mundo Deportivo and SPORT both reported that the club will not issue a formal medical bulletin because the issue is purely precautionary.\n\nTraining for the full first-team group does not resume until Monday 5 October, giving Garcia several clear days. Christensen remains sidelined with a thigh strain, so the early return of the versatile defender would ease pressure on the back line ahead of a dense October that includes Getafe, Betis, Galatasaray and PSG.",
+        "es": "Garcia había sido alineado por Luis de la Fuente para el partido de Wembley ante Inglaterra, pero notó el problema en el calentamiento y no llegó a saltar al campo. España convocó a Robin Le Normand como refuerzo y más tarde liberó al defensa del Barcelona para que regresara a casa. Mundo Deportivo y SPORT coincidieron en que el club no emitirá parte médico oficial porque se trata de pura precaución.\n\nEl entrenamiento del grupo completo no se reanuda hasta el lunes 5 de octubre, lo que deja varios días libres a Garcia. Christensen sigue de baja por una sobrecarga en el muslo, así que el regreso anticipado del polivalente defensa aliviaría la presión en la zaga ante un octubre cargado que incluye Getafe, Betis, Galatasaray y el PSG."
+      },
+      "tweets": [
+        {"name": "Diario SPORT", "handle": "@sport", "id": "2104538315496346001", "text": "✅ Buenas noticias para Èric Garcia\n\n🏃‍♂️ El central ha pasado por la Ciutat Esportiva para pasar pruebas médicas y conocer el alcance de los problemas físicos que sufrió con España"},
+        {"name": "Mundo Deportivo", "handle": "@mundodeportivo", "id": "2104537480049361346", "text": "🔎 Eric Garcia, en la Ciutat Esportiva para un vistazo médico de control"}
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260928/1004232111/eric-garcia-ciutat-esportiva-vistazo-medico-no-hay-lesion-precaucion.html"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/buenas-noticias-eric-garcia-134758708"},
+        {"label": "Barca Blaugranes", "url": "https://www.barcablaugranes.com/barcelona-team-news/133631/optimistic-eric-garcia-fitness-after-defender-withdraws-from-spain-squad"}
+      ]
+    }
+  ]
+}
