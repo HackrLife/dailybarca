@@ -1,0 +1,350 @@
+{
+  "number": 270,
+  "date": "2026-10-03",
+  "label": "Saturday 3 Oct 2026",
+  "title": {
+    "en": "Raphinha's scan is clean; Liga MVP for September; Flick still will not rush him",
+    "es": "La prueba de Raphinha sale limpia; MVP de Liga en septiembre; Flick no le adelantara"
+  },
+  "deck": {
+    "en": "Club doctors at the Ciutat Esportiva on Friday matched Brazil's reading: edema in the right thigh, no tear. Raphinha can be in the squad for Getafe on 10 October. SPORT says Flick will not start him for the sake of it, with Gabriel Jesus first in line. LaLiga named the captain player of September. Cancelo's strike against Racing took goal of the month.",
+    "es": "Los medicos de la Ciutat Esportiva coincidieron el viernes con Brasil: edema en el muslo derecho, sin rotura. Raphinha puede estar ante el Getafe el 10 de octubre. SPORT dice que Flick no le pondra de titular por inercia, con Gabriel Jesus el primero en la lista. LaLiga le nombro mejor jugador de septiembre. El trallazo de Cancelo ante el Racing fue el gol del mes."
+  },
+  "defaultSources": [
+    {
+      "label": "Mundo Deportivo",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261002/1004233724/barca-respira-pruebas-raphinha-estara-getafe.html"
+    },
+    {
+      "label": "La Vanguardia",
+      "url": "https://www.lavanguardia.com/deportes/futbol/20261002/11649477/raphinha-no-sufre-lesion-jugar-getafe-barca-hansi-flick.html"
+    },
+    {
+      "label": "Cadena SER",
+      "url": "https://cadenaser.com/nacional/2026/10/02/raphinha-no-sufre-lesion-las-pruebas-del-barca-confirman-el-diagnostico-de-los-servicios-medicos-de-brasil-cadena-ser/"
+    },
+    {
+      "label": "FC Barcelona",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news"
+    },
+    {
+      "label": "SPORT",
+      "url": "https://www.sport.es/es/barca/"
+    },
+    {
+      "label": "Mundo Deportivo",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/"
+    }
+  ],
+  "stories": [
+    {
+      "theme": "injury",
+      "kicker": {
+        "en": "Raphinha",
+        "es": "Raphinha"
+      },
+      "headline": {
+        "en": "Friday's scan finds no tear; Raphinha can face Getafe on 10 October",
+        "es": "La prueba del viernes no ve rotura; Raphinha puede jugar el 10 ante el Getafe"
+      },
+      "summary": {
+        "en": "Raphinha spent about 90 minutes at the Ciutat Esportiva Joan Gamper on Friday morning. Club sources told Mundo Deportivo, La Vanguardia and Cadena SER the tests match the Brazilian federation: a small edema in the back of the right thigh, no muscle tear. He left in the rain. The club will not put out a medical note.",
+        "es": "Raphinha estuvo unos 90 minutos en la Ciutat Esportiva Joan Gamper el viernes por la manana. Fuentes del club dijeron a Mundo Deportivo, La Vanguardia y Cadena SER que las pruebas coinciden con la federacion brasilena: un edema pequeno en la parte posterior del muslo derecho, sin rotura. Se fue con lluvia. El club no publicara parte medico."
+      },
+      "body": {
+        "en": "He came off at half-time in Brisbane on Tuesday after a penalty in Brazil's 4-2 win over Australia. The CBF scan on Wednesday cleared him from Saturday's friendly against India in Kolkata. No replacement was called. He landed in Barcelona on Thursday after a flight of more than twenty hours via Dubai.\n\nLaura Aparicio at Mundo Deportivo wrote that he will be available for Getafe at Spotify Camp Nou on Saturday 10 October at 18:30. Cadena SER's Nil Sola reported the same line: available, in the same group as Eric Garcia and Joan Garcia, both of whom also left Spain's camp early. Training restarts on Monday 5 October. The staff will set his load across the four sessions before Getafe.",
+        "es": "Salio al descanso en Brisbane el martes despues de un penalti en el 4-2 de Brasil ante Australia. La resonancia de la CBF el miercoles le libero del amistoso del sabado ante la India en Calcuta. No hubo sustituto. Aterrizo en Barcelona el jueves tras un vuelo de mas de veinte horas via Dubai.\n\nLaura Aparicio en Mundo Deportivo escribe que estara disponible ante el Getafe en el Spotify Camp Nou el sabado 10 de octubre a las 18:30. Nil Sola en Cadena SER da la misma linea: disponible, en el mismo grupo que Eric Garcia y Joan Garcia, que tambien dejaron antes la concentracion de Espana. Los entrenamientos vuelven el lunes 5 de octubre. El staff marcara la carga en las cuatro sesiones previas al Getafe."
+      },
+      "tweets": [
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2105971926510510203"
+        },
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2105978135858618763"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261002/1004233724/barca-respira-pruebas-raphinha-estara-getafe.html"
+        },
+        {
+          "label": "La Vanguardia",
+          "url": "https://www.lavanguardia.com/deportes/futbol/20261002/11649477/raphinha-no-sufre-lesion-jugar-getafe-barca-hansi-flick.html"
+        },
+        {
+          "label": "Cadena SER",
+          "url": "https://cadenaser.com/nacional/2026/10/02/raphinha-no-sufre-lesion-las-pruebas-del-barca-confirman-el-diagnostico-de-los-servicios-medicos-de-brasil-cadena-ser/"
+        }
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {
+        "en": "Hansi Flick",
+        "es": "Hansi Flick"
+      },
+      "headline": {
+        "en": "Flick will not start him for the sake of it; Jesus is first in line",
+        "es": "Flick no le pondra por inercia; Jesus es el primero en la lista"
+      },
+      "summary": {
+        "en": "SPORT said on Friday that the scan is good news and that Hansi Flick still will not take a risk with the captain. The paper put Gabriel Jesus's first start on the horizon if Raphinha is held out against Getafe. Barca Universal reported a heavier rotation once the two-games-a-week run starts, with Hamza Abdelkarim and Brian Farinas also in the mix.",
+        "es": "SPORT dijo el viernes que la prueba es una buena noticia y que Hansi Flick aun asi no arriesgara con el capitan. El diario situa la primera titularidad de Gabriel Jesus en el horizonte si Raphinha se queda fuera ante el Getafe. Barca Universal informo de una rotacion mas ancha cuando empiece la racha de dos partidos por semana, con Hamza Abdelkarim y Brian Farinas tambien en la lista."
+      },
+      "body": {
+        "en": "The caution has a date on it from last season. A similar right-thigh problem was pushed and ended in a 58-day absence. Being named in the squad on 10 October is not the same as starting. Getafe at home is the softest fixture before Galatasaray in Istanbul on the 13th at 21:00, Betis away on the 17th, Paris Saint-Germain on the 20th and Real Madrid at home on the 25th at 21:00.\n\nJesus arrived in the summer and has not started a league match. Abdelkarim is the other natural nine. Farinas is one of the names with fewer minutes that the coaching staff want to see once the group is back on Monday. A win over Getafe would match the club's best LaLiga start, eight from eight, set under Tata Martino in 2013-14. Barcelona have 21 points from 21.",
+        "es": "La prudencia tiene fecha de la temporada pasada. Un problema parecido en el muslo derecho se forzo y acabo en 58 dias de baja. Estar en la convocatoria del 10 de octubre no es lo mismo que ser titular. El Getafe en casa es el partido mas asequible antes de Galatasaray en Estambul el 13 a las 21:00, el Betis fuera el 17, el Paris Saint-Germain el 20 y el Real Madrid en casa el 25 a las 21:00.\n\nJesus llego en verano y no ha sido titular en Liga. Abdelkarim es el otro nueve natural. Farinas es uno de los nombres con menos minutos que el staff quiere ver cuando el grupo vuelva el lunes. Ganar al Getafe igualaria el mejor arranque liguero del club, ocho de ocho, fijado con Tata Martino en 2013-14. El Barca suma 21 puntos de 21."
+      },
+      "tweets": [
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2106087820502643039"
+        },
+        {
+          "name": "Barca Universal",
+          "handle": "@BarcaUniversal",
+          "id": "2106127083818643594"
+        }
+      ],
+      "sources": [
+        {
+          "label": "SPORT",
+          "url": "https://www.sport.es/es/barca/"
+        },
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004232909/opciones-flick-raphinha-no-recupera.html"
+        }
+      ]
+    },
+    {
+      "theme": "award",
+      "kicker": {
+        "en": "LaLiga",
+        "es": "LaLiga"
+      },
+      "headline": {
+        "en": "Raphinha is LaLiga player of September, back to back",
+        "es": "Raphinha, mejor jugador de LaLiga en septiembre, segundo mes seguido"
+      },
+      "summary": {
+        "en": "FC Barcelona confirmed on Friday that Raphinha has won LaLiga's player of the month for September, his second award in a row. The captain has 12 league goals and three assists in seven matches, 15 goal contributions. The club also named Hansi Flick coach of the month earlier in the week.",
+        "es": "El FC Barcelona confirmo el viernes que Raphinha ha ganado el jugador del mes de LaLiga en septiembre, su segundo premio seguido. El capitan suma 12 goles de Liga y tres asistencias en siete partidos, 15 contribuciones. El club ya habia nombrado a Hansi Flick entrenador del mes a principios de semana."
+      },
+      "body": {
+        "en": "September closed with the 3-1 win at Sevilla on 19 September, Raphinha's second hat-trick of the league season, and with Barcelona seven from seven. The official note calls him the league's best player of the month and points to the scoring run that has him clear at the top of the Pichichi list.\n\nThe award landed on the same afternoon as the scan. He is also Brazil captain. Thibaut Courtois told Onda Cero on Thursday he was surprised Raphinha is not on the Ballon d'Or list and that Madrid will have to stop him at Spotify Camp Nou on 25 October. The player-of-the-month vote is separate from that shortlist.",
+        "es": "Septiembre se cerro con el 3-1 en Sevilla el 19 de septiembre, segundo hat-trick liguero de Raphinha, y con el Barca con siete de siete. La nota oficial le llama mejor jugador del mes y apunta a la racha goleadora que le deja claro en el pichichi.\n\nEl premio cayo la misma tarde que la prueba. Tambien es capitan de Brasil. Thibaut Courtois dijo el jueves en Onda Cero que le sorprendia que Raphinha no estuviera en la lista del Balon de Oro y que el Madrid tendra que frenarle en el Spotify Camp Nou el 25 de octubre. El voto del jugador del mes va aparte de esa lista."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2106097547437822149"
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2106097111372796043"
+        }
+      ],
+      "sources": [
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news"
+        }
+      ]
+    },
+    {
+      "theme": "award",
+      "kicker": {
+        "en": "Joao Cancelo",
+        "es": "Joao Cancelo"
+      },
+      "headline": {
+        "en": "Cancelo's strike against Racing is LaLiga goal of September",
+        "es": "El trallazo de Cancelo ante el Racing, gol de LaLiga en septiembre"
+      },
+      "summary": {
+        "en": "LaLiga gave Joao Cancelo goal of the month for the shot from outside the area that opened the 7-2 win over Racing de Santander at Spotify Camp Nou. It is the second time he has won the award in a Barcelona shirt. The first was a goal against Betis in September 2023, on loan from Manchester City.",
+        "es": "LaLiga dio a Joao Cancelo el gol del mes por el disparo desde fuera del area que abrio el 7-2 ante el Racing de Santander en el Spotify Camp Nou. Es la segunda vez que gana el premio con la camiseta del Barca. La primera fue un gol ante el Betis en septiembre de 2023, cedido por el Manchester City."
+      },
+      "body": {
+        "en": "Mundo Deportivo's Javier Gascon noted that Cancelo, 32, has scored three times since he came back, first on loan from Al-Hilal in January 2026 and now on a permanent deal. He called the Racing goal the best of his career in the mixed zone that night. He began the league as a substitute for Xavi Espart on the left and has started the last two before the break.\n\nWith Portugal he has been on the right because Nuno Mendes is fixed on the left. He scored in the 4-2 Nations League win over Denmark. SPORT read that as a message to Flick: with Eric Garcia managing a knee that kept him out of Spain's last games, Cancelo is an option on the right as well as the left. Full training is Monday.",
+        "es": "Javier Gascon en Mundo Deportivo apunta que Cancelo, de 32 anos, ha marcado tres veces desde que volvio, primero cedido por el Al-Hilal en enero de 2026 y ahora en propiedad. En la zona mixta de aquella noche llamo al gol del Racing el mejor de su carrera. Empezo la Liga como suplente de Xavi Espart por la izquierda y ha sido titular en las dos ultimas antes del paron.\n\nCon Portugal ha jugado por la derecha porque Nuno Mendes esta fijo en la izquierda. Marco en el 4-2 de la Nations League ante Dinamarca. SPORT lo lee como un mensaje a Flick: con Eric Garcia dosificando una rodilla que le dejo fuera de los ultimos partidos de Espana, Cancelo es opcion por la derecha ademas de por la izquierda. El entrenamiento completo es el lunes."
+      },
+      "tweets": [
+        {
+          "name": "Barca Universal",
+          "handle": "@BarcaUniversal",
+          "id": "2106066683467387105"
+        },
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2106049949347541144"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233402/gol-joao-cancelo-racing-elegido-laliga-mejor-septiembre.html"
+        },
+        {
+          "label": "SPORT",
+          "url": "https://www.sport.es/es/noticias/barca/mensaje-joao-cancelo-flick-oposita-134913149"
+        },
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news"
+        }
+      ]
+    },
+    {
+      "theme": "squad",
+      "kicker": {
+        "en": "Goalkeepers",
+        "es": "Porteros"
+      },
+      "headline": {
+        "en": "Livakovic's agent: five or ten games, and Joan Garcia is the best in the world",
+        "es": "El agente de Livakovic: cinco o diez partidos, y Joan Garcia es el mejor del mundo"
+      },
+      "summary": {
+        "en": "Andy Bara told Mundo Deportivo on Friday that Dominik Livakovic did not join to take the number one from Joan Garcia. He said a line from the Inkubator podcast had been badly translated. The plan he described is five to ten appearances, including the Cup, because the calendar is heavy. He called Garcia the best goalkeeper in the world.",
+        "es": "Andy Bara dijo el viernes a Mundo Deportivo que Dominik Livakovic no llego para quitarle el numero uno a Joan Garcia. Aseguro que una frase del podcast Inkubator se habia traducido mal. El plan que describe es cinco o diez partidos, Copa incluida, porque el calendario pesa. Llamo a Garcia el mejor portero del mundo."
+      },
+      "body": {
+        "en": "Livakovic, 31, signed until 2030 after a loan back to a Croatian club fell through. The fee was reported around 3 million euros. He has started both Croatia games this window, a 2-1 win over the Czech Republic and the 4-1 loss to Spain in Seville, and he is on 81 caps. He made his Barcelona debut at the Sanchez-Pizjuan before the break.\n\nGarcia has been out since a left-knee problem ruled him out of that Sevilla match and out of Spain's camp. The club note on 17 September called it mild discomfort, with a return window of two to three weeks, which still reaches Getafe on 10 October. SPORT has framed Flick's first call after the break as Garcia or Livakovic. Bara also represents Dani Olmo. Wojciech Szczesny remains third.",
+        "es": "Livakovic, de 31 anos, firmo hasta 2030 despues de que se cayera una cesion a un club croata. La cifra publicada ronda los 3 millones. Ha sido titular en los dos partidos de Croacia esta ventana, un 2-1 ante la Republica Checa y el 4-1 ante Espana en Sevilla, y suma 81 internacionalidades. Debuto con el Barca en el Sanchez-Pizjuan antes del paron.\n\nGarcia esta fuera desde que una molestia en la rodilla izquierda le dejo sin el Sevilla y sin la concentracion de Espana. El parte del 17 de septiembre hablo de molestias leves, con una ventana de dos o tres semanas, que aun llega al Getafe del 10 de octubre. SPORT ha planteado la primera decision de Flick tras el paron como Garcia o Livakovic. Bara tambien representa a Dani Olmo. Wojciech Szczesny sigue de tercero."
+      },
+      "tweets": [
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2105971375923957819"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261002/1004233780/andy-bara-livakovic-jugar-cinco-diez-partidos-temporada.html"
+        },
+        {
+          "label": "SPORT",
+          "url": "https://www.sport.es/es/noticias/barca/joan-garcia-o-livakovic-primera-gran-decision-hansi-flic-barcelona-paron-134861676"
+        }
+      ]
+    },
+    {
+      "theme": "international",
+      "kicker": {
+        "en": "Internationals",
+        "es": "Selecciones"
+      },
+      "headline": {
+        "en": "Only Cubarsi and Livakovic have played every minute so far",
+        "es": "Solo Cubarsi y Livakovic han jugado todos los minutos hasta ahora"
+      },
+      "summary": {
+        "en": "Mundo Deportivo counted Pau Cubarsi and Dominik Livakovic as the only Barcelona players on 180 minutes with their countries in this window. Fourteen of the 17 internationals still had a match left on Friday. Raphinha, Eric Garcia and Joan Garcia are already back.",
+        "es": "Mundo Deportivo conto a Pau Cubarsi y Dominik Livakovic como los unicos del Barca con 180 minutos en sus selecciones en esta ventana. Catorce de los 17 internacionales aun tenian un partido el viernes. Raphinha, Eric Garcia y Joan Garcia ya han vuelto."
+      },
+      "body": {
+        "en": "Cubarsi has started both Spain games in the Nations League group. Livakovic has started both for Croatia, including the night in Seville when Lamine Yamal scored twice in the 4-1. Yamal's Spain total for the window was 158 minutes before Friday. Anthony Gordon had 150 for England.\n\nXavi Espart was involved in Spain under-21's 0-13 win over San Marino in European qualifying on Thursday. Joao Cancelo scored for Portugal in the 4-2 against Denmark. The senior group is due back for a full session on Monday 5 October, four days before Getafe. Players still with their countries on Saturday and Tuesday will arrive later in the week.",
+        "es": "Cubarsi ha sido titular en los dos partidos de Espana en el grupo de la Nations League. Livakovic ha sido titular en los dos de Croacia, incluida la noche de Sevilla en la que Lamine Yamal marco dos en el 4-1. El total de Yamal con Espana en la ventana era de 158 minutos antes del viernes. Anthony Gordon llevaba 150 con Inglaterra.\n\nXavi Espart participo en el 0-13 de la sub-21 de Espana ante San Marino en la clasificacion del Europeo el jueves. Joao Cancelo marco con Portugal en el 4-2 ante Dinamarca. El grupo senior tiene sesion completa el lunes 5 de octubre, cuatro dias antes del Getafe. Quienes sigan con su seleccion el sabado y el martes llegaran mas tarde en la semana."
+      },
+      "tweets": [
+        {
+          "name": "Barca Universal",
+          "handle": "@BarcaUniversal",
+          "id": "2105992353714454584"
+        },
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2105971375923957819"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/20261002/1004233247/pau-cubarsi-dominik-livakovic-cules-minutos-paron-liga.html"
+        }
+      ]
+    },
+    {
+      "theme": "club",
+      "kicker": {
+        "en": "Ciutat Esportiva",
+        "es": "Ciutat Esportiva"
+      },
+      "headline": {
+        "en": "First-team housing work stops after the bill doubles, SPORT says",
+        "es": "Se para la obra de la residencia del primer equipo al doblarse el presupuesto, dice SPORT"
+      },
+      "summary": {
+        "en": "SPORT reported on Friday that Barcelona have halted work on new first-team housing after the projected cost rose from about 6 million euros to 12-14 million. The paper tied the jump to a new gym Hansi Flick asked for, built to his specifications.",
+        "es": "SPORT informo el viernes de que el Barca ha parado la obra de una nueva residencia del primer equipo despues de que el coste previsto pasara de unos 6 millones de euros a 12-14. El diario ata el salto a un gimnasio nuevo que pidio Hansi Flick, hecho a su medida."
+      },
+      "body": {
+        "en": "The item is a single-paper report, carried by Managing Barca from SPORT. It sits next to the wider Camp Nou cost file. The Athletic has written that a further exit from the stadium in 2027-28, and the rebuild bill attached to it, could push club debt toward 2.6 billion euros. The housing pause is a smaller line in that same spending argument.\n\nFlick's request is for a gym, not a stand. The first team already trains at Sant Joan Despi. Any restart of the housing job would need a new number from the board. No club statement had been published by Saturday morning.",
+        "es": "La pieza es de un solo diario, recogida por Managing Barca desde SPORT. Queda al lado del expediente de costes del Camp Nou. The Athletic ha escrito que una nueva salida del estadio en 2027-28, y la factura de la obra, podria llevar la deuda del club hacia los 2.600 millones. La pausa de la residencia es una linea menor de esa misma discusion de gasto.\n\nLo que pide Flick es un gimnasio, no una grada. El primer equipo ya entrena en Sant Joan Despi. Cualquier reanudacion de la residencia necesitara una cifra nueva de la junta. El sabado por la manana no habia comunicado del club."
+      },
+      "tweets": [
+        {
+          "name": "Managing Barca",
+          "handle": "@ManagingBarca",
+          "id": "2105950928943878449"
+        }
+      ],
+      "sources": [
+        {
+          "label": "SPORT",
+          "url": "https://www.sport.es/es/barca/"
+        }
+      ]
+    },
+    {
+      "theme": "fixture",
+      "kicker": {
+        "en": "October",
+        "es": "Octubre"
+      },
+      "headline": {
+        "en": "Getafe on the 10th opens five matches in 15 days",
+        "es": "El Getafe del dia 10 abre cinco partidos en 15 dias"
+      },
+      "summary": {
+        "en": "The list after the window does not move. Getafe at home on 10 October at 18:30, Galatasaray away on the 13th at 21:00, Betis away on the 17th at 18:30, PSG away on the 20th at 21:00, Real Madrid at home on the 25th at 21:00. Barcelona lead LaLiga by five points, on 21 from 21.",
+        "es": "La lista tras el paron no se mueve. Getafe en casa el 10 de octubre a las 18:30, Galatasaray fuera el 13 a las 21:00, Betis fuera el 17 a las 18:30, PSG fuera el 20 a las 21:00, Real Madrid en casa el 25 a las 21:00. El Barca lidera la Liga por cinco puntos, con 21 de 21."
+      },
+      "body": {
+        "en": "Mundo Deportivo set the run out on Thursday. The Champions League account is 5-1 against Feyenoord. Paris on the 20th is the first meeting with the holders, with Luis Enrique, Ferran Torres and Ousmane Dembele on that side. Galatasaray's midfield memory includes Ilkay Gundogan. The Clasico kick-off at Spotify Camp Nou was confirmed at 21:00.\n\nFerran Torres, now at PSG, left Spain's camp on Friday with a left-ankle problem. The RFEF called up Real Madrid's Carlos Espi, who scored five in the under-21s' 0-13 against San Marino. That is a Paris story, not a Barcelona squad story. The open medical files in Sant Joan Despi on Saturday morning are Raphinha's edema, Joan Garcia's knee and Eric Garcia's knee.",
+        "es": "Mundo Deportivo desgloso la racha el jueves. La cuenta de Champions es un 5-1 ante el Feyenoord. Paris el dia 20 es el primer cruce con el campeon, con Luis Enrique, Ferran Torres y Ousmane Dembele en ese lado. La memoria del medio del Galatasaray incluye a Ilkay Gundogan. El pitido del Clasico en el Spotify Camp Nou quedo fijado a las 21:00.\n\nFerran Torres, ahora en el PSG, dejo el viernes la concentracion de Espana por el tobillo izquierdo. La RFEF llamo a Carlos Espi, del Real Madrid, que marco cinco en el 0-13 de la sub-21 ante San Marino. Es una historia de Paris, no de la plantilla del Barca. Los partes abiertos en Sant Joan Despi el sabado por la manana son el edema de Raphinha, la rodilla de Joan Garcia y la rodilla de Eric Garcia."
+      },
+      "tweets": [
+        {
+          "name": "Barca Universal",
+          "handle": "@BarcaUniversal",
+          "id": "2106074734139941224"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233250/barca-afronta-mes-octubre-maxima-exigencia.html"
+        },
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/sports/soccer/torres-withdrawn-spain-squad-due-injury-espi-called-up-2026-10-02/"
+        }
+      ]
+    }
+  ]
+}
