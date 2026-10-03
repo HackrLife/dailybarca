@@ -1,6 +1,14 @@
 {
   "editions": [
     {
+      "number": 271,
+      "date": "2026-10-04",
+      "label": "Sunday 4 Oct 2026",
+      "file": "2026-10-04.json",
+      "tweets": 13,
+      "lead": "Yamal scores and rests at the break; Gordon goal and assist in a 7-0; Alaves set for 31 October"
+    },
+    {
       "number": 270,
       "date": "2026-10-03",
       "label": "Saturday 3 Oct 2026",
