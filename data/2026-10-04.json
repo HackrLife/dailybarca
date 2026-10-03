@@ -1,0 +1,426 @@
+{
+  "number": 271,
+  "date": "2026-10-04",
+  "label": "Sunday 4 Oct 2026",
+  "title": {
+    "en": "Yamal opens the scoring again, then sits the second half; Gordon has a goal and an assist in England's 7-0",
+    "es": "Yamal vuelve a abrir el marcador y se queda en el banquillo en la segunda parte; Gordon marca y asiste en el 7-0 de Inglaterra"
+  },
+  "deck": {
+    "en": "Spain led Czechia 2-0 at the break in Oviedo, Yamal from Olmo in the fifth minute, Rodri on 34. De la Fuente took him off. Gordon scored and assisted in Rijeka. Brazil won 4-0 in Kolkata without Raphinha. Alaves is set for 31 October at 21:00. De Jong is due with the non-internationals on Monday.",
+    "es": "Espana iba 2-0 al descanso en Oviedo, Yamal de Olmo en el minuto cinco y Rodri en el 34. De la Fuente le cambio. Gordon marco y asistio en Rijeka. Brasil gano 4-0 en Calcuta sin Raphinha. El Alaves queda el 31 de octubre a las 21:00. De Jong debe incorporarse el lunes con los no internacionales."
+  },
+  "defaultSources": [
+    {
+      "label": "Mundo Deportivo",
+      "url": "https://www.mundodeportivo.com/seleccion-espanola/20261003/1004234250/lamine-yamal-sigue-on-fire-firma-golazo-empezar.html"
+    },
+    {
+      "label": "SPORT",
+      "url": "https://www.sport.es/es/noticias/barca/gordon-desatado-inglaterra-134967025"
+    },
+    {
+      "label": "Mundo Deportivo",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261003/1004234214/hay-horario-barca-alaves-joranada-11.html"
+    },
+    {
+      "label": "Reuters",
+      "url": "https://www.reuters.com/sports/soccer/brazil-tame-india-4-0-friendly-win-2026-10-03/"
+    },
+    {
+      "label": "FC Barcelona",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news"
+    }
+  ],
+  "stories": [
+    {
+      "theme": "international",
+      "kicker": {
+        "en": "Lamine Yamal",
+        "es": "Lamine Yamal"
+      },
+      "headline": {
+        "en": "Yamal scores in the fifth minute in Oviedo and comes off at half-time",
+        "es": "Yamal marca en el minuto cinco en Oviedo y sale al descanso"
+      },
+      "summary": {
+        "en": "Lamine Yamal put Spain 1-0 up against Czechia in the fifth minute at the Carlos Tartiere in Oviedo on Saturday night. Dani Olmo played him in and the shot went into the top corner. Rodri made it 2-0 in the 34th minute. Luis de la Fuente took Yamal off at the break for Victor Munoz. Spain led 2-0 at half-time. The match kicked off at 20:45.",
+        "es": "Lamine Yamal puso el 1-0 de Espana ante la Republica Checa en el minuto cinco en el Carlos Tartiere de Oviedo el sabado por la noche. Dani Olmo le puso el balon y el disparo entro por la escuadra. Rodri hizo el 2-0 en el minuto 34. Luis de la Fuente le cambio al descanso por Victor Munoz. Espana iba 2-0 al descanso. El partido empezo a las 20:45."
+      },
+      "body": {
+        "en": "Xavier Sole wrote in Mundo Deportivo that it was a third straight Spain game in which Yamal opened the scoring. The winger had already scored against England and scored twice, with an assist, against Croatia in this Nations League window. Diario SPORT's half-time note had Spain in control at the Tartiere, with Yamal and Rodri the scorers.\n\nPedri and Olmo started with him. Pedri had a shot saved by Antonin Kinsky from outside the box, and Olmo had two efforts blocked before the goal. De la Fuente's change at the interval was the first rest Yamal has had in the window. Spain's next club date for him is Getafe at Spotify Camp Nou on Saturday 10 October at 18:30, six days after the internationals land. Full training at the Ciutat Esportiva restarts on Monday.\n\nBarca Universal posted De la Fuente's reaction to the finish and a still of the Thierry Henry celebration Yamal used again. The half-time change was Victor Munoz, with Alex Baena also off for Yeremy Pino, according to the live logs. Kinsky had already saved efforts from Pedri, Olmo and Baena, and Yamal had a left-foot shot wide before the goal. Spain's group game was the third of this Nations League block.",
+        "es": "Xavier Sole escribio en Mundo Deportivo que era el tercer partido seguido de Espana en el que Yamal abria el marcador. El extremo ya habia marcado ante Inglaterra y habia hecho dos goles, con una asistencia, ante Croacia en esta ventana de la Nations League. La nota del descanso de Diario SPORT dejaba a Espana con el control en el Tartiere, con Yamal y Rodri como goleadores.\n\nPedri y Olmo salieron con el. Pedri tuvo un disparo parado por Antonin Kinsky desde fuera del area, y Olmo vio dos intentos bloqueados antes del gol. El cambio de De la Fuente en el intervalo fue el primer descanso de Yamal en la ventana. Su siguiente cita de club es el Getafe en el Spotify Camp Nou el sabado 10 de octubre a las 18:30, seis dias despues de que aterricen los internacionales. El entrenamiento completo en la Ciutat Esportiva vuelve el lunes.\n\nBarca Universal publico la reaccion de De la Fuente al tanto y una imagen de la celebracion de Thierry Henry que Yamal repitio. El cambio del descanso fue Victor Munoz, y Alex Baena tambien salio por Yeremy Pino, segun los directos. Kinsky ya habia parado intentos de Pedri, Olmo y Baena, y Yamal habia mandado fuera un disparo con la izquierda antes del gol."
+      },
+      "tweets": [
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2106460062730654105"
+        },
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2106467805113565554"
+        },
+        {
+          "name": "Barca Universal",
+          "handle": "@BarcaUniversal",
+          "id": "2106459398793216270"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/seleccion-espanola/20261003/1004234250/lamine-yamal-sigue-on-fire-firma-golazo-empezar.html"
+        },
+        {
+          "label": "AS",
+          "url": "https://en.as.com/soccer/spain-vs-czechia-live-online-score-stats-goals-updates-uefa-nations-league-202627-f202610-n/"
+        }
+      ],
+      "score": {
+        "authority": 36,
+        "confirmation": 18,
+        "recency": 15,
+        "relevance": 10,
+        "velocity": 8,
+        "editorial": 5,
+        "total": 92
+      }
+    },
+    {
+      "theme": "international",
+      "kicker": {
+        "en": "Anthony Gordon",
+        "es": "Anthony Gordon"
+      },
+      "headline": {
+        "en": "Gordon scores and assists as England beat Croatia 7-0 in Rijeka",
+        "es": "Gordon marca y asiste en el 7-0 de Inglaterra a Croacia en Rijeka"
+      },
+      "summary": {
+        "en": "Anthony Gordon scored and set one up in England's 7-0 win over Croatia on Saturday at Stadion HNK Rijeka. He assisted Jude Bellingham in the 21st minute and headed in Jarell Quansah's cross in the 39th. Harry Kane and Bukayo Saka scored twice each. Morgan Rogers got the seventh. Mundo Deportivo said Gordon played 70 minutes. It was a fourth straight England game in which he has scored.",
+        "es": "Anthony Gordon marco y dio una asistencia en el 7-0 de Inglaterra a Croacia el sabado en el Stadion HNK Rijeka. Asistio a Jude Bellingham en el minuto 21 y cabeceo el centro de Jarell Quansah en el 39. Harry Kane y Bukayo Saka marcaron dos cada uno. Morgan Rogers hizo el septimo. Mundo Deportivo dijo que Gordon jugo 70 minutos. Era el cuarto partido seguido con Inglaterra en el que marca."
+      },
+      "body": {
+        "en": "Javier Giraldo's piece in SPORT put the goal and the assist next to the run: four consecutive appearances with a goal for the national team. England led 4-0 at half-time, Kane on 8, Bellingham on 21, Gordon on 39, Saka on 45. Kane's second came on 53, Saka's second on 68, Rogers on 87. Sky Sports called it Croatia's biggest defeat.\n\nGordon has been one of Hansi Flick's first-choice wide players since he arrived, sharing the flank with Yamal. He is due back in Barcelona with the rest of the England group before Monday's session. Getafe on 10 October is the first of five matches in fifteen days. Croatia's goalkeeper in this window has been Dominik Livakovic, who started the 2-1 win over Czechia and the 4-1 loss to Spain. England's seven went in at the ground in Rijeka.\n\nESPN's timeline listed Gordon as the third scorer, a header, after Kane and Bellingham. Sports Mole had England 4-0 up at the break and noted Mateo Kovacic missing an open goal on 41 minutes. Gordon's Instagram story, picked up by Barca Times, called it a night of Nations League history in Opatija and pointed at the next game.",
+        "es": "El texto de Javier Giraldo en SPORT puso el gol y la asistencia junto a la racha: cuatro apariciones seguidas marcando con la seleccion. Inglaterra iba 4-0 al descanso, Kane en el 8, Bellingham en el 21, Gordon en el 39 y Saka en el 45. El segundo de Kane llego en el 53, el segundo de Saka en el 68 y el de Rogers en el 87. Sky Sports lo llamo la mayor derrota de Croacia.\n\nGordon ha sido uno de los extremos de salida de Hansi Flick desde que llego, compartiendo banda con Yamal. Debe volver a Barcelona con el resto del grupo de Inglaterra antes de la sesion del lunes. El Getafe del 10 de octubre es el primero de cinco partidos en quince dias. El portero de Croacia en esta ventana ha sido Dominik Livakovic, titular en el 2-1 ante la Republica Checa y en el 4-1 ante Espana. Los siete de Inglaterra entraron en el campo de Rijeka.\n\nLa cronologia de ESPN dejo a Gordon como tercer goleador, de cabeza, detras de Kane y Bellingham. Sports Mole tenia a Inglaterra 4-0 al descanso y anoto el mano a mano que fallo Mateo Kovacic en el minuto 41."
+      },
+      "tweets": [
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2106448179658960987"
+        },
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2106434102060576888"
+        }
+      ],
+      "sources": [
+        {
+          "label": "SPORT",
+          "url": "https://www.sport.es/es/noticias/barca/gordon-desatado-inglaterra-134967025"
+        },
+        {
+          "label": "Sky Sports",
+          "url": "https://www.skysports.com/football/news/13594637/croatia-0-7-england-amazing-nations-league-win-as-harry-kane-and-bukayo-saka-each-score-twice-in-huge-victory"
+        },
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/uefa-nations-league/20261003/1004234232/historica-goleada-inglaterra-croacia-gran-gordon.html"
+        }
+      ],
+      "score": {
+        "authority": 34,
+        "confirmation": 18,
+        "recency": 14,
+        "relevance": 9,
+        "velocity": 8,
+        "editorial": 4,
+        "total": 87
+      }
+    },
+    {
+      "theme": "injury",
+      "kicker": {
+        "en": "Raphinha",
+        "es": "Raphinha"
+      },
+      "headline": {
+        "en": "Brazil beat India 4-0 in Kolkata without Raphinha",
+        "es": "Brasil gano 4-0 a la India en Calcuta sin Raphinha"
+      },
+      "summary": {
+        "en": "Brazil beat India 4-0 on Saturday at the Salt Lake Stadium in Kolkata, the last friendly of the window. Estevao and Pedro scored in the first half. Samuel Lino got two in the second. Carlo Ancelotti made eight changes from the 4-2 win over Australia and left Raphinha out. The captain is in Barcelona after Friday's scan found edema in the right thigh and no tear.",
+        "es": "Brasil gano 4-0 a la India el sabado en el Salt Lake Stadium de Calcuta, el ultimo amistoso de la ventana. Estevao y Pedro marcaron en la primera parte. Samuel Lino hizo dos en la segunda. Carlo Ancelotti hizo ocho cambios respecto al 4-2 ante Australia y dejo fuera a Raphinha. El capitan esta en Barcelona despues de que la prueba del viernes viera edema en el muslo derecho y ninguna rotura."
+      },
+      "body": {
+        "en": "Reuters reported a crowd of about 51,000 and two wins plus a draw from the Australia and India tour. Ancelotti kept only Vinicius Junior, Danilo and Gabriel Bontempo from the Brisbane side. Pedro Morisco, Arthur Dias and Pedro started. Raphinha had scored a penalty and come off at half-time in Brisbane on Tuesday. The CBF pulled him from the India game on Wednesday. He landed on Thursday and was at the Ciutat Esportiva on Friday morning.\n\nMundo Deportivo, La Vanguardia and Cadena SER all had the same Friday reading: available for Getafe on 10 October, no club medical note. SPORT said Flick will not start him for the sake of it, with Gabriel Jesus first in line if he is held out. Training for the players already back starts on Monday. The staff have four sessions before Getafe at 18:30.\n\nCNN Brasil had Estevao and Pedro opening the scoring with help from goalkeeper Singh Sandhu, who was replaced at half-time, and Lino closing it with two. The friendly was played at training pace against a much weaker side. That result does not change the Friday medical. The same right thigh cost Raphinha 25 games last season when a similar edema was pushed.",
+        "es": "Reuters hablo de unos 51.000 espectadores y de dos victorias y un empate en la gira por Australia y la India. Ancelotti mantuvo solo a Vinicius Junior, Danilo y Gabriel Bontempo del once de Brisbane. Pedro Morisco, Arthur Dias y Pedro fueron titulares. Raphinha habia marcado un penalti y habia salido al descanso en Brisbane el martes. La CBF le saco del partido ante la India el miercoles. Aterrizo el jueves y estuvo en la Ciutat Esportiva el viernes por la manana.\n\nMundo Deportivo, La Vanguardia y Cadena SER coincidieron el viernes: disponible ante el Getafe el 10 de octubre, sin parte medico del club. SPORT dijo que Flick no le pondra de titular por inercia, con Gabriel Jesus el primero en la lista si se queda fuera. El entrenamiento de los que ya han vuelto empieza el lunes. El staff tiene cuatro sesiones antes del Getafe a las 18:30.\n\nCNN Brasil conto que Estevao y Pedro abrieron el marcador con ayuda del portero Singh Sandhu, sustituido al descanso, y que Lino cerro con dos. El amistoso se jugo a ritmo de entrenamiento ante un rival muy inferior. Ese resultado no cambia el parte del viernes. El mismo muslo derecho costo a Raphinha 25 partidos la temporada pasada cuando se forzo un edema parecido."
+      },
+      "tweets": [
+        {
+          "name": "Barca Universal",
+          "handle": "@BarcaUniversal",
+          "id": "2106127083818643594"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Reuters",
+          "url": "https://www.reuters.com/sports/soccer/brazil-tame-india-4-0-friendly-win-2026-10-03/"
+        },
+        {
+          "label": "CNN Brasil",
+          "url": "https://www.cnnbrasil.com.br/esportes/futebol/selecao-brasileira/india-0-x-4-brasil-veja-como-foi-o-amistoso-da-selecao/"
+        },
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261002/1004233724/barca-respira-pruebas-raphinha-estara-getafe.html"
+        }
+      ],
+      "score": {
+        "authority": 32,
+        "confirmation": 16,
+        "recency": 13,
+        "relevance": 10,
+        "velocity": 6,
+        "editorial": 4,
+        "total": 81
+      }
+    },
+    {
+      "theme": "fixture",
+      "kicker": {
+        "en": "Calendar",
+        "es": "Calendario"
+      },
+      "headline": {
+        "en": "Alaves is fixed for 31 October at 21:00, six days after the Clasico",
+        "es": "El Alaves queda el 31 de octubre a las 21:00, seis dias despues del Clasico"
+      },
+      "summary": {
+        "en": "Barcelona published the time for the jornada 11 home game against Deportivo Alaves: Saturday 31 October at 21:00 at Spotify Camp Nou. Roger Torello reported it in Mundo Deportivo. The Clasico against Real Madrid is the Sunday before, 25 October, also at 21:00 in the same ground. LaLiga's jornada 11 list, carried by COPE, has the same 21:00 slot. Alaves are managed by Quique Sanchez Flores.",
+        "es": "El Barcelona publico la hora del partido de la jornada 11 en casa ante el Deportivo Alaves: sabado 31 de octubre a las 21:00 en el Spotify Camp Nou. Roger Torello lo conto en Mundo Deportivo. El Clasico ante el Real Madrid es el domingo anterior, 25 de octubre, tambien a las 21:00 en el mismo campo. La lista de la jornada 11 de LaLiga, recogida por la COPE, confirma ese hueco. Al Alaves le dirige Quique Sanchez Flores."
+      },
+      "body": {
+        "en": "The October run in front of that date is already set. Getafe at home on Saturday 10 October at 18:30. Galatasaray away on Tuesday 13 October at 21:00 at Rams Park, Ilkay Gundogan in the other dugout. Real Betis away on Saturday 17 October at 18:30 at La Cartuja. Paris Saint-Germain away on Tuesday 20 October at 21:00 at the Parc des Princes, Luis Enrique on the other bench with Ferran Torres and Ousmane Dembele in the squad. Real Madrid at home on Sunday 25 October at 21:00.\n\nAlaves on the 31st is the sixth match of the month and the first after the Clasico. COPE's jornada 11 grid also has Racing Santander against Real Madrid on Sunday 1 November at 16:15, and Athletic against Real Sociedad at 21:00 the same night. Barcelona have 21 points from 21. A win against Getafe would match the club's best league start, eight from eight under Tata Martino in 2013-14.\n\nThe Brazilian account of the club had already posted the October grid on 1 October, with Alaves on the 31st and the kick-off still to be confirmed. Saturday's note closes that blank. Jornada 11 runs from Friday 30 October to Monday 2 November. Villarreal against Espanyol opens it on the Friday at 21:00.",
+        "es": "La racha de octubre previa a esa fecha ya esta fijada. Getafe en casa el sabado 10 de octubre a las 18:30. Galatasaray fuera el martes 13 de octubre a las 21:00 en el Rams Park, con Ilkay Gundogan en el otro banquillo. Real Betis fuera el sabado 17 de octubre a las 18:30 en La Cartuja. Paris Saint-Germain fuera el martes 20 de octubre a las 21:00 en el Parque de los Principes, con Luis Enrique en el otro banquillo y Ferran Torres y Ousmane Dembele en la plantilla. Real Madrid en casa el domingo 25 de octubre a las 21:00.\n\nEl Alaves del 31 es el sexto partido del mes y el primero despues del Clasico. La parrilla de la jornada 11 de la COPE tambien tiene al Racing de Santander ante el Real Madrid el domingo 1 de noviembre a las 16:15, y al Athletic ante la Real Sociedad a las 21:00 esa misma noche. El Barca suma 21 puntos de 21. Una victoria ante el Getafe igualaria el mejor arranque liguero del club, ocho de ocho con Tata Martino en 2013-14.\n\nLa cuenta brasilena del club ya habia publicado la parrilla de octubre el 1 de octubre, con el Alaves el 31 y la hora aun por confirmar. La nota del sabado cierra ese hueco."
+      },
+      "tweets": [
+        {
+          "name": "Barca Universal",
+          "handle": "@BarcaUniversal",
+          "id": "2106474371392897220"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261003/1004234214/hay-horario-barca-alaves-joranada-11.html"
+        },
+        {
+          "label": "COPE",
+          "url": "https://www.cope.es/programas/tiempo-de-juego/noticias/laliga-oficiales-horarios-11a-jornada-20261003_3449173.html"
+        }
+      ],
+      "score": {
+        "authority": 34,
+        "confirmation": 16,
+        "recency": 14,
+        "relevance": 9,
+        "velocity": 7,
+        "editorial": 4,
+        "total": 84
+      }
+    },
+    {
+      "theme": "squad",
+      "kicker": {
+        "en": "Frenkie de Jong",
+        "es": "Frenkie de Jong"
+      },
+      "headline": {
+        "en": "De Jong is due with the non-internationals on Monday and the full group on Thursday",
+        "es": "De Jong debe entrenar el lunes con los no internacionales y el jueves con el grupo"
+      },
+      "summary": {
+        "en": "Frenkie de Jong posted pictures from an individual session at the Ciutat Esportiva on Saturday. Roger Torello wrote in Mundo Deportivo that the plan is for him to join the non-internationals on Monday 5 October and the full group on Thursday 8 October, two days before Getafe. He has not played this season. The right-knee injury came at the World Cup. He chose conservative treatment over surgery.",
+        "es": "Frenkie de Jong publico el sabado fotos de una sesion individual en la Ciutat Esportiva. Roger Torello escribio en Mundo Deportivo que el plan es que se sume el lunes 5 de octubre a los no internacionales y el jueves 8 al grupo completo, dos dias antes del Getafe. No ha jugado esta temporada. La lesion en la rodilla derecha llego en el Mundial. Eligio tratamiento conservador en vez de cirugia."
+      },
+      "body": {
+        "en": "The photos show sprint work and ball work. The last frame in the carousel is a close crop of the word Barca on the kit. Torello read that as the same message De Jong gave in a club interview in August, when he answered the noise around his absence. Barca Universal reported the same Monday step-up, citing the individual work at Sant Joan Despi.\n\nThursday 8 October is the last session but one before Getafe at 18:30 on the 10th. A place in that squad would be his first of the season. Pedri and Olmo were both in Spain's side in Oviedo on Saturday night, so the midfield that has started the league run is still away. De Jong's return sits next to Christensen, who has been out for weeks with a thigh strain, and next to Raphinha, who is available but not certain to start. Flick's group is back together, in stages, from Monday.\n\nHe has been working alone at Sant Joan Despi since the conservative call on the medial ligament. The August interview with the club channels was his answer to the talk that he might not be part of Flick's plans. Saturday's carousel is the first public training evidence since that interview that the knee is taking sprint work.",
+        "es": "Las fotos muestran trabajo de carrera y trabajo con balon. El ultimo encuadre del carrusel es un recorte de la palabra Barca en la camiseta. Torello lo leyo como el mismo mensaje que De Jong dio en una entrevista del club en agosto, cuando respondio al ruido por su ausencia. Barca Universal conto el mismo paso del lunes, citando el trabajo individual en Sant Joan Despi.\n\nEl jueves 8 de octubre es la penultima sesion antes del Getafe a las 18:30 del dia 10. Un hueco en esa convocatoria seria el primero de la temporada. Pedri y Olmo estaban los dos en el once de Espana en Oviedo el sabado por la noche, asi que el centro del campo que ha arrancado la Liga sigue fuera. La vuelta de De Jong queda al lado de Christensen, semanas fuera por una distension en el muslo, y de Raphinha, disponible pero sin la titularidad cerrada. El grupo de Flick vuelve a juntarse, por fases, desde el lunes.\n\nHa trabajado solo en Sant Joan Despi desde la decision conservadora sobre el ligamento. La entrevista de agosto con los medios del club fue su respuesta al ruido de que podia quedar fuera de los planes de Flick."
+      },
+      "tweets": [
+        {
+          "name": "Barca Universal",
+          "handle": "@BarcaUniversal",
+          "id": "2106432844029665490"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261003/1004234198/jong-muestra-avances-regresar-grupo-manda-menaje.html"
+        }
+      ],
+      "score": {
+        "authority": 32,
+        "confirmation": 14,
+        "recency": 14,
+        "relevance": 9,
+        "velocity": 6,
+        "editorial": 4,
+        "total": 79
+      }
+    },
+    {
+      "theme": "squad",
+      "kicker": {
+        "en": "Monday",
+        "es": "Lunes"
+      },
+      "headline": {
+        "en": "The players already back train on Monday; the rest land through the week",
+        "es": "Los que ya han vuelto entrenan el lunes; el resto aterriza durante la semana"
+      },
+      "summary": {
+        "en": "Barcelona's first session after the international window is Monday 5 October at the Ciutat Esportiva. Raphinha, Eric Garcia and Joan Garcia are already in Barcelona. De Jong is scheduled to join that non-international group the same morning. Yamal, Pedri and Olmo were still with Spain in Oviedo on Saturday night. Gordon was with England in Rijeka. The first match back is Getafe at home on 10 October at 18:30.",
+        "es": "La primera sesion del Barca tras la ventana internacional es el lunes 5 de octubre en la Ciutat Esportiva. Raphinha, Eric Garcia y Joan Garcia ya estan en Barcelona. De Jong tiene previsto sumarse esa misma manana al grupo de no internacionales. Yamal, Pedri y Olmo seguian con Espana en Oviedo el sabado por la noche. Gordon estaba con Inglaterra en Rijeka. El primer partido de vuelta es el Getafe en casa el 10 de octubre a las 18:30."
+      },
+      "body": {
+        "en": "Joan Garcia has been out since a left-knee problem kept him out of the Sevilla match and out of Spain's camp. The club note on 17 September called it mild discomfort, with a two-to-three-week window that still reaches Getafe. SPORT has framed Flick's first goalkeeping call as Garcia or Dominik Livakovic. Livakovic's agent, Andy Bara, told Mundo Deportivo on Friday that the plan is five to ten games, Cup included, and that Garcia is the number one.\n\nEric Garcia left Spain's camp with a knee he is managing. Joao Cancelo, who took LaLiga's goal of September for the strike against Racing, has been playing on the right for Portugal because Nuno Mendes is fixed on the left. SPORT read that as an option for Flick on either side. The four sessions before Getafe are the only block Flick has before the two-games-a-week run: Istanbul on the 13th, Seville on the 17th, Paris on the 20th, Madrid on the 25th.\n\nWojciech Szczesny remains the third goalkeeper. Livakovic, 31, signed until 2030 after a loan back to a Croatian club fell through, for a fee reported around 3 million euros, and he made his Barcelona debut at the Sanchez-Pizjuan before the break. He is on 81 caps. Bara also represents Dani Olmo.",
+        "es": "Joan Garcia esta fuera desde que una molestia en la rodilla izquierda le dejo sin el Sevilla y sin la concentracion de Espana. El parte del 17 de septiembre hablo de molestias leves, con una ventana de dos o tres semanas que aun llega al Getafe. SPORT ha planteado la primera decision de Flick en la porteria como Garcia o Dominik Livakovic. El agente de Livakovic, Andy Bara, dijo el viernes a Mundo Deportivo que el plan es cinco o diez partidos, Copa incluida, y que Garcia es el numero uno.\n\nEric Garcia dejo la concentracion de Espana con una rodilla que esta dosificando. Joao Cancelo, que se llevo el gol de septiembre de LaLiga por el disparo ante el Racing, ha jugado por la derecha con Portugal porque Nuno Mendes esta fijo en la izquierda. SPORT lo leyo como una opcion para Flick por los dos lados. Las cuatro sesiones previas al Getafe son el unico bloque que tiene Flick antes de la racha de dos partidos por semana: Estambul el 13, Sevilla el 17, Paris el 20, Madrid el 25.\n\nWojciech Szczesny sigue de tercero."
+      },
+      "tweets": [
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2106087820502643039"
+        },
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2105971375923957819"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261002/1004233780/andy-bara-livakovic-jugar-cinco-diez-partidos-temporada.html"
+        },
+        {
+          "label": "SPORT",
+          "url": "https://www.sport.es/es/noticias/barca/joan-garcia-o-livakovic-primera-gran-decision-hansi-flic-barcelona-paron-134861676"
+        }
+      ],
+      "score": {
+        "authority": 30,
+        "confirmation": 14,
+        "recency": 12,
+        "relevance": 9,
+        "velocity": 5,
+        "editorial": 4,
+        "total": 74
+      }
+    },
+    {
+      "theme": "award",
+      "kicker": {
+        "en": "September",
+        "es": "Septiembre"
+      },
+      "headline": {
+        "en": "Raphinha's September award sits next to a fifth Spain goal contribution from Yamal",
+        "es": "El premio de septiembre de Raphinha queda al lado de la quinta aportacion de Yamal con Espana"
+      },
+      "summary": {
+        "en": "FC Barcelona confirmed on Friday that Raphinha is LaLiga player of September, his second month in a row. He has 12 league goals and three assists in seven matches. Hansi Flick was named coach of the month earlier in the week. Joao Cancelo's strike against Racing took goal of the month. On Saturday night Yamal's finish in Oviedo was his fourth Spain goal of the window, plus the assist against Croatia.",
+        "es": "El FC Barcelona confirmo el viernes que Raphinha es el jugador de septiembre de LaLiga, segundo mes seguido. Suma 12 goles de Liga y tres asistencias en siete partidos. Hansi Flick fue elegido entrenador del mes a principios de semana. El disparo de Joao Cancelo ante el Racing se llevo el gol del mes. El tanto de Yamal en Oviedo era su cuarto gol con Espana en la ventana, mas la asistencia ante Croacia."
+      },
+      "body": {
+        "en": "September closed with the 3-1 at Sevilla on 19 September, Raphinha's second league hat-trick, and with Barcelona on seven wins from seven. The club note called him the league's best player of the month and pointed at the Pichichi lead. The award landed on the same afternoon as the scan that cleared a tear. Thibaut Courtois told Onda Cero on Thursday he was surprised Raphinha is not on the Ballon d'Or list, and that Madrid will have to stop him at Spotify Camp Nou on 25 October.\n\nYamal's window with Spain is the other half of the same scoring pair. Sole's report on Saturday night put the Oviedo goal on top of the England goal and the two against Croatia. Cancelo, 32, has three goals since he came back, first on loan from Al-Hilal in January and now on a permanent deal. He called the Racing goal the best of his career in the mixed zone that night. The three awards are already on the board before the group meets again on Monday.\n\nCancelo began the league as a substitute for Xavi Espart on the left and has started the last two matches before the break. With Portugal he scored in the 4-2 Nations League win over Denmark.",
+        "es": "Septiembre se cerro con el 3-1 en Sevilla el 19 de septiembre, segundo hat-trick liguero de Raphinha, y con el Barca en siete victorias de siete. La nota del club le llamo mejor jugador del mes y apunto al liderato del pichichi. El premio cayo la misma tarde que la prueba que descarto una rotura. Thibaut Courtois dijo el jueves en Onda Cero que le sorprendia que Raphinha no estuviera en la lista del Balon de Oro, y que el Madrid tendra que frenarle en el Spotify Camp Nou el 25 de octubre.\n\nLa ventana de Yamal con Espana es la otra mitad de la misma pareja goleadora. El texto de Sole del sabado por la noche puso el gol de Oviedo encima del gol ante Inglaterra y de los dos ante Croacia. Cancelo, de 32 anos, lleva tres goles desde que volvio, primero cedido por el Al-Hilal en enero y ahora en propiedad. En la zona mixta de aquella noche llamo al gol del Racing el mejor de su carrera. Los tres premios ya estan en el tablero antes de que el grupo se vuelva a ver el lunes.\n\nCancelo empezo la Liga como suplente de Xavi Espart por la izquierda y ha sido titular en los dos ultimos partidos antes del paron."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2106097547437822149"
+        },
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2106468330928521265"
+        }
+      ],
+      "sources": [
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news"
+        },
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233402/gol-joao-cancelo-racing-elegido-laliga-mejor-septiembre.html"
+        }
+      ],
+      "score": {
+        "authority": 30,
+        "confirmation": 12,
+        "recency": 12,
+        "relevance": 8,
+        "velocity": 5,
+        "editorial": 3,
+        "total": 70
+      }
+    },
+    {
+      "theme": "fixture",
+      "kicker": {
+        "en": "Getafe",
+        "es": "Getafe"
+      },
+      "headline": {
+        "en": "Getafe on 10 October is the first of five matches in fifteen days",
+        "es": "El Getafe del 10 de octubre es el primero de cinco partidos en quince dias"
+      },
+      "summary": {
+        "en": "Barcelona's next match is Getafe at Spotify Camp Nou on Saturday 10 October at 18:30. Mundo Deportivo's calendar piece on 1 October listed five games in fifteen days after the window: Getafe, Galatasaray, Betis, Paris Saint-Germain and Real Madrid. The club are top with 21 points from 21. Flick wants an eighth straight league win, which would match the 2013-14 start under Tata Martino.",
+        "es": "El proximo partido del Barca es el Getafe en el Spotify Camp Nou el sabado 10 de octubre a las 18:30. El texto de calendario de Mundo Deportivo del 1 de octubre listo cinco partidos en quince dias tras la ventana: Getafe, Galatasaray, Betis, Paris Saint-Germain y Real Madrid. El club es lider con 21 puntos de 21. Flick busca una octava victoria seguida en Liga, que igualaria el arranque de 2013-14 con Tata Martino."
+      },
+      "body": {
+        "en": "Getafe is the softest of the five on paper, and it is the one Flick can use if he wants minutes for Gabriel Jesus, Hamza Abdelkarim or Brian Farinas. Gabriel Sans listed those names, plus Olmo, Fermin Lopez and Yamal, as the covers if Raphinha is held out. Jesus has not started a league match since he signed in the summer. Abdelkarim is the other natural nine.\n\nThe away run starts three days later. Galatasaray on the 13th is the second Champions League game of the league phase, at 21:00 in Istanbul. Betis on the 17th have already beaten Real Madrid this season and sit above them. PSG on the 20th is the reunion with Luis Enrique, Ferran Torres and Dembele. The Clasico on the 25th closes the block, at 21:00, with Alaves six days after that. The players who are still with their countries on Sunday night have one week from landing to the first whistle against Getafe.\n\nBarca Universal's reminder on 21 September already had the 18:30 kick-off and the eighth-win target. Nothing in Saturday's international results moves that date. The open question for Monday's board is who is fit to start, not who is next. Raphinha is available and not certain to start.",
+        "es": "El Getafe es el mas asequible de los cinco sobre el papel, y es el que Flick puede usar si quiere minutos para Gabriel Jesus, Hamza Abdelkarim o Brian Farinas. Gabriel Sans listo esos nombres, mas Olmo, Fermin Lopez y Yamal, como coberturas si Raphinha se queda fuera. Jesus no ha sido titular en Liga desde que firmo en verano. Abdelkarim es el otro nueve natural.\n\nLa gira fuera empieza tres dias despues. El Galatasaray del 13 es el segundo partido de la fase de liga de la Champions, a las 21:00 en Estambul. El Betis del 17 ya ha ganado al Real Madrid esta temporada y esta por encima. El PSG del 20 es el reencuentro con Luis Enrique, Ferran Torres y Dembele. El Clasico del 25 cierra el bloque, a las 21:00, con el Alaves seis dias despues. Los que siguen con sus selecciones el domingo por la noche tienen una semana desde el aterrizaje hasta el pitido inicial ante el Getafe.\n\nEl recordatorio de Barca Universal del 21 de septiembre ya tenia el pitido de las 18:30 y el objetivo de la octava victoria. Nada de los resultados internacionales del sabado mueve esa fecha. La pregunta abierta para la pizarra del lunes es quien esta para ser titular, no quien es el siguiente."
+      },
+      "tweets": [
+        {
+          "name": "Barca Universal",
+          "handle": "@BarcaUniversal",
+          "id": "2102106838720270828"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261001/1004233250/barca-afronta-mes-octubre-maxima-exigencia.html"
+        },
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20260930/1004232909/opciones-flick-raphinha-no-recupera.html"
+        }
+      ],
+      "score": {
+        "authority": 28,
+        "confirmation": 14,
+        "recency": 10,
+        "relevance": 9,
+        "velocity": 4,
+        "editorial": 3,
+        "total": 68
+      }
+    }
+  ]
+}
