@@ -1,1 +1,201 @@
-SEE_LOCAL
+{
+  "number": 272,
+  "date": "2026-10-05",
+  "label": "Monday 5 Oct 2026",
+  "title": {
+    "en": "Pina scores four as Femeni beat Real Madrid 7-0 at Spotify Camp Nou",
+    "es": "Pina marca cuatro y el Femeni gana 7-0 al Real Madrid en el Spotify Camp Nou"
+  },
+  "deck": {
+    "en": "Claudia Pina had all four of her goals before the break in front of 40,553. Graham Hansen, Ewa Pajor and Sydney Schertenleib scored the rest. Spain closed the window 3-1 in Oviedo. Joao Cancelo equalised against Norway. Frenkie de Jong is due with the non-internationals on Monday.",
+    "es": "Claudia Pina hizo sus cuatro goles antes del descanso ante 40.553 personas. Graham Hansen, Ewa Pajor y Sydney Schertenleib cerraron la goleada. Espana termino la ventana con un 3-1 en Oviedo. Joao Cancelo empato ante Noruega. Frenkie de Jong debe entrenar el lunes con los no internacionales."
+  },
+  "defaultSources": [
+    {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234564/festival-poquer-pina-enesima-humillacion-real-madrid.html"},
+    {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news"},
+    {"label": "Cadena SER", "url": "https://cadenaser.com/nacional/2026/10/04/el-barca-completa-una-goleada-historica-al-real-madrid-en-la-liga-f-con-una-estelar-claudia-pina-7-0-cadena-ser/"}
+  ],
+  "stories": [
+    {
+      "theme": "match",
+      "kicker": {"en": "Femeni", "es": "Femeni"},
+      "headline": {"en": "Pina scores four as Barcelona Femeni beat Real Madrid 7-0", "es": "Pina marca cuatro y el Barca Femeni gana 7-0 al Real Madrid"},
+      "summary": {
+        "en": "Claudia Pina scored four times in the first half as Barcelona Femeni beat Real Madrid 7-0 on Sunday night at Spotify Camp Nou in Liga F. The goals were on 4, 28, 32 and 45 minutes. Caroline Graham Hansen made it 4-0 on 33, Ewa Pajor 6-0 on 55 and Sydney Schertenleib 7-0 on 88. SPORT counted 40,553 in the ground. Pere Romeu started without Aitana Bonmati, who came on around the hour.",
+        "es": "Claudia Pina marco cuatro veces en la primera parte y el Barcelona Femeni gano 7-0 al Real Madrid el domingo por la noche en el Spotify Camp Nou, en Liga F. Los goles llegaron en los minutos 4, 28, 32 y 45. Caroline Graham Hansen hizo el 4-0 en el 33, Ewa Pajor el 6-0 en el 55 y Sydney Schertenleib el 7-0 en el 88. SPORT conto 40.553 espectadores. Pere Romeu salio sin Aitana Bonmati, que entro en torno al minuto 60."
+      },
+      "body": {
+        "en": "Pere Romeu started the Liga F Clasico without Aitana Bonmati. Cata Coll was in goal, with Aicha Camara, Irene Paredes and Emma van Asten in front of her, Esmee Brugts and Sydney Schertenleib wide of Patri Guijarro, and Caroline Graham Hansen, Ewa Pajor and Claudia Pina up front. Kick-off at Spotify Camp Nou was 19:00. Pina had the first in the fourth minute, taking the ball past Jonna Andersson and finishing past Merle Frohms. The second, on 28, was a rebound after Pajor's shot was blocked by Silvia Cristobal. Patri set up the third on 32. Graham Hansen made it 4-0 a minute later, and Pina's fourth arrived on the stroke of half-time.\n\nAitana and Kerolin came on for Pina and Graham Hansen on 59 minutes, the double change posted by the Femeni account. Pajor had already made it 6-0 on 55 from Graham Hansen's pass. Sydney Schertenleib closed it on 88, a shot from the edge that Patri had started. Angel Perez in Mundo Deportivo called it the biggest margin Barca have had against this Madrid side since the club restarted the women's team on 1 July 2020. Barca are six from six in Liga F, on 18 points and five clear of Madrid. Linda Caicedo was booked in the 90th minute. Romeu told Lluis Aparicio at Mundo Deportivo that a score like this is hard to take.",
+        "es": "Pere Romeu salio en el Clasico de Liga F sin Aitana Bonmati. Cata Coll estuvo bajo palos, con Aicha Camara, Irene Paredes y Emma van Asten por delante, Esmee Brugts y Sydney Schertenleib abiertas junto a Patri Guijarro, y Caroline Graham Hansen, Ewa Pajor y Claudia Pina arriba. El partido en el Spotify Camp Nou empezo a las 19:00. Pina hizo el primero en el minuto cuatro, supero a Jonna Andersson y batio a Merle Frohms. El segundo, en el 28, llego en el rechace de un disparo de Pajor que paro Silvia Cristobal. Patri puso el tercero en el 32. Graham Hansen hizo el 4-0 un minuto despues, y el cuarto de Pina entro en el ultimo suspiro de la primera parte.\n\nAitana y Kerolin entraron por Pina y Graham Hansen en el minuto 59, el doble cambio que publico la cuenta del Femeni. Pajor ya habia hecho el 6-0 en el 55 con un pase de Graham Hansen. Sydney Schertenleib cerro en el 88, un disparo desde la frontal que habia iniciado Patri. Angel Perez escribio en Mundo Deportivo que es la mayor renta del Barca ante este Madrid desde que el club blanco reinicio el equipo femenino el 1 de julio de 2020. El Barca suma seis de seis en Liga F, 18 puntos y cinco de ventaja sobre el Madrid. Linda Caicedo vio amarilla en el 90. Romeu dijo a Lluis Aparicio en Mundo Deportivo que un resultado asi es duro de encajar."
+      },
+      "tweets": [
+        {"name": "Diario SPORT", "handle": "@sport", "id": "2106821087149359519"},
+        {"name": "FC Barcelona Femeni", "handle": "@FCBfemeni", "id": "2106799741296341082"},
+        {"name": "Mundo Deportivo", "handle": "@mundodeportivo", "id": "2106836304394649824"}
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234564/festival-poquer-pina-enesima-humillacion-real-madrid.html"},
+        {"label": "Cadena SER", "url": "https://cadenaser.com/nacional/2026/10/04/el-barca-completa-una-goleada-historica-al-real-madrid-en-la-liga-f-con-una-estelar-claudia-pina-7-0-cadena-ser/"},
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news"}
+      ],
+      "score": {"authority": 38, "confirmation": 20, "recency": 15, "relevance": 10, "velocity": 9, "editorial": 5, "total": 97}
+    },
+    {
+      "theme": "match",
+      "kicker": {"en": "Camp Nou", "es": "Camp Nou"},
+      "headline": {"en": "40,553 saw the biggest women's Clasico margin, with Aitana on for the last half hour", "es": "40.553 vieron la mayor renta de un Clasico femenino, con Aitana en la ultima media hora"},
+      "summary": {
+        "en": "SPORT put the Spotify Camp Nou crowd at 40,553 for Sunday's 7-0. Barca Universal had the same night at 40,533 and nine career goals for Claudia Pina against Real Madrid. Aitana Bonmati replaced Pina on 59 minutes, with Kerolin on for Caroline Graham Hansen. Pere Romeu told Mundo Deportivo the score would be hard to take on the other bench. Barca stay top of Liga F, six wins from six.",
+        "es": "SPORT situo el aforo del Spotify Camp Nou en 40.553 personas en el 7-0 del domingo. Barca Universal dio 40.533 y nueve goles de Claudia Pina al Real Madrid en su carrera. Aitana Bonmati sustituyo a Pina en el minuto 59, y Kerolin entro por Caroline Graham Hansen. Pere Romeu dijo a Mundo Deportivo que un marcador asi es duro de encajar en el otro banquillo. El Barca sigue lider de Liga F, con seis victorias en seis partidos."
+      },
+      "body": {
+        "en": "The Femeni account posted the 59th-minute double change: Kerolin and Aitana on, Pina and Graham Hansen off, with the score already 6-0. SPORT's clip of Aitana's reception in the stands ran after the whistle, with the paper calling the night a party and saying Romeu's side had no rival in these fixtures. The official club site filed the match as Barca 7-0 Real Madrid, with Pina leading the rout.\n\nMadrid's goalkeeper was Merle Frohms. The back four in Angel Perez's line-up was Eva Navarro, Maelle Lakrar, Jonna Andersson and Silvia Cristobal. Arianna Caruso was booked on 52 and replaced on 56, and Linda Caicedo was booked on 90. Barca's fifth goal, Pina's fourth, came in first-half stoppage time. The sixth was Pajor's, assisted by Graham Hansen, ten minutes into the second half. The seventh was Schertenleib from outside the box.\n\nLiga F is six rounds old. Barca have 18 points. Real Madrid, beaten by seven, sit five back. The men's side are back at the same ground on Saturday against Getafe, kick-off 18:30, with the men's Clasico on 25 October at 21:00.",
+        "es": "La cuenta del Femeni publico el doble cambio del minuto 59: entraban Kerolin y Aitana, salian Pina y Graham Hansen, con el 6-0 ya en el marcador. El video de SPORT sobre el recibimiento a Aitana en la grada salio despues del pitido, y el diario hablo de fiesta y de un equipo de Romeu sin rival en estos partidos. La web del club titulo el partido Barca 7-0 Real Madrid y dejo a Pina como la figura de la goleada.\n\nLa portera del Madrid fue Merle Frohms. La linea de atras en el once de Angel Perez fue Eva Navarro, Maelle Lakrar, Jonna Andersson y Silvia Cristobal. Arianna Caruso vio amarilla en el 52 y salio en el 56, y Linda Caicedo fue amonestada en el 90. El quinto gol, el cuarto de Pina, llego en el descuento de la primera parte. El sexto fue de Pajor, con asistencia de Graham Hansen, a los diez minutos de la reanudacion. El septimo lo hizo Schertenleib desde fuera del area.\n\nLa Liga F lleva seis jornadas. El Barca tiene 18 puntos. El Real Madrid, goleado, esta a cinco. Los hombres vuelven al mismo campo el sabado ante el Getafe, a las 18:30, y el Clasico masculino es el 25 de octubre a las 21:00."
+      },
+      "tweets": [
+        {"name": "Diario SPORT", "handle": "@sport", "id": "2106829069325082950"},
+        {"name": "FC Barcelona", "handle": "@FCBarcelona_es", "id": "2106833619809657308"},
+        {"name": "Barca Universal", "handle": "@BarcaUniversal", "id": "2106837266148839731"}
+      ],
+      "sources": [
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/barcelona-real-madrid-directo-hoy-134992817"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/femenino/20261004/1004234585/pere-romeu-partido-salio-redondo.html"},
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news"}
+      ],
+      "score": {"authority": 36, "confirmation": 18, "recency": 15, "relevance": 9, "velocity": 8, "editorial": 4, "total": 90}
+    },
+    {
+      "theme": "international",
+      "kicker": {"en": "Spain", "es": "Espana"},
+      "headline": {"en": "Spain close the window 3-1 in Oviedo, Merino on 90 after Slama's reply", "es": "Espana cierra la ventana con un 3-1 en Oviedo, Merino en el 90 tras el gol de Slama"},
+      "summary": {
+        "en": "Spain beat Czechia 3-1 on Saturday night at the Carlos Tartiere in Oviedo. Lamine Yamal scored in the sixth minute, Rodri around the 35th and Mikel Merino in the 90th. Jiri Slama pulled one back on 70. Ladislav Krejci was sent off. Al Jazeera and ESPN both had Spain on a 41-game unbeaten run, including the World Cup final. Yamal has four goals in this Nations League block. He came off at half-time.",
+        "es": "Espana gano 3-1 a la Republica Checa el sabado por la noche en el Carlos Tartiere de Oviedo. Lamine Yamal marco en el minuto seis, Rodri en torno al 35 y Mikel Merino en el 90. Jiri Slama recorto en el 70. Ladislav Krejci fue expulsado. Al Jazeera y ESPN coincidieron en una racha de 41 partidos sin perder, final del Mundial incluida. Yamal lleva cuatro goles en este bloque de la Nations League. Salio al descanso."
+      },
+      "body": {
+        "en": "The full-time line was not on Sunday's edition, which stopped at the interval. TNT Sports and ESPN both closed it 3-1. Yamal's finish was a curl from the edge after a one-two with Dani Olmo, over debutant goalkeeper Antonin Kinsky. Rodri's goal, his first for Spain since Euro 2024 according to the Press Association report carried by ESPN, came from a loose ball after a Pedri pass was blocked. David Raya started in goal.\n\nLuis de la Fuente took Yamal off at half-time for Victor Munoz, with Spain 2-0 up. Slama's goal on 70 was the first Czech effort that changed the score. Krejci's second yellow left the visitors with ten. Merino, on as a substitute, scored the third in stoppage time on a break. Al Jazeera noted Yamal as the first player to score inside the first ten minutes of three straight men's internationals. Spain are three points clear of England in Group A3 after England's 7-0 in Rijeka.\n\nThe club date in front of him is Getafe at Spotify Camp Nou on Saturday 10 October at 18:30. The internationals are due back before Thursday's full session. Monday is the first day with the players who did not travel.",
+        "es": "El resultado final no estaba en la edicion del domingo, que se quedo en el descanso. TNT Sports y ESPN cerraron el partido en 3-1. El tanto de Yamal fue un disparo desde la frontal, despues de una pared con Dani Olmo, por encima del debutante Antonin Kinsky. El gol de Rodri, el primero con Espana desde la Euro 2024 segun la cronica de Press Association que recogio ESPN, llego a un balon suelto despues de un pase de Pedri. David Raya fue el portero titular.\n\nLuis de la Fuente saco a Yamal al descanso por Victor Munoz, con Espana 2-0. El gol de Slama en el 70 fue el primero checo que movio el marcador. La segunda amarilla de Krejci dejo a la visita con diez. Merino, suplente, hizo el tercero en el descuento a la contra. Al Jazeera senalo a Yamal como el primer jugador que marca en los diez primeros minutos de tres internacionales seguidos. Espana tiene tres puntos de ventaja sobre Inglaterra en el grupo A3, despues del 7-0 de Inglaterra en Rijeka.\n\nLa cita de club que tiene delante es el Getafe en el Spotify Camp Nou el sabado 10 de octubre a las 18:30. Los internacionales deben estar de vuelta antes de la sesion completa del jueves. El lunes es el primer dia con los que no viajaron."
+      },
+      "tweets": [
+        {"name": "Mundo Deportivo", "handle": "@mundodeportivo", "id": "2106460062730654105"},
+        {"name": "Barca Universal", "handle": "@BarcaUniversal", "id": "2106459398793216270"}
+      ],
+      "sources": [
+        {"label": "Al Jazeera", "url": "https://www.aljazeera.com/sports/2026/10/4/yamal-scores-stunning-goal-in-spains-3-1-nations-league-win-over-czechia"},
+        {"label": "ESPN", "url": "https://www.espn.com/soccer/report/_/gameId/401861118"}
+      ],
+      "score": {"authority": 34, "confirmation": 18, "recency": 12, "relevance": 10, "velocity": 6, "editorial": 4, "total": 84}
+    },
+    {
+      "theme": "international",
+      "kicker": {"en": "Anthony Gordon", "es": "Anthony Gordon"},
+      "headline": {"en": "Tuchel says Gordon has reached another level after the 7-0 in Rijeka", "es": "Tuchel dice que Gordon ha alcanzado otro nivel despues del 7-0 en Rijeka"},
+      "summary": {
+        "en": "Thomas Tuchel told reporters that Anthony Gordon has reached another level, a line Diario SPORT ran on Sunday morning. Gordon scored and assisted in England's 7-0 win over Croatia on Saturday at Stadion HNK Rijeka. He set up Jude Bellingham on 21 and headed in Jarell Quansah's cross on 39. He played about 70 minutes. It was a fourth straight England game with a goal. Barca Universal put his club tally at five assists in seven games.",
+        "es": "Thomas Tuchel dijo a los periodistas que Anthony Gordon ha alcanzado otro nivel, una frase que Diario SPORT publico el domingo por la manana. Gordon marco y asistio en el 7-0 de Inglaterra a Croacia el sabado en el Stadion HNK Rijeka. Puso el gol de Jude Bellingham en el 21 y cabeceo el centro de Jarell Quansah en el 39. Jugo unos 70 minutos. Era el cuarto partido seguido con Inglaterra en el que marca. Barca Universal situo su cifra de club en cinco asistencias en siete partidos."
+      },
+      "body": {
+        "en": "SPORT's post on Sunday linked the Tuchel line to the partnership with Jude Bellingham, and said the England coach had praised the way the two open space. The Rijeka scoreline was Kane on 8 and 53, Bellingham on 21, Gordon on 39, Bukayo Saka on 45 and 68, Morgan Rogers on 87. England led 4-0 at the break. Sky Sports called it Croatia's heaviest defeat. Dominik Livakovic has been Croatia's goalkeeper through this window, including the 4-1 loss to Spain.\n\nGordon has shared the wide roles with Lamine Yamal since he arrived under Hansi Flick. The England group is due back in Barcelona before the first full session of the week. Getafe on Saturday 10 October at 18:30 is the first of five matches in fifteen days: Galatasaray away on the 13th, Betis away on the 17th, Paris Saint-Germain away on the 20th, Real Madrid at home on the 25th.\n\nBarca Universal's Sunday note put the Croatia goal and assist next to five assists in seven Barcelona games this season. The club have not published a minutes plan for him against Getafe. Flick's public line on Raphinha, who is already in Barcelona after a clean scan, was that he would not be rushed. Gordon has no such note.",
+        "es": "La publicacion de SPORT del domingo unio la frase de Tuchel a la sociedad con Jude Bellingham, y dijo que el seleccionador ingles habia elogiado la forma en que los dos abren espacios. El marcador de Rijeka fue Kane en el 8 y el 53, Bellingham en el 21, Gordon en el 39, Bukayo Saka en el 45 y el 68, y Morgan Rogers en el 87. Inglaterra iba 4-0 al descanso. Sky Sports lo llamo la peor derrota de Croacia. Dominik Livakovic ha sido el portero croata en esta ventana, tambien en el 4-1 ante Espana.\n\nGordon ha compartido las bandas con Lamine Yamal desde que llego con Hansi Flick. El grupo de Inglaterra debe estar de vuelta en Barcelona antes de la primera sesion completa de la semana. El Getafe del sabado 10 de octubre a las 18:30 es el primero de cinco partidos en quince dias: Galatasaray fuera el 13, Betis fuera el 17, Paris Saint-Germain fuera el 20 y Real Madrid en casa el 25.\n\nLa nota del domingo de Barca Universal puso el gol y la asistencia de Croacia junto a cinco asistencias en siete partidos del Barcelona esta temporada. El club no ha publicado un plan de minutos para el ante el Getafe. La linea publica de Flick sobre Raphinha, que ya esta en Barcelona despues de una prueba limpia, fue que no lo forzaria. Gordon no tiene una nota de ese tipo."
+      },
+      "tweets": [
+        {"name": "Diario SPORT", "handle": "@sport", "id": "2106710926313587002"},
+        {"name": "Barca Universal", "handle": "@BarcaUniversal", "id": "2106686767378153634"}
+      ],
+      "sources": [
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/gordon-desatado-inglaterra-134967025"},
+        {"label": "Sky Sports", "url": "https://www.skysports.com/football/news/13594637/croatia-0-7-england-amazing-nations-league-win-as-harry-kane-and-bukayo-saka-each-score-twice-in-huge-victory"}
+      ],
+      "score": {"authority": 32, "confirmation": 16, "recency": 13, "relevance": 9, "velocity": 7, "editorial": 4, "total": 81}
+    },
+    {
+      "theme": "international",
+      "kicker": {"en": "Joao Cancelo", "es": "Joao Cancelo"},
+      "headline": {"en": "Cancelo equalises with a volley as Portugal and Norway are level at the break", "es": "Cancelo empata de volea y Portugal y Noruega llegan iguales al descanso"},
+      "summary": {
+        "en": "Joao Cancelo equalised for Portugal against Norway on Sunday at the Estadio do Dragao in Porto. Kristoffer Ajer had put Norway ahead on 36 minutes. Cancelo volleyed in Nuno Mendes's pass on 38, from a throw-in. VAVEL and ESPN both had the score 1-1 at half-time in the Nations League group game. Barca Universal posted the strike. He had already been booked, in the 12th minute, for a foul.",
+        "es": "Joao Cancelo empato para Portugal ante Noruega el domingo en el Estadio do Dragao de Oporto. Kristoffer Ajer habia adelantado a Noruega en el minuto 36. Cancelo remato de volea un pase de Nuno Mendes en el 38, tras un saque de banda. VAVEL y ESPN tenian el 1-1 al descanso en el partido de la Nations League. Barca Universal publico el tanto. Ya habia visto amarilla, en el minuto 12, por una falta."
+      },
+      "body": {
+        "en": "The Dragao kick-off was 18:45 local time, Nations League Group A4. VAVEL's live log had Ajer controlling an Odegaard pass and shooting across the goalkeeper on 36, then Cancelo meeting Mendes in the middle after a throw-in and volleying past Egil Selvik two minutes later. ESPN's shot map listed the Cancelo goal on 38. Sofascore had the same 38th-minute goal and the 12th-minute yellow.\n\nThis was the third Portugal game of the window for the full-back, who has been starting under Roberto Martinez. SPORT, via a Barca Universal post on Sunday afternoon, read the minutes as a reason to rest him and Xavi Espart against Getafe, with Alejandro Balde in line for a first start of the season. That is a desk reading, not a Flick teamsheet. The club have not named a side for Saturday.\n\nCancelo won LaLiga's goal of the month for his strike against Racing de Santander. He is due back with the Portugal group before Thursday. Getafe is at Spotify Camp Nou on 10 October at 18:30. The second half in Porto was still live in the logs used for this note, so the card stops at the equaliser and the interval.",
+        "es": "El partido del Dragao empezo a las 18:45 hora local, en el grupo A4 de la Nations League. El directo de VAVEL dejo a Ajer controlando un pase de Odegaard y disparando cruzado en el 36, y a Cancelo llegando al centro de un envio de Mendes tras un saque de banda para volear ante Egil Selvik dos minutos despues. El mapa de tiros de ESPN situo el gol de Cancelo en el 38. Sofascore tenia el mismo gol en el 38 y la amarilla del minuto 12.\n\nEra el tercer partido de Portugal en la ventana para el lateral, titular con Roberto Martinez. SPORT, en una nota que recogio Barca Universal el domingo por la tarde, leyo esos minutos como motivo para reservarlo, junto a Xavi Espart, ante el Getafe, con Alejandro Balde en disposicion de ser titular por primera vez esta temporada. Es una lectura de redaccion, no un once de Flick. El club no ha dado la alineacion del sabado.\n\nCancelo gano el gol del mes de LaLiga por su tanto ante el Racing de Santander. Debe volver con el grupo de Portugal antes del jueves. El Getafe es en el Spotify Camp Nou el 10 de octubre a las 18:30. La segunda parte en Oporto seguia en directo en los registros usados para esta nota, asi que la ficha se queda en el empate y en el descanso."
+      },
+      "tweets": [
+        {"name": "Barca Universal", "handle": "@BarcaUniversal", "id": "2106828695025647808"},
+        {"name": "Barca Universal", "handle": "@BarcaUniversal", "id": "2106768586295660682"}
+      ],
+      "sources": [
+        {"label": "VAVEL", "url": "https://www.vavel.com/en-us/soccer/2026/10/04/1273885-portugal-vs-norway-live-score-uefa-nations-league.html"},
+        {"label": "ESPN", "url": "https://www.espn.co.uk/football/team-stats/_/gameId/401861126/league/uefa.nations"}
+      ],
+      "score": {"authority": 28, "confirmation": 16, "recency": 14, "relevance": 8, "velocity": 7, "editorial": 3, "total": 76}
+    },
+    {
+      "theme": "injury",
+      "kicker": {"en": "Frenkie de Jong", "es": "Frenkie de Jong"},
+      "headline": {"en": "De Jong is due with the non-internationals on Monday after his Ciutat Esportiva work", "es": "De Jong debe incorporarse el lunes con los no internacionales tras el trabajo en la Ciutat Esportiva"},
+      "summary": {
+        "en": "Frenkie de Jong is expected to join Barcelona's non-international group on Monday, Mundo Deportivo reported, after he posted training pictures from the Ciutat Esportiva on Saturday. The 29-year-old has not played a minute this season. He tore a medial ligament in extra time of the Netherlands' World Cup last-16 defeat to Morocco. Barca Blaugranes put a possible return in November, with Alaves on 31 October among the dates mentioned if the step-up holds. He is not in the frame for Getafe.",
+        "es": "Frenkie de Jong debe unirse el lunes al grupo de no internacionales del Barcelona, segun Mundo Deportivo, despues de publicar el sabado fotos de trabajo en la Ciutat Esportiva. El de 29 anos no ha jugado un minuto esta temporada. Se rompio el ligamento lateral interno en la prorroga de la eliminacion de Paises Bajos ante Marruecos en octavos del Mundial. Barca Blaugranes situo un posible regreso en noviembre, con el Alaves del 31 de octubre entre las fechas citadas si el paso se sostiene. No entra en el partido ante el Getafe."
+      },
+      "body": {
+        "en": "De Jong's Saturday carousel showed ball work and gym work at Joan Gamper. Tribal Football, citing Mundo Deportivo, had him back with the players who stayed in Barcelona from Monday, and the full squad together from Thursday for Getafe. The same reports were clear that match minutes this weekend are not the plan. He has been out since the World Cup, and the club have not issued a medical communique with a date.\n\nThe midfield Flick has used without him is Pedri, Marc Casado, Fermin Lopez and the wide players dropping in. A Monday session with the non-internationals is the next logged step, not a selection. Barca Blaugranes' reading, picked up by Football Espana, was November if nothing stalls, with the Alaves home game on 31 October at 21:00 as one of the fixtures in that window.\n\nGetafe is Saturday 10 October at 18:30. Galatasaray away is three days later. Those two are in front of any De Jong minutes. The players already back, including Raphinha after Friday's scan, train from Monday. The scan found edema in the right thigh and no tear, and Flick has said he will not start the captain for the sake of it.",
+        "es": "El carrusel del sabado de De Jong mostraba trabajo con balon y trabajo de gimnasio en el Joan Gamper. Tribal Football, citando a Mundo Deportivo, lo situo con los que se quedaron en Barcelona desde el lunes, y con la plantilla completa desde el jueves de cara al Getafe. Los mismos informes dejaron claro que los minutos del fin de semana no entran en el plan. Esta fuera desde el Mundial, y el club no ha publicado un parte con fecha.\n\nEl medio que Flick ha usado sin el es Pedri, Marc Casado, Fermin Lopez y los extremos que caen dentro. Una sesion del lunes con los no internacionales es el siguiente paso registrado, no una convocatoria. La lectura de Barca Blaugranes, recogida por Football Espana, era noviembre si nada se tuerce, con el Alaves en casa el 31 de octubre a las 21:00 entre los partidos de esa franja.\n\nEl Getafe es el sabado 10 de octubre a las 18:30. El Galatasaray fuera es tres dias despues. Esos dos estan por delante de cualquier minuto de De Jong. Los que ya han vuelto, incluido Raphinha despues de la prueba del viernes, entrenan desde el lunes. La prueba vio edema en el muslo derecho y ninguna rotura, y Flick ha dicho que no pondra al capitan de inicio por inercia."
+      },
+      "tweets": [
+        {"name": "Barca Universal", "handle": "@BarcaUniversal", "id": "2106640464485204080"},
+        {"name": "barcacentre", "handle": "@barcacentre", "id": "2106652384458166347"}
+      ],
+      "sources": [
+        {"label": "Tribal Football", "url": "https://www.tribalfootball.com/article/barcelona-receive-de-jong-boost-after-long-injury-lay-off-496a3d0d-304b-4f94-aadb-d4ce5ab93c63"},
+        {"label": "Barca Blaugranes", "url": "https://www.barcablaugranes.com/barcelona-la-liga/134073/frenkie-de-jong-shares-fitness-update-knee-injury"},
+        {"label": "Football Espana", "url": "https://www.football-espana.net/2026/10/04/frenkie-de-jong-injury-recovery"}
+      ],
+      "score": {"authority": 30, "confirmation": 14, "recency": 13, "relevance": 9, "velocity": 5, "editorial": 4, "total": 75}
+    },
+    {
+      "theme": "reserves",
+      "kicker": {"en": "Barca Atletic", "es": "Barca Atletic"},
+      "headline": {"en": "Belletti's side come from behind to win 2-1 at Tudelano", "es": "El equipo de Belletti remonta y gana 2-1 en Tudela"},
+      "summary": {
+        "en": "Barca Atletic came from 1-0 down to beat Tudelano 2-1 on Sunday at the Ciudad de Tudela in Segunda Federacion. David Soto put the home side ahead on 33. Alex Campos equalised on 63 and Alex Gonzalez scored the winner on 77, both headers. Juliano Belletti's side have 13 points from 15 and stay top of Group 2. The official B account posted Campos after the whistle.",
+        "es": "El Barca Atletic remonto un 1-0 y gano 2-1 al Tudelano el domingo en la Ciudad de Tudela, en Segunda Federacion. David Soto adelanto a los locales en el minuto 33. Alex Campos empato en el 63 y Alex Gonzalez hizo el de la victoria en el 77, los dos de cabeza. El equipo de Juliano Belletti suma 13 puntos de 15 y sigue lider del grupo 2. La cuenta del filial publico a Campos despues del pitido."
+      },
+      "body": {
+        "en": "Alex Rodriguez's live blog at Mundo Deportivo had the winner as a header from Alex Gonzalez and the equaliser as a header from Alex Campos. Jaume Marcet at SPORT called it a suffered win on a pitch that left both sides stiff by the end, with four minutes added and a second yellow for Tudelano's Eder in stoppage time. The B team had a late chance through Guillem that did not go in.\n\nBelletti's side are unbeaten after five league games. The club site filed the match as a second-half turnaround that keeps the reserves top of the table. Campos, speaking to the club channel after the game, said he was satisfied with the reaction that turned the score. The first-team staff have used the B side as a route for minutes when the senior squad is away.\n\nThe first team do not play until Saturday. Monday's session at the Ciutat Esportiva is for the players who did not travel. The B team are back in Group 2 next weekend, still top, with the promotion race the frame Belletti has been working in since the summer.",
+        "es": "El directo de Alex Rodriguez en Mundo Deportivo dejo el gol de la victoria en un cabezazo de Alex Gonzalez y el empate en un cabezazo de Alex Campos. Jaume Marcet en SPORT hablo de un triunfo sufrido en un campo que dejo a los dos equipos tiesos al final, con cuatro minutos de anadido y una segunda amarilla para Eder, del Tudelano, en el descuento. El filial tuvo una ocasion tardia de Guillem que no entro.\n\nEl equipo de Belletti sigue invicto despues de cinco partidos de liga. La web del club publico el partido como una remontada en la segunda parte que mantiene al filial en lo alto de la tabla. Campos, en el canal del club despues del partido, dijo que estaba satisfecho con la reaccion que dio la vuelta al marcador. El staff del primer equipo ha usado al filial como via de minutos cuando el senior esta fuera.\n\nEl primer equipo no juega hasta el sabado. La sesion del lunes en la Ciutat Esportiva es para los que no viajaron. El filial vuelve al grupo 2 el proximo fin de semana, todavia lider, con el ascenso como marco en el que Belletti trabaja desde el verano."
+      },
+      "tweets": [
+        {"name": "Barca Atletic", "handle": "@FCBarcelonaB", "id": "2106823401633399010"}
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/cantera/20261004/1004234268/tudelano-barca-atletic-directo-segunda-federacion-grupo-2.html"},
+        {"label": "SPORT", "url": "https://www.sport.es/es/noticias/barca/futbol-base/tudelano-barca-atletic-directo-hoy-134992999"},
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news"}
+      ],
+      "score": {"authority": 32, "confirmation": 16, "recency": 14, "relevance": 7, "velocity": 5, "editorial": 3, "total": 77}
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Getafe", "es": "Getafe"},
+      "headline": {"en": "SPORT read Balde as a candidate to start against Getafe, with Cancelo and Espart rested", "es": "SPORT lee a Balde como candidato a titular ante el Getafe, con Cancelo y Espart en descanso"},
+      "summary": {
+        "en": "Diario SPORT reported on Sunday that Alejandro Balde could make his first start of the season against Getafe on Saturday. The same note said Joao Cancelo and Xavi Espart have played a lot of minutes on international duty and are in line to be rested. Barca Universal carried the line. Hansi Flick has not named a side. Getafe are at Spotify Camp Nou on 10 October at 18:30. A win would match the club's best league start, eight from eight in 2013-14.",
+        "es": "Diario SPORT publico el domingo que Alejandro Balde podria hacer su primera titularidad de la temporada ante el Getafe el sabado. La misma nota decia que Joao Cancelo y Xavi Espart han jugado muchos minutos con sus selecciones y estan en la lista para descansar. Barca Universal recogio la informacion. Hansi Flick no ha dado once. El Getafe es en el Spotify Camp Nou el 10 de octubre a las 18:30. Una victoria igualaria el mejor arranque de liga del club, ocho de ocho en 2013-14."
+      },
+      "body": {
+        "en": "Balde has been working back from the foot problem that kept him out of the opening league games. Cancelo has been the regular left-sided full-back in his absence, and Espart has had minutes at the back and in midfield. SPORT's reading is that both have a heavy international load and that Saturday is the first chance to put Balde in from the start. It is not a club confirmation. The squad do not all train together until Thursday.\n\nThe October list in front of that game is already published. Galatasaray away on Tuesday 13 October at 21:00 at Rams Park. Real Betis away on Saturday 17 October at 18:30. Paris Saint-Germain away on Tuesday 20 October at 21:00. Real Madrid at home on Sunday 25 October at 21:00. Alaves at home on Saturday 31 October at 21:00. Five matches sit inside the fifteen days after Getafe, which is why the desk notes on rest have started before the internationals have all landed.\n\nRaphinha is in Barcelona after Friday's scan, available and not certain to start. De Jong is due with the non-internationals on Monday and is not a Getafe option. Yamal, Pedri and Olmo played in Oviedo on Saturday and are on the return schedule. The first session of the week is Monday at the Ciutat Esportiva.",
+        "es": "Balde ha estado volviendo del problema en el pie que lo dejo fuera de los primeros partidos de liga. Cancelo ha sido el lateral izquierdo habitual en su ausencia, y Espart ha tenido minutos atras y en el medio. La lectura de SPORT es que los dos llegan con carga internacional y que el sabado es la primera opcion de poner a Balde de inicio. No es una confirmacion del club. La plantilla no entrena junta hasta el jueves.\n\nLa lista de octubre por delante de ese partido ya esta publicada. Galatasaray fuera el martes 13 de octubre a las 21:00 en el Rams Park. Real Betis fuera el sabado 17 de octubre a las 18:30. Paris Saint-Germain fuera el martes 20 de octubre a las 21:00. Real Madrid en casa el domingo 25 de octubre a las 21:00. Alaves en casa el sabado 31 de octubre a las 21:00. Cinco partidos caben en los quince dias posteriores al Getafe, y por eso las notas de descanso han empezado antes de que aterricen todos los internacionales.\n\nRaphinha esta en Barcelona despues de la prueba del viernes, disponible y sin la titularidad cerrada. De Jong debe estar con los no internacionales el lunes y no es opcion ante el Getafe. Yamal, Pedri y Olmo jugaron en Oviedo el sabado y estan en el calendario de vuelta. La primera sesion de la semana es el lunes en la Ciutat Esportiva."
+      },
+      "tweets": [
+        {"name": "Barca Universal", "handle": "@BarcaUniversal", "id": "2106768586295660682"},
+        {"name": "barcacentre", "handle": "@barcacentre", "id": "2106820762409554077"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261003/1004234214/hay-horario-barca-alaves-joranada-11.html"}
+      ],
+      "score": {"authority": 26, "confirmation": 12, "recency": 13, "relevance": 9, "velocity": 6, "editorial": 3, "total": 69}
+    }
+  ]
+}
