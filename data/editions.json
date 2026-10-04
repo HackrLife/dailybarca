@@ -1,6 +1,14 @@
 {
   "editions": [
     {
+      "number": 272,
+      "date": "2026-10-05",
+      "label": "Monday 5 Oct 2026",
+      "file": "2026-10-05.json",
+      "tweets": 16,
+      "lead": "Pina scores four in a 7-0 Clásico; Spain close 3-1; De Jong due Monday"
+    },
+    {
       "number": 271,
       "date": "2026-10-04",
       "label": "Sunday 4 Oct 2026",
