@@ -1,0 +1,466 @@
+{
+  "number": 273,
+  "date": "2026-10-06",
+  "label": "Tuesday 6 Oct 2026",
+  "title": {
+    "en": "De Jong stays apart in the rain as Cubarsí leads the Golden Boy list",
+    "es": "De Jong sigue al margen bajo la lluvia y Cubarsí lidera el Golden Boy"
+  },
+  "deck": {
+    "en": "The non-internationals trained at Joan Gamper on Monday. Raphinha, Joan Garcia and Frenkie de Jong worked alone. Pau Cubarsí heads the Golden Boy 25, with Marc Bernal and Xavi Espart also through. Catalunya Radio says Raphinha's extension is due to be signed this week.",
+    "es": "Los no internacionales entrenaron el lunes en la Joan Gamper. Raphinha, Joan Garcia y Frenkie de Jong trabajaron al margen. Pau Cubarsí encabeza los 25 del Golden Boy, con Marc Bernal y Xavi Espart también dentro. Catalunya Radio sitúa la firma de la renovación de Raphinha esta semana."
+  },
+  "defaultSources": [
+    {
+      "label": "Mundo Deportivo",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261005/1004234769/vuelta-trabajo-lluvia-jong-todavia-sigue-margen.html"
+    },
+    {
+      "label": "FC Barcelona",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4586995/cubarsi-bernal-and-xavi-espart-among-25-golden-boy-finalists"
+    },
+    {
+      "label": "El Periódico",
+      "url": "https://www.elperiodico.com/es/deportes/20261005/raphinha-trabajo-individualizado-joan-garcia-de-jong-ciutat-esportiva-135029067"
+    }
+  ],
+  "stories": [
+    {
+      "theme": "squad",
+      "kicker": {
+        "en": "Joan Gamper",
+        "es": "Joan Gamper"
+      },
+      "headline": {
+        "en": "De Jong worked alone in the rain; Eric Garcia trained with the group",
+        "es": "De Jong trabajó solo bajo la lluvia; Eric Garcia lo hizo con el grupo"
+      },
+      "summary": {
+        "en": "The players who did not travel trained on Monday morning at the Ciutat Esportiva Joan Gamper, in heavy rain. Frenkie de Jong was on the grass, but still on his own, as were Joan Garcia and Raphinha. Szczesny, Gavi, Eric Garcia, Gerard Martín, Gabriel Jesus, Brian Fariñas and Alejandro Balde worked as a group under Hansi Flick. SPORT said the rain had pushed De Jong's return with the group back to Tuesday, weather permitting. Getafe are at Spotify Camp Nou on Saturday at 18:30.",
+        "es": "Los que no viajaron entrenaron el lunes por la mañana en la Ciutat Esportiva Joan Gamper, con lluvia fuerte. Frenkie de Jong pisó el césped, pero todavía en solitario, igual que Joan Garcia y Raphinha. Szczesny, Gavi, Eric Garcia, Gerard Martín, Gabriel Jesus, Brian Fariñas y Alejandro Balde trabajaron en grupo con Hansi Flick. SPORT escribió que la lluvia había aplazado al martes la vuelta de De Jong con el grupo, si el tiempo lo permite. El Getafe juega el sábado a las 18:30 en el Spotify Camp Nou."
+      },
+      "body": {
+        "en": "Ángel Pérez filed the session for Mundo Deportivo from Camp Tito Vilanova. The desk had expected De Jong with the others. He came out in the rain and stayed on an individual programme, the same lane as Joan Garcia and Raphinha. El Periódico and Europa Press both had the Brazilian on separate work after the right-thigh discomfort that took him out of Brazil's friendly with Australia at half-time.\n\nEric Garcia's place in the group was the clearer medical note. He had left the Spain camp after feeling a knee in the warm-up before the Nations League game against England at Wembley, and he trained with the seven on Monday. Carlos Monfort at SPORT wrote that the weather, not a setback, was what kept De Jong off the collective session, and that Tuesday was the next slot if the rain eased.\n\nFlick is counting bodies back before Saturday. The internationals are due in before the full session on Thursday. Getafe at 18:30 on 10 October opens a run that also has Galatasaray away, Betis away, Paris Saint-Germain away and Real Madrid at home on the 25th.",
+        "es": "Ángel Pérez cubrió la sesión para Mundo Deportivo desde el Camp Tito Vilanova. En la redacción se esperaba a De Jong con el resto. Salió con la lluvia y se quedó en un trabajo individual, el mismo carril que Joan Garcia y Raphinha. El Periódico y Europa Press coincidieron en que el brasileño se ejercitó al margen después de las molestias en el muslo derecho que lo sacaron al descanso del amistoso de Brasil ante Australia.\n\nEl sitio de Eric Garcia en el grupo fue la nota médica más clara. Había dejado la concentración de España tras notar la rodilla en el calentamiento previo al partido de Nations League contra Inglaterra en Wembley, y el lunes entrenó con los siete. Carlos Monfort escribió en SPORT que fue el tiempo, y no un retroceso, lo que dejó a De Jong fuera de la sesión colectiva, y que el martes era el siguiente hueco si aflojaba la lluvia.\n\nFlick cuenta cuerpos de cara al sábado. Los internacionales deben estar antes de la sesión completa del jueves. El Getafe del 10 de octubre a las 18:30 abre una serie que también incluye al Galatasaray fuera, al Betis fuera, al Paris Saint-Germain fuera y al Real Madrid en casa el día 25."
+      },
+      "tweets": [
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2107093529067708878"
+        },
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2107051044681236664"
+        },
+        {
+          "name": "Barça Buzz",
+          "handle": "@Barca_Buzz",
+          "id": "2107002851453292709"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261005/1004234769/vuelta-trabajo-lluvia-jong-todavia-sigue-margen.html"
+        },
+        {
+          "label": "El Periódico",
+          "url": "https://www.elperiodico.com/es/deportes/20261005/raphinha-trabajo-individualizado-joan-garcia-de-jong-ciutat-esportiva-135029067"
+        },
+        {
+          "label": "Europa Press",
+          "url": "https://www.europapress.es/deportes/futbol-00162/noticia-raphinha-realiza-trabajo-individualizado-vuelta-barca-entrenamientos-20261005142504.html"
+        }
+      ],
+      "score": {
+        "authority": 38,
+        "confirmation": 20,
+        "recency": 15,
+        "relevance": 10,
+        "velocity": 8,
+        "editorial": 5,
+        "total": 96
+      }
+    },
+    {
+      "theme": "squad",
+      "kicker": {
+        "en": "Raphinha",
+        "es": "Raphinha"
+      },
+      "headline": {
+        "en": "Flick's plan is a Getafe rest for Raphinha if the thigh allows it",
+        "es": "El plan de Flick es un descanso ante el Getafe para Raphinha si el muslo lo permite"
+      },
+      "summary": {
+        "en": "Diario SPORT's La Posesión carried a line from @DBR8 on Monday evening: if Raphinha is fit, he will not be rested against Galatasaray, Betis or Paris Saint-Germain. The intention is a rest against Getafe, starting on the bench, with Flick deciding from there on the score. He did individual work on Monday after the edema in the back of his right thigh. The club has not named him in or out of Saturday's squad.",
+        "es": "La Posesión de Diario SPORT recogió el lunes por la noche una línea de @DBR8: si Raphinha está bien, no descansará ante el Galatasaray, el Betis ni el Paris Saint-Germain. La intención es un descanso ante el Getafe, saliendo desde el banquillo, y que Flick decida a partir del marcador. El lunes hizo trabajo individual tras el edema en la parte posterior del muslo derecho. El club no lo ha metido ni sacado de la convocatoria del sábado."
+      },
+      "body": {
+        "en": "SPORT posted the television note at 18:41 GMT on Monday. The wording was specific. A rest against Getafe, on the bench at the start, and no planned rest in the three games after that. Galatasaray are away in the Champions League on 13 October, Betis away on the 17th, PSG away on the 20th.\n\nThe medical file has not moved since the Friday scan. Tests at the training ground found edema and no larger tear, matching what Brazil's staff had already reported when they released him before the trip to Kolkata. He had come off at half-time against Australia after scoring from the penalty spot. Flick's public line last week was that he would not be rushed.\n\nGabriel Jesus was one of the seven on the grass on Monday and is the forward already in the building if the captain does not start. Jesus has not started a competitive game since arriving from Arsenal. Hamza Abdelkarim is still with Egypt. The Saturday kick-off is 18:30.",
+        "es": "SPORT publicó la nota de televisión a las 18:41 GMT del lunes. El texto era concreto. Descanso ante el Getafe, banquillo de inicio, y sin descanso previsto en los tres partidos siguientes. El Galatasaray es fuera en Champions el 13 de octubre, el Betis fuera el 17 y el PSG fuera el 20.\n\nEl parte médico no se ha movido desde la prueba del viernes. Los tests en la ciudad deportiva encontraron un edema y no una rotura mayor, en la línea de lo que ya había informado el cuerpo médico de Brasil cuando lo desconvocó antes del viaje a Calcuta. Había salido al descanso ante Australia después de marcar de penalti. La línea pública de Flick la semana pasada fue que no lo forzaría.\n\nGabriel Jesus fue uno de los siete que pisaron el césped el lunes y es el delantero que ya está en la ciudad si el capitán no sale de inicio. Jesus no ha sido titular en un partido de competición desde que llegó del Arsenal. Hamza Abdelkarim sigue con Egipto. El sábado se juega a las 18:30."
+      },
+      "tweets": [
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2107179262444753295"
+        }
+      ],
+      "sources": [
+        {
+          "label": "SPORT",
+          "url": "https://www.sport.es/es/noticias/barca/"
+        },
+        {
+          "label": "El Periódico",
+          "url": "https://www.elperiodico.com/es/deportes/20261005/raphinha-trabajo-individualizado-joan-garcia-de-jong-ciutat-esportiva-135029067"
+        }
+      ],
+      "score": {
+        "authority": 34,
+        "confirmation": 14,
+        "recency": 15,
+        "relevance": 10,
+        "velocity": 8,
+        "editorial": 4,
+        "total": 85
+      }
+    },
+    {
+      "theme": "club",
+      "kicker": {
+        "en": "Contract",
+        "es": "Contrato"
+      },
+      "headline": {
+        "en": "Catalunya Radio says Raphinha will sign the extension this week",
+        "es": "Catalunya Radio dice que Raphinha firmará la ampliación esta semana"
+      },
+      "summary": {
+        "en": "Barça Universal, Barça Buzz and barcacentre all carried the same line on Monday evening from Roger Salmurri of Catalunya Radio: Raphinha will sign his contract extension this week. Deco had already told the ordinary assembly on 19 September that terms to 2030 were agreed, with the paperwork left as an administrative job. The current deal runs to 2028. The club had not posted a signing by Monday night.",
+        "es": "Barça Universal, Barça Buzz y barcacentre publicaron el lunes por la noche la misma línea de Roger Salmurri, de Catalunya Radio: Raphinha firmará la ampliación esta semana. Deco ya dijo en la asamblea ordinaria del 19 de septiembre que los términos hasta 2030 estaban acordados y que el papeleo quedaba como trámite. El contrato actual llega a 2028. El club no había publicado la firma el lunes por la noche."
+      },
+      "body": {
+        "en": "The September agreement is the part already on the record. At the assembly, Deco said the renewal had been settled the previous afternoon, that Raphinha would be at the club for the next four years, and that Marc Bernal and Xavi Espart were in the same administrative pile. The Athletic reported the length as 2030. El Nacional quoted the sporting director on an extension beyond the summer of 2028.\n\nMonday's addition is the calendar. Salmurri's line, picked up by three desk accounts within minutes of each other, put the signature in this week rather than in a later window. No club statement followed the posts. Raphinha is the captain, Liga MVP for September, and the player Flick is trying to keep out of the Getafe starting side so he is available for the three games after it.\n\nBernal and Espart were also on Monday's other list. Both are in the Golden Boy final 25, Espart by wildcard. Their renewals were part of the same Deco note on 19 September and have not been announced either.",
+        "es": "El acuerdo de septiembre es la parte que ya consta. En la asamblea, Deco dijo que la renovación se había cerrado la tarde anterior, que Raphinha estaría en el club los próximos cuatro años y que Marc Bernal y Xavi Espart iban en el mismo paquete administrativo. The Athletic dio el horizonte de 2030. El Nacional citó al director deportivo sobre una ampliación más allá del verano de 2028.\n\nLo nuevo del lunes es el calendario. La línea de Salmurri, recogida por tres cuentas de redacción en pocos minutos, situó la firma en esta semana y no en una ventana posterior. No hubo comunicado del club después de las publicaciones. Raphinha es el capitán, MVP de Liga en septiembre, y el jugador al que Flick intenta dejar fuera del once ante el Getafe para tenerlo en los tres partidos siguientes.\n\nBernal y Espart estaban también en la otra lista del lunes. Los dos están entre los 25 del Golden Boy, Espart por invitación. Sus renovaciones formaban parte de la misma nota de Deco del 19 de septiembre y tampoco se han anunciado."
+      },
+      "tweets": [
+        {
+          "name": "Barça Universal",
+          "handle": "@BarcaUniversal",
+          "id": "2107168097606283299"
+        },
+        {
+          "name": "Barça Buzz",
+          "handle": "@Barca_Buzz",
+          "id": "2107172576409670133"
+        }
+      ],
+      "sources": [
+        {
+          "label": "The Athletic",
+          "url": "https://www.nytimes.com/athletic/7610378/2026/09/19/raphinha-espart-bernal-barcelona-contract-extension-deco/"
+        },
+        {
+          "label": "El Nacional",
+          "url": "https://www.elnacional.cat/es/deportes/deco-confirma-renovacion-raphinha-estara-nosotros-proximos-cuatro-anos_1697779_102.html"
+        }
+      ],
+      "score": {
+        "authority": 32,
+        "confirmation": 16,
+        "recency": 14,
+        "relevance": 10,
+        "velocity": 9,
+        "editorial": 4,
+        "total": 85
+      }
+    },
+    {
+      "theme": "award",
+      "kicker": {
+        "en": "Golden Boy",
+        "es": "Golden Boy"
+      },
+      "headline": {
+        "en": "Cubarsí leads the Golden Boy 25; Bernal and Espart are in",
+        "es": "Cubarsí lidera los 25 del Golden Boy; Bernal y Espart están dentro"
+      },
+      "summary": {
+        "en": "Tuttosport named the Golden Boy final 25 on Monday in Mestre. Pau Cubarsí is first. Marc Bernal is inside the top 20. Xavi Espart is one of five wildcards. Lamine Yamal is second in the voting ranking and cannot win the award again. Ayyoub Bouaddi and Warren Zaïre-Emery complete the top three on the published order. Fifty journalists will vote. The winner is due in November.",
+        "es": "Tuttosport dio el lunes en Mestre los 25 finalistas del Golden Boy. Pau Cubarsí es el primero. Marc Bernal está entre los veinte. Xavi Espart es una de las cinco invitaciones. Lamine Yamal es segundo en el ranking de votos y no puede ganar el premio otra vez. Ayyoub Bouaddi y Warren Zaïre-Emery completan el podio del orden publicado. Votarán cincuenta periodistas. El ganador se conoce en noviembre."
+      },
+      "body": {
+        "en": "The club posted the shortlist at 16:02 GMT, naming Cubarsí, Bernal and Xavi Espart. Cadena SER had Cubarsí as favourite on the back of the World Cup, La Liga and the Spanish Super Cup, and as a regular starter for Flick and Luis de la Fuente. Telemadrid's EFE copy put Yamal second and Bouaddi third in the ranking, and said Barcelona were the club with the most names once Yamal was left off the eligible list.\n\nBarça Universal noted that Yamal has already won the award, which is why he is absent from the 25 even while sitting second in the vote. Espart entered the top 100 in early September at 50 and has come in on a wildcard. Bernal was 20th on the previous update. Real Madrid have Yan Diomande, Endrick and Franco Mastantuono, the last of those on loan at Fiorentina. Jon Martín of Real Sociedad is the other Spaniard in the twenty.\n\nThe three Barcelona names are from the 2007 academy group. Cubarsí has been in Flick's side from the start of this season. Bernal has minutes again after the long injury. Espart has been in and around the first-team squad. The vote is by 50 journalists from European outlets.",
+        "es": "El club publicó la lista a las 16:02 GMT, con Cubarsí, Bernal y Xavi Espart. Cadena SER situó a Cubarsí como favorito por el Mundial, la Liga y la Supercopa, y por ser fijo con Flick y con Luis de la Fuente. La nota de EFE que recogió Telemadrid puso a Yamal segundo y a Bouaddi tercero en el ranking, y dijo que el Barcelona era el club con más nombres una vez Yamal queda fuera de la lista elegible.\n\nBarça Universal recordó que Yamal ya ha ganado el premio, y que por eso no está entre los 25 aunque figure segundo en la votación. Espart entró en los cien primeros a comienzos de septiembre, en el puesto 50, y ha entrado por invitación. Bernal era vigésimo en la actualización anterior. El Real Madrid tiene a Yan Diomande, Endrick y Franco Mastantuono, este último cedido en la Fiorentina. Jon Martín, de la Real Sociedad, es el otro español entre los veinte.\n\nLos tres nombres del Barcelona salen de la generación de 2007 de la cantera. Cubarsí ha estado en el equipo de Flick desde el inicio de esta temporada. Bernal vuelve a tener minutos después de la lesión larga. Espart ha estado dentro y alrededor de la plantilla del primer equipo. El voto es de 50 periodistas de medios europeos."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2107139391672181206"
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2107139163334025570"
+        },
+        {
+          "name": "barcacentre",
+          "handle": "@barcacentre",
+          "id": "2107163000004104547"
+        }
+      ],
+      "sources": [
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4586995/cubarsi-bernal-and-xavi-espart-among-25-golden-boy-finalists"
+        },
+        {
+          "label": "Cadena SER",
+          "url": "https://cadenaser.com/nacional/2026/10/05/cubarsi-lidera-el-golden-boy-con-bernal-y-espart-entre-los-25-finalistas-consulta-el-listado-completo-cadena-ser/"
+        },
+        {
+          "label": "Barça Universal",
+          "url": "https://barcauniversal.com/confirmed-three-barcelona-stars-feature-in-2026-golden-boy-25-finalists/"
+        }
+      ],
+      "score": {
+        "authority": 40,
+        "confirmation": 20,
+        "recency": 14,
+        "relevance": 10,
+        "velocity": 9,
+        "editorial": 5,
+        "total": 98
+      }
+    },
+    {
+      "theme": "international",
+      "kicker": {
+        "en": "Jules Koundé",
+        "es": "Jules Koundé"
+      },
+      "headline": {
+        "en": "Koundé started against Belgium after telling the press the drop is on him",
+        "es": "Koundé fue titular ante Bélgica después de decir que el bajón es cosa suya"
+      },
+      "summary": {
+        "en": "Jules Koundé started for France against Belgium on Monday night at the Stade de France in Nations League Group A1. Barça Universal posted the team. Before the game he told reporters he is not injured, that the minutes at Barcelona are Flick's decision, and that last season he was below his own standard. Eric Garcia has taken the right-back place. Dodi Lukebakio put Belgium ahead on 35 minutes.",
+        "es": "Jules Koundé fue titular con Francia ante Bélgica el lunes por la noche en el Stade de France, en el grupo A1 de la Nations League. Barça Universal publicó el once. Antes del partido dijo a los periodistas que no está lesionado, que los minutos en el Barcelona son decisión de Flick y que la temporada pasada estuvo por debajo de su nivel. Eric Garcia le ha quitado el lateral derecho. Dodi Lukebakio adelantó a Bélgica en el minuto 35."
+      },
+      "body": {
+        "en": "Roger Torelló's piece in Mundo Deportivo ran from the pre-match press conference. Koundé said the lack of club minutes was a consequence he accepted, and that he would get the time back when he returned to his level. He had started in Türkiye against France, Zinedine Zidane's first game, and had not played against Belgium in Brussels on 28 September or against Italy. Michael Olise scored the only goal in that 1-0 in Brussels.\n\nMonday's kick-off was 20:45 CEST. Franceinfo had Koundé on the pitch against Diego Moreira. The live file at the interval had Belgium 1-0, Lukebakio finishing in the 35th minute with Romeo Lavia on the assist. A final score was not on the wires used for this edition.\n\nAt the club, Koundé has not had a minute in the last three games. His contract runs to 2030. SPORT, via Barça Universal, reported on Monday that Chelsea, Arsenal, Manchester City, Manchester United and Liverpool are watching, that he has not asked to leave, and that Barcelona would only talk for a very high fee.",
+        "es": "La pieza de Roger Torelló en Mundo Deportivo salió de la rueda de prensa previa. Koundé dijo que la falta de minutos en el club era una consecuencia que aceptaba, y que recuperaría el tiempo cuando volviera a su nivel. Había sido titular en Turquía ante Francia, el primer partido de Zinedine Zidane, y no jugó contra Bélgica en Bruselas el 28 de septiembre ni contra Italia. Michael Olise marcó el único gol de aquel 1-0 en Bruselas.\n\nEl lunes se pitó a las 20:45 CEST. Franceinfo tenía a Koundé en el campo ante Diego Moreira. El directo al descanso daba 1-0 para Bélgica, con el gol de Lukebakio en el minuto 35 y la asistencia de Romeo Lavia. Esta edición no tenía un resultado final en las crónicas usadas.\n\nEn el club, Koundé no ha jugado un minuto en los tres últimos partidos. Su contrato llega a 2030. SPORT, a través de Barça Universal, publicó el lunes que Chelsea, Arsenal, Manchester City, Manchester United y Liverpool siguen el caso, que él no ha pedido salir y que el Barcelona solo hablaría por una cifra muy alta."
+      },
+      "tweets": [
+        {
+          "name": "Barça Universal",
+          "handle": "@BarcaUniversal",
+          "id": "2107177196532244907"
+        },
+        {
+          "name": "Barça Universal",
+          "handle": "@BarcaUniversal",
+          "id": "2107078941202599937"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261004/1004234410/kounde-autocritica-acepta-suplencia-barca.html"
+        },
+        {
+          "label": "Franceinfo",
+          "url": "https://www.franceinfo.fr/sports/directs/direct-france-belgique-les-bleus-retrouvent-les-diables-rouges-et-visent-une-premiere-victoire-en-france-avec-zidane-suivez-le-match-de-ligue-des-nations_8223076.html"
+        }
+      ],
+      "score": {
+        "authority": 34,
+        "confirmation": 16,
+        "recency": 15,
+        "relevance": 9,
+        "velocity": 7,
+        "editorial": 4,
+        "total": 85
+      }
+    },
+    {
+      "theme": "match",
+      "kicker": {
+        "en": "Femeni",
+        "es": "Femeni"
+      },
+      "headline": {
+        "en": "Patri calls the 7-0 the best game of the season; Aitana wants the old level back",
+        "es": "Patri llama al 7-0 el mejor partido de la temporada; Aitana quiere el nivel de antes"
+      },
+      "summary": {
+        "en": "A day after the 7-0 against Real Madrid, Patri Guijarro told mixed-zone reporters it was the best game of the season and that the football had produced the score. She wore the first-captain armband in a Clásico at Spotify Camp Nou for the first time. The crowd was 40,533, a Liga F record, in bad weather. Aitana Bonmatí, on for Claudia Pina on 59 minutes, said she wants to be better than the Aitana from before the injury. Barça are six from six, on 18 points.",
+        "es": "Un día después del 7-0 al Real Madrid, Patri Guijarro dijo en zona mixta que fue el mejor partido de la temporada y que el juego había llevado al marcador. Lució por primera vez el brazalete de primera capitana en un Clásico en el Spotify Camp Nou. El aforo fue de 40.533, récord de Liga F, con mal tiempo. Aitana Bonmatí, que entró por Claudia Pina en el minuto 59, dijo que quiere ser mejor que la Aitana de antes de la lesión. El Barça suma seis de seis y 18 puntos."
+      },
+      "body": {
+        "en": "Jordi Cardero's follow-up in Mundo Deportivo carried Patri's line that the side played the second half as if it were 1-0 or a goal down, and Sydney Schertenleib's remark that the rivalry with Madrid pushes them. Pina had four goals before the break, on 4, 28, 32 and 45. Caroline Graham Hansen, Ewa Pajor and Schertenleib scored the other three. Pere Romeu had started without Aitana.\n\nEl Nacional ran the Monday quotes. Patri said the goals fall off Pina's boots. Aitana said that on a night when she felt that good she wanted to be on the pitch, and that she understood the change. Pina had said after the game that she is more anti-Madrid than Cata Coll. The Femeni account had posted the 59th-minute double change, Kerolin and Aitana on.\n\nLiga F attendance for the night was filed at 40,533 by the club-side counts used on Monday, after SPORT's 40,553 on the night itself. Madrid are five points back. The men's Clásico at the same ground is on 25 October at 21:00.",
+        "es": "El seguimiento de Jordi Cardero en Mundo Deportivo recogió la frase de Patri de que el equipo jugó la segunda parte como si fuera 1-0 o un gol abajo, y el comentario de Sydney Schertenleib de que la rivalidad con el Madrid las empuja. Pina había marcado cuatro antes del descanso, en los minutos 4, 28, 32 y 45. Caroline Graham Hansen, Ewa Pajor y Schertenleib hicieron los otros tres. Pere Romeu había salido sin Aitana.\n\nEl Nacional publicó las citas del lunes. Patri dijo que a Pina los goles le caen de las botas. Aitana dijo que en una noche en la que se sentía tan bien quería estar en el campo, y que entendió el cambio. Pina había dicho después del partido que es más antimadridista que Cata Coll. La cuenta del Femeni había publicado el doble cambio del minuto 59, con Kerolin y Aitana dentro.\n\nLa asistencia de Liga F de esa noche quedó en 40.533 en los recuentos del lunes, después de los 40.553 de SPORT la misma noche. El Madrid está a cinco puntos. El Clásico masculino en el mismo campo es el 25 de octubre a las 21:00."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona_es",
+          "id": "2106833619809657308"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261005/1004234652/barca-analiza-goleada-madrid-juego-llevado-resultado.html"
+        },
+        {
+          "label": "El Nacional",
+          "url": "https://www.elnacional.cat/es/deportes/aitana-bonmati-despues-7-0-contra-madrid-quiero-ser-mejor-aitana-era-antes-lesion_1705402_102.html"
+        }
+      ],
+      "score": {
+        "authority": 34,
+        "confirmation": 16,
+        "recency": 12,
+        "relevance": 9,
+        "velocity": 6,
+        "editorial": 4,
+        "total": 81
+      }
+    },
+    {
+      "theme": "fixture",
+      "kicker": {
+        "en": "Copa del Rey",
+        "es": "Copa del Rey"
+      },
+      "headline": {
+        "en": "Barcelona are out of the first-round draw; they enter with the Supercopa four",
+        "es": "El Barcelona no está en el sorteo de la primera ronda; entra con los cuatro de la Supercopa"
+      },
+      "summary": {
+        "en": "The RFEF drew the first round of the Copa del Rey on Monday at Las Rozas. Fifty-six ties, single legs on 27, 28 and 29 October, at the ground of the lower-ranked club. Real Madrid, Barcelona, Atlético de Madrid and Real Sociedad were not in the pots. Those four play the Supercopa de España in early 2027 and join the cup later. Navalcarnero drew Betis. Manacor drew Villarreal.",
+        "es": "La RFEF sorteó el lunes en Las Rozas la primera ronda de la Copa del Rey. Cincuenta y seis eliminatorias, a partido único el 27, 28 y 29 de octubre, en el campo del equipo de menor categoría. Real Madrid, Barcelona, Atlético de Madrid y Real Sociedad no estaban en los bombos. Esos cuatro juegan la Supercopa de España a comienzos de 2027 y entran después en la Copa. El Navalcarnero se quedó con el Betis. El Manacor, con el Villarreal."
+      },
+      "body": {
+        "en": "MARCA's draw file listed the exemption in one line: everyone except the four Supercopa clubs. The ties were grouped by geography, with the lower division at home where the rules allowed. Getafe, Saturday's league opponents, were drawn against UB Lebrijana in group 4, the tie SPORT posted on Monday afternoon.\n\nBarcelona's next competitive dates are all league and Europe. Getafe at home on 10 October, Galatasaray away on the 13th, Betis away on the 17th, PSG away on the 20th, Real Madrid at home on the 25th. The cup entry comes after that block. No round-of-32 opponent exists yet.\n\nThe first-round dates sit on the same week as the Clásico. Clubs in that round play on the 27th, 28th or 29th. Barcelona do not.",
+        "es": "La ficha del sorteo de MARCA dejó la exención en una línea: todos menos los cuatro de la Supercopa. Las eliminatorias se agruparon por geografía, con el de categoría inferior en casa cuando el reglamento lo permitía. El Getafe, rival de Liga del sábado, quedó emparejado con la UB Lebrijana en el grupo 4, el cruce que SPORT publicó el lunes por la tarde.\n\nLas próximas citas de competición del Barcelona son de Liga y de Europa. Getafe en casa el 10 de octubre, Galatasaray fuera el 13, Betis fuera el 17, PSG fuera el 20 y Real Madrid en casa el 25. La entrada en la Copa llega después de ese bloque. Todavía no hay rival de dieciseisavos.\n\nLas fechas de la primera ronda caen en la misma semana que el Clásico. Esos clubes juegan el 27, el 28 o el 29. El Barcelona no."
+      },
+      "tweets": [
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2107080484182269963"
+        }
+      ],
+      "sources": [
+        {
+          "label": "MARCA",
+          "url": "https://www.marca.com/futbol/copa-rey/2026/10/05/asi-queda-sorteo-copa-rey-todos-partidos-enfrentamientos-primera-eliminatoria.html"
+        },
+        {
+          "label": "SPORT",
+          "url": "https://www.sport.es/es/noticias/futbol/copa-rey/sorteo-copa-rey-hoy-directo-135010663"
+        }
+      ],
+      "score": {
+        "authority": 32,
+        "confirmation": 16,
+        "recency": 13,
+        "relevance": 7,
+        "velocity": 5,
+        "editorial": 3,
+        "total": 76
+      }
+    },
+    {
+      "theme": "international",
+      "kicker": {
+        "en": "Split",
+        "es": "Split"
+      },
+      "headline": {
+        "en": "Spain meet Croatia in Split on Tuesday, with Yamal, Cubarsí and Pedri in the group",
+        "es": "España se mide a Croacia en Split el martes, con Yamal, Cubarsí y Pedri en el grupo"
+      },
+      "summary": {
+        "en": "Croatia against Spain is the last Nations League date of the window for the Barcelona group, Tuesday night in Split, kick-off 20:45 CEST. The club diary lists Pau Cubarsí, Pedri, Fermín López, Dani Olmo and Lamine Yamal, plus Dominik Livaković on the other side. Spain closed the Czechia game 3-1 in Oviedo on Saturday. Yamal scored in the sixth minute and came off at half-time. Anthony Gordon's England play Czechia on the same night.",
+        "es": "Croacia-España es la última cita de Nations League de la ventana para el grupo del Barcelona, el martes por la noche en Split, a las 20:45 CEST. La agenda del club incluye a Pau Cubarsí, Pedri, Fermín López, Dani Olmo y Lamine Yamal, y a Dominik Livaković en el otro lado. España cerró el partido ante la República Checa con un 3-1 en Oviedo el sábado. Yamal marcó en el minuto seis y salió al descanso. La Inglaterra de Anthony Gordon juega el mismo martes contra la República Checa."
+      },
+      "body": {
+        "en": "The official international diary has the Split game on 6 October and England against Czechia the same evening. Spain are three points clear of England in Group A3 after the 3-1 in Oviedo and England's 7-0 in Rijeka. Rodri and Mikel Merino scored the other Spain goals on Saturday. Jiri Slama replied on 70. Ladislav Krejci was sent off.\n\nLivaković has started for Croatia through the window, including the 4-1 against Spain and the 7-0 against England. Yamal has four goals in this Nations League block. De la Fuente took him off at the interval in Oviedo for Víctor Muñoz, with the score 2-0.\n\nThe players are due back in Barcelona before Thursday's full session. Monday at Joan Gamper was the non-international group only. Saturday against Getafe is the first club match after the window.",
+        "es": "La agenda internacional del club tiene el partido de Split el 6 de octubre y el Inglaterra-República Checa la misma noche. España tiene tres puntos de ventaja sobre Inglaterra en el grupo A3 después del 3-1 de Oviedo y del 7-0 de Inglaterra en Rijeka. Rodri y Mikel Merino marcaron los otros goles de España el sábado. Jiri Slama recortó en el 70. Ladislav Krejci fue expulsado.\n\nLivaković ha sido titular con Croacia en la ventana, también en el 4-1 ante España y en el 7-0 ante Inglaterra. Yamal lleva cuatro goles en este bloque de Nations League. De la Fuente lo sacó al descanso en Oviedo por Víctor Muñoz, con 2-0 en el marcador.\n\nLos jugadores deben estar de vuelta en Barcelona antes de la sesión completa del jueves. El lunes en la Joan Gamper solo estuvo el grupo de no internacionales. El sábado ante el Getafe es el primer partido de club después de la ventana."
+      },
+      "tweets": [
+        {
+          "name": "Barça Buzz",
+          "handle": "@Barca_Buzz",
+          "id": "2107002851453292709"
+        }
+      ],
+      "sources": [
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/card/4579417/fc-barcelona-international-diary"
+        },
+        {
+          "label": "Al Jazeera",
+          "url": "https://www.aljazeera.com/sports/2026/10/4/yamal-scores-stunning-goal-in-spains-3-1-nations-league-win-over-czechia"
+        }
+      ],
+      "score": {
+        "authority": 36,
+        "confirmation": 14,
+        "recency": 12,
+        "relevance": 10,
+        "velocity": 5,
+        "editorial": 4,
+        "total": 81
+      }
+    },
+    {
+      "theme": "club",
+      "kicker": {
+        "en": "Negreira",
+        "es": "Negreira"
+      },
+      "headline": {
+        "en": "Iniesta, at his exhibition: the titles were won on the pitch",
+        "es": "Iniesta, en su exposición: los títulos se ganaron en el campo"
+      },
+      "summary": {
+        "en": "Mundo Deportivo ran a Monday piece from Andrés Iniesta's exhibition. Asked about the Negreira case, he said they won everything on the pitch. The line is the former captain's, not a court finding. A Barcelona court has been investigating the payments to the former referees' chief since 2023. UEFA has had a file from Real Madrid since earlier this month.",
+        "es": "Mundo Deportivo publicó el lunes una pieza desde la exposición de Andrés Iniesta. Preguntado por el caso Negreira, dijo que lo ganaron todo en el campo. La frase es del excapitán, no un fallo judicial. Un juzgado de Barcelona investiga los pagos al exjefe de los árbitros desde 2023. La UEFA tiene un dossier del Real Madrid desde principios de este mes."
+      },
+      "body": {
+        "en": "Sergi Solé's item is a quote from the exhibition, not a new document in the case. Iniesta's answer, as MD headlined it, was that the trophies were won on the field. The payments under investigation relate to the years when José María Enríquez Negreira was vice-president of the referees' committee, a file opened in Barcelona in 2023.\n\nThe Athletic reported in September that UEFA had received a substantial dossier from Real Madrid on those payments. No charging decision from that file was published on Monday. The quote sits next to the exhibition, which MD covered as a separate club-page story on the same day as the return to training.\n\nBarcelona have not issued a fresh statement on the case this week. The sporting week in front of the squad is Getafe on Saturday.",
+        "es": "La pieza de Sergi Solé es una cita de la exposición, no un documento nuevo del caso. La respuesta de Iniesta, tal como la tituló MD, fue que los títulos se ganaron en el campo. Los pagos investigados corresponden a los años en que José María Enríquez Negreira fue vicepresidente del comité de árbitros, una causa abierta en Barcelona en 2023.\n\nThe Athletic informó en septiembre de que la UEFA había recibido un dossier amplio del Real Madrid sobre esos pagos. El lunes no se publicó ninguna decisión de imputación de ese archivo. La cita queda al lado de la exposición, que MD cubrió como una pieza distinta de la página del club el mismo día de la vuelta al trabajo.\n\nEl Barcelona no ha emitido un comunicado nuevo sobre el caso esta semana. La semana deportiva que tiene delante la plantilla es el Getafe del sábado."
+      },
+      "tweets": [],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261005/1004234746/iniesta.html"
+        },
+        {
+          "label": "The Athletic",
+          "url": "https://www.nytimes.com/athletic/football/team/fc-barcelona/"
+        }
+      ],
+      "score": {
+        "authority": 30,
+        "confirmation": 12,
+        "recency": 12,
+        "relevance": 7,
+        "velocity": 4,
+        "editorial": 3,
+        "total": 68
+      }
+    }
+  ]
+}
