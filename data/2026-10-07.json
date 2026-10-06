@@ -1,0 +1,534 @@
+{
+  "number": 274,
+  "date": "2026-10-07",
+  "label": "Wednesday 7 Oct 2026",
+  "title": {
+    "en": "De Jong shares part of the session; Pina takes the September prize",
+    "es": "De Jong comparte parte de la sesión; Pina se lleva el premio de septiembre"
+  },
+  "deck": {
+    "en": "Frenkie de Jong completed part of Tuesday's work with the group. Raphinha and Joan Garcia stayed apart, with both aimed at Saturday. SPORT put a possible Friday announcement on the captain's deal to 2030. Liga F named Clàudia Pina player of September.",
+    "es": "Frenkie de Jong completó parte del trabajo del martes con el grupo. Raphinha y Joan Garcia siguieron al margen, con los dos orientados al sábado. SPORT situó un posible anuncio el viernes para el contrato del capitán hasta 2030. La Liga F nombró a Clàudia Pina jugadora de septiembre."
+  },
+  "defaultSources": [
+    {
+      "label": "FC Barcelona",
+      "url": "https://www.fcbarcelona.com/en/football/first-team/news/4587299/new-faces-at-training"
+    },
+    {
+      "label": "Mundo Deportivo",
+      "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235277/frenkie-jong-vuelve-grupo-acerca-regreso.html"
+    },
+    {
+      "label": "SPORT",
+      "url": "https://www.sport.es/es/noticias/barca/barca-blinda-raphinha-2030-semana-135045229"
+    }
+  ],
+  "stories": [
+    {
+      "theme": "squad",
+      "kicker": {
+        "en": "Joan Gamper",
+        "es": "Joan Gamper"
+      },
+      "headline": {
+        "en": "De Jong completed part of Tuesday's session with the group",
+        "es": "De Jong completó parte de la sesión del martes con el grupo"
+      },
+      "summary": {
+        "en": "Frenkie de Jong took part of Tuesday's session with the group at the Ciutat Esportiva, his first collective work since the right-knee MCL injury at the World Cup. The club posted it at 14:04 GMT. EFE said he did not finish the session and still has time to make up before he plays. Rain had kept Monday indoors. Getafe are at Spotify Camp Nou on Saturday at 18:30.",
+        "es": "Frenkie de Jong hizo parte de la sesión del martes con el grupo en la Ciutat Esportiva, el primer trabajo colectivo desde la lesión del ligamento lateral interno de la rodilla derecha en el Mundial. El club lo publicó a las 14:04 GMT. EFE, desde Sant Joan Despí, escribió que no completó la sesión y que todavía tiene plazos antes de jugar. La lluvia dejó el lunes el trabajo a cubierto. El Getafe juega el sábado a las 18:30 en el Spotify Camp Nou."
+      },
+      "body": {
+        "en": "The official line was short. Hansi Flick's available players trained for a second day, and De Jong was one of the names the club put in the headline. Mundo Deportivo's desk, filed by Aparicio, put the absence at close to four months from the collective group. The injury itself dates to the Netherlands' World Cup run, which ended on 30 June. On his return to Barcelona the scans found the MCL tear, and the club chose conservative treatment rather than surgery.\n\nMonday had been the date on the training notes. Heavy rain moved that session inside, and De Jong stayed on his own programme with Joan Garcia and Raphinha. Tuesday was the first time he shared part of the grass work. EFE was explicit that the step does not put him in the matchday squad. The Dutchman has not made a competitive appearance in 2026-27.\n\nFlick still has the rest of the week before Getafe. The internationals are due back in stages before Thursday's fuller session. De Jong's file is separate from that travel list. Saturday is gameweek 8, with Barcelona on 21 points from seven wins.",
+        "es": "La nota oficial fue corta. Los disponibles de Hansi Flick entrenaron por segundo día y De Jong fue uno de los nombres que el club puso en el titular. La redacción de Mundo Deportivo, con la firma de Aparicio, situó la baja del grupo colectivo en cerca de cuatro meses. La lesión es del Mundial de Países Bajos, que terminó el 30 de junio. A la vuelta a Barcelona las pruebas encontraron la rotura del ligamento lateral interno y el club optó por el tratamiento conservador, no por la cirugía.\n\nEl lunes era la fecha que figuraba en las previsiones. La lluvia fuerte metió esa sesión en el gimnasio y De Jong se quedó en el programa individual, con Joan Garcia y Raphinha. El martes fue la primera vez que compartió parte del trabajo en el césped. EFE dejó claro que el paso no lo mete en la convocatoria. El neerlandés no ha disputado un partido de competición en 2026-27.\n\nA Flick le queda el resto de la semana antes del Getafe. Los internacionales vuelven por tandas antes de la sesión más completa del jueves. El parte de De Jong va aparte de esa lista de viajes. El sábado es la jornada 8, con el Barcelona en 21 puntos tras siete victorias."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2107472179419840613"
+        },
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2107415707264696397"
+        },
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2107412837262147899"
+        }
+      ],
+      "sources": [
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4587299/new-faces-at-training"
+        },
+        {
+          "label": "EFE",
+          "url": "https://www.infobae.com/america/agencias/2026/10/06/frenkie-de-jong-vuelve-a-los-entrenamientos-grupales-dos-meses-despues/"
+        },
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235277/frenkie-jong-vuelve-grupo-acerca-regreso.html"
+        }
+      ],
+      "score": {
+        "authority": 40,
+        "confirmation": 20,
+        "recency": 15,
+        "relevance": 10,
+        "velocity": 9,
+        "editorial": 5,
+        "total": 99
+      }
+    },
+    {
+      "theme": "squad",
+      "kicker": {
+        "en": "Medical",
+        "es": "Parte médico"
+      },
+      "headline": {
+        "en": "Raphinha and Joan Garcia stayed on individual work; both are aimed at Saturday",
+        "es": "Raphinha y Joan Garcia siguieron en trabajo individual; los dos se orientan al sábado"
+      },
+      "summary": {
+        "en": "EFE reported that Raphinha and Joan Garcia stayed on individual programmes on Tuesday, and that the club expects both to be available against Getafe on Saturday. Raphinha's scan found edema, not a larger tear, after he left Brazil's friendly with Australia at half-time. Garcia has edema in his right knee. SPORT's Carlos Monfort called Raphinha the only player fully apart from the group.",
+        "es": "EFE informó de que Raphinha y Joan Garcia siguieron el martes en programas individuales, y de que el club espera a los dos disponibles ante el Getafe el sábado. La prueba de Raphinha encontró un edema, no una rotura mayor, tras salir al descanso del amistoso de Brasil ante Australia. Garcia tiene un edema en la rodilla derecha. Carlos Monfort, en SPORT, describió a Raphinha como el único que trabajó del todo al margen."
+      },
+      "body": {
+        "en": "The two reports do not use the same sentence. Monfort, writing for SPORT, said Raphinha was the only footballer who worked outside the group while De Jong did a good part of the session with the others. EFE named both the captain and the goalkeeper on separate work, and added the club's expectation that each can be in the squad on Saturday. Garcia's edema is in the right knee. Raphinha's is in the back of the right thigh, the same area that ended his night against Australia after he had scored from the penalty spot.\n\nMonday's television line, carried by SPORT's La Posesión, still stands next to that medical note. If he is fit, the plan is a rest against Getafe, from the bench, and no planned rest against Galatasaray, Betis or Paris Saint-Germain. Those three are away, on 13, 17 and 20 October. Real Madrid are at Spotify Camp Nou on the 25th at 21:00.\n\nGabriel Jesus was already with the group on Monday and is the forward in the building if Flick holds the captain back. Hamza Abdelkarim was back from Egypt on Tuesday. The club has not published a squad list.",
+        "es": "Los dos textos no dicen la misma frase. Monfort, en SPORT, escribió que Raphinha fue el único que trabajó fuera del grupo mientras De Jong hacía buena parte de la sesión con el resto. EFE citó al capitán y al portero en trabajo aparte, y añadió la previsión del club de que los dos puedan estar el sábado. El edema de Garcia está en la rodilla derecha. El de Raphinha, en la parte posterior del muslo derecho, la misma zona que cerró su noche ante Australia después de marcar de penalti.\n\nLa línea de televisión del lunes, en La Posesión de SPORT, sigue al lado de ese parte. Si está bien, el plan es un descanso ante el Getafe, desde el banquillo, y ningún descanso previsto ante el Galatasaray, el Betis o el Paris Saint-Germain. Esos tres son fuera, el 13, el 17 y el 20 de octubre. El Real Madrid está en el Spotify Camp Nou el 25 a las 21:00.\n\nGabriel Jesus ya estaba con el grupo el lunes y es el delantero que hay en la ciudad si Flick reserva al capitán. Hamza Abdelkarim volvió de Egipto el martes. El club no ha publicado lista de convocados."
+      },
+      "tweets": [
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2107415707264696397"
+        },
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2107434346810315043"
+        }
+      ],
+      "sources": [
+        {
+          "label": "EFE",
+          "url": "https://www.infobae.com/america/agencias/2026/10/06/frenkie-de-jong-vuelve-a-los-entrenamientos-grupales-dos-meses-despues/"
+        },
+        {
+          "label": "SPORT",
+          "url": "https://www.sport.es/es/noticias/barca/"
+        },
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4587299/new-faces-at-training"
+        }
+      ],
+      "score": {
+        "authority": 36,
+        "confirmation": 18,
+        "recency": 15,
+        "relevance": 10,
+        "velocity": 7,
+        "editorial": 4,
+        "total": 90
+      }
+    },
+    {
+      "theme": "club",
+      "kicker": {
+        "en": "Contract",
+        "es": "Contrato"
+      },
+      "headline": {
+        "en": "SPORT says the Raphinha extension to 2030 could be announced on Friday",
+        "es": "SPORT sitúa el posible anuncio de la ampliación de Raphinha hasta 2030 el viernes"
+      },
+      "summary": {
+        "en": "Diario SPORT wrote on Tuesday morning that Barcelona could announce Raphinha's extension to 2030 on Friday, before Getafe. Deco told the assembly on 19 September that the terms were agreed and the paperwork was administrative. The current deal runs to 2028. Roger Salmurri of Catalunya Radio had already put the signature in this week. The club had not posted it by Tuesday night.",
+        "es": "Diario SPORT escribió el martes por la mañana que el Barcelona podría anunciar el viernes la ampliación de Raphinha hasta 2030, antes del Getafe. Deco dijo en la asamblea del 19 de septiembre que los términos estaban acordados y que el papeleo era administrativo. El contrato vigente llega a 2028. Roger Salmurri, de Catalunya Radio, ya había situado la firma en esta semana. El club no la había publicado el martes por la noche."
+      },
+      "body": {
+        "en": "SPORT's morning posts, at 07:15 and 07:33 GMT, moved the calendar on from Monday's radio line. The headline was a shield to 2030 this week, with Friday named as the day the club could make it public. The copy described him as the reference for the project in the coming seasons and noted that his physical state still has to be watched. He has been on individual work since the Australia friendly.\n\nThe September record has not changed. At the assembly Deco said the renewal had been settled the previous afternoon, that Raphinha would be at the club for the next four years, and that Marc Bernal and Xavi Espart were in the same administrative pile. The Athletic reported the length as 2030. No club statement has followed either the assembly or this week's reports.\n\nRaphinha is captain, Liga MVP for August and September, and the player Flick has been managing toward a possible bench start on Saturday. Bernal and Espart, both in the Golden Boy final 25, remain unannounced on the contract side as well.",
+        "es": "Las publicaciones de la mañana de SPORT, a las 07:15 y a las 07:33 GMT, movieron el calendario respecto a la línea de radio del lunes. El titular fue un blindaje hasta 2030 esta semana, con el viernes como día en el que el club podría hacerlo público. El texto lo describe como referente del proyecto en las próximas temporadas y apunta que hay que seguir su estado físico. Lleva en trabajo individual desde el amistoso ante Australia.\n\nEl acta de septiembre no ha cambiado. En la asamblea Deco dijo que la renovación se había cerrado la tarde anterior, que Raphinha estaría en el club los próximos cuatro años y que Marc Bernal y Xavi Espart iban en el mismo paquete administrativo. The Athletic dio el horizonte de 2030. No ha habido comunicado del club ni después de la asamblea ni después de las informaciones de esta semana.\n\nRaphinha es el capitán, MVP de Liga en agosto y en septiembre, y el jugador al que Flick viene dosificando de cara a una posible salida desde el banquillo el sábado. Bernal y Espart, los dos en los 25 del Golden Boy, siguen también sin anuncio de contrato."
+      },
+      "tweets": [
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2107373776157507893"
+        },
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2107369015681409200"
+        }
+      ],
+      "sources": [
+        {
+          "label": "SPORT",
+          "url": "https://www.sport.es/es/noticias/barca/barca-blinda-raphinha-2030-semana-135045229"
+        },
+        {
+          "label": "The Athletic",
+          "url": "https://www.nytimes.com/athletic/7610378/2026/09/19/raphinha-espart-bernal-barcelona-contract-extension-deco/"
+        }
+      ],
+      "score": {
+        "authority": 32,
+        "confirmation": 16,
+        "recency": 14,
+        "relevance": 10,
+        "velocity": 8,
+        "editorial": 4,
+        "total": 84
+      }
+    },
+    {
+      "theme": "squad",
+      "kicker": {
+        "en": "Returns",
+        "es": "Regresos"
+      },
+      "headline": {
+        "en": "Adeyemi and Hamza were back on the grass; six academy players filled the session",
+        "es": "Adeyemi y Hamza volvieron al césped; seis de la cantera completaron la sesión"
+      },
+      "summary": {
+        "en": "Karim Adeyemi and Hamza Abdelkarim trained with the group on Tuesday. Adeyemi played for Germany against Serbia and Greece and was released by Jürgen Klopp. Flick gave him Monday off. Hamza made three appearances for Egypt and scored his first senior goal in the 5-0 over South Sudan. Max Bonfill, Baba Kourouma, Jordi Pesquer, Shane Kluivert and Oscar Gistau filled out the session from the academy sides.",
+        "es": "Karim Adeyemi y Hamza Abdelkarim entrenaron con el grupo el martes. Adeyemi jugó con Alemania ante Serbia y Grecia y fue liberado por Jürgen Klopp. Flick le dio el lunes libre. Hamza disputó tres partidos con Egipto y marcó su primer gol con la absoluta en el 5-0 ante Sudán del Sur. Max Bonfill, Baba Kourouma, Jordi Pesquer, Shane Kluivert y Oscar Gistau completaron la sesión desde la cantera."
+      },
+      "body": {
+        "en": "The club's training note named both returns in the same sentence as De Jong's partial session. Adeyemi arrived from Dortmund in the summer and has been in Flick's rotation. Klopp's first Germany camp split the available players across the fixtures, which is why the winger was back in Sant Joan Despí before the Spain, England and Brazil groups. He did not train on Monday.\n\nHamza's break was the fuller one. He came off the bench against Angola and against South Sudan in the 2027 Africa Cup of Nations qualifiers, and he also played in the friendly against South Sudan. The goal in the 5-0 is his first for the senior side. Barcelona confirmed in the summer that he was a permanent squad member, and in September the club and the player agreed a contract to 30 June 2030. He led the pre-season scoring list with four goals and has not started a league match.\n\nWith most of the senior group still away, Flick filled Tuesday with six from the B team and the youth ranks: Bonfill, Kourouma, Pesquer, Hamza, Kluivert and Gistau. The remaining internationals are due over the next two days, ahead of the 18:30 kick-off on Saturday.",
+        "es": "La nota de entrenamiento del club metió los dos regresos en la misma frase que la sesión parcial de De Jong. Adeyemi llegó del Dortmund en verano y ha estado en la rotación de Flick. El primer stage de Klopp con Alemania repartió a los disponibles entre los partidos, y por eso el extremo estaba en Sant Joan Despí antes que los grupos de España, Inglaterra y Brasil. El lunes no entrenó.\n\nLa ventana de Hamza fue más larga. Salió desde el banquillo ante Angola y ante Sudán del Sur en la fase de clasificación para la Copa África 2027, y también jugó el amistoso ante Sudán del Sur. El gol del 5-0 es el primero con la absoluta. El Barcelona confirmó en verano que era miembro fijo de la plantilla, y en septiembre el club y el jugador acordaron un contrato hasta el 30 de junio de 2030. Fue el máximo goleador de la pretemporada con cuatro goles y no ha sido titular en Liga.\n\nCon buena parte del grupo senior todavía fuera, Flick completó el martes con seis del filial y del juvenil: Bonfill, Kourouma, Pesquer, Hamza, Kluivert y Gistau. El resto de internacionales llega en los dos próximos días, antes de las 18:30 del sábado."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2107472179419840613"
+        }
+      ],
+      "sources": [
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4587299/new-faces-at-training"
+        },
+        {
+          "label": "EFE",
+          "url": "https://www.infobae.com/america/agencias/2026/10/06/frenkie-de-jong-vuelve-a-los-entrenamientos-grupales-dos-meses-despues/"
+        }
+      ],
+      "score": {
+        "authority": 38,
+        "confirmation": 16,
+        "recency": 15,
+        "relevance": 9,
+        "velocity": 6,
+        "editorial": 4,
+        "total": 88
+      }
+    },
+    {
+      "theme": "interview",
+      "kicker": {
+        "en": "Gabriel Jesus",
+        "es": "Gabriel Jesus"
+      },
+      "headline": {
+        "en": "Jesus says he brings a winning habit, and that he would take Raphinha for a final",
+        "es": "Jesus dice que trae una costumbre de ganar, y que elegiría a Raphinha para una final"
+      },
+      "summary": {
+        "en": "Gabriel Jesus told the club he brings directness and a winning mindset, on a day Barcelona also put him on a live question session. In Diario SPORT he called Raphinha's finishing crazy and said he would pick his compatriot to decide a Champions League final. Jesus trained with the reduced group on Monday. He has not started a competitive match since joining from Arsenal. Getafe are on Saturday.",
+        "es": "Gabriel Jesus dijo al club que aporta verticalidad y una mentalidad ganadora, el mismo día en que el Barcelona lo sentó en un turno de preguntas en directo. En Diario SPORT llamó una locura la finalización de Raphinha y dijo que elegiría a su compatriota para decidir una final de Champions. Jesus entrenó con el grupo reducido el lunes. No ha sido titular en competición desde que llegó del Arsenal. El Getafe es el sábado."
+      },
+      "body": {
+        "en": "The club headline was the shorter one: directness, and a winning mindset. SPORT's interview, signed by Dídac Peyret and J. Carné Sempere, went to the teammate. Jesus said Raphinha is on fire and that the way he finishes moves is hard to explain. Asked who he would want on the ball to settle a Champions League final, he named the captain.\n\nJesus has been at the Ciutat Esportiva through the break. He was one of seven senior players on the grass in Monday's rain, with Szczesny, Gavi, Eric Garcia, Gerard Martín, Brian Fariñas and Alejandro Balde. Tuesday's club note did not single him out. The forward arrived from Arsenal in the summer window and has been used from the bench while Raphinha has scored 14 in eight.\n\nFlick's public line on the captain last week was that he would not be rushed after the thigh edema. If that rest against Getafe happens, Jesus is the centre-forward already in the building. Hamza is back from Egypt in the same week. The club has not said who starts on Saturday.",
+        "es": "El titular del club fue el más corto: verticalidad y mentalidad ganadora. La entrevista de SPORT, firmada por Dídac Peyret y J. Carné Sempere, fue al compañero. Jesus dijo que Raphinha está on fire y que su manera de cerrar las jugadas es difícil de explicar. Preguntado por a quién querría con el balón para resolver una final de Champions, citó al capitán.\n\nJesus ha estado en la Ciutat Esportiva durante el parón. Fue uno de los siete del primer equipo que pisaron el césped el lunes con lluvia, con Szczesny, Gavi, Eric Garcia, Gerard Martín, Brian Fariñas y Alejandro Balde. La nota del club del martes no lo destacó. El delantero llegó del Arsenal en el mercado de verano y ha entrado desde el banquillo mientras Raphinha suma 14 goles en ocho partidos.\n\nLa línea pública de Flick sobre el capitán la semana pasada fue que no lo forzaría después del edema en el muslo. Si ese descanso ante el Getafe se cumple, Jesus es el delantero centro que ya está en la ciudad. Hamza vuelve de Egipto la misma semana. El club no ha dicho quién sale el sábado."
+      },
+      "tweets": [
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2107483517013942459"
+        },
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2107444099569648049"
+        }
+      ],
+      "sources": [
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4587439/gabriel-jesus-i-bring-directness-and-a-winning-mindset-to-the-team"
+        },
+        {
+          "label": "SPORT",
+          "url": "https://www.sport.es/es/noticias/barca/gabriel-jesus-raphinha-on-fire-135062919"
+        }
+      ],
+      "score": {
+        "authority": 36,
+        "confirmation": 16,
+        "recency": 14,
+        "relevance": 8,
+        "velocity": 6,
+        "editorial": 4,
+        "total": 84
+      }
+    },
+    {
+      "theme": "interview",
+      "kicker": {
+        "en": "Gordon",
+        "es": "Gordon"
+      },
+      "headline": {
+        "en": "Gordon tells Barça magazine the goals will come, and that Pedri sees the run",
+        "es": "Gordon dice en la revista Barça que los goles llegarán, y que Pedri ve la carrera"
+      },
+      "summary": {
+        "en": "Anthony Gordon spoke to the October issue of Barça magazine, picked up by Mundo Deportivo. He has five assists and named the goals as the item still missing. He said every club has taken him time before he scores regularly, and that he is convinced the goals will come. He credited Pedri with seeing runs others missed. He joined from Newcastle, born on 24 February 2001, the same day as Hansi Flick.",
+        "es": "Anthony Gordon habló para el número de octubre de la revista Barça, recogido por Mundo Deportivo. Lleva cinco asistencias y señaló los goles como la cuenta que falta. Dijo que en cada club ha necesitado tiempo antes de marcar con regularidad, y que está convencido de que llegarán. Atribuyó a Pedri ver carreras que otros no veían. Llegó del Newcastle, nacido el 24 de febrero de 2001, el mismo día que Hansi Flick."
+      },
+      "body": {
+        "en": "Mundo Deportivo's piece, updated at 16:30 CEST, took the interview out of the club magazine. Gordon said the support had surprised him. The crowd he joined had watched Messi, Luis Suárez and Ronaldinho, and he had not expected to feel that valued from the first weeks. He also said the adaptation had been straightforward because Newcastle already pressed and attacked with the team high.\n\nThe numbers in the copy are the assists. Five of them, and a pending subject he named himself: goals. He said he has not had many chances to score yet, a pattern he recognised from earlier clubs. England used him through the international window. The club's own diary of the break listed the Croatia match, with Dominik Livaković, as the last blaugrana meeting of the window.\n\nGordon is in the group Flick will have back for Getafe, then for Galatasaray away on 13 October. He has been a starter on the left in the seven-from-seven league run. Raphinha's possible rest on Saturday is the selection note sitting next to that return. SPORT's Dídac Peyret had a second line from the same conversation: Gordon named Eric Garcia and Dani Olmo as the teammates who had helped him most in settling.",
+        "es": "El texto de Mundo Deportivo, actualizado a las 16:30 CEST, sacó la entrevista de la revista del club. Gordon dijo que el apoyo le había sorprendido. La grada a la que llegó había visto a Messi, Luis Suárez y Ronaldinho, y no esperaba sentirse tan valorado desde las primeras semanas. También dijo que la adaptación había sido directa porque el Newcastle ya presionaba y atacaba con el equipo arriba.\n\nLos números del texto son las asistencias. Cinco, y una asignatura que él mismo nombró: los goles. Dijo que todavía no ha tenido muchas ocasiones para marcar, un patrón que reconoció de clubes anteriores. Inglaterra lo utilizó durante la ventana. El diario del parón que publicó el club señaló el partido ante Croacia, con Dominik Livaković, como el último cara a cara blaugrana de la ventana.\n\nGordon está en el grupo que Flick tendrá de vuelta para el Getafe y después para el Galatasaray fuera el 13 de octubre. Ha sido titular por la izquierda en la racha de siete victorias en siete jornadas. El posible descanso de Raphinha el sábado es la nota de alineación que queda al lado de ese regreso. Dídac Peyret, en SPORT, sacó otra línea de la misma conversación: Gordon citó a Eric Garcia y a Dani Olmo como los compañeros que más le habían ayudado a asentarse."
+      },
+      "tweets": [
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2107434676088402149"
+        },
+        {
+          "name": "Diario SPORT",
+          "handle": "@sport",
+          "id": "2107448286307143775"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261006/1004235314/gordon-da-claves-flechazo-barca.html"
+        },
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary"
+        },
+        {
+          "label": "SPORT",
+          "url": "https://www.sport.es/es/noticias/barca/gordon-rinde-pedri-ve-absolutamente-135055179"
+        }
+      ],
+      "score": {
+        "authority": 30,
+        "confirmation": 12,
+        "recency": 13,
+        "relevance": 8,
+        "velocity": 5,
+        "editorial": 3,
+        "total": 71
+      }
+    },
+    {
+      "theme": "femeni",
+      "kicker": {
+        "en": "Liga F",
+        "es": "Liga F"
+      },
+      "headline": {
+        "en": "Liga F names Pina player of September after four goals and three assists",
+        "es": "La Liga F nombra a Pina jugadora de septiembre tras cuatro goles y tres asistencias"
+      },
+      "summary": {
+        "en": "Clàudia Pina is Liga F player of the month for September. The club said she scored four and assisted three in three matches: a goal in the 0-4 at Sevilla, two assists in the 4-2 against Atlético, and a hat-trick in the 0-6 at Alavés. Femení posted the award at 17:08 GMT. Sunday's four in the 7-0 against Real Madrid fall in October.",
+        "es": "Clàudia Pina es la jugadora del mes de septiembre en la Liga F. El club dijo que marcó cuatro y asistió tres en tres partidos: un gol en el 0-4 en Sevilla, dos asistencias en el 4-2 ante el Atlético y un hat-trick en el 0-6 en Alavés. El Femení publicó el premio a las 17:08 GMT. Los cuatro goles del domingo en el 7-0 ante el Real Madrid, ante 40.533 en el Spotify Camp Nou, caen en octubre."
+      },
+      "body": {
+        "en": "The award covers September, so the Clásico sits outside it. Sunday's four goals at Camp Nou, with Hansen, Ewa Pajor and Sydney Schertenleib also on the scoresheet, were October. The month that Liga F voted on started at Sevilla and finished at Mendizorroza. In Vitoria she scored the 0-4 on 55 minutes, the 0-5 on 73, and the 0-6 in the 94th. Against Atlético she did not score. The two assists were a header for Brugts and a far-post finish for Hansen.\n\nFemení's posts on Tuesday evening carried the award and a second line on the month. The account asked for one word on her Clásico as well. Pere Romeu's side put Real Madrid five points back after six Liga F games. The historical Clásico count cited by El País after Sunday was 25 wins to one, with 99 goals to 12.\n\nPina told the desk after the 7-0 that the start of the season had been difficult and that the result was a statement. She also said she was more anti-Madrid than Cata Coll, a line Mundo Deportivo ran on Monday. The September prize is the competition's, separate from that night.",
+        "es": "El premio cubre septiembre, así que el Clásico queda fuera. Los cuatro goles del domingo en el Camp Nou, con Hansen, Ewa Pajor y Sydney Schertenleib también en el marcador, son de octubre. El mes que votó la Liga F empezó en Sevilla y acabó en Mendizorroza. En Vitoria marcó el 0-4 en el minuto 55, el 0-5 en el 73 y el 0-6 en el 94. Ante el Atlético no marcó. Las dos asistencias fueron un remate de cabeza de Brugts y un segundo palo de Hansen.\n\nLas publicaciones del Femení el martes por la noche llevaron el premio y una segunda línea sobre el mes. La cuenta también pidió una palabra para su Clásico. El equipo de Pere Romeu dejó al Real Madrid a cinco puntos después de seis jornadas de Liga F. El cara a cara histórico que citó El País después del domingo era de 25 victorias a una, con 99 goles por 12.\n\nPina dijo después del 7-0 que el inicio de temporada había sido difícil y que el resultado era un golpe en la mesa. También dijo que era más antimadridista que Cata Coll, una frase que Mundo Deportivo publicó el lunes. El premio de septiembre es de la competición, aparte de esa noche."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona Femení",
+          "handle": "@FCBfemeni",
+          "id": "2107518364117553351"
+        },
+        {
+          "name": "FC Barcelona Femení",
+          "handle": "@FCBfemeni",
+          "id": "2107538882057138182"
+        }
+      ],
+      "sources": [
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/football/womens-football/news/4587049/claudia-pina-liga-f-mvp-for-september"
+        },
+        {
+          "label": "Las Futbolistas",
+          "url": "https://lasfutbolistas.com/claudia-pina-mvp-septiembre-liga-f/"
+        }
+      ],
+      "score": {
+        "authority": 38,
+        "confirmation": 16,
+        "recency": 15,
+        "relevance": 9,
+        "velocity": 8,
+        "editorial": 4,
+        "total": 90
+      }
+    },
+    {
+      "theme": "club",
+      "kicker": {
+        "en": "Espai Barça",
+        "es": "Espai Barça"
+      },
+      "headline": {
+        "en": "PreZero joins Espai Barça to chase a zero-waste mark at Camp Nou",
+        "es": "PreZero entra en el Espai Barça para buscar el sello de residuo cero en el Camp Nou"
+      },
+      "summary": {
+        "en": "FC Barcelona and PreZero Iberia signed to make Spotify Camp Nou and the Ciutat Esportiva zero-waste sites. PreZero becomes Official Espai Barça Waste Management Partner. The target is the AENOR mark: more than 90 percent of waste reused, recycled or recovered. The club posted the deal at 11:30 GMT. Telefónica had joined the Espai Barça list in mid-September as broadcast integrator.",
+        "es": "El FC Barcelona y PreZero Iberia firmaron para convertir el Spotify Camp Nou y la Ciutat Esportiva en espacios de residuo cero. PreZero pasa a ser socio oficial de gestión de residuos del Espai Barça. El objetivo es el sello de AENOR: más del 90 por ciento de los residuos reutilizados, reciclados o valorizados. El club publicó el acuerdo a las 11:30 GMT. Telefónica había entrado en la lista del Espai Barça a mediados de septiembre."
+      },
+      "body": {
+        "en": "The club statement sets the work as an audit of waste flows at the stadium and at Sant Joan Despí, then a redesign of selective collection, new containers, and campaigns aimed at staff, members and supporters. Pablo Caballero, PreZero's industrial business director, said Camp Nou, already the largest stadium in Europe, should also be a reference in circular economy for the club and the city.\n\nCrónica Global's palco note placed the deal in the sponsor list. The 2025-26 report counted 13 Espai Barça sponsors, with 11 shown on the website, including the suppliers Disano, Figueras and Panasonic. Telefónica arrived in September. PreZero is the October addition. The piece did not give a fee.\n\nThe agreement is commercial and operational, not a construction update. The club has already said the full Camp Nou return is tied to the 2027-28 season. Saturday's Getafe match is at the current Spotify Camp Nou bowl. PreZero's brief is the waste stream, not the stands. The company will map what leaves the bowl on a matchday and what leaves the training ground on a normal morning, then change the bins and the pickup routes. The AENOR figure is a threshold, not a claim the club has already met.",
+        "es": "El comunicado del club fija el trabajo en una auditoría de los flujos de residuos en el estadio y en Sant Joan Despí, después un rediseño de la recogida selectiva, nuevos contenedores y campañas dirigidas a empleados, socios y aficionados. Pablo Caballero, director de negocio industrial de PreZero, dijo que el Camp Nou, ya el estadio más grande de Europa, debería ser también una referencia de economía circular para el club y para la ciudad.\n\nLa nota de palco de Crónica Global colocó el acuerdo en la lista de patrocinadores. La memoria 2025-26 contaba 13 patrocinadores del Espai Barça, con 11 visibles en la web, incluidos los proveedores Disano, Figueras y Panasonic. Telefónica llegó en septiembre. PreZero es la incorporación de octubre. El texto no dio cifra.\n\nEl acuerdo es comercial y operativo, no una actualización de obra. El club ya ha dicho que la vuelta completa al Camp Nou va ligada a la temporada 2027-28. El partido del sábado ante el Getafe es en el actual Spotify Camp Nou. El encargo de PreZero es el flujo de residuos, no el graderío. La empresa mapeará lo que sale de la grada en un día de partido y lo que sale de la ciudad deportiva en una mañana normal, y después cambiará los contenedores y las rutas de recogida. La cifra de AENOR es un umbral, no una marca que el club ya haya conseguido."
+      },
+      "tweets": [
+        {
+          "name": "FC Barcelona",
+          "handle": "@FCBarcelona",
+          "id": "2107433389292982334"
+        }
+      ],
+      "sources": [
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/club/news/4587264/prezero-to-turn-spotify-camp-nou-and-ciutat-esportiva-joan-gamper-into-zero-waste-facilities"
+        },
+        {
+          "label": "EFE",
+          "url": "https://www.infobae.com/america/agencias/2026/10/06/el-fc-barcelona-y-prezero-convertiran-el-spotify-camp-nou-y-la-ciutat-esportiva-en-espacios-residuo-cero/"
+        },
+        {
+          "label": "Crónica Global",
+          "url": "https://cronicaglobal.elespanol.com/culemania/palco/20261006/laporta-cartera-patrocinadores-espai-barca-referente-sostenible/1003742800334_0.html"
+        }
+      ],
+      "score": {
+        "authority": 36,
+        "confirmation": 18,
+        "recency": 14,
+        "relevance": 7,
+        "velocity": 5,
+        "editorial": 3,
+        "total": 83
+      }
+    },
+    {
+      "theme": "basketball",
+      "kicker": {
+        "en": "EuroLeague",
+        "es": "Euroliga"
+      },
+      "headline": {
+        "en": "Laporta pushed the EuroLeague clubs' provisional no to the NBA offer",
+        "es": "Laporta empujó el no provisional de los clubes de la Euroliga a la oferta de la NBA"
+      },
+      "summary": {
+        "en": "Sergi Solé and Fernando Polo wrote in Mundo Deportivo that Joan Laporta took an active part in the EuroLeague clubs' provisional no to the NBA's first offer. The meeting was in Como. He was photographed next to president Dejan Bodiroga. The owners' line was to keep control of the competition. El Nacional described the same outcome. Barça basketball lost 100-94 at UCAM Murcia on Sunday.",
+        "es": "Sergi Solé y Fernando Polo escribieron en Mundo Deportivo que Joan Laporta tuvo un papel activo en el no provisional de los clubes de la Euroliga a la primera oferta de la NBA. La reunión fue en Como. Apareció en la foto junto al presidente Dejan Bodiroga. La línea de los propietarios fue mantener el control de la competición. El Nacional describió el mismo desenlace. El Barça de baloncesto perdió 100-94 en el UCAM Murcia el domingo."
+      },
+      "body": {
+        "en": "The club had flagged the trip on Monday. Laporta was leading the Barcelona delegation at the meeting of the clubs that own the EuroLeague. Tuesday's desk copy, signed by Solé and Polo, is one origin: the same Mundo Deportivo piece, not two independent reports. El Nacional's later note described the same outcome, a no to the first NBA proposal and a push to accelerate the league's own changes.\n\nBodiroga is the president Laporta stood beside in the photo the paper ran. The argument in the copy is governance. The clubs wanted to keep hold of the competition rather than accept the opening American offer. No document from the meeting has been published by the club.\n\nThe basketball section is in a different week on the court. Sunday's 100-94 loss at UCAM Murcia was the first ACB defeat, closing a run of three away games. On 2 October, Aleksander Sekulić's side had won 95-82 at Besiktas in EuroLeague matchday 3. The Como meeting does not change that fixture list. Laporta's trip had been on the club site since Monday, listed under the basketball section. Tuesday's paper is the first account of how the room went. Polo and Solé share the byline, so a cluster of accounts repeating the headline would still be this one Mundo Deportivo piece.",
+        "es": "El club había anunciado el viaje el lunes. Laporta encabezaba la delegación del Barcelona en la reunión de los clubes propietarios de la Euroliga. El texto del martes, firmado por Solé y Polo, es un solo origen: la misma pieza de Mundo Deportivo, no dos informes independientes. La nota posterior de El Nacional describió el mismo desenlace, un no a la primera propuesta de la NBA y un empujón para acelerar los cambios propios de la liga.\n\nBodiroga es el presidente junto al que Laporta apareció en la foto que publicó el diario. El argumento del texto es de gobierno. Los clubes querían conservar la competición en lugar de aceptar la oferta americana de salida. El club no ha publicado ningún documento de la reunión.\n\nLa sección de baloncesto lleva otra semana en la pista. La derrota del domingo por 100-94 en el UCAM Murcia fue la primera en ACB y cerró una serie de tres partidos fuera. El 2 de octubre, el equipo de Aleksander Sekulić había ganado 95-82 en el Besiktas en la jornada 3 de la Euroliga. La reunión de Como no cambia ese calendario. El viaje de Laporta estaba en la web del club desde el lunes, en la sección de baloncesto. El diario del martes es el primer relato de cómo fue la sala. Polo y Solé firman juntos, así que un grupo de cuentas repitiendo el titular seguiría siendo esta pieza de Mundo Deportivo."
+      },
+      "tweets": [
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2107510062470328385"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/secciones/20261006/1004235463/laporta-papel-activo-no-provisional-euroliga-nba.html"
+        },
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/basketball/first-team/news/4586972/joan-laporta-to-lead-barca-delegation-at-euroleague-meeting"
+        },
+        {
+          "label": "El Nacional",
+          "url": "https://www.elnacional.cat/ca/tag/barca"
+        }
+      ],
+      "score": {
+        "authority": 34,
+        "confirmation": 14,
+        "recency": 14,
+        "relevance": 7,
+        "velocity": 6,
+        "editorial": 4,
+        "total": 79
+      }
+    },
+    {
+      "theme": "internationals",
+      "kicker": {
+        "en": "Olmo",
+        "es": "Olmo"
+      },
+      "headline": {
+        "en": "Osijek applauded Olmo, who is giving 2 percent of his wages to the town",
+        "es": "Osijek aplaudió a Olmo, que cede el 2 por ciento de su sueldo a la ciudad"
+      },
+      "summary": {
+        "en": "Mundo Deportivo filmed the reception for Dani Olmo in Croatia. The public address thanked him and the stand applauded. He has said he is giving 2 percent of his Barcelona wages to the town damaged in the war. He was with Spain against Croatia, with Dominik Livaković in the other goal. The Spain group is due back before Thursday's session. Getafe are on Saturday at 18:30.",
+        "es": "Mundo Deportivo grabó el recibimiento a Dani Olmo en Croacia. La megafonía le dio las gracias y la grada aplaudió. Ha dicho que cede el 2 por ciento de su sueldo en el Barcelona a la ciudad dañada en la guerra. Estuvo con España ante Croacia, con Dominik Livaković en la otra portería. El grupo de España debe estar de vuelta antes de la sesión del jueves. El Getafe es el sábado a las 18:30."
+      },
+      "body": {
+        "en": "The video Mundo Deportivo posted at 18:42 GMT is the picture: an ovation, and a loudspeaker line, 'thank you for everything'. The wage figure had already been in the Croatian coverage of his press conference. Two percent of his Barcelona salary, directed to the town hit during the war. He answered part of that conference in Croatian, which the Spanish desks picked up alongside the donation.\n\nOlmo's club week is the return. He was in Luis de la Fuente's squad for the Nations League fixture against Croatia, the game the club listed as the last blaugrana meeting of the break, with Livaković starting for the home side. De la Fuente had said during the window that no player would go past 270 minutes. Olmo is due back with the rest of the Spain group before Flick's fuller session on Thursday.\n\nSaturday's Getafe match is the first time the attacking group is together again at Spotify Camp Nou. Raphinha's thigh and Joan Garcia's knee are the two files still on individual work. Olmo's is a travel file, not a medical one.",
+        "es": "El vídeo que Mundo Deportivo publicó a las 18:42 GMT es la imagen: una ovación y una frase por megafonía, 'muchas gracias por todo'. La cifra del sueldo ya estaba en la cobertura croata de su rueda de prensa. El 2 por ciento del salario en el Barcelona, destinado a la ciudad golpeada durante la guerra. Contestó parte de esa rueda en croata, un detalle que las redacciones españolas recogieron junto a la donación.\n\nLa semana de club de Olmo es la vuelta. Estuvo en la convocatoria de Luis de la Fuente para el partido de Nations League ante Croacia, el que el club señaló como el último cara a cara blaugrana del parón, con Livaković de titular en la portería local. De la Fuente había dicho durante la ventana que ningún jugador pasaría de 270 minutos. Olmo debe estar de vuelta con el resto del grupo de España antes de la sesión más completa de Flick el jueves.\n\nEl partido del sábado ante el Getafe es la primera vez que el grupo ofensivo vuelve a coincidir en el Spotify Camp Nou. El muslo de Raphinha y la rodilla de Joan Garcia son los dos partes que siguen en trabajo individual. El de Olmo es un parte de viaje, no médico."
+      },
+      "tweets": [
+        {
+          "name": "Mundo Deportivo",
+          "handle": "@mundodeportivo",
+          "id": "2107541985930219752"
+        }
+      ],
+      "sources": [
+        {
+          "label": "Mundo Deportivo",
+          "url": "https://www.mundodeportivo.com/"
+        },
+        {
+          "label": "FC Barcelona",
+          "url": "https://www.fcbarcelona.com/en/football/first-team/news/4580541/fc-barcelona-international-diary"
+        }
+      ],
+      "score": {
+        "authority": 28,
+        "confirmation": 12,
+        "recency": 14,
+        "relevance": 7,
+        "velocity": 6,
+        "editorial": 3,
+        "total": 70
+      }
+    }
+  ]
+}
