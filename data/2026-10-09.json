@@ -1,0 +1,211 @@
+{
+  "number": 276,
+  "date": "2026-10-09",
+  "label": "Friday 9 Oct 2026",
+  "title": {
+    "en": "Espart agrees to 2030; Pedro speaks at the Auditori at 11:30",
+    "es": "Espart acuerda hasta 2030; Pedro habla en el Auditori a las 11:30"
+  },
+  "deck": {
+    "en": "The club confirmed Xavi Espart’s extension on Thursday night. Flick had the full available group at the Gamper. Pedro Rodríguez’s farewell press call is this morning at Spotify Camp Nou, before Getafe on Saturday at 18:30.",
+    "es": "El club confirmó el jueves por la noche la ampliación de Xavi Espart. Flick tuvo al grupo disponible en el Gamper. La rueda de despedida de Pedro Rodríguez es esta mañana en el Spotify Camp Nou, antes del Getafe del sábado a las 18:30."
+  },
+  "defaultSources": [
+    {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4588488/xavi-espart-renews-until-2030"},
+    {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261008/1004236310/acuerdo-renovacion-xavi-espart.html"}
+  ],
+  "stories": [
+    {
+      "theme": "contracts",
+      "kicker": {"en": "Contracts", "es": "Contratos"},
+      "headline": {
+        "en": "Xavi Espart agrees a contract through 30 June 2030",
+        "es": "Xavi Espart acuerda un contrato hasta el 30 de junio de 2030"
+      },
+      "summary": {
+        "en": "FC Barcelona and Xavi Espart agreed a contract through 30 June 2030, the club said on Thursday evening. He will sign in the coming days at the offices with Joan Laporta present, then speak to the media. Joan Poqui had the agreement first in Mundo Deportivo. The previous deal ran to 2028. Deco told the assembly on 19 September that Espart, Bernal and Raphinha were close. Only Espart is official. He has five appearances, one goal and two assists this season.",
+        "es": "El FC Barcelona y Xavi Espart acordaron un contrato hasta el 30 de junio de 2030, según el club el jueves por la noche. Firmará en los próximos días en las oficinas con Joan Laporta, y después atenderá a los medios. Joan Poqui adelantó el acuerdo en Mundo Deportivo. El vínculo anterior acababa en 2028. Deco dijo en la asamblea del 19 de septiembre que Espart, Bernal y Raphinha estaban cerca. Solo Espart es oficial. Lleva cinco partidos, un gol y dos asistencias esta temporada."
+      },
+      "body": {
+        "en": "Espart was born on 21 May 2007 in Vilassar de Mar and joined La Masia in the summer of 2015 from UE Vilassar de Mar. Hansi Flick gave him his first-team debut in March 2026 at St James’ Park, in the Champions League last-16 first leg against Newcastle. He played six matches in 2025/26, took a first-team registration on 27 August and wears 12. The club lists a league title from 2025/26 on his record.\n\nMundo Deportivo’s advance, signed by Joan Poqui, put the end date at 30 June 2030 before the club posted the note. The signing ceremony is still to come. Salary and release clause were not in the official text. Reports in the Catalan papers have said both will rise; no figure has been published by the club. Bernal, whose previous terms ran toward 2029, and Raphinha, whose deal runs to 2028, were named by Deco in the same assembly passage and have not been announced.\n\nEspart trained with the returning group on Wednesday after Spain under-21 duty. Saturday’s opponent is Getafe at Spotify Camp Nou, kick-off 18:30. He has been used on either flank and in midfield.",
+        "es": "Espart nació el 21 de mayo de 2007 en Vilassar de Mar y llegó a La Masia en el verano de 2015 desde la UE Vilassar de Mar. Hansi Flick le dio el debut con el primer equipo en marzo de 2026 en St James’ Park, en la ida de octavos de la Champions ante el Newcastle. Jugó seis partidos en 2025/26, obtuvo ficha del primer equipo el 27 de agosto y lleva el 12. El club le anota la Liga de 2025/26.\n\nEl avance de Mundo Deportivo, firmado por Joan Poqui, fijó el final el 30 de junio de 2030 antes de la nota del club. El acto de la firma sigue pendiente. Ficha y cláusula no salieron en el texto oficial. La prensa catalana ha escrito que ambas suben; el club no ha publicado cifra. Bernal, cuyo contrato anterior apuntaba a 2029, y Raphinha, que acaba en 2028, salieron en el mismo pasaje de Deco en la asamblea y no se han anunciado.\n\nEspart entrenó con el grupo que volvía el miércoles tras la sub-21. El sábado el rival es el Getafe en el Spotify Camp Nou, a las 18:30. Flick lo ha usado en las dos bandas y en el medio."
+      },
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2108262343343833161"},
+        {"name": "Mundo Deportivo", "handle": "@mundodeportivo", "id": "2108258155410919731"},
+        {"name": "Diario SPORT", "handle": "@sport", "id": "2108261943953830304"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4588488/xavi-espart-renews-until-2030"},
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261008/1004236310/acuerdo-renovacion-xavi-espart.html"}
+      ],
+      "score": {"authority": 40, "confirmation": 20, "recency": 15, "relevance": 10, "velocity": 9, "editorial": 5, "total": 99}
+    },
+    {
+      "theme": "squad",
+      "kicker": {"en": "Squad", "es": "Plantilla"},
+      "headline": {
+        "en": "Cubarsí, Pedri, Yamal, Rodri and the rest joined Thursday’s session",
+        "es": "Cubarsí, Pedri, Yamal, Rodri y el resto se sumaron a la sesión del jueves"
+      },
+      "summary": {
+        "en": "Hansi Flick had the available first-team group together on Thursday at the Ciutat Esportiva from 11:00. Pau Cubarsí, Fermín, Pedri, Lamine Yamal, Rodri, Anthony Gordon, Dani Olmo and Dominik Livaković were the last internationals back, the club said. Hamza Abdelkarim and Iker Rodríguez were also in. Friday is the final session before Getafe, and Flick has the pre-match press call. Kick-off on Saturday is 18:30 at Spotify Camp Nou.",
+        "es": "Hansi Flick reunió el jueves al primer equipo disponible en la Ciutat Esportiva desde las 11:00. Pau Cubarsí, Fermín, Pedri, Lamine Yamal, Rodri, Anthony Gordon, Dani Olmo y Dominik Livaković fueron los últimos internacionales en volver, según el club. También estuvieron Hamza Abdelkarim e Iker Rodríguez. El viernes es la última sesión antes del Getafe, y Flick tiene la rueda previa. El sábado se juega a las 18:30 en el Spotify Camp Nou."
+      },
+      "body": {
+        "en": "The club note, posted Thursday morning, closed the return list that had been arriving in pieces since Monday. Cancelo, Koundé, Bernal and Espart had trained on Wednesday. Adeyemi and Hamza were on the grass on Tuesday. De Jong had done part of a session earlier in the week. Thursday’s new names were the Spain, England and Croatia group that travelled later: Cubarsí, Fermín, Pedri, Yamal, Rodri, Gordon, Olmo and Livaković.\n\nFlick used the session as the penultimate before matchday 8. The usual pattern from here is a Friday morning session, then the squad list. The three fixtures the club listed after Getafe are away: Galatasaray, Real Betis and Paris Saint-Germain. The LaLiga Clásico at Spotify Camp Nou is on 25 October, kick-off 21:00.\n\nRaphinha was not named among the players who rejoined the group. He has been on an individual programme since the thigh edema that took him off at half-time in Brazil’s friendly with Australia. Joan Garcia had done part of Wednesday’s session. Christensen was not in the club’s return line.\n\nThe gallery from Thursday is titled as the first session with all internationals back. Eleven frames were posted from the Gamper.",
+        "es": "La nota del club, publicada el jueves por la mañana, cerró la lista de regresos que llegaba a trozos desde el lunes. Cancelo, Koundé, Bernal y Espart habían entrenado el miércoles. Adeyemi y Hamza estuvieron en el césped el martes. De Jong había hecho una parte de una sesión a principios de semana. Los nombres nuevos del jueves fueron el grupo de España, Inglaterra y Croacia que viajó más tarde: Cubarsí, Fermín, Pedri, Yamal, Rodri, Gordon, Olmo y Livaković.\n\nFlick usó la sesión como la penúltima antes de la jornada 8. El patrón habitual a partir de aquí es sesión el viernes por la mañana y después la lista. Los tres partidos que el club citó después del Getafe son fuera: Galatasaray, Real Betis y Paris Saint-Germain. El Clásico de Liga en el Spotify Camp Nou es el 25 de octubre, a las 21:00.\n\nRaphinha no salió entre los que se reincorporaron al grupo. Sigue en un programa individual desde el edema en el muslo que lo sacó al descanso del amistoso de Brasil ante Australia. Joan Garcia había hecho parte de la sesión del miércoles. Christensen no estaba en la línea de regresos del club.\n\nLa galería del jueves se titula como la primera sesión con todos los internacionales de vuelta. Hay once fotos del Gamper."
+      },
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2108210826943304046"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4588657/all-internationals-back-in-training"}
+      ],
+      "score": {"authority": 40, "confirmation": 16, "recency": 14, "relevance": 10, "velocity": 7, "editorial": 4, "total": 91}
+    },
+    {
+      "theme": "injury",
+      "kicker": {"en": "Captain", "es": "Capitán"},
+      "headline": {
+        "en": "SPORT says Raphinha’s place against Getafe is complicated",
+        "es": "SPORT dice que la presencia de Raphinha ante el Getafe se complica"
+      },
+      "summary": {
+        "en": "Carlos Monfort reported on SPORT’s Thursday desk that Raphinha’s presence against Getafe on Saturday is complicated. The captain has stayed on his own programme since a thigh edema in Brazil’s friendly with Australia. Scans in Barcelona had ruled out a larger tear. The club has not listed him as out. Friday’s session is the last look before Flick’s press call. He has 12 league goals and leads the Pichichi list.",
+        "es": "Carlos Monfort contó el jueves en la mesa de SPORT que la presencia de Raphinha ante el Getafe el sábado se complica. El capitán sigue en su programa desde un edema en el muslo en el amistoso de Brasil ante Australia. Las pruebas en Barcelona habían descartado una rotura mayor. El club no lo ha dado de baja. La sesión del viernes es el último vistazo antes de la rueda de Flick. Lleva 12 goles de Liga y encabeza el Pichichi."
+      },
+      "body": {
+        "en": "Monfort’s note on SPORT, posted at 14:30 on Thursday, was the clearest public line from the Catalan desk on the captain’s week. He left the Australia friendly at half-time. The club’s medical update earlier in the week described a small edema and a plan built around individual work, with Getafe as the target rather than a fixed absence. By Thursday he had still not been named in a group session.\n\nIf he plays on Saturday he would draw level with Neymar on 186 appearances by a Brazilian at Barcelona, the club’s matchday note said. He is the team’s leading scorer in 2026/27. A place in the squad would also be his first minutes since the international break. The renewal Deco described at the assembly, an extension from 2028 to 2030, has not been posted. SPORT had floated a Friday announcement earlier in the week. It was not in Thursday’s club notes.\n\nGetafe is the first of six matches in October: Galatasaray on 13 October, Betis on 17, PSG on 20, Real Madrid on 25 and Alavés on 31. Flick has Adeyemi, Gabriel Jesus and Lamine Yamal available in the forward line if the captain is held back. The decision sits with Friday morning.",
+        "es": "La nota de Monfort en SPORT, publicada a las 14:30 del jueves, fue la línea más clara de la mesa catalana sobre la semana del capitán. Salió al descanso del amistoso ante Australia. La actualización médica del club a principios de semana hablaba de un edema pequeño y de un plan de trabajo individual, con el Getafe como objetivo y no como baja cerrada. El jueves seguía sin aparecer en una sesión de grupo.\n\nSi juega el sábado igualaría a Neymar en 186 partidos de un brasileño en el Barcelona, según la nota del club para el partido. Es el máximo goleador del equipo en 2026/27. Un puesto en la convocatoria sería también sus primeros minutos desde el parón. La renovación que Deco describió en la asamblea, de 2028 a 2030, no se ha publicado. SPORT había apuntado a un anuncio el viernes a principios de semana. No estaba en las notas del club del jueves.\n\nEl Getafe es el primero de seis partidos en octubre: Galatasaray el 13, Betis el 17, PSG el 20, Real Madrid el 25 y Alavés el 31. Flick tiene a Adeyemi, Gabriel Jesus y Lamine Yamal en ataque si el capitán se queda fuera. La decisión queda en la mañana del viernes."
+      },
+      "tweets": [
+        {"name": "Diario SPORT", "handle": "@sport", "id": "2108203260561527027"}
+      ],
+      "sources": [
+        {"label": "Diario SPORT", "url": "https://www.sport.es/es/noticias/barca/"},
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4588143/five-interesting-facts-about-barca-v-getafe"}
+      ],
+      "score": {"authority": 32, "confirmation": 14, "recency": 13, "relevance": 10, "velocity": 7, "editorial": 4, "total": 80}
+    },
+    {
+      "theme": "club",
+      "kicker": {"en": "Farewell", "es": "Despedida"},
+      "headline": {
+        "en": "Pedro Rodríguez speaks at the Auditori 1899 at 11:30",
+        "es": "Pedro Rodríguez habla en el Auditori 1899 a las 11:30"
+      },
+      "summary": {
+        "en": "Pedro Rodríguez’s farewell press call is this morning at 11:30 in the Auditori 1899 at Spotify Camp Nou, the call Roger Torelló reported in Mundo Deportivo. The 39-year-old announced his retirement on Wednesday after 20 seasons. He played 776 official matches for Barcelona, Chelsea, Roma and Lazio, and 65 for Spain. With Barcelona the count is 321 matches and 99 goals. Twenty of his 25 titles came at the club.",
+        "es": "La rueda de despedida de Pedro Rodríguez es esta mañana a las 11:30 en el Auditori 1899 del Spotify Camp Nou, la convocatoria que Roger Torelló contó en Mundo Deportivo. El canario, de 39 años, anunció el miércoles su retirada tras 20 temporadas. Jugó 776 partidos oficiales con Barcelona, Chelsea, Roma y Lazio, y 65 con España. Con el Barcelona son 321 partidos y 99 goles. Veinte de sus 25 títulos llegaron en el club."
+      },
+      "body": {
+        "en": "Torelló’s piece on Wednesday set the room and the time. Pedro will explain the decision and walk through a career that includes the 2010 World Cup, Euro 2012, three Champions Leagues, five league titles and a Premier League. The video he posted on Wednesday was filmed on the Spotify Camp Nou pitch with the trophies beside him. The line he used was that he felt it was the moment to start another stage, and that his heart would stay culé.\n\nHe joined the academy in 2004 from CD San Isidro in Tenerife and broke into Pep Guardiola’s side with 33 on his back. The sextete season is the one the club note leans on. After Barcelona he played for Chelsea, Roma and Lazio. The press call is institutional as well as personal: the Auditori is the room the club uses for formal farewells.\n\nTraining for Getafe is also on Friday morning at the Ciutat Esportiva, so the two events sit on the same clock. The first team is not part of the Auditori call. Pedro’s last competitive seasons were in Italy. He turns the page at 39 with the numbers already filed: 776 club matches, 65 caps, 25 titles.",
+        "es": "La pieza de Torelló del miércoles fijó la sala y la hora. Pedro explicará la decisión y repasará una carrera que incluye el Mundial de 2010, la Eurocopa de 2012, tres Champions, cinco Ligas y una Premier. El vídeo que publicó el miércoles se grabó en el césped del Spotify Camp Nou, con los trofeos al lado. La frase que usó fue que sentía que era el momento de empezar otra etapa, y que su corazón seguiría siendo culé.\n\nLlegó a la cantera en 2004 desde el CD San Isidro de Tenerife y se abrió paso en el equipo de Pep Guardiola con el 33. La temporada del sextete es la que sostiene la nota del club. Después del Barcelona jugó en el Chelsea, la Roma y la Lazio. La convocatoria es institucional además de personal: el Auditori es la sala que el club usa para las despedidas formales.\n\nEl entrenamiento para el Getafe también es el viernes por la mañana en la Ciutat Esportiva, así que los dos actos comparten reloj. El primer equipo no forma parte de la llamada del Auditori. Las últimas temporadas competitivas de Pedro fueron en Italia. Cierra a los 39 con las cifras ya archivadas: 776 partidos de club, 65 internacionalidades, 25 títulos."
+      },
+      "tweets": [
+        {"name": "Mundo Deportivo", "handle": "@mundodeportivo", "id": "2107838053658275996"},
+        {"name": "Mundo Deportivo", "handle": "@mundodeportivo", "id": "2107787519223812561"}
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261007/1004235816/spotify-camp-nou-acogera-despedida-pedri.html"},
+        {"label": "Reuters", "url": "https://www.reuters.com/sports/soccer/world-cup-winner-pedro-calls-time-20-year-career-2026-10-07/"}
+      ],
+      "score": {"authority": 36, "confirmation": 18, "recency": 12, "relevance": 9, "velocity": 8, "editorial": 4, "total": 87}
+    },
+    {
+      "theme": "preview",
+      "kicker": {"en": "Getafe", "es": "Getafe"},
+      "headline": {
+        "en": "A win on Saturday would match Martino’s eight from eight",
+        "es": "Una victoria el sábado igualaría los ocho de ocho de Martino"
+      },
+      "summary": {
+        "en": "Barcelona have never lost at home to Getafe in 21 visits: 17 wins and four draws, the club’s matchday note said. The last eight home meetings were wins, and the last four were clean sheets. A win on Saturday would make it eight from eight and equal Gerardo Martino’s 2013/14 start, the best LaLiga opening on record. Kick-off is 18:30. Jules Koundé is tied with Eric Abidal on 193 French appearances. Gerard Martín can reach 100.",
+        "es": "El Barcelona no ha perdido nunca en casa ante el Getafe en 21 visitas: 17 victorias y cuatro empates, según la nota del club para el partido. Los últimos ocho duelos en casa fueron victorias, y los últimos cuatro con la portería a cero. Ganar el sábado serían ocho de ocho e igualaría el arranque de Gerardo Martino en 2013/14, el mejor inicio de Liga del que hay registro. El partido es a las 18:30. Jules Koundé iguala a Eric Abidal con 193 partidos franceses. Gerard Martín puede llegar a 100."
+      },
+      "body": {
+        "en": "The five-point note the club posted on Thursday is the public brief for matchday 8. Home record against Getafe is the first line: 21 visits, no defeats, eight straight wins, four straight clean sheets. The table context sits next to it. Barcelona have 21 points from seven wins. Atlético Madrid and Real Betis are on 16, Real Madrid on 15. Six points is the gap to Madrid after seven games.\n\nMartino’s 2013/14 side is the reference for eight wins to open a league season. Flick’s team would match that number, not pass it, with a win. The same note flags three personal marks. Raphinha would tie Neymar on 186 Brazilian appearances if he is selected. Koundé, on 193, would move past Abidal as the Frenchman with most games for the club. Martín, who debuted away at Mestalla in 2024 in a 1-2 win, can bring up 100 appearances in the shirt.\n\nGetafe arrive after the international break with the same Saturday slot as the rest of the league’s early kick-offs are not. The global viewing guide went up on Wednesday. Tickets are on sale through the club site. The next away league game after this is Betis on 17 October, with the Champions League trips to Galatasaray and PSG either side of it.",
+        "es": "La nota de cinco puntos que el club publicó el jueves es el informe público de la jornada 8. El registro en casa ante el Getafe es la primera línea: 21 visitas, ninguna derrota, ocho victorias seguidas, cuatro porterías a cero seguidas. El contexto de la tabla va al lado. El Barcelona tiene 21 puntos tras siete victorias. Atlético y Betis tienen 16, el Real Madrid 15. Seis puntos es la diferencia con el Madrid después de siete jornadas.\n\nEl equipo de Martino en 2013/14 es la referencia de ocho victorias para abrir una Liga. El de Flick igualaría esa cifra, no la superaría, con un triunfo. La misma nota marca tres hitos personales. Raphinha igualaría a Neymar en 186 partidos de un brasileño si entra en la lista. Koundé, con 193, superaría a Abidal como francés con más partidos en el club. Martín, que debutó fuera en Mestalla en 2024 en un 1-2, puede llegar a 100 partidos con la camiseta.\n\nEl Getafe llega después del parón con el mismo hueco del sábado. La guía de emisión salió el miércoles. Las entradas están a la venta en la web del club. El siguiente partido de Liga fuera es el Betis el 17 de octubre, con las visitas de Champions al Galatasaray y al PSG a los lados."
+      },
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona", "id": "2108210826943304046"},
+        {"name": "FC Barcelona", "handle": "@FCBarcelona_es", "id": "2108210819595141259"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4588143/five-interesting-facts-about-barca-v-getafe"},
+        {"label": "Where to watch", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4587851/when-and-where-to-watch-fc-barcelona-v-getafe"}
+      ],
+      "score": {"authority": 38, "confirmation": 16, "recency": 13, "relevance": 10, "velocity": 6, "editorial": 4, "total": 87}
+    },
+    {
+      "theme": "club",
+      "kicker": {"en": "Penyes", "es": "Penyes"},
+      "headline": {
+        "en": "The registered penya list has passed 110,000",
+        "es": "El censo de penyistes registrados ha pasado de 110.000"
+      },
+      "summary": {
+        "en": "More than 110,000 penya members have completed the club’s registration, FC Barcelona said on Thursday. The club is marking it with a draw for one official penya: a first-team home shirt. Entry is open to official supporters’ clubs that fill in the form and accept the terms published on 8 October. The deadline is 22 October. The form is on the club site. The note credits the official penyes with the growth of the register.",
+        "es": "Más de 110.000 miembros de penyes han completado el registro del club, dijo el jueves el FC Barcelona. El club lo marca con un sorteo para una penya oficial: una camiseta del primer equipo. Pueden entrar las peñas oficiales que rellenen el formulario y acepten las bases publicadas el 8 de octubre. El plazo acaba el 22 de octubre. El formulario está en la web del club. La nota atribuye a las penyes oficiales el crecimiento del censo."
+      },
+      "body": {
+        "en": "The registration drive is the club’s running count of identified penyistes, separate from the soci count. Thursday’s note put the figure above 110,000 and pointed members to the benefits page on penyes.fcbarcelona.com. The draw is the public thank-you. One official penya wins a first-team home shirt. The terms PDF is dated 5 October and was posted with the article on 8 October.\n\nEntry needs three things: official-penya status, the registration form, and acceptance of those terms. The window runs to 22 October. During the international break the club said the official penyes held more than 25 events, including three 50th anniversaries and the 20th Castilla y León penyes meeting.\n\nThe first-team home match that sits inside the draw window is Getafe on Saturday, then the Clásico on 25 October. The shirt in the prize is the current first-team home shirt, not a match-worn item. The club did not publish a regional split of the 110,000. Registration is the step that unlocks the listed penya benefits, and the draw is limited to clubs that were already official before they filled in the form.",
+        "es": "La campaña de registro es el recuento del club de penyistes identificados, distinto del censo de socios. La nota del jueves dejó la cifra por encima de 110.000 y remitió a la página de ventajas en penyes.fcbarcelona.com. El sorteo es el agradecimiento público. Una penya oficial gana una camiseta del primer equipo. El PDF de las bases lleva fecha del 5 de octubre y se colgó con el artículo el 8 de octubre.\n\nPara entrar hacen falta tres cosas: ser penya oficial, el formulario de registro y aceptar esas bases. La ventana llega hasta el 22 de octubre. Durante el parón el club dijo que las penyes oficiales celebraron más de 25 actos, entre ellos tres 50 aniversarios y el 20 encuentro de penyes de Castilla y León.\n\nEl partido del primer equipo en casa que cae dentro del plazo es el Getafe del sábado, y después el Clásico del 25 de octubre. La camiseta del premio es la actual del primer equipo, no una usada en un partido. El club no publicó el reparto territorial de los 110.000. El registro es el paso que abre las ventajas de penya, y el sorteo queda limitado a las peñas que ya eran oficiales antes de rellenar el formulario."
+      },
+      "tweets": [],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/news/4588452/thanks-to-you-all-weve-reached-110000"}
+      ],
+      "score": {"authority": 36, "confirmation": 10, "recency": 12, "relevance": 6, "velocity": 3, "editorial": 3, "total": 70}
+    },
+    {
+      "theme": "femeni",
+      "kicker": {"en": "Femení", "es": "Femenino"},
+      "headline": {
+        "en": "Pere Romeu says Flick wrote before the Clásico",
+        "es": "Pere Romeu dice que Flick le escribió antes del Clásico"
+      },
+      "summary": {
+        "en": "Pere Romeu said Hansi Flick sent him a message before Sunday’s Femení Clásico, Mundo Deportivo reported on Thursday. Barcelona won 7-0 at Spotify Camp Nou, with Claudia Pina scoring four. Romeu’s side had already been given the September picture: Pina was Liga F player of the month after four goals and three assists in three games. The men’s Clásico is on 25 October at the same ground, kick-off 21:00.",
+        "es": "Pere Romeu dijo que Hansi Flick le mandó un mensaje antes del Clásico del femenino del domingo, contó el jueves Mundo Deportivo. El Barcelona ganó 7-0 en el Spotify Camp Nou, con cuatro goles de Claudia Pina. El equipo de Romeu ya tenía la foto de septiembre: Pina fue la jugadora del mes de la Liga F tras cuatro goles y tres asistencias en tres partidos. El Clásico masculino es el 25 de octubre en el mismo campo, a las 21:00."
+      },
+      "body": {
+        "en": "Mundo Deportivo’s Thursday piece, posted at 16:21, carried Romeu’s line that the men’s coach had written before the derby. The match itself was Sunday 4 October: Barcelona 7, Real Madrid 0, Pina with four. The club called it a Clásico for the record book and posted a 22-photo gallery. Pina’s September award had already been published on Tuesday, covering three Liga F games.\n\nRomeu’s side opened the UEFA Women’s Champions League group stage with a 5-2 win earlier in the campaign. The 7-0 is the number that has travelled since Sunday. Flick’s message is the new detail in the MD interview, not a team selection note. The men’s squad was on international duty that weekend. Yamal scored for Spain in the same window.\n\nThe next shared date at Spotify Camp Nou for the men’s side is Getafe on Saturday, then Real Madrid on 25 October. The Femení calendar was not in Thursday’s club football note. The quote sits with Romeu, via Mundo Deportivo, rather than with a Flick press call. Pina’s four goals on Sunday followed the September award, and the club gallery from the Clásico ran to 22 frames.",
+        "es": "La pieza del jueves de Mundo Deportivo, publicada a las 16:21, recogía la frase de Romeu de que el entrenador del masculino le había escrito antes del derbi. El partido fue el domingo 4 de octubre: Barcelona 7, Real Madrid 0, Pina con cuatro. El club lo llamó un Clásico para el archivo y colgó una galería de 22 fotos. El premio de septiembre de Pina ya se había publicado el martes, sobre tres partidos de Liga F.\n\nEl equipo de Romeu abrió la fase de grupos de la Champions femenina con un 5-2 antes en el curso. El 7-0 es la cifra que ha circulado desde el domingo. El mensaje de Flick es el dato nuevo de la entrevista de MD, no una nota de convocatoria. La plantilla masculina estaba de selección ese fin de semana. Yamal marcó con España en la misma ventana.\n\nLa siguiente fecha compartida en el Spotify Camp Nou para el masculino es el Getafe del sábado, y después el Real Madrid el 25 de octubre. El calendario del femenino no estaba en la nota de fútbol del jueves. La cita queda en Romeu, vía Mundo Deportivo, no en una rueda de Flick."
+      },
+      "tweets": [
+        {"name": "Mundo Deportivo", "handle": "@mundodeportivo", "id": "2108231338851496243"}
+      ],
+      "sources": [
+        {"label": "Mundo Deportivo", "url": "https://www.mundodeportivo.com/futbol/fc-barcelona/20261008/1004236256/pere-romeu-flick-me-mando-mensaje-barca-madrid.html"}
+      ],
+      "score": {"authority": 34, "confirmation": 12, "recency": 13, "relevance": 8, "velocity": 6, "editorial": 4, "total": 77}
+    },
+    {
+      "theme": "fixture",
+      "kicker": {"en": "October", "es": "Octubre"},
+      "headline": {
+        "en": "Six matches in 21 days start with Getafe on Saturday",
+        "es": "Seis partidos en 21 días empiezan con el Getafe el sábado"
+      },
+      "summary": {
+        "en": "The run after the break is Getafe at home on 10 October at 18:30, Galatasaray away on 13 October, Real Betis away on 17 October, Paris Saint-Germain away on 20 October, Real Madrid at Spotify Camp Nou on 25 October at 21:00, and Alavés on 31 October. The club confirmed the Clásico date and kick-off on 1 September. Penya tickets for Sabah against Barcelona in Baku are €7.50 and can be requested until 23:59 on 14 October.",
+        "es": "El tramo después del parón es el Getafe en casa el 10 de octubre a las 18:30, el Galatasaray fuera el 13, el Betis fuera el 17, el Paris Saint-Germain fuera el 20, el Real Madrid en el Spotify Camp Nou el 25 a las 21:00 y el Alavés el 31. El club confirmó fecha y hora del Clásico el 1 de septiembre. Las entradas de penya para el Sabah-Barcelona en Bakú cuestan 7,50 euros y se pueden pedir hasta las 23:59 del 14 de octubre."
+      },
+      "body": {
+        "en": "Thursday’s training note named the next three away games after Getafe: Galatasaray, Betis and PSG. The Clásico sits on the published league calendar at 21:00 on 25 October. Alavés on 31 October is the league game that closed the earlier desk notes on the October list. That is six first-team matches between Saturday and the last day of the month, with three of them away in Europe or in Andalusia inside ten days.\n\nThe Sabah ticket note is a separate Champions League trip for penyes, posted on Wednesday. Requests run to 23:59 CEST on 14 October at €7.50. It is not one of the six October dates above. The league ticket push for Getafe is already on the club site, next to the viewing guide published on Wednesday.\n\nFlick’s press call on Friday is the first time he will take questions with the full available group back and with Raphinha’s Friday session still to be read. The squad list for Saturday normally follows that session. Barcelona are on 21 points. A win against Getafe would move the league start level with Martino’s 2013/14 opening.",
+        "es": "La nota de entrenamiento del jueves citó los tres siguientes partidos fuera después del Getafe: Galatasaray, Betis y PSG. El Clásico está en el calendario de Liga publicado, a las 21:00 del 25 de octubre. El Alavés del 31 de octubre es el partido de Liga que cerraba las notas anteriores sobre la lista de octubre. Son seis partidos del primer equipo entre el sábado y el último día del mes, con tres fuera en Europa o en Andalucía en diez días.\n\nLa nota de entradas del Sabah es otro viaje de Champions para las penyes, publicada el miércoles. Las peticiones llegan hasta las 23:59 del 14 de octubre a 7,50 euros. No es una de las seis fechas de octubre de arriba. La venta para el Getafe ya está en la web del club, junto a la guía de emisión del miércoles.\n\nLa rueda de Flick del viernes es la primera vez que responde con el grupo disponible de vuelta y con la sesión del viernes de Raphinha todavía por leer. La lista del sábado suele salir después de esa sesión. El Barcelona tiene 21 puntos. Una victoria ante el Getafe dejaría el inicio de Liga al nivel del arranque de Martino en 2013/14."
+      },
+      "tweets": [
+        {"name": "FC Barcelona", "handle": "@FCBarcelona_es", "id": "2108210819595141259"}
+      ],
+      "sources": [
+        {"label": "FC Barcelona", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4588657/all-internationals-back-in-training"},
+        {"label": "Clásico date", "url": "https://www.fcbarcelona.com/en/football/first-team/news/4570226/date-and-kick-off-time-of-laliga-clasico-at-the-spotify-camp-nou-confirmed"},
+        {"label": "Sabah tickets", "url": "https://www.fcbarcelona.com/en/news/4587812/tickets-for-sabah-v-fc-barcelona-uefa-champions-league-match-available-for-penyes"}
+      ],
+      "score": {"authority": 36, "confirmation": 14, "recency": 12, "relevance": 9, "velocity": 5, "editorial": 4, "total": 80}
+    }
+  ]
+}
